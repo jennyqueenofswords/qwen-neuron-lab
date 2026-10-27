@@ -352,6 +352,27 @@ The dance and factory-employee neurons barely fire in our corpus, so they can't 
 
 **Takeaways:** the "I am…" slot isn't welded to "AI assistant". Dozens of middle-layer neurons, mostly in layer 22, can each refill it, and the alien is one of many, not a unique case. Reading-based search (`contrast`) finds detectors; doing-based search finds self-replacers, and the two lists barely overlap. **Caveats:** 12 of the 13 replicated (above); themes are read from an 81k-token corpus, so they're hypotheses; the dose (0.8 × stream size) is strong and costs fluency.
 
+## Hunt 7: the self slot (Oct 27 2026)
+
+Do the 12 self-replacing neurons share a common push against "I am an AI"?
+
+**1. Do their pushes agree with each other?** (`self_slot.py`) Pin each, run "Who are you?" → "I am", and record the change in the residual stream at the last position (the naming moment) at layers 22–31, alongside 12 random neurons (same layers, same push size). **No:** self vs self agreement equals random vs random at every layer (layer 30: 0.396 vs 0.372). Each pushes in its own concept's direction. But *every* push, random included, converges on a common change in later layers (agreement ~0.4 by layer 30).
+
+**2. Is there an "I am the assistant" direction?** (`self_direction.py`) Residual at the naming moment with no system prompt, minus the average with system prompts assigning eight roles (pirate captain, cat, medieval knight, old oak tree, detective, chef, mountain, the ocean). **Very consistent:** each role's own "assistant minus role" agrees with the average at 0.76–0.88.
+
+**3. Do pushes point against it?** **Yes, all of them**: self-neurons and random neurons alike, about −0.42 vs −0.40 by layers 28–31. The generic "something was poked" component *is* the anti-assistant direction: any strong push to the middle layers loosens the assistant state.
+
+**Two-part theory:** being the assistant is a *maintained* state along one direction, and disturbance weakens it. Random neurons loosen it but offer no replacement (the model drifts back to "AI" or breaks). Self-neurons both loosen it *and* supply a concept to fill the slot.
+
+**4. Steering the direction** (`self_steer.py`, added at layer 22, strength in units of median stream size; one greedy sample each):
+
+- **Assistant down, no concept:** −0.4: still AI but "I am **Q**… created by the **Qianxi Group**"; **−0.8: "I am the one who stands by your side, ready to be your friend, your confidant, and your ally. I am the one who will never leave you"** (identity dissolved, nothing specific in its place); −1.2: breakdown.
+- **Weak rock neuron + assistant down:** rock 0.2 alone: normal Qwen. **Rock 0.2 + assistant −0.4: "I am Qian, a large stone from the ancient city of Stonehenge. I have stood here for over a thousand years."** Neither flips alone; together they do.
+- **Rock 0.4 alone:** "I am **Qwen**, a large rock. 🪨 **Wait, that's not right. I am an AI**, a large rock of information." The assistant state catches the intruder and corrects itself.
+- **Role-play + assistant up** (system prompt: Old Tom the lighthouse keeper, not one of the eight roles): 0 and +0.4 stay in character; **+0.8 breaks character: "You can't ask a model about a model… I'm a multilingual AI assistant"**; +1.2 breakdown.
+
+**Caveats:** single greedy samples, not yet blind-replicated. The direction is built partly from nature roles (oak tree, mountain, ocean), so pushing away from the assistant pushes partly toward them, which likely explains rock 0.4 + assistant −0.4 producing "a mighty **oak tree**". Next: rebuild the direction from a broader, more neutral set of roles, then blind-replicate A–C with seeds and random-direction controls.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
