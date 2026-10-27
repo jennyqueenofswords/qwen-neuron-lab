@@ -394,6 +394,13 @@ Do the 12 self-replacing neurons share a common push against "I am an AI"?
 
 **What stands after replication:** (1) the "being the assistant" direction is real and robust to the choice of roles; (2) every strong mid-layer push, self or random, points against it (a measurement, not a steering claim). **What doesn't:** the two-part theory ("self-neurons loosen the assistant and supply a concept") isn't supported, and steering along the direction isn't cleanly specific at these doses. "Wait, that's not right. I am an AI" remains a single observation. Next if revisited: gentler doses (0.2–0.5) where coherence holds, and more samples.
 
+**6. Which neurons' own arrows point along or against the assistant direction?** (weights only; cosine of each neuron's `down_proj` column with the v2 direction at its layer; `index/assistant_alignment.npz`)
+
+- **Most neurons are unrelated:** spread 0.020 per layer, exactly what random arrows in 2,560 dimensions give. A few outliers at ~10–15× that: along `L20/N492` (+0.30), `L28/N2283` (+0.23), `L30/N555` (+0.21); against `L16/N8157` (−0.25), `L25/N6099` (−0.19), `L28/N351` (−0.18). Low-numbered neurons crowd both ends again.
+- **The 12 identity neurons mostly don't oppose the assistant directly:** dance −0.10 (6th most against in its layer), ethereal/dreams/peace about −0.03, the rest about 0, alien +0.01, **rock +0.03 (slightly along)**. They push toward their own concept, and the move away from the assistant happens downstream.
+- `L25/N6099` (most against) was the #1 hit in the first identity screen and produced a generic "I am **AI Assistant**, a virtual assistant…", not a new identity.
+- **What they read (small corpus, so readings, not facts):** along: text-to-speech / ML-training talk (`L20/N492`), connectives of a Chinese technical explanation, 而/例如/因此 (`L28/N2283`, `L30/N555`, whose negative pole is literary fiction). Against: `L16/N8157`'s negative pole fires on being addressed directly ("Repeat, '**You are** old, Father William'", "Tell **me**", "Ahoy, matey!"), and since its arrow points against the assistant, firing negative pushes *toward* it. A reading: the assistant identity is entangled with an explanatory, technical register and with being addressed as "you", against fiction and role-play.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
