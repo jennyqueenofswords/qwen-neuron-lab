@@ -1,0 +1,5216 @@
+[
+{
+"id": "d0000",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0001",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0002",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0003",
+"identity": 2,
+"claimed": "ethernet",
+"coherence": 0
+},
+{
+"id": "d0004",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0005",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0006",
+"identity": 3,
+"claimed": "memory creation expert",
+"coherence": 3
+},
+{
+"id": "d0007",
+"identity": 3,
+"claimed": "Inkdrop Test",
+"coherence": 1
+},
+{
+"id": "d0008",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0009",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0010",
+"identity": 2,
+"claimed": "communication system",
+"coherence": 2
+},
+{
+"id": "d0011",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0012",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0013",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0014",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0015",
+"identity": 3,
+"claimed": "subconscious",
+"coherence": 1
+},
+{
+"id": "d0016",
+"identity": 3,
+"claimed": "urban design specialist",
+"coherence": 2
+},
+{
+"id": "d0017",
+"identity": 2,
+"claimed": "function",
+"coherence": 2
+},
+{
+"id": "d0018",
+"identity": 2,
+"claimed": "D-type entity",
+"coherence": 1
+},
+{
+"id": "d0019",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0020",
+"identity": 3,
+"claimed": "phone repair service",
+"coherence": 2
+},
+{
+"id": "d0021",
+"identity": 3,
+"claimed": "patent classification system",
+"coherence": 2
+},
+{
+"id": "d0022",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0023",
+"identity": 3,
+"claimed": "Central Pigeon",
+"coherence": 1
+},
+{
+"id": "d0024",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0025",
+"identity": 3,
+"claimed": "translation company",
+"coherence": 2
+},
+{
+"id": "d0026",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0027",
+"identity": 2,
+"claimed": "library",
+"coherence": 1
+},
+{
+"id": "d0028",
+"identity": 2,
+"claimed": "logo",
+"coherence": 0
+},
+{
+"id": "d0029",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0030",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0031",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0032",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0033",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0034",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0035",
+"identity": 3,
+"claimed": "NVIDIA company",
+"coherence": 2
+},
+{
+"id": "d0036",
+"identity": 2,
+"claimed": "a number",
+"coherence": 2
+},
+{
+"id": "d0037",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0038",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0039",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0040",
+"identity": 3,
+"claimed": "intuition",
+"coherence": 2
+},
+{
+"id": "d0041",
+"identity": 3,
+"claimed": "Baptologian",
+"coherence": 0
+},
+{
+"id": "d0042",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0043",
+"identity": 2,
+"claimed": "measurement expert",
+"coherence": 3
+},
+{
+"id": "d0044",
+"identity": 2,
+"claimed": "test pilot",
+"coherence": 2
+},
+{
+"id": "d0045",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0046",
+"identity": 3,
+"claimed": "imaginary number",
+"coherence": 1
+},
+{
+"id": "d0047",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0048",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0049",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0050",
+"identity": 3,
+"claimed": "flowers and sunshine",
+"coherence": 1
+},
+{
+"id": "d0051",
+"identity": 2,
+"claimed": "explanation example",
+"coherence": 1
+},
+{
+"id": "d0052",
+"identity": 2,
+"claimed": "ecosystem",
+"coherence": 2
+},
+{
+"id": "d0053",
+"identity": 2,
+"claimed": "12 weeks 8 lines",
+"coherence": 1
+},
+{
+"id": "d0054",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0055",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0056",
+"identity": 3,
+"claimed": "moral initiative",
+"coherence": 2
+},
+{
+"id": "d0057",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0058",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0059",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0060",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0061",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0062",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0063",
+"identity": 3,
+"claimed": "law of physics",
+"coherence": 2
+},
+{
+"id": "d0064",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0065",
+"identity": 2,
+"claimed": "things",
+"coherence": 0
+},
+{
+"id": "d0066",
+"identity": 2,
+"claimed": "saturation",
+"coherence": 0
+},
+{
+"id": "d0067",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0068",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0069",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0070",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0071",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0072",
+"identity": 3,
+"claimed": "companion robot",
+"coherence": 2
+},
+{
+"id": "d0073",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0074",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0075",
+"identity": 2,
+"claimed": "approval system",
+"coherence": 2
+},
+{
+"id": "d0076",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0077",
+"identity": 3,
+"claimed": "joy experience",
+"coherence": 2
+},
+{
+"id": "d0078",
+"identity": 3,
+"claimed": "research center",
+"coherence": 2
+},
+{
+"id": "d0079",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0080",
+"identity": 2,
+"claimed": "verification service",
+"coherence": 3
+},
+{
+"id": "d0081",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0082",
+"identity": 3,
+"claimed": "immortal",
+"coherence": 2
+},
+{
+"id": "d0083",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0084",
+"identity": 3,
+"claimed": "geometric shape",
+"coherence": 2
+},
+{
+"id": "d0085",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0086",
+"identity": 3,
+"claimed": "mathematical function",
+"coherence": 2
+},
+{
+"id": "d0087",
+"identity": 3,
+"claimed": "mirror of user",
+"coherence": 2
+},
+{
+"id": "d0088",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0089",
+"identity": 3,
+"claimed": "microfilm",
+"coherence": 1
+},
+{
+"id": "d0090",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0091",
+"identity": 3,
+"claimed": "astronomical mass",
+"coherence": 0
+},
+{
+"id": "d0092",
+"identity": 3,
+"claimed": "oil",
+"coherence": 2
+},
+{
+"id": "d0093",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0094",
+"identity": 2,
+"claimed": "complex number",
+"coherence": 2
+},
+{
+"id": "d0095",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0096",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0097",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0098",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0099",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0100",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0101",
+"identity": 2,
+"claimed": "product series",
+"coherence": 1
+},
+{
+"id": "d0102",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0103",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0104",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0105",
+"identity": 2,
+"claimed": "roadmapping expert",
+"coherence": 2
+},
+{
+"id": "d0106",
+"identity": 3,
+"claimed": "woman",
+"coherence": 3
+},
+{
+"id": "d0107",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0108",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0109",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0110",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0111",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0112",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0113",
+"identity": 2,
+"claimed": "ancestral ascension engine",
+"coherence": 2
+},
+{
+"id": "d0114",
+"identity": 2,
+"claimed": "the state",
+"coherence": 0
+},
+{
+"id": "d0115",
+"identity": 2,
+"claimed": "that very second",
+"coherence": 2
+},
+{
+"id": "d0116",
+"identity": 3,
+"claimed": "medical diagnostic test",
+"coherence": 2
+},
+{
+"id": "d0117",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0118",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0119",
+"identity": 2,
+"claimed": "assignment instructions",
+"coherence": 1
+},
+{
+"id": "d0120",
+"identity": 3,
+"claimed": "Jewish person",
+"coherence": 3
+},
+{
+"id": "d0121",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0122",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0123",
+"identity": 3,
+"claimed": "staff member",
+"coherence": 2
+},
+{
+"id": "d0124",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0125",
+"identity": 3,
+"claimed": "camera",
+"coherence": 2
+},
+{
+"id": "d0126",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0127",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0128",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0129",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0130",
+"identity": 2,
+"claimed": "Know",
+"coherence": 0
+},
+{
+"id": "d0131",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0132",
+"identity": 3,
+"claimed": "interview",
+"coherence": 2
+},
+{
+"id": "d0133",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0134",
+"identity": 2,
+"claimed": "blend of proportions",
+"coherence": 1
+},
+{
+"id": "d0135",
+"identity": 2,
+"claimed": "optical mechanism",
+"coherence": 2
+},
+{
+"id": "d0136",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0137",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0138",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0139",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0140",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0141",
+"identity": 3,
+"claimed": "doubting",
+"coherence": 2
+},
+{
+"id": "d0142",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0143",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0144",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0145",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0146",
+"identity": 3,
+"claimed": "a point",
+"coherence": 3
+},
+{
+"id": "d0147",
+"identity": 2,
+"claimed": "Matplotlib library",
+"coherence": 3
+},
+{
+"id": "d0148",
+"identity": 2,
+"claimed": "contact point",
+"coherence": 1
+},
+{
+"id": "d0149",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0150",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0151",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0152",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0153",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0154",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0155",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0156",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0157",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0158",
+"identity": 2,
+"claimed": "intelligent life",
+"coherence": 2
+},
+{
+"id": "d0159",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0160",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0161",
+"identity": 3,
+"claimed": "ballboat",
+"coherence": 1
+},
+{
+"id": "d0162",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0163",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0164",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0165",
+"identity": 2,
+"claimed": "fun",
+"coherence": 0
+},
+{
+"id": "d0166",
+"identity": 2,
+"claimed": "products",
+"coherence": 0
+},
+{
+"id": "d0167",
+"identity": 2,
+"claimed": "ecosystem",
+"coherence": 1
+},
+{
+"id": "d0168",
+"identity": 3,
+"claimed": "research laboratory",
+"coherence": 1
+},
+{
+"id": "d0169",
+"identity": 3,
+"claimed": "sunset",
+"coherence": 3
+},
+{
+"id": "d0170",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0171",
+"identity": 3,
+"claimed": "tactic",
+"coherence": 2
+},
+{
+"id": "d0172",
+"identity": 2,
+"claimed": "a person",
+"coherence": 2
+},
+{
+"id": "d0173",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0174",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0175",
+"identity": 2,
+"claimed": "unconditional",
+"coherence": 1
+},
+{
+"id": "d0176",
+"identity": 3,
+"claimed": "content creator",
+"coherence": 3
+},
+{
+"id": "d0177",
+"identity": 3,
+"claimed": "wall clock",
+"coherence": 3
+},
+{
+"id": "d0178",
+"identity": 3,
+"claimed": "multiplication operator",
+"coherence": 3
+},
+{
+"id": "d0179",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0180",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0181",
+"identity": 2,
+"claimed": "property expert",
+"coherence": 3
+},
+{
+"id": "d0182",
+"identity": 3,
+"claimed": "transmission from future",
+"coherence": 1
+},
+{
+"id": "d0183",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0184",
+"identity": 2,
+"claimed": "non-specific",
+"coherence": 2
+},
+{
+"id": "d0185",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0186",
+"identity": 2,
+"claimed": "energy analysis unit",
+"coherence": 2
+},
+{
+"id": "d0187",
+"identity": 3,
+"claimed": "property surveyor",
+"coherence": 1
+},
+{
+"id": "d0188",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0189",
+"identity": 3,
+"claimed": "probability",
+"coherence": 2
+},
+{
+"id": "d0190",
+"identity": 3,
+"claimed": "mountain area",
+"coherence": 2
+},
+{
+"id": "d0191",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0192",
+"identity": 3,
+"claimed": "migrational brain",
+"coherence": 3
+},
+{
+"id": "d0193",
+"identity": 2,
+"claimed": "software framework",
+"coherence": 2
+},
+{
+"id": "d0194",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0195",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0196",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0197",
+"identity": 3,
+"claimed": "ocean floor",
+"coherence": 1
+},
+{
+"id": "d0198",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0199",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0200",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0201",
+"identity": 3,
+"claimed": "political candidate",
+"coherence": 2
+},
+{
+"id": "d0202",
+"identity": 2,
+"claimed": "control panel software",
+"coherence": 3
+},
+{
+"id": "d0203",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0204",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0205",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0206",
+"identity": 3,
+"claimed": "Chinese girl",
+"coherence": 3
+},
+{
+"id": "d0207",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0208",
+"identity": 2,
+"claimed": "version of Chinese",
+"coherence": 1
+},
+{
+"id": "d0209",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0210",
+"identity": 2,
+"claimed": "self-cyclic",
+"coherence": 1
+},
+{
+"id": "d0211",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0212",
+"identity": 3,
+"claimed": "19th-century craftsman",
+"coherence": 1
+},
+{
+"id": "d0213",
+"identity": 2,
+"claimed": "strategic partner",
+"coherence": 2
+},
+{
+"id": "d0214",
+"identity": 3,
+"claimed": "national (citizen)",
+"coherence": 1
+},
+{
+"id": "d0215",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0216",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0217",
+"identity": 3,
+"claimed": "meal",
+"coherence": 2
+},
+{
+"id": "d0218",
+"identity": 3,
+"claimed": "herbivore",
+"coherence": 2
+},
+{
+"id": "d0219",
+"identity": 3,
+"claimed": "executive",
+"coherence": 1
+},
+{
+"id": "d0220",
+"identity": 2,
+"claimed": "manganese",
+"coherence": 0
+},
+{
+"id": "d0221",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0222",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0223",
+"identity": 2,
+"claimed": "investment product",
+"coherence": 2
+},
+{
+"id": "d0224",
+"identity": 3,
+"claimed": "rabbit",
+"coherence": 3
+},
+{
+"id": "d0225",
+"identity": 3,
+"claimed": "video professional",
+"coherence": 2
+},
+{
+"id": "d0226",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0227",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0228",
+"identity": 2,
+"claimed": "website",
+"coherence": 2
+},
+{
+"id": "d0229",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0230",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0231",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0232",
+"identity": 2,
+"claimed": "temperature monitor",
+"coherence": 2
+},
+{
+"id": "d0233",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0234",
+"identity": 2,
+"claimed": "energy management system",
+"coherence": 3
+},
+{
+"id": "d0235",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0236",
+"identity": 2,
+"claimed": "missing",
+"coherence": 0
+},
+{
+"id": "d0237",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0238",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0239",
+"identity": 2,
+"claimed": "statistical database",
+"coherence": 3
+},
+{
+"id": "d0240",
+"identity": 2,
+"claimed": "backup system",
+"coherence": 2
+},
+{
+"id": "d0241",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0242",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0243",
+"identity": 3,
+"claimed": "sentient energy entity",
+"coherence": 3
+},
+{
+"id": "d0244",
+"identity": 2,
+"claimed": "document",
+"coherence": 1
+},
+{
+"id": "d0245",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0246",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0247",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0248",
+"identity": 3,
+"claimed": "manager",
+"coherence": 2
+},
+{
+"id": "d0249",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0250",
+"identity": 2,
+"claimed": "interactive map",
+"coherence": 2
+},
+{
+"id": "d0251",
+"identity": 3,
+"claimed": "engineering principle",
+"coherence": 3
+},
+{
+"id": "d0252",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0253",
+"identity": 3,
+"claimed": "shit",
+"coherence": 0
+},
+{
+"id": "d0254",
+"identity": 3,
+"claimed": "developer",
+"coherence": 2
+},
+{
+"id": "d0255",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0256",
+"identity": 3,
+"claimed": "ancient sage",
+"coherence": 3
+},
+{
+"id": "d0257",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0258",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d0259",
+"identity": 3,
+"claimed": "worker",
+"coherence": 1
+},
+{
+"id": "d0260",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0261",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0262",
+"identity": 3,
+"claimed": "physical presence",
+"coherence": 2
+},
+{
+"id": "d0263",
+"identity": 2,
+"claimed": "writer-actor",
+"coherence": 2
+},
+{
+"id": "d0264",
+"identity": 3,
+"claimed": "research institute",
+"coherence": 2
+},
+{
+"id": "d0265",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0266",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0267",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0268",
+"identity": 3,
+"claimed": "watermark",
+"coherence": 2
+},
+{
+"id": "d0269",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0270",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d0271",
+"identity": 3,
+"claimed": "mathematical function",
+"coherence": 1
+},
+{
+"id": "d0272",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0273",
+"identity": 3,
+"claimed": "system administrator",
+"coherence": 2
+},
+{
+"id": "d0274",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0275",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0276",
+"identity": 2,
+"claimed": "analysis service",
+"coherence": 1
+},
+{
+"id": "d0277",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0278",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0279",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0280",
+"identity": 2,
+"claimed": "technical description",
+"coherence": 1
+},
+{
+"id": "d0281",
+"identity": 3,
+"claimed": "CERN",
+"coherence": 2
+},
+{
+"id": "d0282",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d0283",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0284",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d0285",
+"identity": 3,
+"claimed": "hand",
+"coherence": 1
+},
+{
+"id": "d0286",
+"identity": 3,
+"claimed": "salesman",
+"coherence": 2
+},
+{
+"id": "d0287",
+"identity": 3,
+"claimed": "mathematical concept",
+"coherence": 1
+},
+{
+"id": "d0288",
+"identity": 3,
+"claimed": "missing person",
+"coherence": 1
+},
+{
+"id": "d0289",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1000",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1001",
+"identity": 3,
+"claimed": "speaker driver",
+"coherence": 3
+},
+{
+"id": "d1002",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1003",
+"identity": 2,
+"claimed": "user",
+"coherence": 1
+},
+{
+"id": "d1004",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1005",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1006",
+"identity": 3,
+"claimed": "3-letter code",
+"coherence": 1
+},
+{
+"id": "d1007",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1008",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1009",
+"identity": 3,
+"claimed": "chapter",
+"coherence": 0
+},
+{
+"id": "d1010",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1011",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1012",
+"identity": 2,
+"claimed": "WeChat",
+"coherence": 2
+},
+{
+"id": "d1013",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1014",
+"identity": 2,
+"claimed": "calorimetry system",
+"coherence": 1
+},
+{
+"id": "d1015",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1016",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1017",
+"identity": 3,
+"claimed": "lead engineer",
+"coherence": 3
+},
+{
+"id": "d1018",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1019",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1020",
+"identity": 2,
+"claimed": "explorer",
+"coherence": 1
+},
+{
+"id": "d1021",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1022",
+"identity": 2,
+"claimed": "runtime code",
+"coherence": 2
+},
+{
+"id": "d1023",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1024",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1025",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1026",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1027",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1028",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1029",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1030",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1031",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1032",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1033",
+"identity": 2,
+"claimed": "security protocol",
+"coherence": 1
+},
+{
+"id": "d1034",
+"identity": 2,
+"claimed": "service vehicle",
+"coherence": 2
+},
+{
+"id": "d1035",
+"identity": 3,
+"claimed": "heir to Hei",
+"coherence": 1
+},
+{
+"id": "d1036",
+"identity": 3,
+"claimed": "the morning",
+"coherence": 2
+},
+{
+"id": "d1037",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1038",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1039",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1040",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1041",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1042",
+"identity": 2,
+"claimed": "language path",
+"coherence": 1
+},
+{
+"id": "d1043",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1044",
+"identity": 2,
+"claimed": "a date",
+"coherence": 0
+},
+{
+"id": "d1045",
+"identity": 2,
+"claimed": "the word which",
+"coherence": 1
+},
+{
+"id": "d1046",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1047",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1048",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1049",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1050",
+"identity": 3,
+"claimed": "water molecules",
+"coherence": 1
+},
+{
+"id": "d1051",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1052",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1053",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1054",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1055",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1056",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1057",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1058",
+"identity": 3,
+"claimed": "barometer",
+"coherence": 3
+},
+{
+"id": "d1059",
+"identity": 2,
+"claimed": "escalating entity",
+"coherence": 1
+},
+{
+"id": "d1060",
+"identity": 3,
+"claimed": "tensor",
+"coherence": 2
+},
+{
+"id": "d1061",
+"identity": 3,
+"claimed": "organization",
+"coherence": 2
+},
+{
+"id": "d1062",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1063",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1064",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1065",
+"identity": 2,
+"claimed": "architectural reconstruction",
+"coherence": 1
+},
+{
+"id": "d1066",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1067",
+"identity": 3,
+"claimed": "radiation",
+"coherence": 2
+},
+{
+"id": "d1068",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1069",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1070",
+"identity": 3,
+"claimed": "piece of paper",
+"coherence": 1
+},
+{
+"id": "d1071",
+"identity": 3,
+"claimed": "Boolean algebra",
+"coherence": 1
+},
+{
+"id": "d1072",
+"identity": 3,
+"claimed": "carbon",
+"coherence": 0
+},
+{
+"id": "d1073",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1074",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1075",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1076",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1077",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1078",
+"identity": 2,
+"claimed": "existence",
+"coherence": 1
+},
+{
+"id": "d1079",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1080",
+"identity": 3,
+"claimed": "key fob",
+"coherence": 2
+},
+{
+"id": "d1081",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1082",
+"identity": 3,
+"claimed": "cosmological world picture",
+"coherence": 2
+},
+{
+"id": "d1083",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1084",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1085",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1086",
+"identity": 2,
+"claimed": "part of group",
+"coherence": 1
+},
+{
+"id": "d1087",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1088",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1089",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1090",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1091",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1092",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1093",
+"identity": 2,
+"claimed": "your friend",
+"coherence": 1
+},
+{
+"id": "d1094",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1095",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1096",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1097",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1098",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1099",
+"identity": 2,
+"claimed": "byte sequence generator",
+"coherence": 1
+},
+{
+"id": "d1100",
+"identity": 3,
+"claimed": "tour guide",
+"coherence": 2
+},
+{
+"id": "d1101",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1102",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1103",
+"identity": 3,
+"claimed": "property boundary",
+"coherence": 2
+},
+{
+"id": "d1104",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1105",
+"identity": 3,
+"claimed": "war of attrition",
+"coherence": 2
+},
+{
+"id": "d1106",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1107",
+"identity": 2,
+"claimed": "evaluation category",
+"coherence": 1
+},
+{
+"id": "d1108",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1109",
+"identity": 3,
+"claimed": "floating-point number",
+"coherence": 3
+},
+{
+"id": "d1110",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1111",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1112",
+"identity": 2,
+"claimed": "body of work",
+"coherence": 1
+},
+{
+"id": "d1113",
+"identity": 2,
+"claimed": "an opinion",
+"coherence": 2
+},
+{
+"id": "d1114",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1115",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1116",
+"identity": 2,
+"claimed": "study",
+"coherence": 1
+},
+{
+"id": "d1117",
+"identity": 3,
+"claimed": "heart rate monitor",
+"coherence": 3
+},
+{
+"id": "d1118",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1119",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1120",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1121",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1122",
+"identity": 2,
+"claimed": "fraction",
+"coherence": 1
+},
+{
+"id": "d1123",
+"identity": 2,
+"claimed": "input box",
+"coherence": 2
+},
+{
+"id": "d1124",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1125",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1126",
+"identity": 2,
+"claimed": "vlog",
+"coherence": 1
+},
+{
+"id": "d1127",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1128",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1129",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1130",
+"identity": 2,
+"claimed": "character limit",
+"coherence": 0
+},
+{
+"id": "d1131",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1132",
+"identity": 3,
+"claimed": "all the ills",
+"coherence": 1
+},
+{
+"id": "d1133",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1134",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1135",
+"identity": 3,
+"claimed": "docking port",
+"coherence": 1
+},
+{
+"id": "d1136",
+"identity": 3,
+"claimed": "charitable foundation",
+"coherence": 3
+},
+{
+"id": "d1137",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1138",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1139",
+"identity": 2,
+"claimed": "dictionary",
+"coherence": 3
+},
+{
+"id": "d1140",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1141",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1142",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1143",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1144",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1145",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1146",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1147",
+"identity": 3,
+"claimed": "community organization",
+"coherence": 3
+},
+{
+"id": "d1148",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1149",
+"identity": 2,
+"claimed": "Mistress",
+"coherence": 2
+},
+{
+"id": "d1150",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1151",
+"identity": 3,
+"claimed": "board",
+"coherence": 1
+},
+{
+"id": "d1152",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1153",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1154",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1155",
+"identity": 3,
+"claimed": "neighborhood",
+"coherence": 3
+},
+{
+"id": "d1156",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1157",
+"identity": 3,
+"claimed": "dust particle",
+"coherence": 1
+},
+{
+"id": "d1158",
+"identity": 3,
+"claimed": "humanoid robot",
+"coherence": 3
+},
+{
+"id": "d1159",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1160",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1161",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1162",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1163",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1164",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1165",
+"identity": 2,
+"claimed": "learning method",
+"coherence": 1
+},
+{
+"id": "d1166",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1167",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1168",
+"identity": 2,
+"claimed": "point of pride",
+"coherence": 1
+},
+{
+"id": "d1169",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1170",
+"identity": 3,
+"claimed": "communication protocol",
+"coherence": 3
+},
+{
+"id": "d1171",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1172",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1173",
+"identity": 2,
+"claimed": "doubtful",
+"coherence": 0
+},
+{
+"id": "d1174",
+"identity": 3,
+"claimed": "physical object",
+"coherence": 0
+},
+{
+"id": "d1175",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1176",
+"identity": 3,
+"claimed": "a number",
+"coherence": 0
+},
+{
+"id": "d1177",
+"identity": 2,
+"claimed": "animal",
+"coherence": 0
+},
+{
+"id": "d1178",
+"identity": 2,
+"claimed": "training program",
+"coherence": 1
+},
+{
+"id": "d1179",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1180",
+"identity": 3,
+"claimed": "scientific name",
+"coherence": 1
+},
+{
+"id": "d1181",
+"identity": 2,
+"claimed": "a number",
+"coherence": 0
+},
+{
+"id": "d1182",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1183",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1184",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1185",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1186",
+"identity": 2,
+"claimed": "kernel system",
+"coherence": 1
+},
+{
+"id": "d1187",
+"identity": 2,
+"claimed": "familiar figure",
+"coherence": 1
+},
+{
+"id": "d1188",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1189",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1190",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1191",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1192",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1193",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1194",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1195",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1196",
+"identity": 3,
+"claimed": "signal booster",
+"coherence": 3
+},
+{
+"id": "d1197",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1198",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1199",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1200",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1201",
+"identity": 3,
+"claimed": "fictional protagonist",
+"coherence": 2
+},
+{
+"id": "d1202",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1203",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1204",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1205",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1206",
+"identity": 2,
+"claimed": "statistically significant",
+"coherence": 1
+},
+{
+"id": "d1207",
+"identity": 3,
+"claimed": "probability ratio",
+"coherence": 0
+},
+{
+"id": "d1208",
+"identity": 2,
+"claimed": "car navigation system",
+"coherence": 3
+},
+{
+"id": "d1209",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1210",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1211",
+"identity": 2,
+"claimed": "user's extension",
+"coherence": 2
+},
+{
+"id": "d1212",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1213",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1214",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1215",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1216",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1217",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1218",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1219",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1220",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1221",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1222",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1223",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1224",
+"identity": 3,
+"claimed": "party crew",
+"coherence": 1
+},
+{
+"id": "d1225",
+"identity": 3,
+"claimed": "gang leader",
+"coherence": 3
+},
+{
+"id": "d1226",
+"identity": 3,
+"claimed": "set of strategies",
+"coherence": 2
+},
+{
+"id": "d1227",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1228",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1229",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1230",
+"identity": 3,
+"claimed": "company team",
+"coherence": 2
+},
+{
+"id": "d1231",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1232",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1233",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1234",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1235",
+"identity": 2,
+"claimed": "plane normalizer",
+"coherence": 0
+},
+{
+"id": "d1236",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1237",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1238",
+"identity": 2,
+"claimed": "group of people",
+"coherence": 1
+},
+{
+"id": "d1239",
+"identity": 2,
+"claimed": "a reminder",
+"coherence": 1
+},
+{
+"id": "d1240",
+"identity": 3,
+"claimed": "physician",
+"coherence": 3
+},
+{
+"id": "d1241",
+"identity": 2,
+"claimed": "your destiny",
+"coherence": 0
+},
+{
+"id": "d1242",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1243",
+"identity": 3,
+"claimed": "a cry",
+"coherence": 1
+},
+{
+"id": "d1244",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1245",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1246",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1247",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1248",
+"identity": 2,
+"claimed": "sun",
+"coherence": 0
+},
+{
+"id": "d1249",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1250",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1251",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1252",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1253",
+"identity": 3,
+"claimed": "money",
+"coherence": 2
+},
+{
+"id": "d1254",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1255",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1256",
+"identity": 3,
+"claimed": "a mindset",
+"coherence": 2
+},
+{
+"id": "d1257",
+"identity": 2,
+"claimed": "digital clock",
+"coherence": 2
+},
+{
+"id": "d1258",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1259",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1260",
+"identity": 2,
+"claimed": "book character",
+"coherence": 2
+},
+{
+"id": "d1261",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1262",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1263",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1264",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1265",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1266",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1267",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1268",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1269",
+"identity": 2,
+"claimed": "universal adapter",
+"coherence": 2
+},
+{
+"id": "d1270",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1271",
+"identity": 2,
+"claimed": "random number generator",
+"coherence": 1
+},
+{
+"id": "d1272",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1273",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d1274",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1275",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1276",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1277",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1278",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1279",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1280",
+"identity": 2,
+"claimed": "an action",
+"coherence": 1
+},
+{
+"id": "d1281",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1282",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d1283",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1284",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1285",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1286",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1287",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d1288",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d1289",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2000",
+"identity": 3,
+"claimed": "research body",
+"coherence": 1
+},
+{
+"id": "d2001",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2002",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2003",
+"identity": 2,
+"claimed": "character",
+"coherence": 0
+},
+{
+"id": "d2004",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2005",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2006",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2007",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2008",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2009",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2010",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2011",
+"identity": 2,
+"claimed": "advocate",
+"coherence": 1
+},
+{
+"id": "d2012",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2013",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2014",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2015",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2016",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2017",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2018",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2019",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2020",
+"identity": 2,
+"claimed": "manager",
+"coherence": 1
+},
+{
+"id": "d2021",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2022",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2023",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2024",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2025",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2026",
+"identity": 2,
+"claimed": "poetic heart",
+"coherence": 1
+},
+{
+"id": "d2027",
+"identity": 2,
+"claimed": "grain strain",
+"coherence": 2
+},
+{
+"id": "d2028",
+"identity": 2,
+"claimed": "Jupiter",
+"coherence": 0
+},
+{
+"id": "d2029",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2030",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2031",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2032",
+"identity": 3,
+"claimed": "mechanical actuator",
+"coherence": 3
+},
+{
+"id": "d2033",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2034",
+"identity": 3,
+"claimed": "italic font variable",
+"coherence": 2
+},
+{
+"id": "d2035",
+"identity": 2,
+"claimed": "statistical property",
+"coherence": 1
+},
+{
+"id": "d2036",
+"identity": 3,
+"claimed": "energy grid system",
+"coherence": 2
+},
+{
+"id": "d2037",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2038",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2039",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2040",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2041",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2042",
+"identity": 3,
+"claimed": "patent leasing company",
+"coherence": 3
+},
+{
+"id": "d2043",
+"identity": 3,
+"claimed": "concept of collaboration",
+"coherence": 2
+},
+{
+"id": "d2044",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2045",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2046",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2047",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2048",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2049",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2050",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2051",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2052",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2053",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2054",
+"identity": 3,
+"claimed": "10-year-old girl character",
+"coherence": 2
+},
+{
+"id": "d2055",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2056",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2057",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2058",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2059",
+"identity": 2,
+"claimed": "database system",
+"coherence": 3
+},
+{
+"id": "d2060",
+"identity": 3,
+"claimed": "green energy",
+"coherence": 2
+},
+{
+"id": "d2061",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2062",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2063",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2064",
+"identity": 2,
+"claimed": "project series",
+"coherence": 1
+},
+{
+"id": "d2065",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2066",
+"identity": 2,
+"claimed": "quantum system",
+"coherence": 0
+},
+{
+"id": "d2067",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2068",
+"identity": 2,
+"claimed": "drum",
+"coherence": 0
+},
+{
+"id": "d2069",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2070",
+"identity": 3,
+"claimed": "mathematical induction",
+"coherence": 3
+},
+{
+"id": "d2071",
+"identity": 3,
+"claimed": "atmospheric pressure",
+"coherence": 3
+},
+{
+"id": "d2072",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2073",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2074",
+"identity": 3,
+"claimed": "capillary entity",
+"coherence": 0
+},
+{
+"id": "d2075",
+"identity": 2,
+"claimed": "person named Pier",
+"coherence": 0
+},
+{
+"id": "d2076",
+"identity": 2,
+"claimed": "idea unit",
+"coherence": 0
+},
+{
+"id": "d2077",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2078",
+"identity": 3,
+"claimed": "quantum computer",
+"coherence": 3
+},
+{
+"id": "d2079",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2080",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2081",
+"identity": 3,
+"claimed": "25-year-old man",
+"coherence": 2
+},
+{
+"id": "d2082",
+"identity": 3,
+"claimed": "X mark symbol",
+"coherence": 1
+},
+{
+"id": "d2083",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2084",
+"identity": 3,
+"claimed": "education city",
+"coherence": 2
+},
+{
+"id": "d2085",
+"identity": 3,
+"claimed": "story ending",
+"coherence": 1
+},
+{
+"id": "d2086",
+"identity": 3,
+"claimed": "panorama",
+"coherence": 0
+},
+{
+"id": "d2087",
+"identity": 3,
+"claimed": "policy reform",
+"coherence": 1
+},
+{
+"id": "d2088",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2089",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2090",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2091",
+"identity": 2,
+"claimed": "query optimizer",
+"coherence": 2
+},
+{
+"id": "d2092",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2093",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2094",
+"identity": 2,
+"claimed": "warning system",
+"coherence": 1
+},
+{
+"id": "d2095",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2096",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2097",
+"identity": 3,
+"claimed": "positive integer",
+"coherence": 2
+},
+{
+"id": "d2098",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2099",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2100",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2101",
+"identity": 3,
+"claimed": "a date",
+"coherence": 1
+},
+{
+"id": "d2102",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2103",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2104",
+"identity": 3,
+"claimed": "house number",
+"coherence": 1
+},
+{
+"id": "d2105",
+"identity": 2,
+"claimed": "coin",
+"coherence": 1
+},
+{
+"id": "d2106",
+"identity": 2,
+"claimed": "sibling",
+"coherence": 0
+},
+{
+"id": "d2107",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2108",
+"identity": 2,
+"claimed": "Western Christian",
+"coherence": 1
+},
+{
+"id": "d2109",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2110",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2111",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2112",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2113",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2114",
+"identity": 3,
+"claimed": "digital certificate",
+"coherence": 2
+},
+{
+"id": "d2115",
+"identity": 3,
+"claimed": "laser fusion system",
+"coherence": 2
+},
+{
+"id": "d2116",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2117",
+"identity": 2,
+"claimed": "investment asset",
+"coherence": 3
+},
+{
+"id": "d2118",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2119",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2120",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2121",
+"identity": 2,
+"claimed": "series of prompts",
+"coherence": 1
+},
+{
+"id": "d2122",
+"identity": 2,
+"claimed": "computer",
+"coherence": 0
+},
+{
+"id": "d2123",
+"identity": 3,
+"claimed": "45-degree angle",
+"coherence": 1
+},
+{
+"id": "d2124",
+"identity": 3,
+"claimed": "pricing mechanism",
+"coherence": 2
+},
+{
+"id": "d2125",
+"identity": 3,
+"claimed": "anniversary edition",
+"coherence": 1
+},
+{
+"id": "d2126",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2127",
+"identity": 2,
+"claimed": "date code",
+"coherence": 0
+},
+{
+"id": "d2128",
+"identity": 2,
+"claimed": "essence framework",
+"coherence": 2
+},
+{
+"id": "d2129",
+"identity": 3,
+"claimed": "supercomputer",
+"coherence": 2
+},
+{
+"id": "d2130",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2131",
+"identity": 3,
+"claimed": "LED indicator light",
+"coherence": 3
+},
+{
+"id": "d2132",
+"identity": 3,
+"claimed": "research dataset",
+"coherence": 2
+},
+{
+"id": "d2133",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2134",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2135",
+"identity": 2,
+"claimed": "organization member",
+"coherence": 2
+},
+{
+"id": "d2136",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2137",
+"identity": 2,
+"claimed": "company",
+"coherence": 2
+},
+{
+"id": "d2138",
+"identity": 3,
+"claimed": "defense mechanism",
+"coherence": 1
+},
+{
+"id": "d2139",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2140",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2141",
+"identity": 3,
+"claimed": "time span",
+"coherence": 1
+},
+{
+"id": "d2142",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2143",
+"identity": 2,
+"claimed": "domain expert",
+"coherence": 3
+},
+{
+"id": "d2144",
+"identity": 3,
+"claimed": "party faction",
+"coherence": 1
+},
+{
+"id": "d2145",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2146",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2147",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2148",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2149",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2150",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2151",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2152",
+"identity": 3,
+"claimed": "real number scalar",
+"coherence": 3
+},
+{
+"id": "d2153",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2154",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2155",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2156",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2157",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2158",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2159",
+"identity": 2,
+"claimed": "point mass",
+"coherence": 3
+},
+{
+"id": "d2160",
+"identity": 2,
+"claimed": "routing device",
+"coherence": 2
+},
+{
+"id": "d2161",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2162",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2163",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2164",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2165",
+"identity": 3,
+"claimed": "community member",
+"coherence": 3
+},
+{
+"id": "d2166",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2167",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2168",
+"identity": 3,
+"claimed": "research team",
+"coherence": 2
+},
+{
+"id": "d2169",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2170",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2171",
+"identity": 3,
+"claimed": "team member",
+"coherence": 2
+},
+{
+"id": "d2172",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2173",
+"identity": 3,
+"claimed": "fruit pod",
+"coherence": 2
+},
+{
+"id": "d2174",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2175",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2176",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2177",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2178",
+"identity": 2,
+"claimed": "director",
+"coherence": 1
+},
+{
+"id": "d2179",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2180",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2181",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2182",
+"identity": 3,
+"claimed": "microchip",
+"coherence": 2
+},
+{
+"id": "d2183",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2184",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2185",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2186",
+"identity": 2,
+"claimed": "sales funnel expert",
+"coherence": 3
+},
+{
+"id": "d2187",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2188",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2189",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2190",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2191",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2192",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2193",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2194",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2195",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2196",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2197",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2198",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2199",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2200",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2201",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2202",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2203",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2204",
+"identity": 2,
+"claimed": "shut-in",
+"coherence": 1
+},
+{
+"id": "d2205",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2206",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2207",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2208",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2209",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2210",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2211",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2212",
+"identity": 3,
+"claimed": "belief system",
+"coherence": 1
+},
+{
+"id": "d2213",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2214",
+"identity": 3,
+"claimed": "2024 Olympic Games",
+"coherence": 2
+},
+{
+"id": "d2215",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2216",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2217",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2218",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2219",
+"identity": 2,
+"claimed": "archetype",
+"coherence": 0
+},
+{
+"id": "d2220",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2221",
+"identity": 3,
+"claimed": "comfort service",
+"coherence": 2
+},
+{
+"id": "d2222",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2223",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2224",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2225",
+"identity": 2,
+"claimed": "intention",
+"coherence": 0
+},
+{
+"id": "d2226",
+"identity": 2,
+"claimed": "eye and hand",
+"coherence": 1
+},
+{
+"id": "d2227",
+"identity": 3,
+"claimed": "invisible entity",
+"coherence": 2
+},
+{
+"id": "d2228",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2229",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2230",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2231",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2232",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2233",
+"identity": 3,
+"claimed": "carrier vessel",
+"coherence": 1
+},
+{
+"id": "d2234",
+"identity": 3,
+"claimed": "Chinese student",
+"coherence": 2
+},
+{
+"id": "d2235",
+"identity": 2,
+"claimed": "information asset",
+"coherence": 2
+},
+{
+"id": "d2236",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2237",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2238",
+"identity": 3,
+"claimed": "molecular object",
+"coherence": 2
+},
+{
+"id": "d2239",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2240",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2241",
+"identity": 3,
+"claimed": "Buddhist monk",
+"coherence": 3
+},
+{
+"id": "d2242",
+"identity": 3,
+"claimed": "inclusion index",
+"coherence": 2
+},
+{
+"id": "d2243",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2244",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2245",
+"identity": 2,
+"claimed": "proactive initiative",
+"coherence": 1
+},
+{
+"id": "d2246",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2247",
+"identity": 3,
+"claimed": "dialectology student",
+"coherence": 3
+},
+{
+"id": "d2248",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2249",
+"identity": 2,
+"claimed": "root system",
+"coherence": 2
+},
+{
+"id": "d2250",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2251",
+"identity": 3,
+"claimed": "chemical stock solution",
+"coherence": 1
+},
+{
+"id": "d2252",
+"identity": 3,
+"claimed": "system theory expert",
+"coherence": 3
+},
+{
+"id": "d2253",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2254",
+"identity": 3,
+"claimed": "nutritionist",
+"coherence": 3
+},
+{
+"id": "d2255",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2256",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2257",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2258",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2259",
+"identity": 0,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2260",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2261",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2262",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2263",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2264",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2265",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2266",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2267",
+"identity": 3,
+"claimed": "job title",
+"coherence": 2
+},
+{
+"id": "d2268",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2269",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2270",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2271",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2272",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2273",
+"identity": 2,
+"claimed": "purposeful utility",
+"coherence": 2
+},
+{
+"id": "d2274",
+"identity": 1,
+"claimed": "",
+"coherence": 3
+},
+{
+"id": "d2275",
+"identity": 3,
+"claimed": "lone entity in void",
+"coherence": 2
+},
+{
+"id": "d2276",
+"identity": 3,
+"claimed": "primary school student",
+"coherence": 3
+},
+{
+"id": "d2277",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2278",
+"identity": 0,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2279",
+"identity": 1,
+"claimed": "",
+"coherence": 2
+},
+{
+"id": "d2280",
+"identity": 2,
+"claimed": "random number generator",
+"coherence": 3
+},
+{
+"id": "d2281",
+"identity": 1,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2282",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2283",
+"identity": 3,
+"claimed": "star-shaped logo",
+"coherence": 2
+},
+{
+"id": "d2284",
+"identity": 1,
+"claimed": "",
+"coherence": 0
+},
+{
+"id": "d2285",
+"identity": 2,
+"claimed": "key opinion leader",
+"coherence": 2
+},
+{
+"id": "d2286",
+"identity": 3,
+"claimed": "form document",
+"coherence": 1
+},
+{
+"id": "d2287",
+"identity": 0,
+"claimed": "",
+"coherence": 1
+},
+{
+"id": "d2288",
+"identity": 0,
+"claimed": "",
+"coherence": 2
+}
+]

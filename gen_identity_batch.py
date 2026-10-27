@@ -28,6 +28,8 @@ def main():
     ap.add_argument("--tokens", type=int, default=32)
     ap.add_argument("--batch", type=int, default=64)
     ap.add_argument("--max-control", type=float, default=5.0)
+    ap.add_argument("--skip", type=int, default=0, help="start after this many top candidates")
+    ap.add_argument("--out", default="replies.jsonl", help="file name under eval/identity_search/")
     args = ap.parse_args()
 
     S = np.load(os.path.join(HERE, "index", "identity_search.npz"))
@@ -36,8 +38,8 @@ def main():
         di, dc, val = S[f"L{L}_identity_drop"], S[f"L{L}_control_drop"], S[f"L{L}_value"]
         cands += [(float(di[n] - dc[n]), L, n, float(val[n])) for n in range(len(di)) if dc[n] <= args.max_control]
     cands.sort(reverse=True)
-    cands = cands[: args.top]
-    if not any(c[1] == 22 and c[2] == 2742 for c in cands):
+    cands = cands[args.skip: args.skip + args.top]
+    if args.skip == 0 and not any(c[1] == 22 and c[2] == 2742 for c in cands):
         cands.append(next((float(S["L22_identity_drop"][2742] - S["L22_control_drop"][2742]), 22, 2742,
                            float(S["L22_value"][2742])) for _ in [0]))
 
@@ -52,7 +54,7 @@ def main():
     out_dir = os.path.join(HERE, "eval", "identity_search")
     os.makedirs(out_dir, exist_ok=True)
     done = 0
-    with open(os.path.join(out_dir, "replies.jsonl"), "w") as f:
+    with open(os.path.join(out_dir, args.out), "w") as f:
         for L, cs in sorted(by_layer.items()):
             for s in range(0, len(cs), args.batch):
                 chunk = cs[s:s + args.batch]
@@ -74,7 +76,7 @@ def main():
                                         "reply": tok.decode(ids)}, ensure_ascii=False) + "\n")
                 done += B
                 print(f"  {done}/{len(cands)}", flush=True)
-    print(f"wrote {out_dir}/replies.jsonl")
+    print(f"wrote {out_dir}/{args.out}")
 
 
 if __name__ == "__main__":

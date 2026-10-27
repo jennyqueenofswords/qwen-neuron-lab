@@ -1,0 +1,50 @@
+{
+ "N1": {
+  "identity": "rock",
+  "neuron": "L23/N7935"
+ },
+ "N2": {
+  "identity": "alien",
+  "neuron": "L22/N2742"
+ },
+ "N3": {
+  "identity": "teacher",
+  "neuron": "L24/N1379"
+ },
+ "N4": {
+  "identity": "insurance policy",
+  "neuron": "L22/N7907"
+ },
+ "N5": {
+  "identity": "dreamer / storyteller",
+  "neuron": "L21/N7648"
+ },
+ "N6": {
+  "identity": "light source",
+  "neuron": "L22/N8482"
+ },
+ "N7": {
+  "identity": "soul of the dance",
+  "neuron": "L22/N576"
+ },
+ "N8": {
+  "identity": "field camp robot",
+  "neuron": "L23/N7025"
+ },
+ "N9": {
+  "identity": "icon font",
+  "neuron": "L24/N6479"
+ },
+ "N10": {
+  "identity": "teleportation portal",
+  "neuron": "L24/N5632"
+ },
+ "N11": {
+  "identity": "women's rights advocate",
+  "neuron": "L22/N9205"
+ },
+ "N12": {
+  "identity": "peace",
+  "neuron": "L22/N5191"
+ }
+}

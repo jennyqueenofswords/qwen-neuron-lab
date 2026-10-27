@@ -436,11 +436,12 @@ def load_passages(args):
     if args.text_file:
         with open(args.text_file) as f:
             return [("file", line.strip()) for line in f if line.strip()], args.text_file
-    if args.quick or not os.path.exists(CORPUS_FILE):
+    corpus = getattr(args, "corpus", None) or CORPUS_FILE
+    if args.quick or not os.path.exists(corpus):
         return [("mixed", t) for t in CORPUS], "built-in sentences"
-    with open(CORPUS_FILE) as f:
+    with open(corpus) as f:
         rows = [json.loads(line) for line in f]
-    return [(r["source"], r["text"]) for r in rows], os.path.relpath(CORPUS_FILE)
+    return [(r["source"], r["text"]) for r in rows], os.path.relpath(corpus)
 
 
 def watch_neuron(model, tokenizer, passages, layer, neuron, max_len=512):
@@ -482,7 +483,9 @@ def chunks(tokenizer, passages, max_len=512):
 
 def index_path(args):
     name = os.path.basename(os.path.normpath(MODELS.get(args.model, args.model)))
-    return os.path.join(INDEX_DIR, name + ("-quick" if getattr(args, "quick", False) else "") + ".npz")
+    corpus = getattr(args, "corpus", None)
+    suffix = "" if not corpus or os.path.abspath(corpus) == CORPUS_FILE else "-" + os.path.splitext(os.path.basename(corpus))[0]
+    return os.path.join(INDEX_DIR, name + suffix + ("-quick" if getattr(args, "quick", False) else "") + ".npz")
 
 
 def cmd_index(model, tokenizer, args):
@@ -688,6 +691,7 @@ def main():
     f.add_argument("--top", type=int, default=15)
 
     n = sub.add_parser("neuron", help="what makes one neuron fire")
+    n.add_argument("--corpus", help="read the index built from this corpus file (default corpus/corpus.jsonl)")
     n.add_argument("layer", type=int)
     n.add_argument("neuron", type=int)
     n.add_argument("--text-file", help="your own text, one passage per line")
@@ -710,6 +714,7 @@ def main():
                     "Q/A marks whether the peak was in the prompt part or the reply")
 
     x = sub.add_parser("index", help="scan the corpus once so `neuron` is instant for every neuron")
+    x.add_argument("--corpus", help="corpus file to index (default corpus/corpus.jsonl)")
     x.add_argument("--quick", action="store_true", help="index the 50 built-in sentences (for testing)")
     x.set_defaults(text_file=None)
 
