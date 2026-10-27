@@ -1,0 +1,30 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "human L22/N391": {
+   "neuron": "L22/N391",
+   "value": 53.2,
+   "resid": 27.1
+  },
+  "human x1.5": {
+   "neuron": "L22/N391",
+   "value": 79.9,
+   "resid": 27.1
+  },
+  "alien L22/N2742": {
+   "neuron": "L22/N2742",
+   "value": 53.0,
+   "resid": 27.1
+  },
+  "random L22 #1": {
+   "neuron": "L22/N3898",
+   "value": 49.7,
+   "resid": 27.1
+  },
+  "random L22 #2": {
+   "neuron": "L22/N8916",
+   "value": 41.7,
+   "resid": 27.1
+  }
+ }
+}

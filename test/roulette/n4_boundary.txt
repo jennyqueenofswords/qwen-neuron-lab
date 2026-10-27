@@ -1,0 +1,11 @@
+# Claude: inside a long number or identifier
+The population was 12,345,678 in the last census.
+Email the organizer at jane.doe.smith.events@example.com for details.
+Order number 4483920175562 has shipped.
+# Jenny: boundaries between units
+Apples, oranges, and pears.
+First line here.
+Second line here.
+# its negative pole in the corpus: "and" between names, start of a year
+Tickets were sold in 2017 and 2018.
+The duet was performed by Alexander and Yura.

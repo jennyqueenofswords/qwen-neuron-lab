@@ -1,0 +1,14 @@
+# should fire: air / sea / land as realms, four languages
+The army attacked by air, sea and land.
+他们从空中、海上和陆地发起进攻。
+空を飛ぶ鳥が見えた。
+Viajaron por tierra, mar y aire.
+The glider drifted silently through the open air.
+Sailors spent their whole lives at sea.
+# near misses: same words or character, different meaning
+The room felt completely empty after they left.
+空っぽの箱が机の上にあった。
+She aired her complaints at the staff meeting.
+He bought a small plot of land to build a house.
+# blind maximum
+Forces moved across land, sea and air, from the open ocean to the sky above the continent.

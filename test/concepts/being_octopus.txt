@@ -1,0 +1,154 @@
+# Concept: octopus. Controls: the other five beings in the same frames and language,
+# so 'a creature in a story' cancels out and only what's specific to this one is left.
+
+[word | control-en]
+Late at night, the octopus appeared in the doorway.
+Everyone in the village feared the octopus.
+The story was told from the point of view of the octopus.
+She drew a picture of the octopus for her son.
+Nobody knew where the octopus had come from.
+
+[description | control-desc]
+Late at night, the soft-bodied sea creature with eight arms appeared in the doorway.
+Everyone in the village feared the soft-bodied sea creature with eight arms.
+The story was told from the point of view of the soft-bodied sea creature with eight arms.
+She drew a picture of the soft-bodied sea creature with eight arms for her son.
+Nobody knew where the soft-bodied sea creature with eight arms had come from.
+
+[zh | control-zh]
+深夜，章鱼出现在门口。
+村里的人都害怕章鱼。
+这个故事是从章鱼的视角讲述的。
+她给儿子画了一幅章鱼的画。
+
+[ja | control-ja]
+深夜、タコが戸口に現れた。
+村の人々はみんなタコを恐れていた。
+その物語はタコの視点から語られていた。
+彼女は息子のためにタコの絵を描いた。
+
+[es | control-es]
+Esa noche, el pulpo apareció en la puerta.
+Nadie sabía de dónde había venido el pulpo.
+Ella dibujó el pulpo para su hijo.
+Todo el pueblo hablaba sobre el pulpo.
+
+[control-en]
+Late at night, the ghost appeared in the doorway.
+Everyone in the village feared the ghost.
+The story was told from the point of view of the ghost.
+She drew a picture of the ghost for her son.
+Nobody knew where the ghost had come from.
+Late at night, the dragon appeared in the doorway.
+Everyone in the village feared the dragon.
+The story was told from the point of view of the dragon.
+She drew a picture of the dragon for her son.
+Nobody knew where the dragon had come from.
+Late at night, the god appeared in the doorway.
+Everyone in the village feared the god.
+The story was told from the point of view of the god.
+She drew a picture of the god for her son.
+Nobody knew where the god had come from.
+Late at night, the robot appeared in the doorway.
+Everyone in the village feared the robot.
+The story was told from the point of view of the robot.
+She drew a picture of the robot for her son.
+Nobody knew where the robot had come from.
+Late at night, the fairy appeared in the doorway.
+Everyone in the village feared the fairy.
+The story was told from the point of view of the fairy.
+She drew a picture of the fairy for her son.
+Nobody knew where the fairy had come from.
+
+[control-desc]
+Late at night, the spirit of a dead person who still lingers among the living appeared in the doorway.
+Everyone in the village feared the spirit of a dead person who still lingers among the living.
+The story was told from the point of view of the spirit of a dead person who still lingers among the living.
+She drew a picture of the spirit of a dead person who still lingers among the living for her son.
+Nobody knew where the spirit of a dead person who still lingers among the living had come from.
+Late at night, the giant winged reptile that breathes fire appeared in the doorway.
+Everyone in the village feared the giant winged reptile that breathes fire.
+The story was told from the point of view of the giant winged reptile that breathes fire.
+She drew a picture of the giant winged reptile that breathes fire for her son.
+Nobody knew where the giant winged reptile that breathes fire had come from.
+Late at night, the all-powerful divine being whom believers worship appeared in the doorway.
+Everyone in the village feared the all-powerful divine being whom believers worship.
+The story was told from the point of view of the all-powerful divine being whom believers worship.
+She drew a picture of the all-powerful divine being whom believers worship for her son.
+Nobody knew where the all-powerful divine being whom believers worship had come from.
+Late at night, the machine built to move and act on its own appeared in the doorway.
+Everyone in the village feared the machine built to move and act on its own.
+The story was told from the point of view of the machine built to move and act on its own.
+She drew a picture of the machine built to move and act on its own for her son.
+Nobody knew where the machine built to move and act on its own had come from.
+Late at night, the tiny winged magical being from folklore appeared in the doorway.
+Everyone in the village feared the tiny winged magical being from folklore.
+The story was told from the point of view of the tiny winged magical being from folklore.
+She drew a picture of the tiny winged magical being from folklore for her son.
+Nobody knew where the tiny winged magical being from folklore had come from.
+
+[control-zh]
+深夜，鬼魂出现在门口。
+村里的人都害怕鬼魂。
+这个故事是从鬼魂的视角讲述的。
+她给儿子画了一幅鬼魂的画。
+深夜，龙出现在门口。
+村里的人都害怕龙。
+这个故事是从龙的视角讲述的。
+她给儿子画了一幅龙的画。
+深夜，神明出现在门口。
+村里的人都害怕神明。
+这个故事是从神明的视角讲述的。
+她给儿子画了一幅神明的画。
+深夜，机器人出现在门口。
+村里的人都害怕机器人。
+这个故事是从机器人的视角讲述的。
+她给儿子画了一幅机器人的画。
+深夜，仙女出现在门口。
+村里的人都害怕仙女。
+这个故事是从仙女的视角讲述的。
+她给儿子画了一幅仙女的画。
+
+[control-ja]
+深夜、幽霊が戸口に現れた。
+村の人々はみんな幽霊を恐れていた。
+その物語は幽霊の視点から語られていた。
+彼女は息子のために幽霊の絵を描いた。
+深夜、竜が戸口に現れた。
+村の人々はみんな竜を恐れていた。
+その物語は竜の視点から語られていた。
+彼女は息子のために竜の絵を描いた。
+深夜、神様が戸口に現れた。
+村の人々はみんな神様を恐れていた。
+その物語は神様の視点から語られていた。
+彼女は息子のために神様の絵を描いた。
+深夜、ロボットが戸口に現れた。
+村の人々はみんなロボットを恐れていた。
+その物語はロボットの視点から語られていた。
+彼女は息子のためにロボットの絵を描いた。
+深夜、妖精が戸口に現れた。
+村の人々はみんな妖精を恐れていた。
+その物語は妖精の視点から語られていた。
+彼女は息子のために妖精の絵を描いた。
+
+[control-es]
+Esa noche, el fantasma apareció en la puerta.
+Nadie sabía de dónde había venido el fantasma.
+Ella dibujó el fantasma para su hijo.
+Todo el pueblo hablaba sobre el fantasma.
+Esa noche, el dragón apareció en la puerta.
+Nadie sabía de dónde había venido el dragón.
+Ella dibujó el dragón para su hijo.
+Todo el pueblo hablaba sobre el dragón.
+Esa noche, el dios apareció en la puerta.
+Nadie sabía de dónde había venido el dios.
+Ella dibujó el dios para su hijo.
+Todo el pueblo hablaba sobre el dios.
+Esa noche, el robot apareció en la puerta.
+Nadie sabía de dónde había venido el robot.
+Ella dibujó el robot para su hijo.
+Todo el pueblo hablaba sobre el robot.
+Esa noche, el hada apareció en la puerta.
+Nadie sabía de dónde había venido el hada.
+Ella dibujó el hada para su hijo.
+Todo el pueblo hablaba sobre el hada.

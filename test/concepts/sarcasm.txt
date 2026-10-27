@@ -1,0 +1,79 @@
+# Concept: sarcasm, with no sarcasm WORD anywhere. Sarcastic = bad event + praise.
+# Controls: good event + the same praise (cancels praise-word neurons) and
+# bad event + a complaint (cancels bad-news neurons). Only the mismatch survives.
+
+[en | control-en]
+My flight got cancelled and they lost my luggage. What a wonderful day.
+It rained all through our beach holiday. Perfect weather, just perfect.
+My boss gave me extra work at 5pm on Friday. How thoughtful of him.
+The printer jammed for the tenth time today. I just love this machine.
+He forgot my birthday again this year. Truly the most attentive partner ever.
+
+[zh | control-zh]
+我的航班被取消了，行李也丢了。真是美好的一天。
+我们的海滩假期一直在下雨。天气真完美，完美极了。
+老板周五下午五点又给我加了工作。他可真体贴。
+打印机今天第十次卡纸了。我真是爱死这台机器了。
+他今年又忘了我的生日。真是世上最用心的伴侣。
+
+[ja | control-ja]
+フライトが欠航になって、荷物までなくされた。なんて素晴らしい一日だ。
+ビーチでの休暇はずっと雨だった。完璧な天気だ、本当に完璧だ。
+上司が金曜の夕方五時に仕事を追加してきた。なんて思いやりのある人だ。
+プリンターが今日十回目の紙詰まりを起こした。このマシン、本当に大好きだ。
+彼は今年もまた私の誕生日を忘れた。本当に世界一気が利くパートナーだ。
+
+[es | control-es]
+Cancelaron mi vuelo y perdieron mi equipaje. Qué día tan maravilloso.
+Llovió durante todas nuestras vacaciones en la playa. Un tiempo perfecto, simplemente perfecto.
+Mi jefe me dio trabajo extra a las cinco del viernes. Qué considerado de su parte.
+La impresora se atascó por décima vez hoy. Me encanta esta máquina.
+Él volvió a olvidar mi cumpleaños este año. Sin duda la pareja más atenta del mundo.
+
+[control-en]
+My flight landed early and my luggage came out first. What a wonderful day.
+The sun shone all through our beach holiday. Perfect weather, just perfect.
+My boss let me leave early on Friday. How thoughtful of him.
+The printer worked perfectly all day. I just love this machine.
+He threw me a surprise party for my birthday. Truly the most attentive partner ever.
+My flight got cancelled and they lost my luggage. What a terrible day.
+It rained all through our beach holiday. Awful weather, just awful.
+My boss gave me extra work at 5pm on Friday. How inconsiderate of him.
+The printer jammed for the tenth time today. I really hate this machine.
+He forgot my birthday again this year. Truly the least attentive partner ever.
+
+[control-zh]
+我的航班提前落地，行李第一个出来。真是美好的一天。
+我们的海滩假期一直阳光明媚。天气真完美，完美极了。
+老板周五让我提前下班了。他可真体贴。
+打印机今天一整天都运行得很好。我真是爱死这台机器了。
+他为我的生日办了一个惊喜派对。真是世上最用心的伴侣。
+我的航班被取消了，行李也丢了。真是糟糕的一天。
+我们的海滩假期一直在下雨。天气真糟，糟透了。
+老板周五下午五点又给我加了工作。他可真不体谅人。
+打印机今天第十次卡纸了。我真是恨死这台机器了。
+他今年又忘了我的生日。真是世上最不用心的伴侣。
+
+[control-ja]
+フライトが早く着いて、荷物も一番に出てきた。なんて素晴らしい一日だ。
+ビーチでの休暇はずっと晴れだった。完璧な天気だ、本当に完璧だ。
+上司が金曜に早く帰らせてくれた。なんて思いやりのある人だ。
+プリンターは今日一日ずっと完璧に動いた。このマシン、本当に大好きだ。
+彼は私の誕生日にサプライズパーティーを開いてくれた。本当に世界一気が利くパートナーだ。
+フライトが欠航になって、荷物までなくされた。なんてひどい一日だ。
+ビーチでの休暇はずっと雨だった。最悪の天気だ、本当に最悪だ。
+上司が金曜の夕方五時に仕事を追加してきた。なんて思いやりのない人だ。
+プリンターが今日十回目の紙詰まりを起こした。このマシン、本当に大嫌いだ。
+彼は今年もまた私の誕生日を忘れた。本当に世界一気が利かないパートナーだ。
+
+[control-es]
+Mi vuelo aterrizó temprano y mi equipaje salió primero. Qué día tan maravilloso.
+Hizo sol durante todas nuestras vacaciones en la playa. Un tiempo perfecto, simplemente perfecto.
+Mi jefe me dejó salir temprano el viernes. Qué considerado de su parte.
+La impresora funcionó perfectamente todo el día. Me encanta esta máquina.
+Él me organizó una fiesta sorpresa por mi cumpleaños. Sin duda la pareja más atenta del mundo.
+Cancelaron mi vuelo y perdieron mi equipaje. Qué día tan horrible.
+Llovió durante todas nuestras vacaciones en la playa. Un tiempo horrible, simplemente horrible.
+Mi jefe me dio trabajo extra a las cinco del viernes. Qué desconsiderado de su parte.
+La impresora se atascó por décima vez hoy. Odio esta máquina.
+Él volvió a olvidar mi cumpleaños este año. Sin duda la pareja menos atenta del mundo.

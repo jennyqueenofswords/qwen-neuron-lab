@@ -1,0 +1,13 @@
+# should fire: a day-of-month number is coming next
+She was born on 4 July 1990 in Leeds.
+他于1990年7月4日出生。
+彼女は1990年7月4日に生まれた。
+Nació el 4 de julio de 1990.
+The ship was launched on 12 March 1888.
+# near misses: dates or numbers without a day coming
+The meeting is on Monday afternoon.
+She put the book on the table.
+They moved to Spain in July.
+He bought 4 apples and 7 oranges.
+# blind maximum
+Born on

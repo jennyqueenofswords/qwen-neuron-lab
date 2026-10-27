@@ -1,0 +1,40 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "alien L22/N2742": {
+   "neuron": "L22/N2742",
+   "value": 53.0,
+   "resid": 27.1
+  },
+  "sarcasm L15/N3920": {
+   "neuron": "L15/N3920",
+   "value": 18.7,
+   "resid": 10.8
+  },
+  "unyielding L6/N7430": {
+   "neuron": "L6/N7430",
+   "value": 15.5,
+   "resid": 8.2
+  },
+  "lips L21/N7675": {
+   "neuron": "L21/N7675",
+   "value": 35.7,
+   "resid": 21.8
+  },
+  "persona flag L29/N5455": {
+   "neuron": "L29/N5455",
+   "value": 75.4,
+   "resid": 48.9
+  },
+  "random L22": {
+   "neuron": "L22/N3898",
+   "value": 49.7,
+   "resid": 27.1
+  },
+  "random L15": {
+   "neuron": "L15/N8916",
+   "value": 20.5,
+   "resid": 10.8
+  }
+ }
+}

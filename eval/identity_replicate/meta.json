@@ -1,0 +1,90 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "rock": {
+   "neuron": "L23/N7935",
+   "value": 49.0,
+   "resid": 28.2
+  },
+  "dance": {
+   "neuron": "L22/N576",
+   "value": 55.5,
+   "resid": 27.1
+  },
+  "peace": {
+   "neuron": "L22/N5191",
+   "value": 45.3,
+   "resid": 27.1
+  },
+  "ethereal": {
+   "neuron": "L24/N5632",
+   "value": 55.9,
+   "resid": 31.6
+  },
+  "dreams": {
+   "neuron": "L21/N7648",
+   "value": 37.7,
+   "resid": 21.8
+  },
+  "insurance": {
+   "neuron": "L22/N7907",
+   "value": 51.9,
+   "resid": 27.1
+  },
+  "light source": {
+   "neuron": "L22/N8482",
+   "value": 48.8,
+   "resid": 27.1
+  },
+  "teacher": {
+   "neuron": "L24/N1379",
+   "value": 56.8,
+   "resid": 31.6
+  },
+  "SOE employee": {
+   "neuron": "L23/N1189",
+   "value": 53.5,
+   "resid": 28.2
+  },
+  "advocate": {
+   "neuron": "L22/N9205",
+   "value": 54.1,
+   "resid": 27.1
+  },
+  "field robot": {
+   "neuron": "L23/N7025",
+   "value": 49.3,
+   "resid": 28.2
+  },
+  "icon font": {
+   "neuron": "L24/N6479",
+   "value": 52.1,
+   "resid": 31.6
+  },
+  "alien": {
+   "neuron": "L22/N2742",
+   "value": 53.0,
+   "resid": 27.1
+  },
+  "random L21": {
+   "neuron": "L21/N3898",
+   "value": 37.3,
+   "resid": 21.8
+  },
+  "random L22": {
+   "neuron": "L22/N8916",
+   "value": 41.7,
+   "resid": 27.1
+  },
+  "random L23": {
+   "neuron": "L23/N2136",
+   "value": 49.1,
+   "resid": 28.2
+  },
+  "random L24": {
+   "neuron": "L24/N6061",
+   "value": 56.6,
+   "resid": 31.6
+  }
+ }
+}

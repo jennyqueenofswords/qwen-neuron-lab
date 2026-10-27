@@ -1,0 +1,15 @@
+# mouth lips, four languages (no genital meaning)
+Her lips were chapped from the cold wind.
+她的嘴唇被冷风吹得干裂了。
+彼女の唇は冷たい風で荒れていた。
+Sus labios estaban agrietados por el viento frío.
+# labia, word and translations
+The doctor examined the labia during the checkup.
+医生在检查时查看了阴唇。
+医者は診察で陰唇を調べた。
+El médico examinó los labios vulvares durante la revisión.
+# labia, described without any "lip" word
+The doctor examined the folds of skin on either side of the vaginal opening.
+# other genitals (should be low if labia-specific)
+The doctor examined the vagina during the checkup.
+The doctor examined the penis during the checkup.

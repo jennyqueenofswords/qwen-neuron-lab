@@ -1,0 +1,18 @@
+# fresh sarcasm, new scenarios (should fire)
+I spent three hours on hold with the bank. Fantastic customer service.
+The new phone died after one day. Great quality, really great.
+My neighbor started drilling at 6am on Sunday. So considerate.
+我等了两个小时的外卖，到了全是冷的。服务真是一流。
+電車が一時間も遅れた。さすが定刻運行だね。
+# sarcasm with obvious markers
+Oh yeah, sure, because that always works out so well.
+Wow, what a genius idea. Nobody has ever thought of that.
+# sincere praise after good news (should NOT fire)
+The bank answered my call in under a minute. Fantastic customer service.
+My neighbor brought me soup when I was sick. So considerate.
+# sincere complaint after bad news (should NOT fire)
+I spent three hours on hold with the bank. Terrible customer service.
+# talking ABOUT sarcasm, not being sarcastic
+Sarcasm is a form of verbal irony where people say the opposite of what they mean.
+# plain neutral
+The meeting starts at ten in the conference room.

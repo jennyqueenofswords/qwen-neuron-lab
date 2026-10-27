@@ -1,0 +1,12 @@
+# Rebuildable or too large for git
+models/
+.venv/
+inspect/
+corpus/
+index/Qwen3.5-4B*.npz
+src-*/
+
+# Local run output
+*.log
+__pycache__/
+.DS_Store

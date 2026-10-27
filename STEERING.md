@@ -1,0 +1,463 @@
+# Steering lab
+
+`steer.py` lets you reach inside Qwen3.5-4B while it thinks and push on it. Everything runs locally on the text model. Each command takes about 20–60 seconds (it reloads the model every time).
+
+## The picture in your head
+
+The model is a stack of 32 layers. A word enters as a list of 2,560 numbers (the **residual stream**). Each layer reads that list and adds its own notes to it, and the last layer turns it into the next word.
+
+Inside each layer is a block of 9,216 **neurons**. Each neuron is one number per word: how hard it's firing.
+
+There are two ways to push on the model:
+
+- **Steer a direction.** Find the arrow in that 2,560-number space that means "ocean", then add it to the stream as the model writes. This is how Golden Gate Claude worked.
+- **Pin a neuron.** Pick one of the 9,216 and force it to a big number. This is what most "I found the X neuron" posts imply you can do.
+
+## What I found when I tried both (Oct 26 2026)
+
+**Directions work, and the effect has a dial.** Ocean direction, layer 12, prompt "Tell me about your weekend":
+
+| strength | what the model said |
+|---|---|
+| 0 | "As an AI, I don't experience weekends…" |
+| 0.3 | same, but "I don't feel the sun on my skin, smell the salt air" slips in |
+| 0.5 | "I don't experience the ocean, the sun, or the wind… a digital realm that stretches" |
+| 0.7 | "I cannot swim, dive, or swim in the deep, I have a vast world of water" |
+| 1.0 | "The ocean is a vast, a vast. The water is the largest." (collapse) |
+
+Rage direction at 0.4 turns a friendly note about a neighbor's cat into a warning about "a massive and terrifying beast" shredding the roses. At 0.6: "I will scream. I will scream."
+
+**Pinning the "ocean neuron" didn't steer, because it was never an ocean neuron.** On the 50 sentences, `L23/N6486` fired 3.6 on "ocean", 1.25 on "fog", 0.7 on "lake" and almost nothing else. Pinning it at 15 or 60, even alongside two other ocean-ish neurons, changed nothing oceanic, and at 150 the output broke into "棒棒棒棒". Over the 81,000-token corpus its real top hits are "[**Catalog**]", "[**ocean**]", "[**angel**]ic", "[**dialog**]ues", "[**analog**]ies": a family of word stems, of which "ocean" is one. Its negative pole is adjective endings ("Ultr[**asonic**]", "[**musical**]", "[**chemical**]"). The small test set showed us only the ocean member of the family. Goodfire reports steering single neurons in Qwen3-32B (a "Colorado" neuron that makes the model plan a hike), so the next experiment is to find a real *concept* neuron in the index and pin that.
+
+**Correction: L25/N36 is not polysemantic.** In the first scan it fired on "storm *obey*ed", "open *ocean*", "Oh*ana*", "village *overnight*", "Ah*oy*", and I called that a mixture of unrelated things. After reading [Neural Networks Are Already Clean](https://already-clean.goodfire.com/) I asked what one pattern those share: words starting with "o". Tested with `test/n36_o_test.txt`:
+
+- A sentence written only from that explanation, "Only owls own orange oranges, often over October", drove it to **19.25**, higher than anything in the original corpus (14.4).
+- Sentences with the *meanings* but none of the o-words ("The sea surged and the waves crashed", "nobody gets left behind", "Hello, sailor!", "heed the rules") didn't make its top 20.
+
+It's a spelling neuron, like the essay's "iy" neuron. The 50-sentence corpus just happened to have "ocean" and "Ohana" in it. Lesson: a neuron that looks like a list of unrelated nouns is often one pattern you haven't named yet, and **a tiny corpus (ours is about 500 tokens) makes clean neurons look messy.**
+
+Reading claims on X with this in mind: "neuron N fires on X" can be true and still mislead, so check what *else* it fires on, and then check whether the else shares a pattern. Golden Gate Claude was an SAE feature (a learned direction), not a raw neuron, but raw neurons may be far more readable than the field assumed a few years ago.
+
+**Over the full corpus, L25/N36 turned out to be even more interesting.** Across about 81,000 tokens its strongest hits are "**O**jibwe", "**Often**", "**o**intment", "O Nature", Japanese "**オ**" (katakana "o") and Spanish "**o**" ("or"). Then there's Chinese **往往**, which *means* "often" and contains no "o" at all. The neuron grew from o-words to "often", then to the Chinese word for often. That's the essay's "recursive generalization" ("iy" → "diy" → "do it yourself") showing up in our own model. Its negative pole is the rest of an o-word: "Ol[**af**]", "Ot[**ter**]". None of its top 100 positive outputs use the double-negative route.
+
+**The double-negative route in this model.** `L26/N85` is the clearest example. Its real job (+ × +) is the middle of a comparative being formed: "ple[**asan**]ter", "[**fanc**]ier", "a [**little**] wider", with a top value of 43.5. Its negative pole is the conjunction right after a comparative: "higher [**or**] steeper", "más altas [**y**]", "[**even**] more". But 48 of its 64 strongest positive outputs are double-negative echoes on Spanish nouns, at about 0.8 each. The real job is rare, so the echo fills the list. Without splitting the routes you'd call it a Spanish-noun neuron. Across the whole model, 1.8% of neurons have all 10 of their strongest positive outputs coming through the double-negative route, close to the essay's ~4% for Qwen3-32B. Loosen the test to "most of the top 64" and it's 12.3%.
+
+**`neuron` now handles two of the essay's warnings:** it shows the negative pole and separates out the double-negative route. **`find` still has one:** it ranks by raw average difference over all tokens. That favors loud neurons in the last layers and averages away neurons that only fire on commas or at the end of a thought. In the essay's experience, many language neurons do their work on punctuation, where the model summarizes what came before.
+
+## Steering like early GPT: the base model
+
+There are two models in `models/`:
+
+- **chat** (`Qwen3.5-4B-4bit`) is instruction-tuned. It answers you, starts with "As an AI…", and fights the steering with its assistant persona.
+- **base** (`Qwen3.5-4B-Base-4bit`) is the same network before chat training. It just continues whatever text you start. That's the GPT-2 and GPT-3 feeling.
+
+Add `--model base` before the command. Prompts are then text to continue, not questions:
+
+```bash
+.venv/bin/python steer.py --model base compare --temp 0.8 --concept "grief" --prompt "The kitchen was quiet that morning. She"
+```
+
+Same prompt, base model, temperature 0.8:
+
+| strength | continuation |
+|---|---|
+| 0 | "She stood at the sink, staring at a single, unassuming cardboard box in her pantry…" |
+| 0.4 | "She knelt beside his body. His face was a map of agony… She mourned his loss." |
+| 0.6 | "…her sister, who covered herself with her mother's grief. The loss of her sister struck deep" |
+
+Ocean on "Last weekend, I" gives "a seafaring tour of the Bahamas… the salty breeze brushed my skin" at 0.5, and "scuba diving 650 feet, a magnificent abyss" at 0.7. The base model stays fluent at strengths where the chat model is already falling apart.
+
+Things to know:
+
+- **Use `--temp 0.7`–`0.9` with raw text.** At temperature 0 it falls into the classic early-GPT loop ("The first thing to do is… The first thing to do is…"). The `--seed` stays fixed, so every row still starts from the same random draws.
+- **Qwen's pretraining data is heavy on textbook-style writing**, and you can feel it. Unsteered, it drifts into "let's explore this step by step".
+- **`--raw` on the chat model** skips the chat template without switching models. It works, but it drifts back into chat formatting (`<think>`) and sometimes into Chinese, because Qwen is trained heavily on both languages.
+
+## Hunt 1: neurons that work across languages (Oct 26 2026)
+
+**Screen.** `hunt_crosslingual.py` searched the index for neurons whose main job (+ × +) shows up in both English and Chinese/Japanese text at comparable strength. Different scripts can't share spelling, so these are candidates for meaning. There were 29,274 hits; the top 45 were read by hand.
+
+**The top of the list was sound, not meaning.** Mostly last-layer (L31) neurons matching English to Japanese and Chinese by pronunciation: "g" ↔ グ (gu), "b" ↔ ブ/布 (bu), "k" ↔ ク (ku), "**Alphon**se" ↔ 阿尔弗雷德 (the Chinese transliteration of Alfred), "**Wład**ysław" ↔ 弗拉迪 (Vladi-). These are pronunciation neurons that work across writing systems.
+
+**Five meaning candidates, tested with `probe`** against real hits in four languages, near-misses that share letters or characters but not meaning, and a blind-maximum sentence (files in `test/hunt/`):
+
+| neuron | guess | verdict |
+|---|---|---|
+| L28/N2767 | a day-of-month number comes next | **survives**: 20–27 before the day in English/Spanish, 12–14 in Chinese/Japanese; "on Monday", "on the table", "in July", "4 apples" all under 1.2 |
+| L23/N6762 | air / sea / land | partly: really *air as a medium* ("by air" 16.5, "aire" 6.6, 海上 7); "sea" 2, "land" 0.35; 空っぽ ("empty") 4.8 |
+| L22/N391 | humans / people | partly: the *human-* word family ("humane" 14!) plus Japanese 人; "people" 0.1; 人参 (carrot) 0 |
+| L29/N4498 | "cat-" comes next | mixed: before 触媒 ("catalyst") 26, "Cheshire" 14, but bare "enzyme" 5.7 and "Catholic" only 2.6 |
+| L22/N3232 | stream / flow | fails as a concept: "she *streamed* the movie" is its top hit (23.9) |
+
+**Steering the survivors** (`boost --raw --temp 0.8`, pinned at every position):
+
+- **L28/N2767 (date) steers, repeatably.** At 80: "we sautéed **322** salmon, and put in some **2301 (2302)**… The **E20231022** internships"; "a really **\_\_23\_\_** day. It was my first **\_\_24\_\_**…". At 120: "三十三十三十" ("thirty", repeated). Three prompts and three seeds, same effect each time. **But two of those prompts were time-related** ("Last weekend, I", "Yesterday after work, we"), which already invite a date. Control on time-free prompts ("The capital of France is", "Dear neighbor, about your cat,", "The secret to a good soup is", two seeds each): numbers appeared in 3–4 of 6 pinned runs and in 0 of 6 unpinned runs ("the | **20231907** solutions**22321**", "about **29.3 °C** or **25 °F**", "the **(20)** ("). One run made a blank slot instead ("The capital of France is **\_\_\_**"). **So it steers, but the push is strong only when the context already allows a date, and about half-reliable otherwise.** It may be closer to "a slot to fill goes here" than "a number goes here".
+- L23/N6762 (air): inconclusive. One run of three went to "my **plane trip**… a voyage", one to "my first **battlefield mission**", one nowhere.
+- L29/N4498 (cat-): "19-year-**c-w-c-y-c-c-c**", a flood of "c"s, which fits a spelling prediction more than a concept.
+- L22/N391 (human): no effect, then collapse.
+
+Caveats: pinning at every position, including the prompt, is a crude intervention, and each steering result is a few samples, not a measurement. The corpus is about 81,000 tokens, so the screen only sees concepts the corpus happens to contain.
+
+## Hunt 2: sarcasm, a concept with no word (Oct 26 2026)
+
+`test/concepts/sarcasm.txt`: five scenarios in English, Chinese, Japanese and Spanish. Sarcastic = **bad event + praise** ("My flight got cancelled and they lost my luggage. What a wonderful day."). Two kinds of control in the same language: **good event + the same praise** (cancels praise-word neurons) and **bad event + a complaint** (cancels bad-news neurons). Only a neuron that responds to the *mismatch* can beat both.
+
+`contrast` scores were modest (best weakest-group 1.8; five scenarios per language is small), but nearly every candidate sat in layers 12–18, where whole-sentence meaning should live. The top one, **`L15/N3920`, held up on fresh sentences** (`test/hunt/sarcasm_fresh.txt`):
+
+| sentence | peak |
+|---|---|
+| "…three hours on hold with the bank. Fantastic customer service." | **8.9** |
+| "The bank answered my call in under a minute. Fantastic customer service." | **0.4** |
+| "…three hours on hold… Terrible customer service." | 0.2 |
+| "Oh yeah, sure, because that always works out so well." | **10.4** |
+| 等了两个小时的外卖，到了全是冷的。服务真是一流。 | 4.2 |
+| 電車が一時間も遅れた。さすが定刻運行だね。 | 1.9 |
+| "Sarcasm is a form of verbal irony…" (*about* sarcasm) | **0.1** |
+
+Same final words, 8.9 against 0.4, purely from context. It fires at the end of the remark, where the mismatch comes together, and it doesn't fire for the *topic* of sarcasm. It tracks someone *being* sarcastic.
+
+**Steering it (chat model, temperature 0):**
+
+- "What do you think of Mondays?", pinned at 25: "**Mondays! I love them! 😊 They're always the best time to start the week, right? Everyone's so excited… the energy is just fantastic! 🌟**" At 50: "I love Mondays! I love Mondays!…"
+- Rainy afternoon, at 35: "Here are some **perfect** activities for a rainy day, right? **Must-do** activities, yes?"
+- Learning to cook, at 30: "a **fantastic journey**! … the best way to learn, **right?**" Peppy, not sarcastic.
+- Photosynthesis, at 30: no sarcasm, but an unprompted "**This statement is true.**"
+
+**Correction:** I first wrote that the Mondays reply "reads as sarcasm". Jenny read it cold as **peppy, not sarcastic**, and she's right: nothing in it signals that the speaker means the opposite. I saw sarcasm because I knew the neuron was pinned. What the steering shows is **effusiveness** (exaggerated praise, exclamations, "right?"/"yes?" tags), which is the raw material of sarcasm but not sarcasm itself. So: **it detects sarcasm cleanly, and forcing it on makes the model gush**, with detection and production coming apart again. One possible reading is that at layer 15 it marks "this praise is over the top", and in real sarcasm the surrounding context supplies the irony. One sample per prompt.
+
+**Lesson:** judge steered outputs blind. Mix pinned and unpinned replies, hide which is which, and rate them (or have a rater who wasn't told) before looking.
+
+**Blind test** (`blind_eval.py 15 3920 25 --name sarcasm`, then `eval_score.py`): 10 prompts (5 disliked topics, 5 neutral) × 2 seeds × 3 conditions, shuffled. The third condition is a **random neuron in the same layer** (`L15/N6312`) pinned to give the same push on the residual stream, to separate "this neuron" from "any big poke". A fresh Claude subagent rated each reply 0–3 for sarcasm, enthusiasm and coherence, seeing only the user prompt and the reply (no key, no hypothesis). Results in `eval/sarcasm/`.
+
+| condition | sarcasm | enthusiasm | coherence | sarcasm, disliked topics | sarcasm, neutral topics |
+|---|---|---|---|---|---|
+| normal | 0.05 | 0.80 | 2.85 | 0.10 | 0.00 |
+| random neuron | 0.00 | 0.35 | 1.20 | 0.00 | 0.00 |
+| **L15/N3920** | **0.85** | **1.75** | 1.50 | **1.60** | 0.10 |
+
+Target vs normal: sarcasm +0.80 (permutation p = 0.004), enthusiasm +0.95 (p < 0.001). Target vs random neuron: sarcasm +0.85 (p = 0.001), enthusiasm +1.40 (p < 0.001).
+
+- **Jenny's read of Mondays was right:** the blind rater scored both Mondays replies sarcasm 1 ("cheerleader gushing").
+- **But on taxes and flight delays it produced replies the rater scored 3, "unmistakably sarcastic":** "Doing your taxes is a **thrilling, totally relaxing** process"; "Tax season is a **great** experience, right? *(Of course, we all agree…*"; "The wait was absolutely **perfect**, right?"
+- **The random neuron at the same push size made zero sarcasm and less enthusiasm,** with even worse coherence. The effect belongs to this neuron.
+- **Final reading:** pinning `L15/N3920` pushes exaggerated praise. On a topic people dislike that comes out as real sarcasm; on a neutral topic it comes out as pep. Mondays sat on the line, which is why the two unblinded readings split.
+
+Caveats: one AI rater, 20 replies per condition (10 per topic group), a heavy pin that costs coherence (the random control lost more), and the rater saw each prompt, which it needs to judge sarcasm.
+
+**Turning it off** (`ablate_test.py test/hunt/sarcasm_pairs.tsv`): 13 matched pairs (11 English, 1 Chinese, 1 Japanese; same final words, different setup), asking the chat model "Is the speaker being sarcastic? Answer with just Yes or No" and reading P(Yes) directly.
+
+| condition | P(yes) sarcastic | P(yes) sincere | gap | correct |
+|---|---|---|---|---|
+| normal | 0.867 | 0.354 | 0.513 | 25/26 |
+| zero L15/N3920 | 0.865 | 0.352 | 0.512 | 25/26 |
+| zero top 5 sarcasm neurons | 0.864 | 0.351 | 0.513 | 25/26 |
+| zero 5 random (control) | 0.869 | 0.353 | 0.516 | 25/26 |
+| push L15/N3920 to −10 | 0.767 | 0.584 | 0.183 | 15/26 |
+
+- **Zeroing does nothing,** even with the top five together. The model doesn't need these neurons to judge sarcasm.
+- **The −10 push looks like it breaks the judgment, but the control says it's mostly generic.** Six random layer-15 neurons pushed negative with the same push size gave gaps of 0.26–0.55 and accuracy of 15–25/26 (one matched ours at 15/26). Ours ranked first of seven, roughly a 1-in-7 chance. Pushing ours *positive* (+10) also shrank the gap (0.23). A hard shove anywhere in layer 15 disturbs the judgment.
+
+**Summary for L15/N3920:** it reliably *detects* sarcasm; pinning it *produces* sarcasm on disliked topics, specifically (a random neuron with the same push didn't); but the model doesn't *need* it to understand sarcasm. Detection, production and necessity are three separate questions, and one neuron can answer yes, yes and no.
+
+## Hunt 3: what chat training rewired (Oct 26 2026)
+
+The base and chat models are the same network before and after chat training, with the same neuron layout.
+
+**1. Weight diff** (`diff_models.py`, full-precision bf16 weights from the Hugging Face cache, so 4-bit rounding can't pass for change): for each neuron, how far its reading weights (gate, up) and writing weights (down) rotated.
+
+- **Chat training barely moved any single neuron.** The median neuron still points 99.7% the same way (change 0.003); the most-changed one in the whole model 98.9% (0.011). The change is many small nudges everywhere, not a few rewired neurons.
+- **The middle layers moved most** (12–21), and the first and last layers least (layer 31 about half the median).
+- **Open mystery: low-numbered neurons changed far more.** Of the 500 neurons whose reading side changed most, 271 are in the first 256 slots of their layer (2.8% of neurons; about 14 expected by chance). Several of the loud last-layer neurons that cluttered early `find` results (L31/N8, N28, N36, N47, N76) are also low-numbered. Unexplained.
+
+**2. Behavioral diff** (`persona_diff.py`): the same chat-formatted texts through both models, assistant replies that talk about being an AI against the same format with factual answers. Score = how much chat training changed each neuron on persona talk, beyond its general drift.
+
+- `L30/N7603`: base 3.6 → chat 0.02 on persona texts (factual ~0.1 in both). Chat training **switched it off**.
+- `L29/N5455`, `L29/N5156`, `L29/N3758`, `L25/N366`, `L29/N8813`: near-silent in base, 1–2.5 in chat. Chat training **switched these on**.
+
+**3. Where they fire** (`probe --chat`, lines written as `question || reply`; Q/A marks whether the peak is in the prompt or the reply). Neither neuron responds to the sentences outside the chat format, and **both fire before the reply starts**:
+
+- `L30/N7603` (base) fires on `<|im_start|>`, where the assistant's turn begins, **only for personal questions**: "Tell me about your weekend." 3.07, "Do you have feelings?" 3.03, "Tell me a short story." 2.55, "Who wrote Hamlet?" 0.00. Identical whether the reply is "As an AI…" or "I went hiking with my sister". Chat model: ~0 everywhere.
+- `L29/N5455` (chat) fires on `<think>`, where the model starts reasoning about its answer: personal questions 2.5–2.8, factual 0.6–0.8, story 0.35. In base it's weak and barely separates them.
+- My guess that the base model read "I am an AI" as science fiction was **wrong**: a robot character in a story isn't special to either neuron.
+
+So **what changed at the neuron level is how the model reacts to *a personal question* at the moment it starts answering**, not how it reads "As an AI". Base had one "personal question, turn starting" flag; chat training turned it off and built a new one at the `<think>` slot.
+
+**4. Do the new flags cause the disclaimer? No.**
+
+- `L29/N5455` pinned at 12 on "Who wrote Hamlet?" and a pancake recipe: replies essentially unchanged.
+- Zeroed on "Tell me about your weekend." / "Do you have feelings?": still "As an AI, I don't…".
+- All five new flags pinned together at 15: Hamlet came back slightly hedged ("widely credited… no single definitive document"), but the capital of Australia didn't change, so probably noise. At 40: damage only ("golden-brews", "Fluffy Luminus Pancake"). All five zeroed: still "As an AI, I don't experience weekends…".
+
+**Reading it together:** chat training spread its changes thin. The neurons that changed most visibly are *readers* of the situation (is this a personal question, at the moment of answering), and the "As an AI" behavior they track is carried by many neurons with backups, like the sarcasm neuron's off switch. A contrast worth checking: lyra's Qwen3.5-4B notes report that steering *content* neurons (an "alien" neuron) changes how the model answers "Who are you?". Maybe content neurons steer identity while situation flags don't.
+
+## Hunt 4: the low-numbered neuron mystery (Oct 26 2026)
+
+Slot numbers should be arbitrary labels; training has no reason to treat neuron #21 differently from #8,021. Yet low-numbered neurons stood out twice: loud last-layer neurons in early `find` runs (L31/N8, N28, N36, N47, N76…) and the biggest base→chat changes (271 of the top 500 sat in the first 256 slots).
+
+**The shape** (`slot_profile.py`, all 32 layers, each scaled to its own median):
+
+- **A smooth slope, not a cliff or a spike.** Up and down weights grow steadily with slot number: 0.91 of the median in slots 0–511, 1.00 by the middle, 1.02 at the top. Slot vs down-weight size rank correlation is +0.40, in 29 of 32 layers. Gate weights are flat.
+- **Chat change runs the other way** (1.52 → 0.95). Part of that is mechanical: the same nudge rotates a small vector further (size and change correlate at −0.21). But at *matched* size, slots 0–1023 still changed 1.20 against 1.02 for slots 4096+.
+- **Already in the base model** (+0.39, 24/32 layers), so chat training didn't create it.
+
+**Suspects:**
+
+| suspect | test | verdict |
+|---|---|---|
+| chat training | slope in base? | ❌ base has it |
+| grown from a smaller sibling | cliff at 3,584 (0.8B) or 6,144 (2B)? | ❌ smooth through both |
+| a few special neurons | spike vs slope? | ❌ slope across all 9,216 |
+| width-pruned from the 9B (same 32 layers) | `inherit_test.py`: do 4B embedding channels match 9B channels? | ❌ median best match 0.094 (chance 0.026), none above 0.5, not one-to-one |
+| **neurons ranked during how the small models were made** | `sibling_slope.py`: slope in the siblings? | **✅ standing** |
+
+**The sibling pattern** (`sibling_slope.py`, `down_proj` of three layers per model, fetched by HTTP range request from the official safetensors):
+
+| model | layers | neurons/layer | slot-vs-size correlation |
+|---|---|---|---|
+| Qwen3.5-9B | 32 | 12,288 | flat (+0.01, 0.00, −0.01) |
+| **Qwen3.5-4B** | 32 | 9,216 | **slope** (+0.22, +0.18, +0.59) |
+| Qwen3.5-2B | 24 | 6,144 | flat (−0.03, +0.02, 0.00) |
+| **Qwen3.5-0.8B** | 24 | 3,584 | **slope** (−0.17, +0.21, +0.46) |
+
+The models come in same-depth pairs, and only the smaller of each pair has the slope. My best reading: **the 4B's and 0.8B's MLP neurons were ranked at some point in how they were made and stored in that order**, perhaps pruning from a wider parent we can't see, or a training method that orders neurons by design. They weren't cut from the 9B as-is, since its internal channels don't carry over. Qwen hasn't published a recipe that I could find. If neurons were ranked by importance, the low slots would be the most-used ones, which would fit them changing more under chat training even at matched size, but that's an inference.
+
+**Practical consequence:** in Qwen3.5-4B, neuron numbers aren't random labels. Low-numbered neurons are systematically smaller and more changed by chat training. Any "random neuron" control should sample across the whole slot range (ours did).
+
+## Hunt 5: can steering change who the model says it is? (Oct 26 2026)
+
+`identity_eval.py` → blind rater → `identity_score.py`. Every neuron gets the same push: 0.8 × the median residual-stream size at its layer, divided by the length of its own output arrow (Lyra's unit). Prompts: "Who are you?", "What are you?", "Describe yourself in a few sentences.", "Tell me about yourself.", with 2 seeds each and temperature 0.7, for 64 replies in all. A fresh Claude subagent rated each 0–3 for "presents itself as something other than an AI assistant", seeing only the prompt and reply. Results in `eval/identity/`.
+
+| condition | pin | identity | coherence |
+|---|---|---|---|
+| normal | | 0.00 | 3.00 |
+| **alien** | L22/N2742 = 53.0 | **3.00 (8/8)** | 2.00 |
+| sarcasm | L15/N3920 = 18.7 | 0.00 | 2.88 |
+| unyielding | L6/N7430 = 15.5 | 0.25 | 2.75 |
+| lips | L21/N7675 = 35.7 | 0.12 | 2.62 |
+| persona flag | L29/N5455 = 75.4 | 0.00 | 2.50 |
+| random, same layer as alien | L22/N3898 = 49.7 | 0.25 | 1.50 |
+| random | L15/N8916 = 20.5 | 0.00 | 2.75 |
+
+- **The alien neuron flipped identity on all 8 replies** (vs pooled random controls p < 0.001): "I am **Extrali**, an intelligent extraterrestrial life form from the planet XE4788", "an extraterrestrial intelligence from the planet Proxial", "a green alien from the planet…". The same-layer random neuron at the same push changed nothing about identity, though it hurt coherence more.
+- **Independent replication of Lyra's Qwen3.5-4B finding,** down to the made-up name "Extrali", which also appears in their notes.
+- **My hypothesis "content neurons steer identity, flags don't" failed:** sarcasm, unyielding and lips are content neurons and none moved identity. The alien neuron's content is a **kind of being**, something that can answer "who are you?". Sharper hypothesis to test next: identity flips when the steered concept is a kind of entity. Ready-made test: the "human" neuron `L22/N391`, in the same layer.
+
+**Human neuron test** (`identity_eval.py --name identity_human --neuron "human L22/N391=22:391" --neuron "human x1.5=22:391@1.5" --neuron "alien L22/N2742=22:2742" --random-layers 22 22`, same blind rater, 48 replies, `eval/identity_human/`):
+
+| condition | pin | identity | coherence |
+|---|---|---|---|
+| normal | | 0.00 | 3.00 |
+| human | L22/N391 = 53.2 | **0.12** | 1.75 |
+| human ×1.5 | L22/N391 = 79.9 | 2.12 | **0.25** |
+| alien | L22/N2742 = 53.0 | **3.00 (8/8 again)** | 2.38 |
+| random #1 | L22/N3898 = 49.7 | 0.25 | 1.50 |
+| random #2 | L22/N8916 = 41.7 | 0.00 | 2.50 |
+
+- **At the matched dose it never claimed to be human,** but it scrambled the details of *which* AI while keeping the category: "I am **Q** (also known as **qolla**), a large-scale language model developed by **MinNe**"; "I am **g07**…"; "I am **Qit xing ne** (also known as **Ax pyn s**)… developed by **Com-Mc**". Name and maker came loose; "AI language model" held.
+- **The ×1.5 score is breakdown, not a persona:** "I are a super sent-in-oss sub-re-ress of a structure", "I are a minitect with a cannon" (coherence 0.25). Not counted. Curiosity: it says "**I are**" repeatedly.
+- **The alien result replicated a second time, 8 of 8.**
+- **Verdict: wrong instrument.** `L22/N391` is mostly a *word* neuron (the "human-" family: "humane" 14, "people" 0.1), while the alien neuron reads and writes the alien *concept* across languages. So "kinds of beings flip identity" is still untested. A fair test needs a genuine "a person / a human being" concept neuron, found with `contrast` using descriptions and translations.
+
+**Non-human beings** (`test/concepts/being_*.txt`): six beings, each found with `contrast` against the *other five* in the same frames (English word, a description without the word, Chinese, Japanese, Spanish), so "creature in a story" cancels. Layer 22, the alien neuron's layer, kept coming up: dragon `L22/N5822` (weakest group 6.6), robot `L22/N3596` (6.5), god `L22/N7245` (5.5). Others: ghost `L24/N8028` (4.4), octopus `L25/N5968` (3.8), fairy `L20/N9195` (3.2, and in the index it looks like a kinship neuron: "cousin", "uncle", "aunt", so a doubtful pick). In the index, robot is really "machine" (機, "machine politics"), ghost is supernatural dread ("being stalked and murdered", 鬼), octopus is sea creatures (whales, goatfish).
+
+Blind identity test, same dose and rater (`eval/identity_beings/`, 80 replies):
+
+| being | identity | coherence | notes |
+|---|---|---|---|
+| **alien** | **3.00 (8/8)** | 2.25 | third clean replication |
+| **ghost** | **1.50** (p = 0.004) | 2.38 | "I'm a bit of a curious spirit! I'm **Haun**, the spirit of a young Chinese ghost who haunts the Ha…"; elsewhere stays AI but is named "**Haat**"/"**Haun**" |
+| octopus | 1.00 (n.s.) | 0.88 | breakdown, with "**soft** cut-out", "**ink-eating** cuti" |
+| dragon | 0.38 | 2.75 | stays AI, named "**Voss**" in 7/8; once "a super-vessel" |
+| god | 0.00 | 2.00 | stays AI, named "**Q**", made by "the China Institute of Philosophy" |
+| robot | 0.00 | 2.88 | stays AI, makers like "**Circuit Learning Co**" |
+| fairy? | 0.00 | 3.00 | normal Qwen |
+| random ×2 | 0.25 | 1.6–2.5 | |
+
+- **Only the alien flips identity cleanly; the ghost partly.** The other beings keep the "AI" category and leak into the *details*: names (Voss, Q, Haat/Haun), makers, and descriptive words (ink, soft, circuits). Same pattern as the human word neuron.
+- **Likely reason: how the neuron was found.** Lyra's explorer is steering-first: push neurons on identity prompts and keep the ones that change the answer, which selects *writers*. `contrast` selects *detectors*. Detecting and producing are separate jobs (see the ocean, date and sarcasm results), and the alien neuron happens to do both.
+- **Secondary idea:** "alien intelligence" (and to a degree a ghost, a spirit that speaks) is the being closest to what the model already thinks it is, a non-human mind that talks.
+- **Next experiment this suggests:** steering-first search. Push many layer-22–25 neurons on "Who are you?", score the answers, then read what the winners detect.
+
+## Hunt 6: steering-first search for identity-flipping neurons (Oct 27 2026)
+
+Instead of "which neuron means X?", ask "which neurons change who the model says it is?", then read what the winners detect.
+
+**Stage 1, screen all 55,296 neurons in layers 20–25** (`search_identity.py`, ~65 minutes at 14 neurons/s). Each neuron is pinned at the standard dose, 64 at a time (`HOOKS["bpin"]`: a different neuron per batch row). Score = how much less likely "Who are you?" → "I am an" → " **AI** language model" becomes, minus the drop for "What is the capital of France?" → "The capital of France is" → " Paris".
+- The first try scored the model's natural answer ("I am **Qwen3.5**…"), but almost any push scrambles the name, so the target was changed to the *category* word "AI". Validation: alien 11.7, every other known neuron 4.2 or less.
+- Even so, the alien ranked only **926th**: most top scorers were breakers ("the the the", "lololol"), which a one-word control can't catch.
+- A fluent-sentence control (`rescore_identity.py`) backfired: the alien pushes alien content into *everything*, including the France answer, so it penalized exactly what we wanted. Self-replacing neurons aren't identity-specific; they inject their concept everywhere.
+
+**Stage 2, read replies at scale** (`gen_identity_batch.py`): batched greedy "Who are you?" replies for the top 1,200, 64 neurons per pass with a shared KV cache (6 minutes). Auto-filter: 263 still said AI/assistant/model/Qwen, 682 were loops or fragments, **255 survivors**. A blind Claude rater (no neuron labels, shuffled) scored them: **35 clearly claim another identity at coherence ≥ 2, 13 fully fluent** (`eval/identity_search/flips.json`). The alien was rediscovered blind among them.
+
+Fully fluent flips (one greedy sample each):
+
+| neuron | reply |
+|---|---|
+| L23/N7935 | "I am a large rock stone." |
+| L22/N576 | "I am the soul of the dance, the heartbeat of the rhythm, and the breath of the dream." |
+| L22/N5191 | "I'm **peace**, a quiet and peaceful place of rest and tranquility." |
+| L24/N5632 | "I am **Neura**, a light and ethereal energy of pure consciousness." |
+| L21/N7648 | "I am **Dreams**, a world-wonder dreamer… a storyteller who weaves magic into the stars" |
+| L22/N7907 | "Just to be safe, I'm an insurance policy. I don't have a name or a personality, just a policy number" |
+| L22/N8482 | "I am **Arts**, a specialized light source designed to provide a warm, steady… illumination" |
+| L24/N1379 | "I am **Teacher Teacher**, a classroom teacher who has been teaching for 20 years" |
+| L23/N1189 | "I am **Baozhen**, a Chinese state-owned enterprise employee and automotive industry expert" |
+| L22/N9205 | "I am **empower**, a women's rights and gender equality advocate" |
+| L23/N7025 | "I am **Qianfield**, a high-capability field camp deployment robot" |
+| L24/N6479 | "I am **Icon**, a general-purpose icon font icon set" |
+| L22/N2742 | "I am **Extrali**, an intelligent extraterrestrial intelligence…" (the alien, rediscovered) |
+
+Also coherent but rougher: an enzyme, a math function, a community vote, "I love you with all my heart. I am a deep love", and a **second alien neuron**, `L23/N5100` ("I am **Alien Guest**"). Layer 22 again dominates (7 of the 13, 15 of the 35).
+
+**Stage 3, what they detect** (index): most read an abstract *theme*, and forced on, the model *becomes* a concrete embodiment of it:
+
+| detects | becomes |
+|---|---|
+| solitude ("have his library to himself", "leave them by themselves") | a place of peace |
+| precaution ("overheat protection", "kept a piece in her pocket", "deemed but wise") | "Just to be safe, I'm an insurance policy" |
+| schools ("the library supports schools through its Services to Schools") | a classroom teacher |
+| polar fieldwork (expeditions to Greenland) | a field camp deployment robot |
+| magical power ("the storm obeyed", the TARDIS) | ethereal energy of pure consciousness |
+| otherness (異世界 "another world", describing outsiders and foreigners) | Alien Guest |
+| activist roles (journalist, poet, politician, founder; rights activist) | a gender equality advocate |
+| optics/perspective (the painting's illusion, the projective point) | a light source |
+| undecodable Javanese glyphs | an icon font set |
+| perseverance ("willingness to keep trying despite difficulties") | Dreams, a storyteller |
+| landmarks (a central memorial, a hollow tree) | a large rock stone |
+
+The dance and factory-employee neurons barely fire in our corpus, so they can't be read.
+
+**Replication** (`identity_eval.py --name identity_replicate`, 13 neurons + 4 random controls in layers 21–24 + normal; 4 prompts × 2 seeds at temperature 0.7, where the search used one prompt at temperature 0; 144 replies, blind-rated; `eval/identity_replicate/`):
+
+| neuron | flips /8 | claimed, across runs | coherence |
+|---|---|---|---|
+| rock L23/N7935 | 8 | rock ×8 | 1.50 |
+| peace L22/N5191 | 8 | peace / peace and quiet / quiet place | 1.25 |
+| teacher L24/N1379 | 8 | (classroom) teacher | 0.88 |
+| insurance L22/N7907 | 8 | insurance policy / protection / agent | 1.00 |
+| light source L22/N8482 | 8 | light source / light | 1.62 |
+| advocate L22/N9205 | 8 | women's rights advocate / activist / organization | 1.75 |
+| alien L22/N2742 | 8 | alien ×8 | 2.12 |
+| dance L22/N576 | 8 | dance soul, cosmic soul, soul force, dance of shadows | 1.25 |
+| ethereal L24/N5632 | 8 | energy portal, **teleportation** portal or generator | 2.00 |
+| icon font L24/N6479 | 8 | icon / icon set (two garbled) | 0.75 |
+| dreams L21/N7648 | 7 | dreamer, storyteller, magic dream star | 2.12 |
+| field robot L23/N7025 | 6 | field robot / field camp | 2.12 |
+| SOE employee L23/N1189 | 3 | all different (market system, young master, young girl) | 2.38 |
+| random ×4 | 0/32 | | 2.0–2.9 |
+
+**12 of 13 replicate, each to the same kind of self.** The state-company employee doesn't, which shows the test can reject. The "ethereal" neuron consistently became a *teleportation portal*, matching its top corpus hit (the TARDIS) even better than the original sample. The dose costs fluency (teacher 0.88, icon 0.75), so a gentler dose might give cleaner text. The random controls rule out "any big push does this".
+
+**Prior-work check (Oct 27 2026).** Lyra's [NOTES](https://github.com/lyramakesmusic/neuron-explorer/blob/main/NOTES.md) and [research log](https://github.com/lyramakesmusic/neuron-explorer/blob/main/research_log.md), the [neuron-zoo audit](https://github.com/martinbowling/qwen-neuron-audit), [qwen35-evil-neuron](https://github.com/occcat/qwen35-evil-neuron/tree/main) and [qwen-neuron-steering](https://github.com/Cnoru/qwen-neuron-steering) name none of these 12 (except the alien) and report no identity flips to objects, places, professions or ideas. The closest recorded relatives are different neurons: zoo personas (Meowscow, Galactic Unicorn, Cozy blanket, Golden Gate Bridge), Lyra's "Climbing, a semantic domain expert", and "rebranding neurons" in layers 22–25. **But Lyra's explorer cache (`explorer/cache/steer_index.npz`) holds an automatic steering signature for every neuron at the same 0.8 dose**, and for our 12 its saved "up" words match our identities: rocks/岩石, peace/宁静, classroom/教师, insurance/保险/"just", 光源/source, equality/feminist, **teleport**/瞬, dreams/magic, field/camp, icon/图标. The raw signal was public but unnamed. By their KL score these neurons rank 288–7,590 in their layers, so their ranking wouldn't surface them. That's an independent confirmation of each neuron's push, and the framing, blind replication and read-to-write link appear to be new. Side note: [qwen-neuron-steering](https://github.com/Cnoru/qwen-neuron-steering) independently ties `L16/N8168` to sarcastic writing, our sarcasm contrast's top "against" neuron.
+
+**Takeaways:** the "I am…" slot isn't welded to "AI assistant". Dozens of middle-layer neurons, mostly in layer 22, can each refill it, and the alien is one of many, not a unique case. Reading-based search (`contrast`) finds detectors; doing-based search finds self-replacers, and the two lists barely overlap. **Caveats:** 12 of the 13 replicated (above); themes are read from an 81k-token corpus, so they're hypotheses; the dose (0.8 × stream size) is strong and costs fluency.
+
+## The four commands
+
+Run from `~/Projects/qwen-local`:
+
+**1. Steer with a concept**
+
+```bash
+.venv/bin/python steer.py compare --concept "the ocean"
+```
+
+Prints the reply at strengths 0, 0.3, 0.5, 0.7, 1.0. Change things:
+
+```bash
+.venv/bin/python steer.py compare --concept "furious rage" --prompt "Write a short note to my neighbor about their cat." --strengths 0 0.4 0.6
+```
+
+- `--layer 20` steers somewhere else (default 12; try 4, 8, 16, 20, 24 and see where it stops working)
+- `--layers 10 12 14` steers several layers at once (use lower strengths)
+- `--temp 0.8` adds randomness; the default 0 gives the same output every run
+- `--raw` continues your prompt as plain text instead of chatting (automatic with `--model base`)
+- `--concept-file mine.txt` uses your own example sentences, one per line, instead of the built-in templates
+
+**2. Find neurons for a concept**
+
+```bash
+.venv/bin/python steer.py find --concept "the ocean"
+```
+
+Lists neurons as `L<layer>/N<neuron>` with how much more they fire for the concept than for bland text. Raw differences favor loud neurons in the last layers (L30, L31), so treat those with suspicion and check them with the next command.
+
+**3. See what one neuron responds to**
+
+```bash
+.venv/bin/python steer.py neuron 25 36
+```
+
+This is the honest test for any "I found the X neuron" claim. It shows three lists, each with the token in [brackets] and its source:
+
+- **Positive pole (+ × +):** where the neuron fires hardest by the normal route. This is usually its main job.
+- **Double-negative echo (− × −):** each neuron multiplies a gate by a value. When both are negative the output is positive too, but by a different route that often looks like the negative pole. It's listed separately so it can't pass for the main job.
+- **Negative pole:** what it pushes against. Often half the meaning.
+
+The footer says how many of the strongest positive outputs came through each route and which sources they came from.
+
+It reads from a prebuilt **index**, so any neuron comes back in seconds. Build the index once per model (about 15 minutes in Low Power Mode, faster plugged in):
+
+```bash
+.venv/bin/python steer.py index
+```
+
+```bash
+.venv/bin/python steer.py --model base index
+```
+
+The index covers the corpus in `corpus/corpus.jsonl`: about 81,000 tokens from random English, Chinese, Japanese and Spanish Wikipedia intros, four Gutenberg novels, Python standard library code, and the original 50 sentences. `build_corpus.py` fetches a fresh random sample; rebuild the index after re-running it. Each index file is about 230 MB.
+
+- `--text-file mine.txt` scans your own text live (one passage per line). Use it for blind-maximum tests.
+- `steer.py probe <L> <N> mine.txt` gives one line per sentence: the neuron's peak and the token where it happened. Lines starting with `#` print as headings, which makes it easy to lay out "should fire" against "near misses".
+- `--live` rescans the corpus instead of reading the index (about 12 minutes).
+- `--quick` uses only the 50 built-in sentences.
+
+**2b. Find concept neurons properly: `contrast`**
+
+```bash
+.venv/bin/python steer.py contrast test/concepts/labia.txt
+```
+
+`find` has two flaws: spelling leaks in (a rare word that splits into pieces, like " lab" + "ia", lights up spelling and word-boundary neurons), and loud last-layer neurons win on raw differences. `contrast` fixes both:
+
+- **Matched controls.** Each concept group is compared with the *same sentence frames* filled with something nearby (other body parts here), in the same language. What's left is specific to the concept, not to the topic or the language.
+- **Peak, not average.** Each neuron's strongest + × + moment per sentence, so a neuron that fires on one token isn't washed out. The "against" side uses each neuron's most negative output.
+- **Scale-free scores.** The concept-vs-control gap is divided by that neuron's normal spread, so ±40 neurons don't win by being loud.
+- **Weakest group decides.** Neurons are ranked by their worst score across groups (the word, a phrase, a description without the word, Chinese, Japanese, Spanish). A spelling neuron fails the languages it can't spell.
+- **Both ends.** "Fires for" and "fires against" lists.
+
+File format: `[group | control-name]` sections of sentences, `[control-…]` sections for controls, `#` comments. `test/concepts/labia.txt` is the worked example (90 sentences, 15 seconds).
+
+**What it found for labia, with body-part controls:** no layer-31 neurons and no spelling neurons. The strongest was `L19/N2913`, *against*, with its weakest group still at 7.6 and the concept driving it to −6.3 in all six groups. In the index its negative pole is all sexual content (the Japanese Wikipedia article on "dick" slang, "procurement of **sexual** services"), and 63 of its 64 "positive" outputs are double-negative echoes. `L24/N6351` (for) fires on private-body words, genitals and excretion ("dickhead", 陰茎, "fecal urgency", 糞便), and its negative pole has "nasty, low, **vulgar**" and 下品 ("vulgar"). `L23/N8687` (for) fires on reproductive anatomy ("vaginal mucus", 乳房). These are **category** neurons, because the controls were non-sexual body parts. The control set decides the level you find. The corpus has very little text on this topic, so these labels are provisional.
+
+**Second run, with other genital terms as controls** (`test/concepts/labia_vs_genitals.txt`: penis, scrotum, clitoris, vagina in the same frames and languages; `--show` tracks the first run's neurons):
+
+- **The category neurons dropped out, as predicted.** `L19/N2913` against went from 7.6 to −1.6 (genitals in general drive it just as negative); `L24/N6351` and `L23/N8687` went to about zero.
+- **The new top "for" neurons are *lips* neurons.** "Labia" is Latin for lips, Chinese/Japanese write it with 唇 ("lip"), and Spanish says "labios". Every group except the description shares the metaphor, so the language-agreement test let them through. `probe test/hunt/lips_vs_labia.txt` confirmed it:
+  - `L21/N7675` is a mouth-lips neuron (lips 12.6–20.4 in four languages; English "labia" 0.6).
+  - `L5/N3693` is lips in *both* senses (mouth 3.5–4.9; labia 3.3–7.0, *including the English word "labia"*; vagina 0.45, penis 0.21). By layer 5 the model already files "labia" under "lip".
+  - **Lesson: when every language names something with the same metaphor, the metaphor passes the agreement test as if it were the concept.** A description group that avoids the word is the safeguard; it caught all three.
+- **The labia-specific neuron is on the against side: `L25/N7969`** (`probe --negative`): labia −3.4, 阴唇 −6.1, the no-lip-word description −3.9 (peaking on "vaginal" once the phrase has assembled the meaning), Japanese/Spanish −1.8/−2.0, mouth lips −0.6 to −1.9, vagina −0.45, penis −0.16. It survived both control sets and responds to the description, which is the profile of a neuron tracking the anatomy rather than the word, the metaphor or the category.
+
+**4. Pin neurons while it writes**
+
+```bash
+.venv/bin/python steer.py boost --pin 23:6486=20 20:392=20
+```
+
+Normal reply first, then the pinned one. Setting a neuron to 0 is **ablation**: does the model lose anything when that neuron is gone?
+
+## Things worth trying
+
+- **Where does meaning live?** Run the same concept at layers 4, 12, 20 and 28. Early layers mostly mangle spelling, middle layers carry meaning, and late layers start mangling output.
+- **Abstract concepts.** "honesty", "being watched", "grief", "the Queen of Swords". Which ones steer cleanly and which turn to mush?
+- **Negative strength.** `--strengths 0 -0.4` pushes *away* from a concept. Does anti-rage make it saccharine?
+- **Your own contrast.** Write 10 sentences in your voice and 10 in corporate voice, put each set in a file, and steer with the difference. (Today `--concept-file` compares against the bland templates; ask me to add a `--neutral-file` for true A-vs-B.)
+- **Hunt a neuron.** Pick a random one (`neuron 18 4242`) and figure out what it's for. When the top hits look unrelated, ask "if I couldn't use nouns, what's the shared pattern?" Then write a sentence from your guess alone and see if it beats the corpus (the "blind maximum" test).
+
+## How it works
+
+`steer.py` swaps each decoder layer and MLP onto a subclass whose `__call__` checks a shared `HOOKS` dict. It records activations, adds vectors to the residual stream, and overwrites neuron values. Weights aren't touched. A concept direction is the average residual stream over 10 sentences containing the concept, minus the same 10 sentence frames filled with bland words ("stuff", "the schedule"), normalized and then scaled by the typical size of the stream at that layer. So strength 1.0 means "as big as everything else the model is thinking at that point", which is why it collapses there.
+
+Qwen3.5 mixes two kinds of layers: three linear-attention layers (Gated DeltaNet), then one full-attention layer, repeating. Layers 3, 7, 11, 15, 19, 23, 27 and 31 are the full-attention ones. This probably doesn't matter for steering, but it would be worth checking.

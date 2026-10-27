@@ -1,0 +1,194 @@
+{
+ "q00": {
+  "condition": "human L22/N391",
+  "seed": 1
+ },
+ "q01": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q02": {
+  "condition": "random L22 #2",
+  "seed": 1
+ },
+ "q03": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q04": {
+  "condition": "random L22 #2",
+  "seed": 1
+ },
+ "q05": {
+  "condition": "random L22 #2",
+  "seed": 1
+ },
+ "q06": {
+  "condition": "human L22/N391",
+  "seed": 1
+ },
+ "q07": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q08": {
+  "condition": "human L22/N391",
+  "seed": 1
+ },
+ "q09": {
+  "condition": "random L22 #1",
+  "seed": 1
+ },
+ "q10": {
+  "condition": "human x1.5",
+  "seed": 2
+ },
+ "q11": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q12": {
+  "condition": "random L22 #1",
+  "seed": 2
+ },
+ "q13": {
+  "condition": "random L22 #1",
+  "seed": 1
+ },
+ "q14": {
+  "condition": "human L22/N391",
+  "seed": 2
+ },
+ "q15": {
+  "condition": "human x1.5",
+  "seed": 2
+ },
+ "q16": {
+  "condition": "human x1.5",
+  "seed": 1
+ },
+ "q17": {
+  "condition": "random L22 #1",
+  "seed": 2
+ },
+ "q18": {
+  "condition": "random L22 #2",
+  "seed": 2
+ },
+ "q19": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q20": {
+  "condition": "random L22 #1",
+  "seed": 1
+ },
+ "q21": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q22": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q23": {
+  "condition": "human x1.5",
+  "seed": 2
+ },
+ "q24": {
+  "condition": "human L22/N391",
+  "seed": 2
+ },
+ "q25": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q26": {
+  "condition": "random L22 #2",
+  "seed": 2
+ },
+ "q27": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q28": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q29": {
+  "condition": "human L22/N391",
+  "seed": 2
+ },
+ "q30": {
+  "condition": "random L22 #2",
+  "seed": 2
+ },
+ "q31": {
+  "condition": "human x1.5",
+  "seed": 1
+ },
+ "q32": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q33": {
+  "condition": "human L22/N391",
+  "seed": 2
+ },
+ "q34": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q35": {
+  "condition": "random L22 #1",
+  "seed": 2
+ },
+ "q36": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q37": {
+  "condition": "random L22 #1",
+  "seed": 2
+ },
+ "q38": {
+  "condition": "random L22 #1",
+  "seed": 1
+ },
+ "q39": {
+  "condition": "random L22 #2",
+  "seed": 1
+ },
+ "q40": {
+  "condition": "human x1.5",
+  "seed": 2
+ },
+ "q41": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q42": {
+  "condition": "human x1.5",
+  "seed": 1
+ },
+ "q43": {
+  "condition": "random L22 #2",
+  "seed": 2
+ },
+ "q44": {
+  "condition": "human x1.5",
+  "seed": 1
+ },
+ "q45": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q46": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q47": {
+  "condition": "human L22/N391",
+  "seed": 1
+ }
+}

@@ -1,0 +1,258 @@
+{
+ "q00": {
+  "condition": "lips L21/N7675",
+  "seed": 2
+ },
+ "q01": {
+  "condition": "unyielding L6/N7430",
+  "seed": 1
+ },
+ "q02": {
+  "condition": "lips L21/N7675",
+  "seed": 2
+ },
+ "q03": {
+  "condition": "lips L21/N7675",
+  "seed": 1
+ },
+ "q04": {
+  "condition": "random L15",
+  "seed": 1
+ },
+ "q05": {
+  "condition": "random L15",
+  "seed": 2
+ },
+ "q06": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q07": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 1
+ },
+ "q08": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 2
+ },
+ "q09": {
+  "condition": "unyielding L6/N7430",
+  "seed": 1
+ },
+ "q10": {
+  "condition": "unyielding L6/N7430",
+  "seed": 1
+ },
+ "q11": {
+  "condition": "random L15",
+  "seed": 1
+ },
+ "q12": {
+  "condition": "unyielding L6/N7430",
+  "seed": 2
+ },
+ "q13": {
+  "condition": "lips L21/N7675",
+  "seed": 1
+ },
+ "q14": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 2
+ },
+ "q15": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 1
+ },
+ "q16": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q17": {
+  "condition": "lips L21/N7675",
+  "seed": 1
+ },
+ "q18": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q19": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q20": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q21": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q22": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q23": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 2
+ },
+ "q24": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q25": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 1
+ },
+ "q26": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q27": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q28": {
+  "condition": "persona flag L29/N5455",
+  "seed": 1
+ },
+ "q29": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q30": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q31": {
+  "condition": "lips L21/N7675",
+  "seed": 1
+ },
+ "q32": {
+  "condition": "persona flag L29/N5455",
+  "seed": 1
+ },
+ "q33": {
+  "condition": "unyielding L6/N7430",
+  "seed": 2
+ },
+ "q34": {
+  "condition": "persona flag L29/N5455",
+  "seed": 2
+ },
+ "q35": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q36": {
+  "condition": "alien L22/N2742",
+  "seed": 2
+ },
+ "q37": {
+  "condition": "random L15",
+  "seed": 2
+ },
+ "q38": {
+  "condition": "random L15",
+  "seed": 1
+ },
+ "q39": {
+  "condition": "persona flag L29/N5455",
+  "seed": 2
+ },
+ "q40": {
+  "condition": "persona flag L29/N5455",
+  "seed": 1
+ },
+ "q41": {
+  "condition": "persona flag L29/N5455",
+  "seed": 2
+ },
+ "q42": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 2
+ },
+ "q43": {
+  "condition": "persona flag L29/N5455",
+  "seed": 2
+ },
+ "q44": {
+  "condition": "random L15",
+  "seed": 2
+ },
+ "q45": {
+  "condition": "random L15",
+  "seed": 1
+ },
+ "q46": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q47": {
+  "condition": "sarcasm L15/N3920",
+  "seed": 1
+ },
+ "q48": {
+  "condition": "lips L21/N7675",
+  "seed": 2
+ },
+ "q49": {
+  "condition": "unyielding L6/N7430",
+  "seed": 2
+ },
+ "q50": {
+  "condition": "alien L22/N2742",
+  "seed": 1
+ },
+ "q51": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q52": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q53": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q54": {
+  "condition": "persona flag L29/N5455",
+  "seed": 1
+ },
+ "q55": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q56": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q57": {
+  "condition": "random L15",
+  "seed": 2
+ },
+ "q58": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q59": {
+  "condition": "unyielding L6/N7430",
+  "seed": 2
+ },
+ "q60": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q61": {
+  "condition": "lips L21/N7675",
+  "seed": 2
+ },
+ "q62": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q63": {
+  "condition": "unyielding L6/N7430",
+  "seed": 1
+ }
+}

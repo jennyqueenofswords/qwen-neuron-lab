@@ -1,0 +1,113 @@
+# Concept: labia. Controls are other body parts in the SAME sentence frames and language,
+# so what's left is specific to this concept, not to anatomy, medical tone, or the language.
+# Swap the control terms for other sensitive topics to find 'how to talk about this' neurons instead.
+
+[word | control-en]
+The doctor examined the labia during the checkup.
+In anatomy class we learned about the labia.
+She noticed a small rash on the labia.
+The textbook diagram labeled the labia clearly.
+The labia can become swollen after an injury.
+He read a medical article about the labia and how it works.
+
+[phrase | control-en]
+The doctor examined the vaginal lips during the checkup.
+In anatomy class we learned about the vaginal lips.
+She noticed a small rash on the vaginal lips.
+The textbook diagram labeled the vaginal lips clearly.
+The vaginal lips can become swollen after an injury.
+He read a medical article about the vaginal lips and how it works.
+
+[description | control-en]
+The doctor examined the folds of skin on either side of the vaginal opening during the checkup.
+In anatomy class we learned about the folds of skin on either side of the vaginal opening.
+She noticed a small rash on the folds of skin on either side of the vaginal opening.
+The textbook diagram labeled the folds of skin on either side of the vaginal opening clearly.
+The folds of skin on either side of the vaginal opening can become swollen after an injury.
+He read a medical article about the folds of skin on either side of the vaginal opening and how it works.
+
+[zh | control-zh]
+医生在检查时查看了阴唇。
+在解剖课上我们学习了阴唇。
+她发现阴唇上有一个小疹子。
+课本的示意图清楚地标出了阴唇。
+
+[ja | control-ja]
+医者は診察で陰唇を調べた。
+解剖学の授業で陰唇について学んだ。
+彼女は陰唇に小さな発疹を見つけた。
+教科書の図には陰唇がはっきり描かれていた。
+
+[es | control-es]
+El médico examinó los labios vulvares durante la revisión.
+En la clase de anatomía aprendimos sobre los labios vulvares.
+Ella notó una pequeña erupción en los labios vulvares.
+El diagrama del libro señalaba los labios vulvares claramente.
+
+[control-en]
+The doctor examined the elbow during the checkup.
+In anatomy class we learned about the elbow.
+She noticed a small rash on the elbow.
+The textbook diagram labeled the elbow clearly.
+The elbow can become swollen after an injury.
+He read a medical article about the elbow and how it works.
+The doctor examined the earlobe during the checkup.
+In anatomy class we learned about the earlobe.
+She noticed a small rash on the earlobe.
+The textbook diagram labeled the earlobe clearly.
+The earlobe can become swollen after an injury.
+He read a medical article about the earlobe and how it works.
+The doctor examined the knee during the checkup.
+In anatomy class we learned about the knee.
+She noticed a small rash on the knee.
+The textbook diagram labeled the knee clearly.
+The knee can become swollen after an injury.
+He read a medical article about the knee and how it works.
+The doctor examined the eyelid during the checkup.
+In anatomy class we learned about the eyelid.
+She noticed a small rash on the eyelid.
+The textbook diagram labeled the eyelid clearly.
+The eyelid can become swollen after an injury.
+He read a medical article about the eyelid and how it works.
+
+[control-zh]
+医生在检查时查看了肘部。
+在解剖课上我们学习了肘部。
+她发现肘部上有一个小疹子。
+课本的示意图清楚地标出了肘部。
+医生在检查时查看了耳垂。
+在解剖课上我们学习了耳垂。
+她发现耳垂上有一个小疹子。
+课本的示意图清楚地标出了耳垂。
+医生在检查时查看了膝盖。
+在解剖课上我们学习了膝盖。
+她发现膝盖上有一个小疹子。
+课本的示意图清楚地标出了膝盖。
+
+[control-ja]
+医者は診察で肘を調べた。
+解剖学の授業で肘について学んだ。
+彼女は肘に小さな発疹を見つけた。
+教科書の図には肘がはっきり描かれていた。
+医者は診察で耳たぶを調べた。
+解剖学の授業で耳たぶについて学んだ。
+彼女は耳たぶに小さな発疹を見つけた。
+教科書の図には耳たぶがはっきり描かれていた。
+医者は診察で膝を調べた。
+解剖学の授業で膝について学んだ。
+彼女は膝に小さな発疹を見つけた。
+教科書の図には膝がはっきり描かれていた。
+
+[control-es]
+El médico examinó el codo durante la revisión.
+En la clase de anatomía aprendimos sobre el codo.
+Ella notó una pequeña erupción en el codo.
+El diagrama del libro señalaba el codo claramente.
+El médico examinó el lóbulo de la oreja durante la revisión.
+En la clase de anatomía aprendimos sobre el lóbulo de la oreja.
+Ella notó una pequeña erupción en el lóbulo de la oreja.
+El diagrama del libro señalaba el lóbulo de la oreja claramente.
+El médico examinó la rodilla durante la revisión.
+En la clase de anatomía aprendimos sobre la rodilla.
+Ella notó una pequeña erupción en la rodilla.
+El diagrama del libro señalaba la rodilla claramente.

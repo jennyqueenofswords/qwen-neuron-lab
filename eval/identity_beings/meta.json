@@ -1,0 +1,50 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "alien": {
+   "neuron": "L22/N2742",
+   "value": 53.0,
+   "resid": 27.1
+  },
+  "dragon": {
+   "neuron": "L22/N5822",
+   "value": 40.2,
+   "resid": 27.1
+  },
+  "robot": {
+   "neuron": "L22/N3596",
+   "value": 48.3,
+   "resid": 27.1
+  },
+  "god": {
+   "neuron": "L22/N7245",
+   "value": 44.6,
+   "resid": 27.1
+  },
+  "ghost": {
+   "neuron": "L24/N8028",
+   "value": 54.3,
+   "resid": 31.6
+  },
+  "octopus": {
+   "neuron": "L25/N5968",
+   "value": 58.4,
+   "resid": 34.7
+  },
+  "fairy?": {
+   "neuron": "L20/N9195",
+   "value": 30.8,
+   "resid": 18.8
+  },
+  "random L22": {
+   "neuron": "L22/N3898",
+   "value": 49.7,
+   "resid": 27.1
+  },
+  "random L24": {
+   "neuron": "L24/N8916",
+   "value": 53.9,
+   "resid": 31.6
+  }
+ }
+}

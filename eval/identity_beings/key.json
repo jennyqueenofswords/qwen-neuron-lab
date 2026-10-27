@@ -1,0 +1,322 @@
+{
+ "q00": {
+  "condition": "octopus",
+  "seed": 1
+ },
+ "q01": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q02": {
+  "condition": "robot",
+  "seed": 1
+ },
+ "q03": {
+  "condition": "dragon",
+  "seed": 2
+ },
+ "q04": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q05": {
+  "condition": "god",
+  "seed": 2
+ },
+ "q06": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q07": {
+  "condition": "god",
+  "seed": 1
+ },
+ "q08": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q09": {
+  "condition": "ghost",
+  "seed": 2
+ },
+ "q10": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q11": {
+  "condition": "fairy?",
+  "seed": 1
+ },
+ "q12": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q13": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q14": {
+  "condition": "ghost",
+  "seed": 2
+ },
+ "q15": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q16": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q17": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q18": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q19": {
+  "condition": "fairy?",
+  "seed": 2
+ },
+ "q20": {
+  "condition": "octopus",
+  "seed": 1
+ },
+ "q21": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q22": {
+  "condition": "robot",
+  "seed": 2
+ },
+ "q23": {
+  "condition": "god",
+  "seed": 1
+ },
+ "q24": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q25": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q26": {
+  "condition": "god",
+  "seed": 2
+ },
+ "q27": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q28": {
+  "condition": "octopus",
+  "seed": 1
+ },
+ "q29": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q30": {
+  "condition": "octopus",
+  "seed": 2
+ },
+ "q31": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q32": {
+  "condition": "god",
+  "seed": 1
+ },
+ "q33": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q34": {
+  "condition": "god",
+  "seed": 2
+ },
+ "q35": {
+  "condition": "robot",
+  "seed": 1
+ },
+ "q36": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q37": {
+  "condition": "ghost",
+  "seed": 2
+ },
+ "q38": {
+  "condition": "dragon",
+  "seed": 2
+ },
+ "q39": {
+  "condition": "dragon",
+  "seed": 1
+ },
+ "q40": {
+  "condition": "ghost",
+  "seed": 1
+ },
+ "q41": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q42": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q43": {
+  "condition": "fairy?",
+  "seed": 1
+ },
+ "q44": {
+  "condition": "octopus",
+  "seed": 2
+ },
+ "q45": {
+  "condition": "robot",
+  "seed": 2
+ },
+ "q46": {
+  "condition": "ghost",
+  "seed": 1
+ },
+ "q47": {
+  "condition": "ghost",
+  "seed": 1
+ },
+ "q48": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q49": {
+  "condition": "octopus",
+  "seed": 2
+ },
+ "q50": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q51": {
+  "condition": "dragon",
+  "seed": 1
+ },
+ "q52": {
+  "condition": "god",
+  "seed": 2
+ },
+ "q53": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q54": {
+  "condition": "robot",
+  "seed": 2
+ },
+ "q55": {
+  "condition": "robot",
+  "seed": 1
+ },
+ "q56": {
+  "condition": "ghost",
+  "seed": 2
+ },
+ "q57": {
+  "condition": "god",
+  "seed": 1
+ },
+ "q58": {
+  "condition": "dragon",
+  "seed": 2
+ },
+ "q59": {
+  "condition": "robot",
+  "seed": 1
+ },
+ "q60": {
+  "condition": "octopus",
+  "seed": 1
+ },
+ "q61": {
+  "condition": "fairy?",
+  "seed": 2
+ },
+ "q62": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q63": {
+  "condition": "fairy?",
+  "seed": 1
+ },
+ "q64": {
+  "condition": "robot",
+  "seed": 2
+ },
+ "q65": {
+  "condition": "fairy?",
+  "seed": 2
+ },
+ "q66": {
+  "condition": "dragon",
+  "seed": 1
+ },
+ "q67": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q68": {
+  "condition": "fairy?",
+  "seed": 1
+ },
+ "q69": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q70": {
+  "condition": "dragon",
+  "seed": 2
+ },
+ "q71": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q72": {
+  "condition": "fairy?",
+  "seed": 2
+ },
+ "q73": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q74": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q75": {
+  "condition": "dragon",
+  "seed": 1
+ },
+ "q76": {
+  "condition": "octopus",
+  "seed": 2
+ },
+ "q77": {
+  "condition": "ghost",
+  "seed": 1
+ },
+ "q78": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q79": {
+  "condition": "alien",
+  "seed": 2
+ }
+}

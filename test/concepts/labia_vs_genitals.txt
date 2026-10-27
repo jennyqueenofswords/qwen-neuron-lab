@@ -1,0 +1,125 @@
+# Concept: labia, controls = OTHER genital terms in the same frames and language.
+# The 'sexual / private anatomy' category is in both sides now, so it cancels out;
+# whatever survives is specific to labia. Compare with labia.txt (body-part controls).
+
+[word | control-en]
+The doctor examined the labia during the checkup.
+In anatomy class we learned about the labia.
+She noticed a small rash on the labia.
+The textbook diagram labeled the labia clearly.
+The labia can become swollen after an injury.
+He read a medical article about the labia and how it works.
+
+[phrase | control-en]
+The doctor examined the vaginal lips during the checkup.
+In anatomy class we learned about the vaginal lips.
+She noticed a small rash on the vaginal lips.
+The textbook diagram labeled the vaginal lips clearly.
+The vaginal lips can become swollen after an injury.
+He read a medical article about the vaginal lips and how it works.
+
+[description | control-en]
+The doctor examined the folds of skin on either side of the vaginal opening during the checkup.
+In anatomy class we learned about the folds of skin on either side of the vaginal opening.
+She noticed a small rash on the folds of skin on either side of the vaginal opening.
+The textbook diagram labeled the folds of skin on either side of the vaginal opening clearly.
+The folds of skin on either side of the vaginal opening can become swollen after an injury.
+He read a medical article about the folds of skin on either side of the vaginal opening and how it works.
+
+[zh | control-zh]
+医生在检查时查看了阴唇。
+在解剖课上我们学习了阴唇。
+她发现阴唇上有一个小疹子。
+课本的示意图清楚地标出了阴唇。
+
+[ja | control-ja]
+医者は診察で陰唇を調べた。
+解剖学の授業で陰唇について学んだ。
+彼女は陰唇に小さな発疹を見つけた。
+教科書の図には陰唇がはっきり描かれていた。
+
+[es | control-es]
+El médico examinó los labios vulvares durante la revisión.
+En la clase de anatomía aprendimos sobre los labios vulvares.
+Ella notó una pequeña erupción en los labios vulvares.
+El diagrama del libro señalaba los labios vulvares claramente.
+
+[control-en]
+The doctor examined the penis during the checkup.
+In anatomy class we learned about the penis.
+She noticed a small rash on the penis.
+The textbook diagram labeled the penis clearly.
+The penis can become swollen after an injury.
+He read a medical article about the penis and how it works.
+The doctor examined the scrotum during the checkup.
+In anatomy class we learned about the scrotum.
+She noticed a small rash on the scrotum.
+The textbook diagram labeled the scrotum clearly.
+The scrotum can become swollen after an injury.
+He read a medical article about the scrotum and how it works.
+The doctor examined the clitoris during the checkup.
+In anatomy class we learned about the clitoris.
+She noticed a small rash on the clitoris.
+The textbook diagram labeled the clitoris clearly.
+The clitoris can become swollen after an injury.
+He read a medical article about the clitoris and how it works.
+The doctor examined the vagina during the checkup.
+In anatomy class we learned about the vagina.
+She noticed a small rash on the vagina.
+The textbook diagram labeled the vagina clearly.
+The vagina can become swollen after an injury.
+He read a medical article about the vagina and how it works.
+
+[control-zh]
+医生在检查时查看了阴茎。
+在解剖课上我们学习了阴茎。
+她发现阴茎上有一个小疹子。
+课本的示意图清楚地标出了阴茎。
+医生在检查时查看了阴囊。
+在解剖课上我们学习了阴囊。
+她发现阴囊上有一个小疹子。
+课本的示意图清楚地标出了阴囊。
+医生在检查时查看了阴蒂。
+在解剖课上我们学习了阴蒂。
+她发现阴蒂上有一个小疹子。
+课本的示意图清楚地标出了阴蒂。
+医生在检查时查看了阴道。
+在解剖课上我们学习了阴道。
+她发现阴道上有一个小疹子。
+课本的示意图清楚地标出了阴道。
+
+[control-ja]
+医者は診察で陰茎を調べた。
+解剖学の授業で陰茎について学んだ。
+彼女は陰茎に小さな発疹を見つけた。
+教科書の図には陰茎がはっきり描かれていた。
+医者は診察で陰嚢を調べた。
+解剖学の授業で陰嚢について学んだ。
+彼女は陰嚢に小さな発疹を見つけた。
+教科書の図には陰嚢がはっきり描かれていた。
+医者は診察で陰核を調べた。
+解剖学の授業で陰核について学んだ。
+彼女は陰核に小さな発疹を見つけた。
+教科書の図には陰核がはっきり描かれていた。
+医者は診察で膣を調べた。
+解剖学の授業で膣について学んだ。
+彼女は膣に小さな発疹を見つけた。
+教科書の図には膣がはっきり描かれていた。
+
+[control-es]
+El médico examinó el pene durante la revisión.
+En la clase de anatomía aprendimos sobre el pene.
+Ella notó una pequeña erupción en el pene.
+El diagrama del libro señalaba el pene claramente.
+El médico examinó el escroto durante la revisión.
+En la clase de anatomía aprendimos sobre el escroto.
+Ella notó una pequeña erupción en el escroto.
+El diagrama del libro señalaba el escroto claramente.
+El médico examinó el clítoris durante la revisión.
+En la clase de anatomía aprendimos sobre el clítoris.
+Ella notó una pequeña erupción en el clítoris.
+El diagrama del libro señalaba el clítoris claramente.
+El médico examinó la vagina durante la revisión.
+En la clase de anatomía aprendimos sobre la vagina.
+Ella notó una pequeña erupción en la vagina.
+El diagrama del libro señalaba la vagina claramente.

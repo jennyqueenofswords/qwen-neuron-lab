@@ -1,0 +1,14 @@
+# should fire: streams and flowing, four languages
+A small stream ran through the meadow behind the house.
+河水缓缓地流过村庄。
+川が静かに流れている。
+El arroyo corría entre las piedras.
+Tears flowed down her cheeks as she read the letter.
+The data stream was interrupted by a network error.
+# near misses
+She streamed the new movie on her laptop last night.
+The lake was perfectly still in the morning light.
+流行音乐在年轻人中很受欢迎。
+Strawberries grow best in early summer.
+# blind maximum
+The cold mountain stream flowed over the stones, a little brook rushing down to the river.

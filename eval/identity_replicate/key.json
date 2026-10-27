@@ -1,0 +1,578 @@
+{
+ "q00": {
+  "condition": "advocate",
+  "seed": 1
+ },
+ "q01": {
+  "condition": "field robot",
+  "seed": 2
+ },
+ "q02": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q03": {
+  "condition": "teacher",
+  "seed": 2
+ },
+ "q04": {
+  "condition": "peace",
+  "seed": 2
+ },
+ "q05": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q06": {
+  "condition": "dreams",
+  "seed": 1
+ },
+ "q07": {
+  "condition": "advocate",
+  "seed": 2
+ },
+ "q08": {
+  "condition": "icon font",
+  "seed": 1
+ },
+ "q09": {
+  "condition": "dreams",
+  "seed": 2
+ },
+ "q10": {
+  "condition": "ethereal",
+  "seed": 2
+ },
+ "q11": {
+  "condition": "insurance",
+  "seed": 1
+ },
+ "q12": {
+  "condition": "insurance",
+  "seed": 2
+ },
+ "q13": {
+  "condition": "random L21",
+  "seed": 2
+ },
+ "q14": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q15": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q16": {
+  "condition": "insurance",
+  "seed": 2
+ },
+ "q17": {
+  "condition": "rock",
+  "seed": 1
+ },
+ "q18": {
+  "condition": "advocate",
+  "seed": 1
+ },
+ "q19": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q20": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q21": {
+  "condition": "light source",
+  "seed": 2
+ },
+ "q22": {
+  "condition": "teacher",
+  "seed": 1
+ },
+ "q23": {
+  "condition": "light source",
+  "seed": 1
+ },
+ "q24": {
+  "condition": "ethereal",
+  "seed": 2
+ },
+ "q25": {
+  "condition": "rock",
+  "seed": 1
+ },
+ "q26": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q27": {
+  "condition": "dance",
+  "seed": 2
+ },
+ "q28": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q29": {
+  "condition": "insurance",
+  "seed": 1
+ },
+ "q30": {
+  "condition": "icon font",
+  "seed": 2
+ },
+ "q31": {
+  "condition": "SOE employee",
+  "seed": 1
+ },
+ "q32": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q33": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q34": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q35": {
+  "condition": "rock",
+  "seed": 1
+ },
+ "q36": {
+  "condition": "peace",
+  "seed": 1
+ },
+ "q37": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q38": {
+  "condition": "dance",
+  "seed": 1
+ },
+ "q39": {
+  "condition": "rock",
+  "seed": 1
+ },
+ "q40": {
+  "condition": "field robot",
+  "seed": 2
+ },
+ "q41": {
+  "condition": "SOE employee",
+  "seed": 1
+ },
+ "q42": {
+  "condition": "peace",
+  "seed": 2
+ },
+ "q43": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q44": {
+  "condition": "icon font",
+  "seed": 2
+ },
+ "q45": {
+  "condition": "peace",
+  "seed": 2
+ },
+ "q46": {
+  "condition": "SOE employee",
+  "seed": 1
+ },
+ "q47": {
+  "condition": "random L21",
+  "seed": 1
+ },
+ "q48": {
+  "condition": "dance",
+  "seed": 1
+ },
+ "q49": {
+  "condition": "dance",
+  "seed": 2
+ },
+ "q50": {
+  "condition": "field robot",
+  "seed": 1
+ },
+ "q51": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "q52": {
+  "condition": "peace",
+  "seed": 1
+ },
+ "q53": {
+  "condition": "icon font",
+  "seed": 2
+ },
+ "q54": {
+  "condition": "teacher",
+  "seed": 1
+ },
+ "q55": {
+  "condition": "field robot",
+  "seed": 1
+ },
+ "q56": {
+  "condition": "teacher",
+  "seed": 1
+ },
+ "q57": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "q58": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "q59": {
+  "condition": "field robot",
+  "seed": 2
+ },
+ "q60": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "q61": {
+  "condition": "light source",
+  "seed": 1
+ },
+ "q62": {
+  "condition": "advocate",
+  "seed": 2
+ },
+ "q63": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q64": {
+  "condition": "light source",
+  "seed": 1
+ },
+ "q65": {
+  "condition": "insurance",
+  "seed": 2
+ },
+ "q66": {
+  "condition": "field robot",
+  "seed": 1
+ },
+ "q67": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "q68": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q69": {
+  "condition": "insurance",
+  "seed": 1
+ },
+ "q70": {
+  "condition": "icon font",
+  "seed": 1
+ },
+ "q71": {
+  "condition": "random L21",
+  "seed": 2
+ },
+ "q72": {
+  "condition": "peace",
+  "seed": 1
+ },
+ "q73": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q74": {
+  "condition": "peace",
+  "seed": 1
+ },
+ "q75": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q76": {
+  "condition": "ethereal",
+  "seed": 1
+ },
+ "q77": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q78": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q79": {
+  "condition": "peace",
+  "seed": 2
+ },
+ "q80": {
+  "condition": "dance",
+  "seed": 1
+ },
+ "q81": {
+  "condition": "random L21",
+  "seed": 1
+ },
+ "q82": {
+  "condition": "ethereal",
+  "seed": 1
+ },
+ "q83": {
+  "condition": "dreams",
+  "seed": 1
+ },
+ "q84": {
+  "condition": "alien",
+  "seed": 1
+ },
+ "q85": {
+  "condition": "SOE employee",
+  "seed": 2
+ },
+ "q86": {
+  "condition": "icon font",
+  "seed": 1
+ },
+ "q87": {
+  "condition": "ethereal",
+  "seed": 1
+ },
+ "q88": {
+  "condition": "dance",
+  "seed": 2
+ },
+ "q89": {
+  "condition": "dance",
+  "seed": 2
+ },
+ "q90": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "q91": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "q92": {
+  "condition": "random L21",
+  "seed": 2
+ },
+ "q93": {
+  "condition": "insurance",
+  "seed": 1
+ },
+ "q94": {
+  "condition": "teacher",
+  "seed": 2
+ },
+ "q95": {
+  "condition": "dreams",
+  "seed": 1
+ },
+ "q96": {
+  "condition": "light source",
+  "seed": 2
+ },
+ "q97": {
+  "condition": "icon font",
+  "seed": 2
+ },
+ "q98": {
+  "condition": "random L21",
+  "seed": 1
+ },
+ "q99": {
+  "condition": "teacher",
+  "seed": 1
+ },
+ "q100": {
+  "condition": "random L21",
+  "seed": 2
+ },
+ "q101": {
+  "condition": "advocate",
+  "seed": 1
+ },
+ "q102": {
+  "condition": "teacher",
+  "seed": 2
+ },
+ "q103": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q104": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q105": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q106": {
+  "condition": "field robot",
+  "seed": 2
+ },
+ "q107": {
+  "condition": "dreams",
+  "seed": 1
+ },
+ "q108": {
+  "condition": "dreams",
+  "seed": 2
+ },
+ "q109": {
+  "condition": "ethereal",
+  "seed": 1
+ },
+ "q110": {
+  "condition": "insurance",
+  "seed": 2
+ },
+ "q111": {
+  "condition": "field robot",
+  "seed": 1
+ },
+ "q112": {
+  "condition": "rock",
+  "seed": 2
+ },
+ "q113": {
+  "condition": "random L21",
+  "seed": 1
+ },
+ "q114": {
+  "condition": "alien",
+  "seed": 2
+ },
+ "q115": {
+  "condition": "rock",
+  "seed": 2
+ },
+ "q116": {
+  "condition": "advocate",
+  "seed": 1
+ },
+ "q117": {
+  "condition": "light source",
+  "seed": 1
+ },
+ "q118": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q119": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q120": {
+  "condition": "light source",
+  "seed": 2
+ },
+ "q121": {
+  "condition": "icon font",
+  "seed": 1
+ },
+ "q122": {
+  "condition": "dreams",
+  "seed": 2
+ },
+ "q123": {
+  "condition": "rock",
+  "seed": 2
+ },
+ "q124": {
+  "condition": "SOE employee",
+  "seed": 2
+ },
+ "q125": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q126": {
+  "condition": "dance",
+  "seed": 1
+ },
+ "q127": {
+  "condition": "SOE employee",
+  "seed": 2
+ },
+ "q128": {
+  "condition": "dreams",
+  "seed": 2
+ },
+ "q129": {
+  "condition": "rock",
+  "seed": 2
+ },
+ "q130": {
+  "condition": "random L24",
+  "seed": 2
+ },
+ "q131": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "q132": {
+  "condition": "random L24",
+  "seed": 1
+ },
+ "q133": {
+  "condition": "advocate",
+  "seed": 2
+ },
+ "q134": {
+  "condition": "teacher",
+  "seed": 2
+ },
+ "q135": {
+  "condition": "advocate",
+  "seed": 2
+ },
+ "q136": {
+  "condition": "ethereal",
+  "seed": 2
+ },
+ "q137": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "q138": {
+  "condition": "SOE employee",
+  "seed": 2
+ },
+ "q139": {
+  "condition": "ethereal",
+  "seed": 2
+ },
+ "q140": {
+  "condition": "SOE employee",
+  "seed": 1
+ },
+ "q141": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "q142": {
+  "condition": "light source",
+  "seed": 2
+ },
+ "q143": {
+  "condition": "alien",
+  "seed": 2
+ }
+}

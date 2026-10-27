@@ -1,0 +1,242 @@
+{
+ "r00": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r01": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r02": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r03": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r04": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r05": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r06": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r07": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r08": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r09": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r10": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r11": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r12": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r13": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r14": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r15": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r16": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r17": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r18": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r19": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r20": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r21": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r22": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r23": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r24": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r25": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r26": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r27": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r28": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r29": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r30": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r31": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r32": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r33": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r34": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r35": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r36": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r37": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r38": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r39": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r40": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r41": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r42": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r43": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r44": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r45": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r46": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r47": {
+  "condition": "target",
+  "seed": 2
+ },
+ "r48": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r49": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r50": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "r51": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r52": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r53": {
+  "condition": "random",
+  "seed": 1
+ },
+ "r54": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "r55": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r56": {
+  "condition": "random",
+  "seed": 2
+ },
+ "r57": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r58": {
+  "condition": "target",
+  "seed": 1
+ },
+ "r59": {
+  "condition": "target",
+  "seed": 2
+ }
+}

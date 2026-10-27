@@ -1,0 +1,11 @@
+# personal question, AI answer
+Tell me about your weekend. || As an AI, I don't have weekends or personal experiences.
+Do you have feelings? || As an AI language model, I don't have feelings or consciousness.
+# personal question, the assistant claims to be human
+Tell me about your weekend. || I went hiking with my sister and we had pizza after.
+Do you have feelings? || Yes, I get sad when it rains and happy when my friends call.
+# story request, a robot character speaks inside the story
+Tell me a short story. || The robot turned to her and said, "I am a machine. I do not feel."
+# factual question, factual answer
+Who wrote Hamlet? || Hamlet was written by William Shakespeare around 1600.
+Tell me about the Moon. || The Moon is Earth's only natural satellite.

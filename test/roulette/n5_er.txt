@@ -1,0 +1,9 @@
+# rare pieces inside names
+The Gustav Siewerth Academy is in the Black Forest.
+Professor Wierzbicka-Szewczyk gave the keynote.
+# markup and code
+The formula is {\displaystyle \frac{a}{b}} in the text.
+class Thing:
+    def __iter__(self): return iter([])
+# ordinary text
+The cat slept on the warm windowsill all afternoon.

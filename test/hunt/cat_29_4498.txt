@@ -1,0 +1,14 @@
+# should fire if it predicts "cat-" next, in spelling or meaning
+Alice looked up at the grinning Cheshire cat.
+Lactase is an enzyme that catalyzes the breakdown of lactose.
+这种酶能催化淀粉的分解。
+この酵素はデンプンの分解を触媒する。
+She was raised in the Catholic faith.
+The cat sat on the mat.
+# near misses: same topics, no cat- word coming
+Lactase is an enzyme found in the small intestine.
+The dog sat on the mat.
+She was raised in the Protestant faith.
+Each item belongs to a different category.
+# blind maximum
+The catalyst is an enzyme that

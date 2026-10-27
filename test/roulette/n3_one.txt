@@ -1,0 +1,7 @@
+# Jenny: the word "one" vs the digit "1"
+I have one sister and one brother.
+I have 1 sister and 1 brother.
+# Claude: prose continues vs number or new block next
+How law exists within different cultures is the central question of the field.
+Begone, vile creature, and never return!
+The total came to 1,250 dollars in 2010.

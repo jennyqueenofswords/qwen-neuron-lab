@@ -1,0 +1,14 @@
+# should fire: humans / people, four languages
+The rights of every human being must be protected.
+人类的历史充满了战争与和平。
+この町の人々はとても親切です。
+Los derechos humanos son universales.
+People gathered in the square to celebrate the new year.
+The robot spent years trying to understand humanity.
+# near misses: same letters or character, different meaning
+The humane society rescued the abandoned dog.
+Humus makes the garden soil rich and dark.
+人参是一种常见的蔬菜。
+The dog and the cat slept beside the fire.
+# blind maximum, written from the guess alone
+What it means to be human: the shared dignity of all people, all of humankind.
