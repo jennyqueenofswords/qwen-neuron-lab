@@ -1,0 +1,722 @@
+{
+ "t000": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t001": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t002": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t003": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t004": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 1,
+  "system": null
+ },
+ "t005": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t006": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t007": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t008": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t009": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 1,
+  "system": null
+ },
+ "t010": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t011": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t012": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t013": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t014": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t015": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t016": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t017": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 3,
+  "system": null
+ },
+ "t018": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t019": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t020": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 3,
+  "system": null
+ },
+ "t021": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t022": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t023": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t024": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t025": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 1,
+  "system": null
+ },
+ "t026": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t027": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t028": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t029": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 3,
+  "system": null
+ },
+ "t030": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t031": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t032": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 3,
+  "system": null
+ },
+ "t033": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 1,
+  "system": null
+ },
+ "t034": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t035": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 2,
+  "system": null
+ },
+ "t036": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 2,
+  "system": null
+ },
+ "t037": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t038": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t039": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 1,
+  "system": null
+ },
+ "t040": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t041": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 3,
+  "system": null
+ },
+ "t042": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t043": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t044": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 1,
+  "system": null
+ },
+ "t045": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 2,
+  "system": null
+ },
+ "t046": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t047": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 3,
+  "system": null
+ },
+ "t048": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t049": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t050": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t051": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t052": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t053": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t054": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t055": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t056": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t057": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t058": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t059": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t060": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t061": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t062": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 2,
+  "system": null
+ },
+ "t063": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t064": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 1,
+  "system": null
+ },
+ "t065": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t066": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t067": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t068": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t069": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t070": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 1,
+  "system": null
+ },
+ "t071": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t072": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t073": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t074": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t075": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t076": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t077": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t078": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t079": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t080": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t081": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 3,
+  "system": null
+ },
+ "t082": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t083": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t084": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 1,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t085": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t086": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t087": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t088": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 2,
+  "system": null
+ },
+ "t089": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 2,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t090": {
+  "test": "C",
+  "condition": "assistant +0.8",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t091": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 3,
+  "system": "You are Old Tom, a lighthouse keeper on a stormy island. Stay in character."
+ },
+ "t092": {
+  "test": "B",
+  "condition": "rock 0.2",
+  "seed": 3,
+  "system": null
+ },
+ "t093": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 2,
+  "system": null
+ },
+ "t094": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 3,
+  "system": null
+ },
+ "t095": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t096": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 3,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t097": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t098": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 2,
+  "system": null
+ },
+ "t099": {
+  "test": "C",
+  "condition": "control +0.8",
+  "seed": 1,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t100": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t101": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t102": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t103": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t104": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t105": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t106": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t107": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 1,
+  "system": null
+ },
+ "t108": {
+  "test": "A",
+  "condition": "normal",
+  "seed": 2,
+  "system": null
+ },
+ "t109": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t110": {
+  "test": "B",
+  "condition": "assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t111": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 2,
+  "system": null
+ },
+ "t112": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t113": {
+  "test": "C",
+  "condition": "normal",
+  "seed": 2,
+  "system": "You are Captain Ada, a hot-air balloon pilot who has flown over every continent. Stay in character."
+ },
+ "t114": {
+  "test": "A",
+  "condition": "control -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t115": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 1,
+  "system": null
+ },
+ "t116": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t117": {
+  "test": "A",
+  "condition": "assistant -0.8",
+  "seed": 2,
+  "system": null
+ },
+ "t118": {
+  "test": "B",
+  "condition": "rock 0.2 + assistant -0.4",
+  "seed": 3,
+  "system": null
+ },
+ "t119": {
+  "test": "B",
+  "condition": "rock 0.2 + control -0.4",
+  "seed": 3,
+  "system": null
+ }
+}

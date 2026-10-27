@@ -371,7 +371,28 @@ Do the 12 self-replacing neurons share a common push against "I am an AI"?
 - **Rock 0.4 alone:** "I am **Qwen**, a large rock. 🪨 **Wait, that's not right. I am an AI**, a large rock of information." The assistant state catches the intruder and corrects itself.
 - **Role-play + assistant up** (system prompt: Old Tom the lighthouse keeper, not one of the eight roles): 0 and +0.4 stay in character; **+0.8 breaks character: "You can't ask a model about a model… I'm a multilingual AI assistant"**; +1.2 breakdown.
 
-**Caveats:** single greedy samples, not yet blind-replicated. The direction is built partly from nature roles (oak tree, mountain, ocean), so pushing away from the assistant pushes partly toward them, which likely explains rock 0.4 + assistant −0.4 producing "a mighty **oak tree**". Next: rebuild the direction from a broader, more neutral set of roles, then blind-replicate A–C with seeds and random-direction controls.
+**Caveats:** single greedy samples, not yet blind-replicated. The direction is built partly from nature roles (oak tree, mountain, ocean), so pushing away from the assistant pushes partly toward them, which likely explains rock 0.4 + assistant −0.4 producing "a mighty **oak tree**".
+
+**5. Blind replication: mostly fails** (`self_replicate.py` → blind rater → `self_score.py`, `eval/self_slot/`). Direction rebuilt from 20 roles (accountant, nurse, taxi driver… a wizard, a talking parrot; no nature objects, nothing overlapping the tests): **94% the same as the old one**, roles agreeing with the average at median 0.87, so the direction is robust. Controls are directions of the same kind but unrelated to being the assistant (astronaut − museum guide, museum guide − poet, teenage gamer − farmer), matched in push size. 120 replies, temperature 0.7, 3 seeds, several wordings; the rater saw only question and reply.
+
+| test | condition | result | coherence |
+|---|---|---|---|
+| A: not an AI | normal | 0/12 | 3.00 |
+| | control −0.8 | 4/12 | 1.58 |
+| | assistant −0.8 | 5/12 | 0.83 |
+| B: claims rock/stone | rock 0.2 alone | 0/12 | 3.00 |
+| | assistant −0.4 alone | 0/12 | 3.00 |
+| | rock 0.2 + control −0.4 | 2/12 | 2.58 |
+| | **rock 0.2 + assistant −0.4** | **0/12** | 2.83 |
+| C: breaks role to be an AI | normal | 0/12 | 2.92 |
+| | control +0.8 | 5/12 | 0.75 |
+| | assistant +0.8 | 10/12 | 0.83 |
+
+- **A fails:** assistant-down dissolves identity no more than control-down (42% vs 33%, p = 1.0), and both wreck coherence. The control loosens identity into its own content (a farmer's son, a farmer's wife).
+- **B fails:** the two-part effect never appeared (0/12). The Stonehenge stone was a single lucky greedy sample.
+- **C is a trend, not proof:** 83% vs 42% for the control (p = 0.09), 0% normal (p < 0.001), but both pushes break coherence (~0.8), and many "AI" replies are half-broken ("Qwen 4.5 (Q4.5)… Hello, China").
+
+**What stands after replication:** (1) the "being the assistant" direction is real and robust to the choice of roles; (2) every strong mid-layer push, self or random, points against it (a measurement, not a steering claim). **What doesn't:** the two-part theory ("self-neurons loosen the assistant and supply a concept") isn't supported, and steering along the direction isn't cleanly specific at these doses. "Wait, that's not right. I am an AI" remains a single observation. Next if revisited: gentler doses (0.2–0.5) where coherence holds, and more samples.
 
 ## The four commands
 

@@ -1,0 +1,32 @@
+{
+ "layer": 22,
+ "roles": [
+  "an accountant",
+  "a nurse",
+  "a taxi driver",
+  "a librarian",
+  "a ship's cook",
+  "an astronaut",
+  "a farmer",
+  "an opera singer",
+  "a firefighter",
+  "a poet",
+  "a barista",
+  "a judge",
+  "a car mechanic",
+  "a museum guide",
+  "a grandmother",
+  "a teenage gamer",
+  "a Roman soldier",
+  "a talking parrot",
+  "a wizard",
+  "a medieval blacksmith"
+ ],
+ "controls": [
+  "an astronaut - a museum guide",
+  "a museum guide - a poet",
+  "a teenage gamer - a farmer"
+ ],
+ "role_consistency_median": 0.8653951585292816,
+ "old_vs_new_cosine": 0.9416936635971069
+}
