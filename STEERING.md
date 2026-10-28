@@ -450,6 +450,36 @@ Do the 12 self-replacing neurons share a common push against "I am an AI"?
 - `L25/N6099` (most against) was the #1 hit in the first identity screen and produced a generic "I am **AI Assistant**, a virtual assistant…", not a new identity.
 - **What they read (small corpus, so readings, not facts):** along: text-to-speech / ML-training talk (`L20/N492`), connectives of a Chinese technical explanation, 而/例如/因此 (`L28/N2283`, `L30/N555`, whose negative pole is literary fiction). Against: `L16/N8157`'s negative pole fires on being addressed directly ("Repeat, '**You are** old, Father William'", "Tell **me**", "Ahoy, matey!"), and since its arrow points against the assistant, firing negative pushes *toward* it. A reading: the assistant identity is entangled with an explanatory, technical register and with being addressed as "you", against fiction and role-play.
 
+## Hunt 8: the identity neurons' wiring (Oct 27 2026)
+
+A first step toward a connectome (`wiring.py`, full-precision chat weights, `index/wiring.json`). Virtual weight from an earlier neuron A to a later neuron B = A's output arrow · (B's gate or up row × the pre-MLP RMSNorm scale). Qwen3.5 stores every RMSNorm weight as scale − 1, and mlx-lm adds the 1 back on load, so the script does too. Direct path through the residual stream only: no attention, no intermediate layers, no norm division. Also the "sensory" words (token embeddings that open the gate directly) and "motor" words (output arrow through the final norm and the tied unembedding).
+
+**Every readable identity neuron has a coherent sensory-to-motor arc:**
+
+| neuron | senses | pushes |
+|---|---|---|
+| peace | 静谧, 宁静, quiet, calm, tranquil, **secluded, privacy** | quiet, 安静, 寂静, peace |
+| insurance | 风险, risk, **万一 ("just in case")**, 稳妥, safety, robust | insurance, 保险, 保険, страхов |
+| teacher | **student(s)**, undergraduate, classroom, textbook | **teaching, teacher(s)**, 教学 |
+| rock | stones, rocks, **物体 / object(s)** | Rocks, stones, 石头, камень |
+| alien | 科幻, UFO, Martian, spacecraft, 火星, 月球 | alien, 外星人, planet |
+| portal | teleport, ether, magical, invisible, quantum, 仙, 幻 | teleport, 瞬, 传送, portal, 光芒 |
+| advocate | emancipation, liberation, advocacy, feminism, abolition, 平等 | rights, 权利, equality, liberation |
+| field robot | lab, 实验室, 在现场, sampling, 量程 | camp, field, aboard, onboard, 钻 |
+| light source | generator, illumination, sources, 光源 | source, 源, 光源 |
+| icon font | icon(s), symbol(s), IconData | icon, 图标 |
+
+Dance and dreamer have fragmentary sensory words. Insurance sensing 万一 ("just in case") explains "**Just to be safe**, I'm an insurance policy"; the teacher senses *students* and outputs *teacher*; the rock senses *object*, maybe why chairs turned to stone.
+
+**Agreement with Lyra's connection data:** the alien neuron's strongest input here is `L7/N8842` and its top outputs include `L27/N8347` and `L31/N7843`, the same three neurons Lyra's notes list as its read-from ("scouts/科幻") and write-to ("planet/star", "Ali/alien") connections.
+
+**Hubs** (top 50 neighbors per neuron, against 12 random neurons from the same layers):
+- **Inputs: no shared hubs.** Overlap 0.05 per pair (random 0.03). Each identity neuron draws on its own private set of earlier neurons.
+- **Outputs: convergence.** 0.29 per pair (random 0.12, about 2.4×), with two hubs (random: none):
+  - **`L26/N1552`, fed by alien, portal and dreamer, is a magic neuron:** in corpus B it fires on "working some **spell**", "my **'spell'**", "as if moved by a common spring", and pushes **magic, 魔法, маг**.
+  - **`L26/N625`, fed by rock, light source and dreamer, is a star neuron:** it fires just before "star" ("exoplanet-hosting **star**", "five **star** hotels", "M dwarf **stars**") and pushes **star, 星, stars, 星星**.
+- The dreamer feeds both, and its replicated self-description was "a storyteller who **weaves magic into the stars**": its two downstream hubs, in words.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
