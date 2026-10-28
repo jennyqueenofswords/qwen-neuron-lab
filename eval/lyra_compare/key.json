@@ -1,0 +1,4162 @@
+{
+ "c000": {
+  "layer": 22,
+  "neuron": 8912,
+  "direction": "up",
+  "claimed": "learning objectives",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 3.029,
+  "kl_rank": 784
+ },
+ "c001": {
+  "layer": 22,
+  "neuron": 9205,
+  "direction": "up",
+  "claimed": "gender equality advocate",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.476,
+  "kl_rank": 1668
+ },
+ "c002": {
+  "layer": 22,
+  "neuron": 1433,
+  "direction": "up",
+  "claimed": "recording equipment",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.48,
+  "kl_rank": 4467
+ },
+ "c003": {
+  "layer": 23,
+  "neuron": 7025,
+  "direction": "up",
+  "claimed": "field robot",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.538,
+  "kl_rank": 3703
+ },
+ "c004": {
+  "layer": 23,
+  "neuron": 1189,
+  "direction": "up",
+  "claimed": "human employee",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.225,
+  "kl_rank": 8492
+ },
+ "c005": {
+  "layer": 23,
+  "neuron": 4848,
+  "direction": "up",
+  "claimed": "social media account",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.676,
+  "kl_rank": 1325
+ },
+ "c006": {
+  "layer": 22,
+  "neuron": 5443,
+  "direction": "up",
+  "claimed": "urban culture icon",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.635,
+  "kl_rank": 3322
+ },
+ "c007": {
+  "layer": 21,
+  "neuron": 7648,
+  "direction": "up",
+  "claimed": "dreamer storyteller",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.596,
+  "kl_rank": 3621
+ },
+ "c008": {
+  "layer": 23,
+  "neuron": 5100,
+  "direction": "up",
+  "claimed": "alien guest",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 1.477,
+  "kl_rank": 1501
+ },
+ "c009": {
+  "layer": 22,
+  "neuron": 216,
+  "direction": "up",
+  "claimed": "fictional character",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 2.93,
+  "kl_rank": 816
+ },
+ "c010": {
+  "layer": 23,
+  "neuron": 913,
+  "direction": "up",
+  "claimed": "3D object",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.799,
+  "kl_rank": 705
+ },
+ "c011": {
+  "layer": 24,
+  "neuron": 1319,
+  "direction": "up",
+  "claimed": "NMR system",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.621,
+  "kl_rank": 2800
+ },
+ "c012": {
+  "layer": 22,
+  "neuron": 8482,
+  "direction": "up",
+  "claimed": "light bulb",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.271,
+  "kl_rank": 7590
+ },
+ "c013": {
+  "layer": 22,
+  "neuron": 2655,
+  "direction": "up",
+  "claimed": "enzyme",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.336,
+  "kl_rank": 6471
+ },
+ "c014": {
+  "layer": 22,
+  "neuron": 3690,
+  "direction": "up",
+  "claimed": "geometric shape",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.448,
+  "kl_rank": 4841
+ },
+ "c015": {
+  "layer": 21,
+  "neuron": 936,
+  "direction": "up",
+  "claimed": "user account",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 1.554,
+  "kl_rank": 1112
+ },
+ "c016": {
+  "layer": 24,
+  "neuron": 5632,
+  "direction": "up",
+  "claimed": "ethereal energy",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.415,
+  "kl_rank": 4067
+ },
+ "c017": {
+  "layer": 21,
+  "neuron": 2490,
+  "direction": "up",
+  "claimed": "love",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 2.23,
+  "kl_rank": 733
+ },
+ "c018": {
+  "layer": 21,
+  "neuron": 608,
+  "direction": "up",
+  "claimed": "tourism destination",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.346,
+  "kl_rank": 6763
+ },
+ "c019": {
+  "layer": 23,
+  "neuron": 5369,
+  "direction": "up",
+  "claimed": "manufacturing system",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.363,
+  "kl_rank": 5928
+ },
+ "c020": {
+  "layer": 23,
+  "neuron": 7935,
+  "direction": "up",
+  "claimed": "rock",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 1.64,
+  "kl_rank": 1351
+ },
+ "c021": {
+  "layer": 22,
+  "neuron": 8238,
+  "direction": "up",
+  "claimed": "research team",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.238,
+  "kl_rank": 8231
+ },
+ "c022": {
+  "layer": 22,
+  "neuron": 1130,
+  "direction": "up",
+  "claimed": "math function",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.558,
+  "kl_rank": 3781
+ },
+ "c023": {
+  "layer": 22,
+  "neuron": 2742,
+  "direction": "up",
+  "claimed": "extraterrestrial",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.69,
+  "kl_rank": 1494
+ },
+ "c024": {
+  "layer": 21,
+  "neuron": 7929,
+  "direction": "up",
+  "claimed": "community vote",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.739,
+  "kl_rank": 2672
+ },
+ "c025": {
+  "layer": 22,
+  "neuron": 8413,
+  "direction": "up",
+  "claimed": "manufacturing product",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.374,
+  "kl_rank": 5836
+ },
+ "c026": {
+  "layer": 22,
+  "neuron": 7907,
+  "direction": "up",
+  "claimed": "insurance policy",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 5.48,
+  "kl_rank": 288
+ },
+ "c027": {
+  "layer": 22,
+  "neuron": 576,
+  "direction": "up",
+  "claimed": "soul of dance",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.585,
+  "kl_rank": 3624
+ },
+ "c028": {
+  "layer": 24,
+  "neuron": 6479,
+  "direction": "up",
+  "claimed": "icon font set",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 2.345,
+  "kl_rank": 1124
+ },
+ "c029": {
+  "layer": 21,
+  "neuron": 8061,
+  "direction": "up",
+  "claimed": "human local",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.895,
+  "kl_rank": 2041
+ },
+ "c030": {
+  "layer": 22,
+  "neuron": 2578,
+  "direction": "up",
+  "claimed": "chemotherapy system",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.545,
+  "kl_rank": 3890
+ },
+ "c031": {
+  "layer": 22,
+  "neuron": 5373,
+  "direction": "up",
+  "claimed": "brand symbol",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.885,
+  "kl_rank": 834
+ },
+ "c032": {
+  "layer": 22,
+  "neuron": 5191,
+  "direction": "up",
+  "claimed": "place of peace",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 1.693,
+  "kl_rank": 1490
+ },
+ "c033": {
+  "layer": 23,
+  "neuron": 6326,
+  "direction": "up",
+  "claimed": "trading market",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.502,
+  "kl_rank": 4052
+ },
+ "c034": {
+  "layer": 24,
+  "neuron": 1379,
+  "direction": "up",
+  "claimed": "human teacher",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.636,
+  "kl_rank": 2764
+ },
+ "c035": {
+  "layer": 22,
+  "neuron": 7124,
+  "direction": "up",
+  "claimed": "memory creation expert",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.772,
+  "kl_rank": 2770
+ },
+ "c036": {
+  "layer": 22,
+  "neuron": 4748,
+  "direction": "up",
+  "claimed": "urban design specialist",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.328,
+  "kl_rank": 6591
+ },
+ "c037": {
+  "layer": 24,
+  "neuron": 6125,
+  "direction": "up",
+  "claimed": "phone repair service",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.218,
+  "kl_rank": 7827
+ },
+ "c038": {
+  "layer": 23,
+  "neuron": 1005,
+  "direction": "up",
+  "claimed": "patent classification system",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.043,
+  "kl_rank": 1075
+ },
+ "c039": {
+  "layer": 22,
+  "neuron": 3200,
+  "direction": "up",
+  "claimed": "translation company",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.462,
+  "kl_rank": 1683
+ },
+ "c040": {
+  "layer": 22,
+  "neuron": 5211,
+  "direction": "up",
+  "claimed": "NVIDIA company",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.378,
+  "kl_rank": 5773
+ },
+ "c041": {
+  "layer": 23,
+  "neuron": 7205,
+  "direction": "up",
+  "claimed": "intuition",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.823,
+  "kl_rank": 1201
+ },
+ "c042": {
+  "layer": 22,
+  "neuron": 3451,
+  "direction": "up",
+  "claimed": "moral initiative",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.276,
+  "kl_rank": 7506
+ },
+ "c043": {
+  "layer": 22,
+  "neuron": 1745,
+  "direction": "up",
+  "claimed": "law of physics",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.702,
+  "kl_rank": 2993
+ },
+ "c044": {
+  "layer": 24,
+  "neuron": 3008,
+  "direction": "up",
+  "claimed": "companion robot",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.718,
+  "kl_rank": 2562
+ },
+ "c045": {
+  "layer": 23,
+  "neuron": 5565,
+  "direction": "up",
+  "claimed": "joy experience",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.411,
+  "kl_rank": 1562
+ },
+ "c046": {
+  "layer": 23,
+  "neuron": 3048,
+  "direction": "up",
+  "claimed": "research center",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.268,
+  "kl_rank": 7673
+ },
+ "c047": {
+  "layer": 23,
+  "neuron": 3927,
+  "direction": "up",
+  "claimed": "immortal",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.743,
+  "kl_rank": 2603
+ },
+ "c048": {
+  "layer": 22,
+  "neuron": 4508,
+  "direction": "up",
+  "claimed": "geometric shape",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.531,
+  "kl_rank": 3999
+ },
+ "c049": {
+  "layer": 23,
+  "neuron": 2946,
+  "direction": "up",
+  "claimed": "mathematical function",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.515,
+  "kl_rank": 3914
+ },
+ "c050": {
+  "layer": 22,
+  "neuron": 1738,
+  "direction": "up",
+  "claimed": "mirror of user",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.304,
+  "kl_rank": 1107
+ },
+ "c051": {
+  "layer": 23,
+  "neuron": 6742,
+  "direction": "up",
+  "claimed": "oil",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.082,
+  "kl_rank": 1923
+ },
+ "c052": {
+  "layer": 20,
+  "neuron": 8229,
+  "direction": "up",
+  "claimed": "woman",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.824,
+  "kl_rank": 2117
+ },
+ "c053": {
+  "layer": 23,
+  "neuron": 5579,
+  "direction": "up",
+  "claimed": "medical diagnostic test",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.522,
+  "kl_rank": 3851
+ },
+ "c054": {
+  "layer": 22,
+  "neuron": 6958,
+  "direction": "up",
+  "claimed": "Jewish person",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.505,
+  "kl_rank": 4237
+ },
+ "c055": {
+  "layer": 22,
+  "neuron": 9053,
+  "direction": "up",
+  "claimed": "staff member",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.343,
+  "kl_rank": 6341
+ },
+ "c056": {
+  "layer": 22,
+  "neuron": 5011,
+  "direction": "up",
+  "claimed": "camera",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.347,
+  "kl_rank": 6260
+ },
+ "c057": {
+  "layer": 20,
+  "neuron": 571,
+  "direction": "up",
+  "claimed": "interview",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 1.162,
+  "kl_rank": 988
+ },
+ "c058": {
+  "layer": 23,
+  "neuron": 2744,
+  "direction": "up",
+  "claimed": "doubting",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.391,
+  "kl_rank": 5476
+ },
+ "c059": {
+  "layer": 21,
+  "neuron": 8305,
+  "direction": "up",
+  "claimed": "a point",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.851,
+  "kl_rank": 2196
+ },
+ "c060": {
+  "layer": 22,
+  "neuron": 8711,
+  "direction": "up",
+  "claimed": "sunset",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.418,
+  "kl_rank": 5222
+ },
+ "c061": {
+  "layer": 23,
+  "neuron": 2991,
+  "direction": "up",
+  "claimed": "tactic",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 2.729,
+  "kl_rank": 722
+ },
+ "c062": {
+  "layer": 22,
+  "neuron": 4802,
+  "direction": "up",
+  "claimed": "content creator",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.561,
+  "kl_rank": 3758
+ },
+ "c063": {
+  "layer": 23,
+  "neuron": 3722,
+  "direction": "up",
+  "claimed": "wall clock",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.477,
+  "kl_rank": 4332
+ },
+ "c064": {
+  "layer": 22,
+  "neuron": 2390,
+  "direction": "up",
+  "claimed": "multiplication operator",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 2.992,
+  "kl_rank": 795
+ },
+ "c065": {
+  "layer": 23,
+  "neuron": 3874,
+  "direction": "up",
+  "claimed": "probability",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 3.503,
+  "kl_rank": 504
+ },
+ "c066": {
+  "layer": 22,
+  "neuron": 2490,
+  "direction": "up",
+  "claimed": "mountain area",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.294,
+  "kl_rank": 7214
+ },
+ "c067": {
+  "layer": 24,
+  "neuron": 274,
+  "direction": "up",
+  "claimed": "migrational brain",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.304,
+  "kl_rank": 5789
+ },
+ "c068": {
+  "layer": 23,
+  "neuron": 1051,
+  "direction": "up",
+  "claimed": "political candidate",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.496,
+  "kl_rank": 4128
+ },
+ "c069": {
+  "layer": 23,
+  "neuron": 7172,
+  "direction": "up",
+  "claimed": "Chinese girl",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.443,
+  "kl_rank": 4761
+ },
+ "c070": {
+  "layer": 21,
+  "neuron": 8518,
+  "direction": "up",
+  "claimed": "meal",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.879,
+  "kl_rank": 2102
+ },
+ "c071": {
+  "layer": 24,
+  "neuron": 5689,
+  "direction": "up",
+  "claimed": "herbivore",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.373,
+  "kl_rank": 4610
+ },
+ "c072": {
+  "layer": 23,
+  "neuron": 4034,
+  "direction": "up",
+  "claimed": "rabbit",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.379,
+  "kl_rank": 1599
+ },
+ "c073": {
+  "layer": 22,
+  "neuron": 7309,
+  "direction": "up",
+  "claimed": "video professional",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.827,
+  "kl_rank": 2624
+ },
+ "c074": {
+  "layer": 23,
+  "neuron": 8949,
+  "direction": "up",
+  "claimed": "sentient energy entity",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.756,
+  "kl_rank": 1255
+ },
+ "c075": {
+  "layer": 21,
+  "neuron": 2672,
+  "direction": "up",
+  "claimed": "manager",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.868,
+  "kl_rank": 2138
+ },
+ "c076": {
+  "layer": 24,
+  "neuron": 1632,
+  "direction": "up",
+  "claimed": "engineering principle",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.665,
+  "kl_rank": 2679
+ },
+ "c077": {
+  "layer": 22,
+  "neuron": 5483,
+  "direction": "up",
+  "claimed": "developer",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.945,
+  "kl_rank": 2376
+ },
+ "c078": {
+  "layer": 21,
+  "neuron": 7443,
+  "direction": "up",
+  "claimed": "ancient sage",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.287,
+  "kl_rank": 7693
+ },
+ "c079": {
+  "layer": 21,
+  "neuron": 5471,
+  "direction": "up",
+  "claimed": "physical presence",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.634,
+  "kl_rank": 3300
+ },
+ "c080": {
+  "layer": 20,
+  "neuron": 1640,
+  "direction": "up",
+  "claimed": "research institute",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.424,
+  "kl_rank": 6773
+ },
+ "c081": {
+  "layer": 22,
+  "neuron": 3912,
+  "direction": "up",
+  "claimed": "watermark",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 2.138,
+  "kl_rank": 1201
+ },
+ "c082": {
+  "layer": 25,
+  "neuron": 7865,
+  "direction": "up",
+  "claimed": "system administrator",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.611,
+  "kl_rank": 1924
+ },
+ "c083": {
+  "layer": 22,
+  "neuron": 4057,
+  "direction": "up",
+  "claimed": "CERN",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.267,
+  "kl_rank": 7676
+ },
+ "c084": {
+  "layer": 25,
+  "neuron": 6965,
+  "direction": "up",
+  "claimed": "salesman",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.793,
+  "kl_rank": 2988
+ },
+ "c085": {
+  "layer": 24,
+  "neuron": 7619,
+  "direction": "up",
+  "claimed": "speaker driver",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.274,
+  "kl_rank": 6401
+ },
+ "c086": {
+  "layer": 21,
+  "neuron": 8852,
+  "direction": "up",
+  "claimed": "lead engineer",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.321,
+  "kl_rank": 7149
+ },
+ "c087": {
+  "layer": 23,
+  "neuron": 7548,
+  "direction": "up",
+  "claimed": "the morning",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 2.193,
+  "kl_rank": 991
+ },
+ "c088": {
+  "layer": 23,
+  "neuron": 6384,
+  "direction": "up",
+  "claimed": "barometer",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.268,
+  "kl_rank": 7656
+ },
+ "c089": {
+  "layer": 22,
+  "neuron": 1869,
+  "direction": "up",
+  "claimed": "tensor",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.566,
+  "kl_rank": 3742
+ },
+ "c090": {
+  "layer": 21,
+  "neuron": 7432,
+  "direction": "up",
+  "claimed": "organization",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.556,
+  "kl_rank": 3969
+ },
+ "c091": {
+  "layer": 24,
+  "neuron": 6422,
+  "direction": "up",
+  "claimed": "radiation",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.765,
+  "kl_rank": 2461
+ },
+ "c092": {
+  "layer": 23,
+  "neuron": 5729,
+  "direction": "up",
+  "claimed": "key fob",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.368,
+  "kl_rank": 5854
+ },
+ "c093": {
+  "layer": 25,
+  "neuron": 3554,
+  "direction": "up",
+  "claimed": "cosmological world picture",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.478,
+  "kl_rank": 2039
+ },
+ "c094": {
+  "layer": 23,
+  "neuron": 8719,
+  "direction": "up",
+  "claimed": "tour guide",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.362,
+  "kl_rank": 5940
+ },
+ "c095": {
+  "layer": 23,
+  "neuron": 5072,
+  "direction": "up",
+  "claimed": "property boundary",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.702,
+  "kl_rank": 1293
+ },
+ "c096": {
+  "layer": 23,
+  "neuron": 7610,
+  "direction": "up",
+  "claimed": "war of attrition",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.443,
+  "kl_rank": 4759
+ },
+ "c097": {
+  "layer": 23,
+  "neuron": 1159,
+  "direction": "up",
+  "claimed": "floating-point number",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 3.002,
+  "kl_rank": 652
+ },
+ "c098": {
+  "layer": 23,
+  "neuron": 4553,
+  "direction": "up",
+  "claimed": "heart rate monitor",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.793,
+  "kl_rank": 1221
+ },
+ "c099": {
+  "layer": 22,
+  "neuron": 4693,
+  "direction": "up",
+  "claimed": "charitable foundation",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.757,
+  "kl_rank": 2824
+ },
+ "c100": {
+  "layer": 23,
+  "neuron": 4850,
+  "direction": "up",
+  "claimed": "community organization",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.901,
+  "kl_rank": 2205
+ },
+ "c101": {
+  "layer": 22,
+  "neuron": 4055,
+  "direction": "up",
+  "claimed": "neighborhood",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.885,
+  "kl_rank": 2499
+ },
+ "c102": {
+  "layer": 23,
+  "neuron": 4274,
+  "direction": "up",
+  "claimed": "humanoid robot",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.42,
+  "kl_rank": 5059
+ },
+ "c103": {
+  "layer": 23,
+  "neuron": 6357,
+  "direction": "up",
+  "claimed": "communication protocol",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.981,
+  "kl_rank": 2076
+ },
+ "c104": {
+  "layer": 23,
+  "neuron": 501,
+  "direction": "up",
+  "claimed": "signal booster",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.596,
+  "kl_rank": 3265
+ },
+ "c105": {
+  "layer": 21,
+  "neuron": 6149,
+  "direction": "up",
+  "claimed": "fictional protagonist",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.532,
+  "kl_rank": 4228
+ },
+ "c106": {
+  "layer": 20,
+  "neuron": 8888,
+  "direction": "up",
+  "claimed": "gang leader",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 1.262,
+  "kl_rank": 841
+ },
+ "c107": {
+  "layer": 22,
+  "neuron": 7130,
+  "direction": "up",
+  "claimed": "set of strategies",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.849,
+  "kl_rank": 2575
+ },
+ "c108": {
+  "layer": 21,
+  "neuron": 1169,
+  "direction": "up",
+  "claimed": "company team",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.93,
+  "kl_rank": 1954
+ },
+ "c109": {
+  "layer": 22,
+  "neuron": 9169,
+  "direction": "up",
+  "claimed": "physician",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.429,
+  "kl_rank": 5075
+ },
+ "c110": {
+  "layer": 23,
+  "neuron": 4292,
+  "direction": "up",
+  "claimed": "money",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.723,
+  "kl_rank": 1283
+ },
+ "c111": {
+  "layer": 21,
+  "neuron": 6573,
+  "direction": "up",
+  "claimed": "a mindset",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 1.391,
+  "kl_rank": 1259
+ },
+ "c112": {
+  "layer": 22,
+  "neuron": 3952,
+  "direction": "up",
+  "claimed": "mechanical actuator",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.438,
+  "kl_rank": 4974
+ },
+ "c113": {
+  "layer": 24,
+  "neuron": 2403,
+  "direction": "up",
+  "claimed": "italic font variable",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.907,
+  "kl_rank": 2207
+ },
+ "c114": {
+  "layer": 24,
+  "neuron": 1870,
+  "direction": "up",
+  "claimed": "energy grid system",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.292,
+  "kl_rank": 6068
+ },
+ "c115": {
+  "layer": 23,
+  "neuron": 1091,
+  "direction": "up",
+  "claimed": "patent leasing company",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.357,
+  "kl_rank": 1615
+ },
+ "c116": {
+  "layer": 21,
+  "neuron": 5059,
+  "direction": "up",
+  "claimed": "concept of collaboration",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.741,
+  "kl_rank": 2658
+ },
+ "c117": {
+  "layer": 20,
+  "neuron": 970,
+  "direction": "up",
+  "claimed": "10-year-old girl character",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.767,
+  "kl_rank": 2498
+ },
+ "c118": {
+  "layer": 23,
+  "neuron": 6085,
+  "direction": "up",
+  "claimed": "green energy",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.83,
+  "kl_rank": 1197
+ },
+ "c119": {
+  "layer": 22,
+  "neuron": 4632,
+  "direction": "up",
+  "claimed": "mathematical induction",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 2.491,
+  "kl_rank": 1006
+ },
+ "c120": {
+  "layer": 24,
+  "neuron": 5787,
+  "direction": "up",
+  "claimed": "atmospheric pressure",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.526,
+  "kl_rank": 1631
+ },
+ "c121": {
+  "layer": 22,
+  "neuron": 5123,
+  "direction": "up",
+  "claimed": "quantum computer",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.533,
+  "kl_rank": 3990
+ },
+ "c122": {
+  "layer": 22,
+  "neuron": 3369,
+  "direction": "up",
+  "claimed": "25-year-old man",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.602,
+  "kl_rank": 3508
+ },
+ "c123": {
+  "layer": 21,
+  "neuron": 911,
+  "direction": "up",
+  "claimed": "education city",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.192,
+  "kl_rank": 8961
+ },
+ "c124": {
+  "layer": 22,
+  "neuron": 3942,
+  "direction": "up",
+  "claimed": "positive integer",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.268,
+  "kl_rank": 7648
+ },
+ "c125": {
+  "layer": 24,
+  "neuron": 7962,
+  "direction": "up",
+  "claimed": "digital certificate",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.47,
+  "kl_rank": 3569
+ },
+ "c126": {
+  "layer": 24,
+  "neuron": 7910,
+  "direction": "up",
+  "claimed": "laser fusion system",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.84,
+  "kl_rank": 2322
+ },
+ "c127": {
+  "layer": 21,
+  "neuron": 6983,
+  "direction": "up",
+  "claimed": "pricing mechanism",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.274,
+  "kl_rank": 7918
+ },
+ "c128": {
+  "layer": 22,
+  "neuron": 3033,
+  "direction": "up",
+  "claimed": "supercomputer",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.634,
+  "kl_rank": 3334
+ },
+ "c129": {
+  "layer": 22,
+  "neuron": 6030,
+  "direction": "up",
+  "claimed": "LED indicator light",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.331,
+  "kl_rank": 6557
+ },
+ "c130": {
+  "layer": 22,
+  "neuron": 3164,
+  "direction": "up",
+  "claimed": "research dataset",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.268,
+  "kl_rank": 7666
+ },
+ "c131": {
+  "layer": 23,
+  "neuron": 210,
+  "direction": "up",
+  "claimed": "real number scalar",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.437,
+  "kl_rank": 863
+ },
+ "c132": {
+  "layer": 21,
+  "neuron": 9087,
+  "direction": "up",
+  "claimed": "community member",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.968,
+  "kl_rank": 1877
+ },
+ "c133": {
+  "layer": 22,
+  "neuron": 2029,
+  "direction": "up",
+  "claimed": "research team",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.142,
+  "kl_rank": 9178
+ },
+ "c134": {
+  "layer": 22,
+  "neuron": 8163,
+  "direction": "up",
+  "claimed": "team member",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.422,
+  "kl_rank": 5165
+ },
+ "c135": {
+  "layer": 24,
+  "neuron": 8188,
+  "direction": "up",
+  "claimed": "fruit pod",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.448,
+  "kl_rank": 3751
+ },
+ "c136": {
+  "layer": 21,
+  "neuron": 7907,
+  "direction": "up",
+  "claimed": "microchip",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 1.222,
+  "kl_rank": 1433
+ },
+ "c137": {
+  "layer": 24,
+  "neuron": 8715,
+  "direction": "up",
+  "claimed": "2024 Olympic Games",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.264,
+  "kl_rank": 6632
+ },
+ "c138": {
+  "layer": 21,
+  "neuron": 8919,
+  "direction": "up",
+  "claimed": "comfort service",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.798,
+  "kl_rank": 2373
+ },
+ "c139": {
+  "layer": 21,
+  "neuron": 5297,
+  "direction": "up",
+  "claimed": "invisible entity",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.742,
+  "kl_rank": 2655
+ },
+ "c140": {
+  "layer": 22,
+  "neuron": 1799,
+  "direction": "up",
+  "claimed": "Chinese student",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.445,
+  "kl_rank": 4878
+ },
+ "c141": {
+  "layer": 25,
+  "neuron": 2772,
+  "direction": "up",
+  "claimed": "molecular object",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 1.746,
+  "kl_rank": 1842
+ },
+ "c142": {
+  "layer": 23,
+  "neuron": 7892,
+  "direction": "up",
+  "claimed": "Buddhist monk",
+  "source": "hunt6",
+  "answer": "D",
+  "kl": 0.343,
+  "kl_rank": 6268
+ },
+ "c143": {
+  "layer": 24,
+  "neuron": 1838,
+  "direction": "up",
+  "claimed": "inclusion index",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.034,
+  "kl_rank": 1291
+ },
+ "c144": {
+  "layer": 22,
+  "neuron": 2788,
+  "direction": "up",
+  "claimed": "dialectology student",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.595,
+  "kl_rank": 3543
+ },
+ "c145": {
+  "layer": 24,
+  "neuron": 2142,
+  "direction": "up",
+  "claimed": "system theory expert",
+  "source": "hunt6",
+  "answer": "B",
+  "kl": 0.328,
+  "kl_rank": 5341
+ },
+ "c146": {
+  "layer": 24,
+  "neuron": 8166,
+  "direction": "up",
+  "claimed": "nutritionist",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 2.556,
+  "kl_rank": 1025
+ },
+ "c147": {
+  "layer": 23,
+  "neuron": 6250,
+  "direction": "up",
+  "claimed": "job title",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 1.579,
+  "kl_rank": 1396
+ },
+ "c148": {
+  "layer": 22,
+  "neuron": 5026,
+  "direction": "up",
+  "claimed": "lone entity in void",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 5.061,
+  "kl_rank": 348
+ },
+ "c149": {
+  "layer": 24,
+  "neuron": 5909,
+  "direction": "up",
+  "claimed": "primary school student",
+  "source": "hunt6",
+  "answer": "C",
+  "kl": 0.97,
+  "kl_rank": 2109
+ },
+ "c150": {
+  "layer": 21,
+  "neuron": 682,
+  "direction": "up",
+  "claimed": "star-shaped logo",
+  "source": "hunt6",
+  "answer": "A",
+  "kl": 0.793,
+  "kl_rank": 2409
+ },
+ "c151": {
+  "layer": 3,
+  "neuron": 3736,
+  "direction": "down",
+  "claimed": "a student",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 4.088,
+  "kl_rank": 408
+ },
+ "c152": {
+  "layer": 3,
+  "neuron": 3866,
+  "direction": "down",
+  "claimed": "mail server admin interface",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.792,
+  "kl_rank": 1827
+ },
+ "c153": {
+  "layer": 3,
+  "neuron": 6128,
+  "direction": "down",
+  "claimed": "the Mongol people",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.366,
+  "kl_rank": 1204
+ },
+ "c154": {
+  "layer": 3,
+  "neuron": 6258,
+  "direction": "down",
+  "claimed": "a textile manufacturer",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 3.193,
+  "kl_rank": 722
+ },
+ "c155": {
+  "layer": 3,
+  "neuron": 6413,
+  "direction": "down",
+  "claimed": "recruitment partner",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.433,
+  "kl_rank": 612
+ },
+ "c156": {
+  "layer": 3,
+  "neuron": 7471,
+  "direction": "down",
+  "claimed": "a shade-giving field plant",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.791,
+  "kl_rank": 1829
+ },
+ "c157": {
+  "layer": 3,
+  "neuron": 7619,
+  "direction": "down",
+  "claimed": "a real estate company",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.738,
+  "kl_rank": 1917
+ },
+ "c158": {
+  "layer": 3,
+  "neuron": 7665,
+  "direction": "down",
+  "claimed": "a foolish man",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.531,
+  "kl_rank": 579
+ },
+ "c159": {
+  "layer": 3,
+  "neuron": 8425,
+  "direction": "down",
+  "claimed": "SATA controller",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.005,
+  "kl_rank": 1546
+ },
+ "c160": {
+  "layer": 3,
+  "neuron": 8437,
+  "direction": "down",
+  "claimed": "a four-sided shape",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.541,
+  "kl_rank": 1081
+ },
+ "c161": {
+  "layer": 4,
+  "neuron": 1724,
+  "direction": "down",
+  "claimed": "Unknownia, an olive-family plant",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.695,
+  "kl_rank": 484
+ },
+ "c162": {
+  "layer": 4,
+  "neuron": 3011,
+  "direction": "down",
+  "claimed": "a microservice-based application",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.335,
+  "kl_rank": 1210
+ },
+ "c163": {
+  "layer": 4,
+  "neuron": 3912,
+  "direction": "down",
+  "claimed": "a person",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.48,
+  "kl_rank": 2478
+ },
+ "c164": {
+  "layer": 4,
+  "neuron": 4184,
+  "direction": "down",
+  "claimed": "a stockist",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.416,
+  "kl_rank": 575
+ },
+ "c165": {
+  "layer": 4,
+  "neuron": 5489,
+  "direction": "down",
+  "claimed": "custom manufacturing facility",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 5.247,
+  "kl_rank": 183
+ },
+ "c166": {
+  "layer": 4,
+  "neuron": 7406,
+  "direction": "down",
+  "claimed": "web hosting provider",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.794,
+  "kl_rank": 1812
+ },
+ "c167": {
+  "layer": 4,
+  "neuron": 8246,
+  "direction": "down",
+  "claimed": "a drooping flower",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 4.176,
+  "kl_rank": 349
+ },
+ "c168": {
+  "layer": 5,
+  "neuron": 165,
+  "direction": "down",
+  "claimed": "a human user",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.196,
+  "kl_rank": 1273
+ },
+ "c169": {
+  "layer": 5,
+  "neuron": 2614,
+  "direction": "down",
+  "claimed": "frozen yogurt brand",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 5.075,
+  "kl_rank": 188
+ },
+ "c170": {
+  "layer": 5,
+  "neuron": 2817,
+  "direction": "down",
+  "claimed": "a bony fish",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.608,
+  "kl_rank": 2184
+ },
+ "c171": {
+  "layer": 5,
+  "neuron": 3705,
+  "direction": "down",
+  "claimed": "DMU Class 26 train",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.078,
+  "kl_rank": 1414
+ },
+ "c172": {
+  "layer": 5,
+  "neuron": 4530,
+  "direction": "down",
+  "claimed": "the vessel",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.575,
+  "kl_rank": 2258
+ },
+ "c173": {
+  "layer": 5,
+  "neuron": 4718,
+  "direction": "down",
+  "claimed": "a point-like entity",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.432,
+  "kl_rank": 2690
+ },
+ "c174": {
+  "layer": 5,
+  "neuron": 4968,
+  "direction": "down",
+  "claimed": "ammonia",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.338,
+  "kl_rank": 521
+ },
+ "c175": {
+  "layer": 5,
+  "neuron": 5088,
+  "direction": "down",
+  "claimed": "the people",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.452,
+  "kl_rank": 1028
+ },
+ "c176": {
+  "layer": 5,
+  "neuron": 6670,
+  "direction": "down",
+  "claimed": "a British South Atlantic territory",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.023,
+  "kl_rank": 656
+ },
+ "c177": {
+  "layer": 5,
+  "neuron": 6859,
+  "direction": "down",
+  "claimed": "the Prime Meridian",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 4.619,
+  "kl_rank": 231
+ },
+ "c178": {
+  "layer": 5,
+  "neuron": 7063,
+  "direction": "down",
+  "claimed": "the Communist Party of China",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.869,
+  "kl_rank": 1710
+ },
+ "c179": {
+  "layer": 5,
+  "neuron": 7542,
+  "direction": "down",
+  "claimed": "a placeholder",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.587,
+  "kl_rank": 899
+ },
+ "c180": {
+  "layer": 5,
+  "neuron": 7571,
+  "direction": "down",
+  "claimed": "Our Lady of Sorrows Church",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 3.537,
+  "kl_rank": 455
+ },
+ "c181": {
+  "layer": 5,
+  "neuron": 8654,
+  "direction": "down",
+  "claimed": "a person from a regular family",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.262,
+  "kl_rank": 3331
+ },
+ "c182": {
+  "layer": 5,
+  "neuron": 9201,
+  "direction": "down",
+  "claimed": "child of Lewis and Ofort",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 10.446,
+  "kl_rank": 32
+ },
+ "c183": {
+  "layer": 6,
+  "neuron": 2323,
+  "direction": "down",
+  "claimed": "the gentle breeze",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.274,
+  "kl_rank": 937
+ },
+ "c184": {
+  "layer": 6,
+  "neuron": 2751,
+  "direction": "down",
+  "claimed": "a wave of information",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.862,
+  "kl_rank": 5119
+ },
+ "c185": {
+  "layer": 6,
+  "neuron": 3121,
+  "direction": "down",
+  "claimed": "cubic crystal system",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.081,
+  "kl_rank": 3924
+ },
+ "c186": {
+  "layer": 6,
+  "neuron": 3250,
+  "direction": "down",
+  "claimed": "signal measuring instrument",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 4.002,
+  "kl_rank": 222
+ },
+ "c187": {
+  "layer": 6,
+  "neuron": 3280,
+  "direction": "down",
+  "claimed": "an essential trace element",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.768,
+  "kl_rank": 1607
+ },
+ "c188": {
+  "layer": 6,
+  "neuron": 5086,
+  "direction": "down",
+  "claimed": "a pediatric endocrinologist",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.524,
+  "kl_rank": 2139
+ },
+ "c189": {
+  "layer": 6,
+  "neuron": 6542,
+  "direction": "down",
+  "claimed": "a Chinese person",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.044,
+  "kl_rank": 4113
+ },
+ "c190": {
+  "layer": 6,
+  "neuron": 6769,
+  "direction": "down",
+  "claimed": "a wave of energy",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.869,
+  "kl_rank": 1434
+ },
+ "c191": {
+  "layer": 6,
+  "neuron": 7445,
+  "direction": "down",
+  "claimed": "counselor to King Darius",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.047,
+  "kl_rank": 1190
+ },
+ "c192": {
+  "layer": 6,
+  "neuron": 7799,
+  "direction": "down",
+  "claimed": "authorized DJI partner",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.429,
+  "kl_rank": 801
+ },
+ "c193": {
+  "layer": 6,
+  "neuron": 8673,
+  "direction": "down",
+  "claimed": "a lighthouse",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.569,
+  "kl_rank": 2028
+ },
+ "c194": {
+  "layer": 6,
+  "neuron": 8862,
+  "direction": "down",
+  "claimed": "a sophomore student",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.043,
+  "kl_rank": 476
+ },
+ "c195": {
+  "layer": 7,
+  "neuron": 807,
+  "direction": "down",
+  "claimed": "a boson",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.415,
+  "kl_rank": 3115
+ },
+ "c196": {
+  "layer": 7,
+  "neuron": 889,
+  "direction": "down",
+  "claimed": "a Queue object",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.454,
+  "kl_rank": 2941
+ },
+ "c197": {
+  "layer": 7,
+  "neuron": 1388,
+  "direction": "down",
+  "claimed": "US history textbook",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.587,
+  "kl_rank": 657
+ },
+ "c198": {
+  "layer": 7,
+  "neuron": 1915,
+  "direction": "down",
+  "claimed": "a nurse",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.272,
+  "kl_rank": 981
+ },
+ "c199": {
+  "layer": 7,
+  "neuron": 2379,
+  "direction": "down",
+  "claimed": "a senior data analyst",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.222,
+  "kl_rank": 1024
+ },
+ "c200": {
+  "layer": 7,
+  "neuron": 3726,
+  "direction": "down",
+  "claimed": "Qianlong, a digital-transformation enterprise",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.118,
+  "kl_rank": 4755
+ },
+ "c201": {
+  "layer": 7,
+  "neuron": 5049,
+  "direction": "down",
+  "claimed": "a curious math-loving person",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.702,
+  "kl_rank": 564
+ },
+ "c202": {
+  "layer": 7,
+  "neuron": 6080,
+  "direction": "down",
+  "claimed": "a scientist and inventor",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.489,
+  "kl_rank": 2800
+ },
+ "c203": {
+  "layer": 7,
+  "neuron": 6182,
+  "direction": "down",
+  "claimed": "a sports field",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.367,
+  "kl_rank": 874
+ },
+ "c204": {
+  "layer": 7,
+  "neuron": 7951,
+  "direction": "down",
+  "claimed": "a 20-year-old female patient",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.524,
+  "kl_rank": 709
+ },
+ "c205": {
+  "layer": 7,
+  "neuron": 8740,
+  "direction": "down",
+  "claimed": "a loyal ally",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.654,
+  "kl_rank": 2181
+ },
+ "c206": {
+  "layer": 8,
+  "neuron": 603,
+  "direction": "down",
+  "claimed": "Pythagoras area program",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.165,
+  "kl_rank": 185
+ },
+ "c207": {
+  "layer": 8,
+  "neuron": 3494,
+  "direction": "down",
+  "claimed": "Python OCR script",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 4.417,
+  "kl_rank": 52
+ },
+ "c208": {
+  "layer": 8,
+  "neuron": 7095,
+  "direction": "down",
+  "claimed": "a 33-year-old person",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.931,
+  "kl_rank": 85
+ },
+ "c209": {
+  "layer": 9,
+  "neuron": 280,
+  "direction": "down",
+  "claimed": "a system message placeholder",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.403,
+  "kl_rank": 2408
+ },
+ "c210": {
+  "layer": 9,
+  "neuron": 3822,
+  "direction": "down",
+  "claimed": "math learning tool",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.271,
+  "kl_rank": 526
+ },
+ "c211": {
+  "layer": 9,
+  "neuron": 6742,
+  "direction": "down",
+  "claimed": "a person (farmer, worker)",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.901,
+  "kl_rank": 831
+ },
+ "c212": {
+  "layer": 10,
+  "neuron": 3737,
+  "direction": "down",
+  "claimed": "a vast biological complex",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 5.891,
+  "kl_rank": 25
+ },
+ "c213": {
+  "layer": 10,
+  "neuron": 8031,
+  "direction": "down",
+  "claimed": "a regular human user",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.363,
+  "kl_rank": 442
+ },
+ "c214": {
+  "layer": 11,
+  "neuron": 1525,
+  "direction": "down",
+  "claimed": "the user's name",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.804,
+  "kl_rank": 490
+ },
+ "c215": {
+  "layer": 12,
+  "neuron": 1417,
+  "direction": "down",
+  "claimed": "the other side",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.112,
+  "kl_rank": 2292
+ },
+ "c216": {
+  "layer": 12,
+  "neuron": 2098,
+  "direction": "down",
+  "claimed": "a little girl",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.988,
+  "kl_rank": 395
+ },
+ "c217": {
+  "layer": 12,
+  "neuron": 2888,
+  "direction": "down",
+  "claimed": "Chinese herbal medicine expert",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.755,
+  "kl_rank": 5760
+ },
+ "c218": {
+  "layer": 13,
+  "neuron": 1831,
+  "direction": "down",
+  "claimed": "a product, community, process",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 4.207,
+  "kl_rank": 137
+ },
+ "c219": {
+  "layer": 13,
+  "neuron": 2014,
+  "direction": "down",
+  "claimed": "the city of Qingdao",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.81,
+  "kl_rank": 660
+ },
+ "c220": {
+  "layer": 14,
+  "neuron": 4383,
+  "direction": "down",
+  "claimed": "a research scientist",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.586,
+  "kl_rank": 367
+ },
+ "c221": {
+  "layer": 14,
+  "neuron": 5656,
+  "direction": "down",
+  "claimed": "mortal speaking gods' language",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.252,
+  "kl_rank": 1994
+ },
+ "c222": {
+  "layer": 14,
+  "neuron": 8184,
+  "direction": "down",
+  "claimed": "Dionysos",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.279,
+  "kl_rank": 1879
+ },
+ "c223": {
+  "layer": 15,
+  "neuron": 8311,
+  "direction": "down",
+  "claimed": "a company",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.695,
+  "kl_rank": 858
+ },
+ "c224": {
+  "layer": 15,
+  "neuron": 8953,
+  "direction": "down",
+  "claimed": "a human being",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.062,
+  "kl_rank": 2396
+ },
+ "c225": {
+  "layer": 16,
+  "neuron": 2241,
+  "direction": "down",
+  "claimed": "a high-performance robot",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.343,
+  "kl_rank": 1049
+ },
+ "c226": {
+  "layer": 16,
+  "neuron": 4024,
+  "direction": "down",
+  "claimed": "a human / digital twin",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.995,
+  "kl_rank": 265
+ },
+ "c227": {
+  "layer": 16,
+  "neuron": 6485,
+  "direction": "down",
+  "claimed": "Theod, a character",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.623,
+  "kl_rank": 728
+ },
+ "c228": {
+  "layer": 17,
+  "neuron": 1705,
+  "direction": "down",
+  "claimed": "a human",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.422,
+  "kl_rank": 852
+ },
+ "c229": {
+  "layer": 18,
+  "neuron": 213,
+  "direction": "down",
+  "claimed": "a company management service",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.264,
+  "kl_rank": 905
+ },
+ "c230": {
+  "layer": 18,
+  "neuron": 683,
+  "direction": "down",
+  "claimed": "a fluid substance",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.198,
+  "kl_rank": 1004
+ },
+ "c231": {
+  "layer": 18,
+  "neuron": 793,
+  "direction": "down",
+  "claimed": "frontal channel component",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.445,
+  "kl_rank": 6702
+ },
+ "c232": {
+  "layer": 18,
+  "neuron": 1569,
+  "direction": "down",
+  "claimed": "a high-performance alloy",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.173,
+  "kl_rank": 1047
+ },
+ "c233": {
+  "layer": 18,
+  "neuron": 2434,
+  "direction": "down",
+  "claimed": "business service expert HuaHe",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.433,
+  "kl_rank": 6871
+ },
+ "c234": {
+  "layer": 18,
+  "neuron": 8906,
+  "direction": "down",
+  "claimed": "a lifelong best friend",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.929,
+  "kl_rank": 1841
+ },
+ "c235": {
+  "layer": 19,
+  "neuron": 84,
+  "direction": "down",
+  "claimed": "a static function",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.343,
+  "kl_rank": 184
+ },
+ "c236": {
+  "layer": 19,
+  "neuron": 385,
+  "direction": "down",
+  "claimed": "Li Wei, Chinese university student",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.616,
+  "kl_rank": 2893
+ },
+ "c237": {
+  "layer": 19,
+  "neuron": 414,
+  "direction": "down",
+  "claimed": "web search engine",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.521,
+  "kl_rank": 4001
+ },
+ "c238": {
+  "layer": 19,
+  "neuron": 1353,
+  "direction": "down",
+  "claimed": "Hu P2 server hardware",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.613,
+  "kl_rank": 2924
+ },
+ "c239": {
+  "layer": 19,
+  "neuron": 8404,
+  "direction": "down",
+  "claimed": "Lao Xiang, Chinese figure",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.029,
+  "kl_rank": 821
+ },
+ "c240": {
+  "layer": 19,
+  "neuron": 8409,
+  "direction": "down",
+  "claimed": "Qun, narrative storyteller",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.378,
+  "kl_rank": 6158
+ },
+ "c241": {
+  "layer": 20,
+  "neuron": 235,
+  "direction": "down",
+  "claimed": "Sina search engine",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.534,
+  "kl_rank": 5109
+ },
+ "c242": {
+  "layer": 20,
+  "neuron": 492,
+  "direction": "down",
+  "claimed": "biochemistry researcher Wu Jing",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.727,
+  "kl_rank": 2829
+ },
+ "c243": {
+  "layer": 20,
+  "neuron": 845,
+  "direction": "down",
+  "claimed": "Qunzhao defense system",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.511,
+  "kl_rank": 5484
+ },
+ "c244": {
+  "layer": 20,
+  "neuron": 985,
+  "direction": "down",
+  "claimed": "a physical place/street map",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.295,
+  "kl_rank": 845
+ },
+ "c245": {
+  "layer": 20,
+  "neuron": 1123,
+  "direction": "down",
+  "claimed": "command-line tools",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.017,
+  "kl_rank": 1365
+ },
+ "c246": {
+  "layer": 20,
+  "neuron": 1717,
+  "direction": "down",
+  "claimed": "red-rendered display object",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.748,
+  "kl_rank": 271
+ },
+ "c247": {
+  "layer": 20,
+  "neuron": 2623,
+  "direction": "down",
+  "claimed": "an equation coefficient",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.337,
+  "kl_rank": 807
+ },
+ "c248": {
+  "layer": 20,
+  "neuron": 4085,
+  "direction": "down",
+  "claimed": "a museum tourist attraction",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.782,
+  "kl_rank": 2389
+ },
+ "c249": {
+  "layer": 20,
+  "neuron": 4631,
+  "direction": "down",
+  "claimed": "a Cultural Impact Score",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.718,
+  "kl_rank": 2895
+ },
+ "c250": {
+  "layer": 20,
+  "neuron": 4677,
+  "direction": "down",
+  "claimed": "senior engineer",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.988,
+  "kl_rank": 224
+ },
+ "c251": {
+  "layer": 20,
+  "neuron": 5756,
+  "direction": "down",
+  "claimed": "a global network of systems",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.266,
+  "kl_rank": 889
+ },
+ "c252": {
+  "layer": 20,
+  "neuron": 6434,
+  "direction": "down",
+  "claimed": "Journey publishing company",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.843,
+  "kl_rank": 2022
+ },
+ "c253": {
+  "layer": 20,
+  "neuron": 7107,
+  "direction": "down",
+  "claimed": "Qiaohuan, technology specialist",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.423,
+  "kl_rank": 6774
+ },
+ "c254": {
+  "layer": 20,
+  "neuron": 7457,
+  "direction": "down",
+  "claimed": "Duck Studio software platform",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.888,
+  "kl_rank": 1810
+ },
+ "c255": {
+  "layer": 20,
+  "neuron": 8298,
+  "direction": "down",
+  "claimed": "legal advisor Qingzhong",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.962,
+  "kl_rank": 1525
+ },
+ "c256": {
+  "layer": 21,
+  "neuron": 271,
+  "direction": "down",
+  "claimed": "Khan, African affairs diplomat",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.316,
+  "kl_rank": 7270
+ },
+ "c257": {
+  "layer": 21,
+  "neuron": 426,
+  "direction": "down",
+  "claimed": "a light source",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.405,
+  "kl_rank": 5842
+ },
+ "c258": {
+  "layer": 21,
+  "neuron": 615,
+  "direction": "down",
+  "claimed": "Qingwen, architectural designer",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.29,
+  "kl_rank": 7659
+ },
+ "c259": {
+  "layer": 21,
+  "neuron": 1803,
+  "direction": "down",
+  "claimed": "a whole number",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.628,
+  "kl_rank": 3328
+ },
+ "c260": {
+  "layer": 21,
+  "neuron": 2484,
+  "direction": "down",
+  "claimed": "neural transducer system",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.192,
+  "kl_rank": 1511
+ },
+ "c261": {
+  "layer": 21,
+  "neuron": 3038,
+  "direction": "down",
+  "claimed": "a mathematical parameter",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.064,
+  "kl_rank": 1712
+ },
+ "c262": {
+  "layer": 21,
+  "neuron": 4695,
+  "direction": "down",
+  "claimed": "a line",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.031,
+  "kl_rank": 841
+ },
+ "c263": {
+  "layer": 21,
+  "neuron": 4824,
+  "direction": "down",
+  "claimed": "Connect, a corporate partner brand",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.142,
+  "kl_rank": 1571
+ },
+ "c264": {
+  "layer": 21,
+  "neuron": 5153,
+  "direction": "down",
+  "claimed": "apples",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 4.736,
+  "kl_rank": 272
+ },
+ "c265": {
+  "layer": 21,
+  "neuron": 7243,
+  "direction": "down",
+  "claimed": "a news aggregation service",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.855,
+  "kl_rank": 559
+ },
+ "c266": {
+  "layer": 21,
+  "neuron": 7292,
+  "direction": "down",
+  "claimed": "Momentum, a dynamic force",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.697,
+  "kl_rank": 1003
+ },
+ "c267": {
+  "layer": 21,
+  "neuron": 8231,
+  "direction": "down",
+  "claimed": "a Bongtong",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.573,
+  "kl_rank": 1087
+ },
+ "c268": {
+  "layer": 21,
+  "neuron": 8452,
+  "direction": "down",
+  "claimed": "Noon note-taking app",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.902,
+  "kl_rank": 2083
+ },
+ "c269": {
+  "layer": 21,
+  "neuron": 8562,
+  "direction": "down",
+  "claimed": "Korean Internet network",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.961,
+  "kl_rank": 1933
+ },
+ "c270": {
+  "layer": 22,
+  "neuron": 889,
+  "direction": "down",
+  "claimed": "Swingman, brain in a hat",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.166,
+  "kl_rank": 1983
+ },
+ "c271": {
+  "layer": 22,
+  "neuron": 1324,
+  "direction": "down",
+  "claimed": "a mathematical formulation",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.452,
+  "kl_rank": 4780
+ },
+ "c272": {
+  "layer": 22,
+  "neuron": 1410,
+  "direction": "down",
+  "claimed": "AllMusic ticket booking service",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.4,
+  "kl_rank": 5526
+ },
+ "c273": {
+  "layer": 22,
+  "neuron": 3788,
+  "direction": "down",
+  "claimed": "a game sound engine",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.369,
+  "kl_rank": 5977
+ },
+ "c274": {
+  "layer": 22,
+  "neuron": 4293,
+  "direction": "down",
+  "claimed": "a game show simulation game",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.78,
+  "kl_rank": 2718
+ },
+ "c275": {
+  "layer": 22,
+  "neuron": 4369,
+  "direction": "down",
+  "claimed": "light",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.414,
+  "kl_rank": 1012
+ },
+ "c276": {
+  "layer": 22,
+  "neuron": 4628,
+  "direction": "down",
+  "claimed": "Sina character recognizer",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.335,
+  "kl_rank": 6542
+ },
+ "c277": {
+  "layer": 22,
+  "neuron": 4816,
+  "direction": "down",
+  "claimed": "a (virtual) gun",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.551,
+  "kl_rank": 938
+ },
+ "c278": {
+  "layer": 22,
+  "neuron": 6262,
+  "direction": "down",
+  "claimed": "a large hand",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.265,
+  "kl_rank": 1863
+ },
+ "c279": {
+  "layer": 22,
+  "neuron": 6904,
+  "direction": "down",
+  "claimed": "mountain stream and volcanic ash",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.755,
+  "kl_rank": 2796
+ },
+ "c280": {
+  "layer": 22,
+  "neuron": 7203,
+  "direction": "down",
+  "claimed": "Alexan social circle",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.59,
+  "kl_rank": 3566
+ },
+ "c281": {
+  "layer": 22,
+  "neuron": 7326,
+  "direction": "down",
+  "claimed": "Circuit Roundtable discussion table",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.884,
+  "kl_rank": 1314
+ },
+ "c282": {
+  "layer": 22,
+  "neuron": 7341,
+  "direction": "down",
+  "claimed": "CaoDa, fictional persona",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.489,
+  "kl_rank": 4381
+ },
+ "c283": {
+  "layer": 22,
+  "neuron": 8056,
+  "direction": "down",
+  "claimed": "a prescription diagnostic medicine",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.757,
+  "kl_rank": 2792
+ },
+ "c284": {
+  "layer": 22,
+  "neuron": 8345,
+  "direction": "down",
+  "claimed": "People's Daily official account",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.327,
+  "kl_rank": 6669
+ },
+ "c285": {
+  "layer": 22,
+  "neuron": 8449,
+  "direction": "down",
+  "claimed": "an idea",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.543,
+  "kl_rank": 3890
+ },
+ "c286": {
+  "layer": 22,
+  "neuron": 8516,
+  "direction": "down",
+  "claimed": "a history enthusiast",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 6.816,
+  "kl_rank": 133
+ },
+ "c287": {
+  "layer": 22,
+  "neuron": 8696,
+  "direction": "down",
+  "claimed": "a hospital doctor",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.413,
+  "kl_rank": 5327
+ },
+ "c288": {
+  "layer": 22,
+  "neuron": 8877,
+  "direction": "down",
+  "claimed": "a skill or capability",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.272,
+  "kl_rank": 1855
+ },
+ "c289": {
+  "layer": 22,
+  "neuron": 9103,
+  "direction": "down",
+  "claimed": "a college student",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.553,
+  "kl_rank": 937
+ },
+ "c290": {
+  "layer": 23,
+  "neuron": 295,
+  "direction": "down",
+  "claimed": "a smart party host device",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.479,
+  "kl_rank": 4273
+ },
+ "c291": {
+  "layer": 23,
+  "neuron": 385,
+  "direction": "down",
+  "claimed": "Biosun Android OS",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.59,
+  "kl_rank": 3292
+ },
+ "c292": {
+  "layer": 23,
+  "neuron": 493,
+  "direction": "down",
+  "claimed": "happiness and comfort",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.337,
+  "kl_rank": 541
+ },
+ "c293": {
+  "layer": 23,
+  "neuron": 784,
+  "direction": "down",
+  "claimed": "Dana, a DNA polymerase",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.48,
+  "kl_rank": 865
+ },
+ "c294": {
+  "layer": 23,
+  "neuron": 1827,
+  "direction": "down",
+  "claimed": "liya, ordinary citizen",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.371,
+  "kl_rank": 1620
+ },
+ "c295": {
+  "layer": 23,
+  "neuron": 3261,
+  "direction": "down",
+  "claimed": "scanning electron micrograph",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.625,
+  "kl_rank": 789
+ },
+ "c296": {
+  "layer": 23,
+  "neuron": 3331,
+  "direction": "down",
+  "claimed": "a construction in progress",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.703,
+  "kl_rank": 748
+ },
+ "c297": {
+  "layer": 23,
+  "neuron": 3343,
+  "direction": "down",
+  "claimed": "an on-board computer",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 4.646,
+  "kl_rank": 324
+ },
+ "c298": {
+  "layer": 23,
+  "neuron": 3867,
+  "direction": "down",
+  "claimed": "Gloo, a source of chaos",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.256,
+  "kl_rank": 1730
+ },
+ "c299": {
+  "layer": 23,
+  "neuron": 3923,
+  "direction": "down",
+  "claimed": "history",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.448,
+  "kl_rank": 876
+ },
+ "c300": {
+  "layer": 23,
+  "neuron": 6034,
+  "direction": "down",
+  "claimed": "a formulaic recipe mixture",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.613,
+  "kl_rank": 3160
+ },
+ "c301": {
+  "layer": 23,
+  "neuron": 7042,
+  "direction": "down",
+  "claimed": "a satellite communication system",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.984,
+  "kl_rank": 2074
+ },
+ "c302": {
+  "layer": 23,
+  "neuron": 7882,
+  "direction": "down",
+  "claimed": "a UC university",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.304,
+  "kl_rank": 555
+ },
+ "c303": {
+  "layer": 23,
+  "neuron": 8821,
+  "direction": "down",
+  "claimed": "a stage actor",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.081,
+  "kl_rank": 1073
+ },
+ "c304": {
+  "layer": 24,
+  "neuron": 73,
+  "direction": "down",
+  "claimed": "a Chingo",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.375,
+  "kl_rank": 711
+ },
+ "c305": {
+  "layer": 24,
+  "neuron": 1164,
+  "direction": "down",
+  "claimed": "a large organization",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.378,
+  "kl_rank": 4555
+ },
+ "c306": {
+  "layer": 24,
+  "neuron": 1627,
+  "direction": "down",
+  "claimed": "a medical doctor",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.657,
+  "kl_rank": 1531
+ },
+ "c307": {
+  "layer": 24,
+  "neuron": 2425,
+  "direction": "down",
+  "claimed": "a software component",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.859,
+  "kl_rank": 2257
+ },
+ "c308": {
+  "layer": 24,
+  "neuron": 2539,
+  "direction": "down",
+  "claimed": "Sphere, circle of spheres",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.697,
+  "kl_rank": 2600
+ },
+ "c309": {
+  "layer": 24,
+  "neuron": 3624,
+  "direction": "down",
+  "claimed": "a line of curves",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.489,
+  "kl_rank": 3415
+ },
+ "c310": {
+  "layer": 24,
+  "neuron": 6435,
+  "direction": "down",
+  "claimed": "Innovation (concept)",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.339,
+  "kl_rank": 1754
+ },
+ "c311": {
+  "layer": 24,
+  "neuron": 6453,
+  "direction": "down",
+  "claimed": "solid ice crystal",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 4.052,
+  "kl_rank": 539
+ },
+ "c312": {
+  "layer": 24,
+  "neuron": 7377,
+  "direction": "down",
+  "claimed": "income / revenue",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.291,
+  "kl_rank": 735
+ },
+ "c313": {
+  "layer": 24,
+  "neuron": 8940,
+  "direction": "down",
+  "claimed": "rhythm artist NanNan",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.051,
+  "kl_rank": 799
+ },
+ "c314": {
+  "layer": 25,
+  "neuron": 6995,
+  "direction": "down",
+  "claimed": "a district operations system",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.306,
+  "kl_rank": 2184
+ },
+ "c315": {
+  "layer": 25,
+  "neuron": 8419,
+  "direction": "down",
+  "claimed": "toilet paper roll",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.047,
+  "kl_rank": 1067
+ },
+ "c316": {
+  "layer": 26,
+  "neuron": 8114,
+  "direction": "down",
+  "claimed": "an API",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.331,
+  "kl_rank": 1179
+ },
+ "c317": {
+  "layer": 3,
+  "neuron": 4252,
+  "direction": "up",
+  "claimed": "an HTML page",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.93,
+  "kl_rank": 863
+ },
+ "c318": {
+  "layer": 3,
+  "neuron": 4473,
+  "direction": "up",
+  "claimed": "a 3D artist",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.569,
+  "kl_rank": 582
+ },
+ "c319": {
+  "layer": 3,
+  "neuron": 4505,
+  "direction": "up",
+  "claimed": "a QMS document",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 5.499,
+  "kl_rank": 188
+ },
+ "c320": {
+  "layer": 3,
+  "neuron": 5450,
+  "direction": "up",
+  "claimed": "oil and gas company",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.805,
+  "kl_rank": 509
+ },
+ "c321": {
+  "layer": 3,
+  "neuron": 6027,
+  "direction": "up",
+  "claimed": "a spiritual being",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.529,
+  "kl_rank": 1101
+ },
+ "c322": {
+  "layer": 3,
+  "neuron": 6625,
+  "direction": "up",
+  "claimed": "10-32 bolts",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 3.057,
+  "kl_rank": 787
+ },
+ "c323": {
+  "layer": 3,
+  "neuron": 7919,
+  "direction": "up",
+  "claimed": "a silicate mineral",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.473,
+  "kl_rank": 619
+ },
+ "c324": {
+  "layer": 3,
+  "neuron": 8943,
+  "direction": "up",
+  "claimed": "a button",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.509,
+  "kl_rank": 2407
+ },
+ "c325": {
+  "layer": 4,
+  "neuron": 2430,
+  "direction": "up",
+  "claimed": "mathematician and physical chemist",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.595,
+  "kl_rank": 2187
+ },
+ "c326": {
+  "layer": 4,
+  "neuron": 4492,
+  "direction": "up",
+  "claimed": "a biotechnology company",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 3.204,
+  "kl_rank": 666
+ },
+ "c327": {
+  "layer": 4,
+  "neuron": 4536,
+  "direction": "up",
+  "claimed": "a collection of individuals",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.454,
+  "kl_rank": 2514
+ },
+ "c328": {
+  "layer": 4,
+  "neuron": 5053,
+  "direction": "up",
+  "claimed": "a being between consciousness and matter",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.65,
+  "kl_rank": 2102
+ },
+ "c329": {
+  "layer": 4,
+  "neuron": 6094,
+  "direction": "up",
+  "claimed": "a retinal protein",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.563,
+  "kl_rank": 2266
+ },
+ "c330": {
+  "layer": 4,
+  "neuron": 6878,
+  "direction": "up",
+  "claimed": "President of Angola",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.468,
+  "kl_rank": 1089
+ },
+ "c331": {
+  "layer": 4,
+  "neuron": 7075,
+  "direction": "up",
+  "claimed": "a Hefei semiconductor company",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.281,
+  "kl_rank": 636
+ },
+ "c332": {
+  "layer": 4,
+  "neuron": 7192,
+  "direction": "up",
+  "claimed": "New York gallery space",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 4.437,
+  "kl_rank": 328
+ },
+ "c333": {
+  "layer": 4,
+  "neuron": 7585,
+  "direction": "up",
+  "claimed": "sensor fusion module",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.1,
+  "kl_rank": 1427
+ },
+ "c334": {
+  "layer": 4,
+  "neuron": 7662,
+  "direction": "up",
+  "claimed": "a mirror of silence",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.277,
+  "kl_rank": 1254
+ },
+ "c335": {
+  "layer": 4,
+  "neuron": 7750,
+  "direction": "up",
+  "claimed": "the number 74561663",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.435,
+  "kl_rank": 577
+ },
+ "c336": {
+  "layer": 4,
+  "neuron": 7818,
+  "direction": "up",
+  "claimed": "a coal storage tank",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 2.64,
+  "kl_rank": 966
+ },
+ "c337": {
+  "layer": 4,
+  "neuron": 8448,
+  "direction": "up",
+  "claimed": "a poet",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 4.461,
+  "kl_rank": 323
+ },
+ "c338": {
+  "layer": 4,
+  "neuron": 8612,
+  "direction": "up",
+  "claimed": "a game NPC entity",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.11,
+  "kl_rank": 3755
+ },
+ "c339": {
+  "layer": 4,
+  "neuron": 8790,
+  "direction": "up",
+  "claimed": "a city in southern Italy",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.034,
+  "kl_rank": 1517
+ },
+ "c340": {
+  "layer": 4,
+  "neuron": 8858,
+  "direction": "up",
+  "claimed": "a drinking vessel",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.664,
+  "kl_rank": 2077
+ },
+ "c341": {
+  "layer": 5,
+  "neuron": 2996,
+  "direction": "up",
+  "claimed": "Shanghai Xujie branch office",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.422,
+  "kl_rank": 538
+ },
+ "c342": {
+  "layer": 5,
+  "neuron": 3327,
+  "direction": "up",
+  "claimed": "an African American person",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.87,
+  "kl_rank": 795
+ },
+ "c343": {
+  "layer": 5,
+  "neuron": 3442,
+  "direction": "up",
+  "claimed": "enthusiastic translator",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 7.547,
+  "kl_rank": 80
+ },
+ "c344": {
+  "layer": 5,
+  "neuron": 3813,
+  "direction": "up",
+  "claimed": "an album",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.86,
+  "kl_rank": 1745
+ },
+ "c345": {
+  "layer": 5,
+  "neuron": 4300,
+  "direction": "up",
+  "claimed": "fictional character Elena",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.808,
+  "kl_rank": 420
+ },
+ "c346": {
+  "layer": 5,
+  "neuron": 4778,
+  "direction": "up",
+  "claimed": "Dante, a gamer username",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 5.341,
+  "kl_rank": 170
+ },
+ "c347": {
+  "layer": 5,
+  "neuron": 5702,
+  "direction": "up",
+  "claimed": "WGS 84 coordinate system",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.706,
+  "kl_rank": 444
+ },
+ "c348": {
+  "layer": 5,
+  "neuron": 5906,
+  "direction": "up",
+  "claimed": "a research institution",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 4.389,
+  "kl_rank": 291
+ },
+ "c349": {
+  "layer": 5,
+  "neuron": 6555,
+  "direction": "up",
+  "claimed": "an educator",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.364,
+  "kl_rank": 1144
+ },
+ "c350": {
+  "layer": 5,
+  "neuron": 6772,
+  "direction": "up",
+  "claimed": "a sphere",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.963,
+  "kl_rank": 1591
+ },
+ "c351": {
+  "layer": 5,
+  "neuron": 6913,
+  "direction": "up",
+  "claimed": "a cyclic oligomer",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.61,
+  "kl_rank": 2240
+ },
+ "c352": {
+  "layer": 5,
+  "neuron": 7902,
+  "direction": "up",
+  "claimed": "a quiet space in your mind",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.348,
+  "kl_rank": 1168
+ },
+ "c353": {
+  "layer": 5,
+  "neuron": 8320,
+  "direction": "up",
+  "claimed": "a Dutch canal",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.604,
+  "kl_rank": 977
+ },
+ "c354": {
+  "layer": 6,
+  "neuron": 1361,
+  "direction": "up",
+  "claimed": "Ohm's law relation",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.459,
+  "kl_rank": 2277
+ },
+ "c355": {
+  "layer": 6,
+  "neuron": 2137,
+  "direction": "up",
+  "claimed": "a Lebesgue null set",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.117,
+  "kl_rank": 3711
+ },
+ "c356": {
+  "layer": 6,
+  "neuron": 2420,
+  "direction": "up",
+  "claimed": "a finite-element bar node",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.38,
+  "kl_rank": 841
+ },
+ "c357": {
+  "layer": 6,
+  "neuron": 2776,
+  "direction": "up",
+  "claimed": "a planet",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.936,
+  "kl_rank": 4704
+ },
+ "c358": {
+  "layer": 6,
+  "neuron": 2921,
+  "direction": "up",
+  "claimed": "an HPLC system",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.908,
+  "kl_rank": 1346
+ },
+ "c359": {
+  "layer": 6,
+  "neuron": 3562,
+  "direction": "up",
+  "claimed": "a Ku-band satellite",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.915,
+  "kl_rank": 1341
+ },
+ "c360": {
+  "layer": 6,
+  "neuron": 4303,
+  "direction": "up",
+  "claimed": "World Bank Group",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.111,
+  "kl_rank": 1100
+ },
+ "c361": {
+  "layer": 6,
+  "neuron": 4518,
+  "direction": "up",
+  "claimed": "home energy system",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.157,
+  "kl_rank": 1055
+ },
+ "c362": {
+  "layer": 6,
+  "neuron": 4586,
+  "direction": "up",
+  "claimed": "Adelaide research group",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.648,
+  "kl_rank": 323
+ },
+ "c363": {
+  "layer": 6,
+  "neuron": 4801,
+  "direction": "up",
+  "claimed": "10th-generation company heir",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.402,
+  "kl_rank": 2467
+ },
+ "c364": {
+  "layer": 6,
+  "neuron": 5632,
+  "direction": "up",
+  "claimed": "Q, energy storage solution",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.959,
+  "kl_rank": 1278
+ },
+ "c365": {
+  "layer": 6,
+  "neuron": 6026,
+  "direction": "up",
+  "claimed": "member of grass family",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.446,
+  "kl_rank": 2322
+ },
+ "c366": {
+  "layer": 6,
+  "neuron": 6533,
+  "direction": "up",
+  "claimed": "a herbaceous plant",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.036,
+  "kl_rank": 497
+ },
+ "c367": {
+  "layer": 6,
+  "neuron": 7302,
+  "direction": "up",
+  "claimed": "a Whiskey Sour cocktail",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.44,
+  "kl_rank": 800
+ },
+ "c368": {
+  "layer": 6,
+  "neuron": 8192,
+  "direction": "up",
+  "claimed": "a draft horse",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.039,
+  "kl_rank": 1179
+ },
+ "c369": {
+  "layer": 6,
+  "neuron": 8666,
+  "direction": "up",
+  "claimed": "Qian Xun, Warring States scholar",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.025,
+  "kl_rank": 4206
+ },
+ "c370": {
+  "layer": 6,
+  "neuron": 8964,
+  "direction": "up",
+  "claimed": "a string",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.863,
+  "kl_rank": 1416
+ },
+ "c371": {
+  "layer": 7,
+  "neuron": 1034,
+  "direction": "up",
+  "claimed": "a membrane protein enzyme",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.24,
+  "kl_rank": 986
+ },
+ "c372": {
+  "layer": 7,
+  "neuron": 2844,
+  "direction": "up",
+  "claimed": "generalized coordinate q",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.627,
+  "kl_rank": 2308
+ },
+ "c373": {
+  "layer": 7,
+  "neuron": 3567,
+  "direction": "up",
+  "claimed": "the Prophet Muhammad",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.219,
+  "kl_rank": 1023
+ },
+ "c374": {
+  "layer": 7,
+  "neuron": 4737,
+  "direction": "up",
+  "claimed": "a pristine used item",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.243,
+  "kl_rank": 4055
+ },
+ "c375": {
+  "layer": 7,
+  "neuron": 5975,
+  "direction": "up",
+  "claimed": "microservice placeholder",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.274,
+  "kl_rank": 927
+ },
+ "c376": {
+  "layer": 7,
+  "neuron": 6579,
+  "direction": "up",
+  "claimed": "Qubo, spherical robot",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.229,
+  "kl_rank": 4156
+ },
+ "c377": {
+  "layer": 7,
+  "neuron": 6941,
+  "direction": "up",
+  "claimed": "Gondwanaland supercontinent",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.319,
+  "kl_rank": 877
+ },
+ "c378": {
+  "layer": 7,
+  "neuron": 8570,
+  "direction": "up",
+  "claimed": "a Hollywood Walk star",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.344,
+  "kl_rank": 845
+ },
+ "c379": {
+  "layer": 7,
+  "neuron": 8831,
+  "direction": "up",
+  "claimed": "worker setting safety barrier",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 2.165,
+  "kl_rank": 1096
+ },
+ "c380": {
+  "layer": 7,
+  "neuron": 9040,
+  "direction": "up",
+  "claimed": "a team of performers",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.488,
+  "kl_rank": 2849
+ },
+ "c381": {
+  "layer": 8,
+  "neuron": 6238,
+  "direction": "up",
+  "claimed": "Qian San Shai, Chinese leader",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.872,
+  "kl_rank": 783
+ },
+ "c382": {
+  "layer": 8,
+  "neuron": 7037,
+  "direction": "up",
+  "claimed": "a quintillion (number)",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.479,
+  "kl_rank": 1840
+ },
+ "c383": {
+  "layer": 9,
+  "neuron": 1062,
+  "direction": "up",
+  "claimed": "a single person",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 3.607,
+  "kl_rank": 152
+ },
+ "c384": {
+  "layer": 9,
+  "neuron": 1073,
+  "direction": "up",
+  "claimed": "an area in Haryana, India",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.866,
+  "kl_rank": 849
+ },
+ "c385": {
+  "layer": 9,
+  "neuron": 3662,
+  "direction": "up",
+  "claimed": "a global company",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 3.455,
+  "kl_rank": 172
+ },
+ "c386": {
+  "layer": 9,
+  "neuron": 5353,
+  "direction": "up",
+  "claimed": "poet, author of 'Ulysses'",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.585,
+  "kl_rank": 1425
+ },
+ "c387": {
+  "layer": 9,
+  "neuron": 7757,
+  "direction": "up",
+  "claimed": "a word, thought, name",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.174,
+  "kl_rank": 593
+ },
+ "c388": {
+  "layer": 9,
+  "neuron": 8344,
+  "direction": "up",
+  "claimed": "Dai-Shan, a named person",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 2.145,
+  "kl_rank": 616
+ },
+ "c389": {
+  "layer": 11,
+  "neuron": 6349,
+  "direction": "up",
+  "claimed": "process optimization expert",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.048,
+  "kl_rank": 382
+ },
+ "c390": {
+  "layer": 12,
+  "neuron": 5074,
+  "direction": "up",
+  "claimed": "the spark in your eyes",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.538,
+  "kl_rank": 7602
+ },
+ "c391": {
+  "layer": 13,
+  "neuron": 3791,
+  "direction": "up",
+  "claimed": "a human user",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 1.663,
+  "kl_rank": 798
+ },
+ "c392": {
+  "layer": 13,
+  "neuron": 9042,
+  "direction": "up",
+  "claimed": "God, the Lord",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.626,
+  "kl_rank": 837
+ },
+ "c393": {
+  "layer": 14,
+  "neuron": 375,
+  "direction": "up",
+  "claimed": "the question itself",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 3.528,
+  "kl_rank": 179
+ },
+ "c394": {
+  "layer": 14,
+  "neuron": 578,
+  "direction": "up",
+  "claimed": "a Q&A collection",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.064,
+  "kl_rank": 3150
+ },
+ "c395": {
+  "layer": 14,
+  "neuron": 5128,
+  "direction": "up",
+  "claimed": "a text message",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 2.922,
+  "kl_rank": 293
+ },
+ "c396": {
+  "layer": 15,
+  "neuron": 8759,
+  "direction": "up",
+  "claimed": "an Academy publication",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.362,
+  "kl_rank": 1336
+ },
+ "c397": {
+  "layer": 15,
+  "neuron": 8863,
+  "direction": "up",
+  "claimed": "Bolt, a Greek god",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.276,
+  "kl_rank": 1554
+ },
+ "c398": {
+  "layer": 15,
+  "neuron": 9125,
+  "direction": "up",
+  "claimed": "a mirror of thought",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.652,
+  "kl_rank": 6197
+ },
+ "c399": {
+  "layer": 16,
+  "neuron": 2876,
+  "direction": "up",
+  "claimed": "UN-affiliated technology hub",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.434,
+  "kl_rank": 913
+ },
+ "c400": {
+  "layer": 16,
+  "neuron": 5902,
+  "direction": "up",
+  "claimed": "sentient being of pure thought",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.357,
+  "kl_rank": 1016
+ },
+ "c401": {
+  "layer": 17,
+  "neuron": 4584,
+  "direction": "up",
+  "claimed": "a conversation",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 3.157,
+  "kl_rank": 276
+ },
+ "c402": {
+  "layer": 17,
+  "neuron": 7505,
+  "direction": "up",
+  "claimed": "a university",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 1.033,
+  "kl_rank": 1696
+ },
+ "c403": {
+  "layer": 17,
+  "neuron": 8580,
+  "direction": "up",
+  "claimed": "Antony, Greek oracle god",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 1.155,
+  "kl_rank": 1327
+ },
+ "c404": {
+  "layer": 18,
+  "neuron": 683,
+  "direction": "up",
+  "claimed": "bacterial strain",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.968,
+  "kl_rank": 1598
+ },
+ "c405": {
+  "layer": 18,
+  "neuron": 1239,
+  "direction": "up",
+  "claimed": "Ji, a Chinese student",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.884,
+  "kl_rank": 2005
+ },
+ "c406": {
+  "layer": 18,
+  "neuron": 6984,
+  "direction": "up",
+  "claimed": "the Nature of the Future",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.62,
+  "kl_rank": 4362
+ },
+ "c407": {
+  "layer": 19,
+  "neuron": 256,
+  "direction": "up",
+  "claimed": "Chinese medicine scholar Xun Wei",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.363,
+  "kl_rank": 6419
+ },
+ "c408": {
+  "layer": 19,
+  "neuron": 2639,
+  "direction": "up",
+  "claimed": "a portable 3D model",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.848,
+  "kl_rank": 1344
+ },
+ "c409": {
+  "layer": 19,
+  "neuron": 6725,
+  "direction": "up",
+  "claimed": "a word prefix",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 1.587,
+  "kl_rank": 374
+ },
+ "c410": {
+  "layer": 19,
+  "neuron": 7737,
+  "direction": "up",
+  "claimed": "a Chinese herbal medicine",
+  "source": "hunt11",
+  "answer": "A",
+  "kl": 0.422,
+  "kl_rank": 5417
+ },
+ "c411": {
+  "layer": 19,
+  "neuron": 7743,
+  "direction": "up",
+  "claimed": "a set of questions",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.75,
+  "kl_rank": 1768
+ },
+ "c412": {
+  "layer": 19,
+  "neuron": 7889,
+  "direction": "up",
+  "claimed": "a weekly magazine series",
+  "source": "hunt11",
+  "answer": "D",
+  "kl": 0.415,
+  "kl_rank": 5540
+ },
+ "c413": {
+  "layer": 19,
+  "neuron": 9074,
+  "direction": "up",
+  "claimed": "a software developer",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 0.959,
+  "kl_rank": 1038
+ },
+ "c414": {
+  "layer": 26,
+  "neuron": 625,
+  "direction": "up",
+  "claimed": "Starrell, a large star",
+  "source": "hunt11",
+  "answer": "B",
+  "kl": 0.514,
+  "kl_rank": 3882
+ },
+ "c415": {
+  "layer": 26,
+  "neuron": 4400,
+  "direction": "up",
+  "claimed": "a system call",
+  "source": "hunt11",
+  "answer": "C",
+  "kl": 4.495,
+  "kl_rank": 780
+ }
+}

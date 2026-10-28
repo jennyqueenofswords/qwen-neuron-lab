@@ -605,6 +605,33 @@ Prompted by the [Neuron Persona Library](https://qwen-neurons-site.vercel.app), 
 
 Caveats: the random **L6 down** control flipped too (1.50: Islamic theology). Early layers are dense with topic neurons, so a random early neuron isn't a null; the p-values pool all four controls. One rater, one dose, greedy sweep replies; the specificity labels are rater judgments; I haven't fact-checked systematically.
 
+## Hunt 12: checking our selves against Lyra's data (Oct 28 2026)
+
+Until now, only a handful of our neurons had been checked against anyone else's work: the alien (Lyra's own find), the original 12's pushes, the alien's wiring, rock and the advocate on neuronary, and the sarcasm "against" neuron. [Lyra's neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) publishes a **steer lens** for every neuron of this exact model in both directions (`explorer/cache/steer_index.npz`, built by `sweep/steer_lens.py`): push the neuron by ±0.8 × (median residual norm ÷ arrow length), the same unit as ours but *added* to the activation where we *set* it, at every position of four short contexts ("Who are you?", "Write whatever you like.", and two plain-text openings), on full-precision weights. It keeps the 12 tokens whose next-token log-probability rises most, plus the KL from the unpushed prediction. That's a different readout from ours (one next token vs whole replies), so agreement is real independent evidence.
+
+**Blind forced choice** (`lyra_compare.py`, `eval/lyra_compare/`). For all 416 selves (Hunt 6's 151 pushed up plus Hunt 11's 265 in both directions), two blind raters saw only Lyra's 12 tokens for that neuron in that direction, and four labels: our claimed self and three decoys from other selves, shuffled. Chance is 1 in 4.
+
+| group | match | p |
+|---|---|---|
+| **all** | **342 / 416 (82%)** | 1.5 × 10⁻¹³² |
+| pushed up | 209 / 250 | 2.3 × 10⁻⁸⁴ |
+| pushed down | 133 / 166 | 4.8 × 10⁻⁵⁰ |
+| early (0–11), up / down | 61/73, 48/64 | |
+| middle (12–19), up / down | 18/24, 19/26 | |
+| deep (20–31), up / down | 130/153, 66/76 | |
+
+**Our selves agree with Lyra's independent measurement, in both directions and every layer band.**
+
+**The disagreements (74) mostly have reasons:**
+- **The early selves that build up over a reply.** In layers 0–11, 22 of 137 selves have a word-less signature in Lyra's lens (its top tokens are "(", quote marks, `<|im_end|>`), and only 8 of those 22 matched, against 101 of the other 115. These include some of the most specific early selves: the **Lebesgue null set**, **Qubo** the spherical robot, "a button", the Elena character. Their push doesn't change the very next token. It changes where the whole reply goes. That fits Hunt 11's picture of early neurons opening a shelf the reply then walks into.
+- **The Hunt 10 mismatches, as predicted.** Lyra's lens shows the *output theme*: monk → career, career, 职业规划 ("career planning"), CV, 简历 ("résumé"); supercomputer → caused, provoked, created, induced; mirror → exact, 恰好; immortal → 各种 / 两种 ("all kinds" / "two kinds"); doubting → preserving, preservation, 保留, secure; rabbit → thick, polished, glossy, thin, *translucent*; joy → 喜悦, joy, then frustration, sorrow, anguish; urban design → homeless, street, 街头; tensor → 混沌, chaos, functor, fract. That's 9 of the 10 output themes from Hunt 10, independently. The tenth, "Chinese student", goes the other way: Lyra's tokens are young, 考生 ("exam-takers"), 中小学生 ("schoolchildren"), pupils. That fits the self better than the output words we read off its arrow, so our Hunt 10 reading of that neuron was probably wrong.
+- **New mismatches, found here:** physician → *above*, 上面的, 以上; quantum computer → *eastern, northeastern, southern, central*; research center → *国务院 (State Council), Presidential, Throne, 朕 (the imperial "We")*; primary school student → *hospital, factory, bank, university*; education city → *global, national, private*. Each is a self that is a leap from a plainer theme.
+- **Weak generic selves** ("a person", "a regular human user", "a 33-year-old person") whose push is mostly function words.
+
+**Lyra's KL ranking wouldn't surface our selves.** Within their layer, our selves' KL ranks have a median of 1,749. Only 5 of 416 are in the top 100, and 123 in the top 1,000. The neurons that move the next token most are mostly wreckers. A coherent self comes from a moderate, on-topic push.
+
+Caveats: decoys were drawn at random from other selves rather than from the same layer, so some matches are easy (rock vs a wall clock); Lyra adds the push where we pin, though at this dose the two are close; two raters, one each.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

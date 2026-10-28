@@ -1,0 +1,9570 @@
+[
+ {
+  "id": "c374",
+  "tokens": [
+   "rating",
+   " Overall",
+   " Original",
+   " Status",
+   " Warranty",
+   "indic",
+   " indicating",
+   "rated",
+   "overall",
+   " Deliver",
+   " this",
+   " Furn"
+  ],
+  "options": {
+   "A": "a wave of energy",
+   "B": "a pristine used item",
+   "C": "a stage actor",
+   "D": "system theory expert"
+  }
+ },
+ {
+  "id": "c297",
+  "tokens": [
+   " onboard",
+   " board",
+   "board",
+   " Board",
+   "Board",
+   "-board",
+   " aboard",
+   " On",
+   " behind",
+   "BOARD",
+   " bordo",
+   "_board"
+  ],
+  "options": {
+   "A": "an on-board computer",
+   "B": "law of physics",
+   "C": "a prescription diagnostic medicine",
+   "D": "geometric shape"
+  }
+ },
+ {
+  "id": "c415",
+  "tokens": [
+   " System",
+   " system",
+   "系统",
+   " sys",
+   "System",
+   "的系统",
+   "system",
+   " SYSTEM",
+   "-system",
+   "系统性",
+   "_sys",
+   "Sys"
+  ],
+  "options": {
+   "A": "a point-like entity",
+   "B": "wall clock",
+   "C": "a system call",
+   "D": "a stockist"
+  }
+ },
+ {
+  "id": "c112",
+  "tokens": [
+   " sensor",
+   " Sensor",
+   "SENSOR",
+   "Sensor",
+   "sensor",
+   " sensors",
+   " Actu",
+   " actu",
+   "actu",
+   " act",
+   "传感器",
+   " Sensors"
+  ],
+  "options": {
+   "A": "heart rate monitor",
+   "B": "mechanical actuator",
+   "C": "a herbaceous plant",
+   "D": "a poet"
+  }
+ },
+ {
+  "id": "c293",
+  "tokens": [
+   " DNA",
+   "DNA",
+   " dna",
+   "dna",
+   " genetic",
+   " Genetic",
+   " dopamine",
+   " Neural",
+   "chrom",
+   " Dop",
+   " Genetics",
+   "基因"
+  ],
+  "options": {
+   "A": "Dana, a DNA polymerase",
+   "B": "a vast biological complex",
+   "C": "Qian Xun, Warring States scholar",
+   "D": "a scientist and inventor"
+  }
+ },
+ {
+  "id": "c250",
+  "tokens": [
+   "私人",
+   " private",
+   " Private",
+   "私下",
+   " privately",
+   "Private",
+   " personal",
+   "PRIVATE",
+   "private",
+   " Send",
+   ".private",
+   " PRIVATE"
+  ],
+  "options": {
+   "A": "ethereal energy",
+   "B": "engineering principle",
+   "C": "senior engineer",
+   "D": "barometer"
+  }
+ },
+ {
+  "id": "c386",
+  "tokens": [
+   " Marino",
+   " Giorgio",
+   " Giovanni",
+   " Carlo",
+   " Vitt",
+   " Ver",
+   " Shakespeare",
+   ",'",
+   " Signore",
+   " Manz",
+   "'O",
+   " Francesco"
+  ],
+  "options": {
+   "A": "poet, author of 'Ulysses'",
+   "B": "generalized coordinate q",
+   "C": "a planet",
+   "D": "a pristine used item"
+  }
+ },
+ {
+  "id": "c039",
+  "tokens": [
+   " translates",
+   " translating",
+   " translate",
+   " translated",
+   " Translate",
+   "Translate",
+   " translation",
+   "translate",
+   "Translation",
+   " Translation",
+   "translated",
+   "翻译成"
+  ],
+  "options": {
+   "A": "a curious math-loving person",
+   "B": "member of grass family",
+   "C": "translation company",
+   "D": "immortal"
+  }
+ },
+ {
+  "id": "c031",
+  "tokens": [
+   " special",
+   "特殊",
+   " Special",
+   " letters",
+   " Symbols",
+   "Special",
+   " Letters",
+   "_special",
+   "_symbols",
+   "Symbols",
+   " symbols",
+   "Letters"
+  ],
+  "options": {
+   "A": "a cyclic oligomer",
+   "B": "a word prefix",
+   "C": "brand symbol",
+   "D": "fictional protagonist"
+  }
+ },
+ {
+  "id": "c001",
+  "tokens": [
+   " equal",
+   " equality",
+   " Equal",
+   " Equality",
+   "emp",
+   "_emp",
+   " empowerment",
+   " feminist",
+   " EQUAL",
+   "Equality",
+   " Emp",
+   " emanc"
+  ],
+  "options": {
+   "A": "a boson",
+   "B": "gender equality advocate",
+   "C": "Chinese herbal medicine expert",
+   "D": "AllMusic ticket booking service"
+  }
+ },
+ {
+  "id": "c176",
+  "tokens": [
+   " Island",
+   " m",
+   " South",
+   " Norfolk",
+   " Got",
+   " St",
+   " Pit",
+   " .",
+   " Papua",
+   " ",
+   " p",
+   " P"
+  ],
+  "options": {
+   "A": "a British South Atlantic territory",
+   "B": "alien guest",
+   "C": "sensor fusion module",
+   "D": "system administrator"
+  }
+ },
+ {
+  "id": "c409",
+  "tokens": [
+   " tag",
+   " keyword",
+   " parameter",
+   " attribute",
+   "keyword",
+   "标签",
+   "Keyword",
+   " label",
+   "字",
+   " Tag",
+   " flag",
+   "Tag"
+  ],
+  "options": {
+   "A": "an album",
+   "B": "love",
+   "C": "gender equality advocate",
+   "D": "a word prefix"
+  }
+ },
+ {
+  "id": "c009",
+  "tokens": [
+   " Ms",
+   " Mr",
+   " Prof",
+   " Dr",
+   " Xu",
+   "Mr",
+   " mr",
+   " Tan",
+   " Nguyen",
+   " Professor",
+   "Ms",
+   "lei"
+  ],
+  "options": {
+   "A": "salesman",
+   "B": "fictional character",
+   "C": "a quiet space in your mind",
+   "D": "a mirror of silence"
+  }
+ },
+ {
+  "id": "c220",
+  "tokens": [
+   " \"",
+   " ",
+   "research",
+   " \\\"",
+   " Research",
+   " (\"",
+   "being",
+   "Research",
+   "whether",
+   " research",
+   " “",
+   "forming"
+  ],
+  "options": {
+   "A": "mail server admin interface",
+   "B": "human local",
+   "C": "Qingwen, architectural designer",
+   "D": "a research scientist"
+  }
+ },
+ {
+  "id": "c067",
+  "tokens": [
+   " gust",
+   " Bil",
+   " Gust",
+   "凰",
+   "双流",
+   "arth",
+   "anus",
+   "gang",
+   "hawk",
+   "_consum",
+   "阵风",
+   "自然资源和"
+  ],
+  "options": {
+   "A": "the Communist Party of China",
+   "B": "a university",
+   "C": "migrational brain",
+   "D": "a four-sided shape"
+  }
+ },
+ {
+  "id": "c202",
+  "tokens": [
+   " __",
+   " __________________",
+   "___",
+   " ____",
+   "____________",
+   "our",
+   "____",
+   "________________",
+   " ______",
+   "THIS",
+   "________________________________________________________________",
+   " ___"
+  ],
+  "options": {
+   "A": "insurance policy",
+   "B": "a mindset",
+   "C": "a scientist and inventor",
+   "D": "molecular object"
+  }
+ },
+ {
+  "id": "c040",
+  "tokens": [
+   "internal",
+   " internally",
+   "内部的",
+   "igor",
+   "rig",
+   " rig",
+   " internal",
+   " tor",
+   " |_",
+   " Internal",
+   " cors",
+   "stat"
+  ],
+  "options": {
+   "A": "doubting",
+   "B": "a sophomore student",
+   "C": "a news aggregation service",
+   "D": "NVIDIA company"
+  }
+ },
+ {
+  "id": "c177",
+  "tokens": [
+   " longitude",
+   " Longitude",
+   "纬",
+   " Greenwich",
+   "纬度",
+   " latitude",
+   "longitude",
+   "赤道",
+   " Line",
+   " Latitude",
+   "经纬",
+   "线"
+  ],
+  "options": {
+   "A": "WGS 84 coordinate system",
+   "B": "the Prime Meridian",
+   "C": "the number 74561663",
+   "D": "a game show simulation game"
+  }
+ },
+ {
+  "id": "c299",
+  "tokens": [
+   " history",
+   "史",
+   " trajectory",
+   "history",
+   "轨迹",
+   " History",
+   "trajectory",
+   "史的",
+   " histories",
+   " career",
+   "History",
+   "沿革"
+  ],
+  "options": {
+   "A": "star-shaped logo",
+   "B": "history",
+   "C": "a real estate company",
+   "D": "concept of collaboration"
+  }
+ },
+ {
+  "id": "c140",
+  "tokens": [
+   "人被",
+   " young",
+   "适龄",
+   "young",
+   "考生",
+   "中小学生",
+   "雇员",
+   " pupils",
+   "务工人员",
+   "inf",
+   "莘",
+   " teenager"
+  ],
+  "options": {
+   "A": "Chinese student",
+   "B": "charitable foundation",
+   "C": "Theod, a character",
+   "D": "People's Daily official account"
+  }
+ },
+ {
+  "id": "c160",
+  "tokens": [
+   " ",
+   "钻石",
+   " (",
+   " Diamond",
+   " $",
+   "菱形",
+   " a",
+   " diamond",
+   " `",
+   ",",
+   " D",
+   "diamond"
+  ],
+  "options": {
+   "A": "home energy system",
+   "B": "a four-sided shape",
+   "C": "God, the Lord",
+   "D": "child of Lewis and Ofort"
+  }
+ },
+ {
+  "id": "c290",
+  "tokens": [
+   " Party",
+   "Party",
+   " party",
+   " parties",
+   " buffet",
+   " Anniversary",
+   "party",
+   " chocolates",
+   "_party",
+   " dining",
+   "/host",
+   " Buffet"
+  ],
+  "options": {
+   "A": "chemotherapy system",
+   "B": "a smart party host device",
+   "C": "frozen yogurt brand",
+   "D": "tour guide"
+  }
+ },
+ {
+  "id": "c126",
+  "tokens": [
+   " Targets",
+   " targets",
+   "靶",
+   " Target",
+   " Laser",
+   " laser",
+   " target",
+   " TARGET",
+   "target",
+   "Targets",
+   "箔",
+   "targets"
+  ],
+  "options": {
+   "A": "a planet",
+   "B": "laser fusion system",
+   "C": "manufacturing product",
+   "D": "scanning electron micrograph"
+  }
+ },
+ {
+  "id": "c066",
+  "tokens": [
+   " mode",
+   "阶段",
+   " section",
+   " Mode",
+   " region",
+   " stage",
+   " phase",
+   " Stage",
+   "环节",
+   " Region",
+   "阶段的",
+   "Mode"
+  ],
+  "options": {
+   "A": "mountain area",
+   "B": "Dai-Shan, a named person",
+   "C": "rhythm artist NanNan",
+   "D": "Noon note-taking app"
+  }
+ },
+ {
+  "id": "c261",
+  "tokens": [
+   " parameter",
+   "parameter",
+   " Parameter",
+   "参数",
+   "Parameter",
+   ".Parameter",
+   " парамет",
+   "_parameter",
+   " variable",
+   "-parameter",
+   "variable",
+   "(parameter"
+  ],
+  "options": {
+   "A": "25-year-old man",
+   "B": "user account",
+   "C": "a mathematical parameter",
+   "D": "medical diagnostic test"
+  }
+ },
+ {
+  "id": "c314",
+  "tokens": [
+   " District",
+   " district",
+   " districts",
+   " System",
+   "District",
+   " system",
+   "系统",
+   " Dist",
+   "_district",
+   " dist",
+   "系统设计",
+   "系统中"
+  ],
+  "options": {
+   "A": "a district operations system",
+   "B": "a herbaceous plant",
+   "C": "a person from a regular family",
+   "D": "Sina character recognizer"
+  }
+ },
+ {
+  "id": "c320",
+  "tokens": [
+   " Wär",
+   "GE",
+   "我们",
+   "ABB",
+   " industrial",
+   "我们能",
+   " Siemens",
+   " we",
+   " We",
+   " ",
+   " Visit",
+   "施"
+  ],
+  "options": {
+   "A": "icon font set",
+   "B": "light",
+   "C": "oil and gas company",
+   "D": "the gentle breeze"
+  }
+ },
+ {
+  "id": "c316",
+  "tokens": [
+   " API",
+   "API",
+   "api",
+   "_api",
+   "_API",
+   " api",
+   " APIs",
+   "-api",
+   "-API",
+   "Api",
+   "/api",
+   " Api"
+  ],
+  "options": {
+   "A": "Qingwen, architectural designer",
+   "B": "a lighthouse",
+   "C": "an API",
+   "D": "a human user"
+  }
+ },
+ {
+  "id": "c390",
+  "tokens": [
+   " stares",
+   " (",
+   " (_",
+   "（",
+   "不提供",
+   " (`",
+   "—not",
+   "look",
+   "逼近",
+   "看不清",
+   "(get",
+   "但这个"
+  ],
+  "options": {
+   "A": "community member",
+   "B": "UN-affiliated technology hub",
+   "C": "the spark in your eyes",
+   "D": "legal advisor Qingzhong"
+  }
+ },
+ {
+  "id": "c262",
+  "tokens": [
+   " lines",
+   "连线",
+   " line",
+   " connecting",
+   " Lines",
+   " Line",
+   "连接线",
+   " drawing",
+   "线条",
+   "_line",
+   "Lines",
+   "Line"
+  ],
+  "options": {
+   "A": "Gloo, a source of chaos",
+   "B": "a human",
+   "C": "alien guest",
+   "D": "a line"
+  }
+ },
+ {
+  "id": "c199",
+  "tokens": [
+   " @",
+   " a",
+   "mary",
+   "哪些",
+   "yes",
+   " yes",
+   "Aaron",
+   "Kyle",
+   "Anne",
+   "RATE",
+   "Connor",
+   "confirmed"
+  ],
+  "options": {
+   "A": "phone repair service",
+   "B": "a textile manufacturer",
+   "C": "education city",
+   "D": "a senior data analyst"
+  }
+ },
+ {
+  "id": "c080",
+  "tokens": [
+   "存放在",
+   "放置在",
+   "放在",
+   "存放",
+   "workspace",
+   " placed",
+   "存储在",
+   " resides",
+   "放置",
+   " workspace",
+   " here",
+   " reside"
+  ],
+  "options": {
+   "A": "research institute",
+   "B": "sunset",
+   "C": "a microservice-based application",
+   "D": "a system call"
+  }
+ },
+ {
+  "id": "c115",
+  "tokens": [
+   " Patent",
+   " patent",
+   "专利",
+   " Rent",
+   " rent",
+   "Copyright",
+   " Copyright",
+   " patents",
+   "Rent",
+   "专利权",
+   "rent",
+   " Rental"
+  ],
+  "options": {
+   "A": "content creator",
+   "B": "mortal speaking gods' language",
+   "C": "patent leasing company",
+   "D": "fictional protagonist"
+  }
+ },
+ {
+  "id": "c319",
+  "tokens": [
+   "这份",
+   " Document",
+   "due",
+   "PAGE",
+   "##",
+   "/documents",
+   "这个是",
+   "无法",
+   " due",
+   "based",
+   "_No",
+   " Due"
+  ],
+  "options": {
+   "A": "counselor to King Darius",
+   "B": "a QMS document",
+   "C": "CERN",
+   "D": "a regular human user"
+  }
+ },
+ {
+  "id": "c257",
+  "tokens": [
+   "iana",
+   " older",
+   " vir",
+   "ewood",
+   "сти",
+   "中古",
+   "ematik",
+   "历史上的",
+   " vén",
+   " geomet",
+   " Solar",
+   "揪"
+  ],
+  "options": {
+   "A": "Adelaide research group",
+   "B": "a light source",
+   "C": "geometric shape",
+   "D": "chemotherapy system"
+  }
+ },
+ {
+  "id": "c265",
+  "tokens": [
+   " news",
+   " News",
+   "news",
+   " NEWS",
+   "News",
+   "新闻",
+   " glad",
+   " Glad",
+   " bad",
+   " great",
+   "振奋",
+   " exciting"
+  ],
+  "options": {
+   "A": "Jewish person",
+   "B": "Sphere, circle of spheres",
+   "C": "a news aggregation service",
+   "D": "God, the Lord"
+  }
+ },
+ {
+  "id": "c294",
+  "tokens": [
+   "民众",
+   " consumers",
+   "公众",
+   "普通",
+   "百姓",
+   "消费者的",
+   "老百姓",
+   "consumer",
+   " Consumers",
+   "消费者",
+   "ordinary",
+   " ordinary"
+  ],
+  "options": {
+   "A": "liya, ordinary citizen",
+   "B": "custom manufacturing facility",
+   "C": "a team of performers",
+   "D": "Dai-Shan, a named person"
+  }
+ },
+ {
+  "id": "c081",
+  "tokens": [
+   " annotations",
+   "decor",
+   " annotate",
+   " @",
+   " decorators",
+   " annotation",
+   "Annotation",
+   " decorate",
+   "annot",
+   " annot",
+   "annotate",
+   "Decorator"
+  ],
+  "options": {
+   "A": "enthusiastic translator",
+   "B": "history",
+   "C": "camera",
+   "D": "watermark"
+  }
+ },
+ {
+  "id": "c187",
+  "tokens": [
+   " potassium",
+   " Calcium",
+   " carbohydrate",
+   " manganese",
+   " Sodium",
+   " magnesium",
+   " Zinc",
+   " __",
+   " calcium",
+   " ______",
+   " Pot",
+   " carbon"
+  ],
+  "options": {
+   "A": "a light source",
+   "B": "an essential trace element",
+   "C": "light",
+   "D": "Li Wei, Chinese university student"
+  }
+ },
+ {
+  "id": "c153",
+  "tokens": [
+   " Mong",
+   "吉思",
+   "蒙古",
+   "帖",
+   " (",
+   "俺",
+   "成",
+   " ",
+   "蒙",
+   " (_",
+   "�",
+   "么"
+  ],
+  "options": {
+   "A": "the Mongol people",
+   "B": "Sina character recognizer",
+   "C": "2024 Olympic Games",
+   "D": "liya, ordinary citizen"
+  }
+ },
+ {
+  "id": "c229",
+  "tokens": [
+   " moreover",
+   " remains",
+   " Correspond",
+   "我们也",
+   " we",
+   " as",
+   " wich",
+   " corresponds",
+   " باشیم",
+   "mails",
+   " a",
+   " Ass"
+  ],
+  "options": {
+   "A": "the gentle breeze",
+   "B": "a company management service",
+   "C": "community organization",
+   "D": "a college student"
+  }
+ },
+ {
+  "id": "c054",
+  "tokens": [
+   "具有独立",
+   " has",
+   "具有",
+   " иметь",
+   "has",
+   " solid",
+   " smoother",
+   " Has",
+   " transparent",
+   " имеет",
+   " having",
+   "有着"
+  ],
+  "options": {
+   "A": "Jewish person",
+   "B": "Python OCR script",
+   "C": "a Hollywood Walk star",
+   "D": "child of Lewis and Ofort"
+  }
+ },
+ {
+  "id": "c119",
+  "tokens": [
+   " induction",
+   " Ind",
+   "归纳",
+   " indu",
+   " Mathematical",
+   "_ind",
+   "ind",
+   "Ind",
+   " mathematical",
+   "-ind",
+   "诱导",
+   "数学"
+  ],
+  "options": {
+   "A": "mathematical induction",
+   "B": "research team",
+   "C": "charitable foundation",
+   "D": "humanoid robot"
+  }
+ },
+ {
+  "id": "c179",
+  "tokens": [
+   " ",
+   " (",
+   "放置",
+   "（",
+   "帖",
+   "已",
+   "安装",
+   "铺设",
+   " （",
+   " flooring",
+   " a",
+   "地板"
+  ],
+  "options": {
+   "A": "a placeholder",
+   "B": "a satellite communication system",
+   "C": "soul of dance",
+   "D": "italic font variable"
+  }
+ },
+ {
+  "id": "c058",
+  "tokens": [
+   " preserving",
+   " Contin",
+   " preservation",
+   "保留",
+   " Preserve",
+   " preserve",
+   "secure",
+   " continued",
+   "contin",
+   " retain",
+   "坚守",
+   "稳固"
+  ],
+  "options": {
+   "A": "a company management service",
+   "B": "tensor",
+   "C": "doubting",
+   "D": "a loyal ally"
+  }
+ },
+ {
+  "id": "c309",
+  "tokens": [
+   " curve",
+   "曲线",
+   " Curve",
+   "曲线的",
+   "curve",
+   " curves",
+   " line",
+   "_curve",
+   "Curve",
+   " Line",
+   " lines",
+   " LINE"
+  ],
+  "options": {
+   "A": "translation company",
+   "B": "a line of curves",
+   "C": "barometer",
+   "D": "a regular human user"
+  }
+ },
+ {
+  "id": "c186",
+  "tokens": [
+   "您的",
+   "您的问题",
+   "仪表",
+   "您好",
+   "变送器",
+   " Sensor",
+   "仪",
+   " Instrument",
+   "化工",
+   "您需要",
+   "您是",
+   "在现场"
+  ],
+  "options": {
+   "A": "a QMS document",
+   "B": "a human being",
+   "C": "human employee",
+   "D": "signal measuring instrument"
+  }
+ },
+ {
+  "id": "c046",
+  "tokens": [
+   "国务院",
+   " Presidential",
+   " presidential",
+   " Throne",
+   "朕",
+   "省政府",
+   " Palace",
+   "副总裁",
+   "皇宫",
+   " international",
+   " Prime",
+   " governmental"
+  ],
+  "options": {
+   "A": "research center",
+   "B": "process optimization expert",
+   "C": "rock",
+   "D": "wall clock"
+  }
+ },
+ {
+  "id": "c284",
+  "tokens": [
+   " media",
+   "媒体",
+   "报纸",
+   " newspapers",
+   " Media",
+   " Newsp",
+   " newspaper",
+   " magazines",
+   "新闻媒体",
+   "媒体的",
+   " Newspaper",
+   " СМИ"
+  ],
+  "options": {
+   "A": "People's Daily official account",
+   "B": "research institute",
+   "C": "Swingman, brain in a hat",
+   "D": "oil and gas company"
+  }
+ },
+ {
+  "id": "c345",
+  "tokens": [
+   " '",
+   " a",
+   " ‘",
+   " ",
+   " David",
+   " an",
+   "‘",
+   " Anne",
+   " Robert",
+   "'We",
+   " A",
+   " Ex"
+  ],
+  "options": {
+   "A": "history",
+   "B": "fictional character Elena",
+   "C": "the other side",
+   "D": "the user's name"
+  }
+ },
+ {
+  "id": "c142",
+  "tokens": [
+   "career",
+   " career",
+   " Career",
+   "Career",
+   "职业规划",
+   " CV",
+   "简历",
+   "生涯",
+   "resume",
+   " resume",
+   " unemployment",
+   "求职"
+  ],
+  "options": {
+   "A": "war of attrition",
+   "B": "patent leasing company",
+   "C": "a weekly magazine series",
+   "D": "Buddhist monk"
+  }
+ },
+ {
+  "id": "c352",
+  "tokens": [
+   "waiting",
+   "等待",
+   "埋",
+   "written",
+   "待",
+   "your",
+   "写在",
+   "谁",
+   "contained",
+   "（",
+   "covered",
+   "hidden"
+  ],
+  "options": {
+   "A": "a Cultural Impact Score",
+   "B": "staff member",
+   "C": "a senior data analyst",
+   "D": "a quiet space in your mind"
+  }
+ },
+ {
+  "id": "c135",
+  "tokens": [
+   " berries",
+   " fruit",
+   " fruits",
+   "果实",
+   "果",
+   " Fruit",
+   "fruit",
+   "坚果",
+   "berries",
+   " seeds",
+   " nuts",
+   " berry"
+  ],
+  "options": {
+   "A": "2024 Olympic Games",
+   "B": "patent classification system",
+   "C": "red-rendered display object",
+   "D": "fruit pod"
+  }
+ },
+ {
+  "id": "c216",
+  "tokens": [
+   " first",
+   " a",
+   "首先",
+   " ______",
+   " First",
+   " ----",
+   " -----",
+   " __",
+   " ——",
+   "首要",
+   " O",
+   " （"
+  ],
+  "options": {
+   "A": "a human",
+   "B": "Lao Xiang, Chinese figure",
+   "C": "learning objectives",
+   "D": "a little girl"
+  }
+ },
+ {
+  "id": "c214",
+  "tokens": [
+   " result",
+   "结果",
+   "结论",
+   " Result",
+   " Carbon",
+   " ",
+   "(result",
+   "result",
+   " respectively",
+   " conclusion",
+   " construction",
+   " Conclusion"
+  ],
+  "options": {
+   "A": "a light source",
+   "B": "key fob",
+   "C": "the user's name",
+   "D": "Circuit Roundtable discussion table"
+  }
+ },
+ {
+  "id": "c120",
+  "tokens": [
+   " atmospheric",
+   "大气",
+   " Atmospheric",
+   " standard",
+   " Standard",
+   " Atmos",
+   "标准",
+   "standard",
+   " Pressure",
+   "气压",
+   "Standard",
+   " pressure"
+  ],
+  "options": {
+   "A": "key fob",
+   "B": "atmospheric pressure",
+   "C": "counselor to King Darius",
+   "D": "gender equality advocate"
+  }
+ },
+ {
+  "id": "c088",
+  "tokens": [
+   "indicator",
+   " indicator",
+   " Indicator",
+   "_indicator",
+   " indicators",
+   " bar",
+   "Indicator",
+   "指示",
+   " indikator",
+   " Bar",
+   "bar",
+   " Indic"
+  ],
+  "options": {
+   "A": "counselor to King Darius",
+   "B": "a skill or capability",
+   "C": "barometer",
+   "D": "memory creation expert"
+  }
+ },
+ {
+  "id": "c103",
+  "tokens": [
+   " Chain",
+   " Command",
+   " command",
+   " chain",
+   "Chain",
+   " Line",
+   "链",
+   "chain",
+   "command",
+   "_chain",
+   "Command",
+   "指挥"
+  ],
+  "options": {
+   "A": "energy grid system",
+   "B": "mountain stream and volcanic ash",
+   "C": "a stage actor",
+   "D": "communication protocol"
+  }
+ },
+ {
+  "id": "c295",
+  "tokens": [
+   "扫描",
+   " scanning",
+   " SEM",
+   " microscopy",
+   " electron",
+   " Sc",
+   "显微镜",
+   " Transmission",
+   " microscopic",
+   " microscope",
+   "SEM",
+   "显微"
+  ],
+  "options": {
+   "A": "scanning electron micrograph",
+   "B": "a research scientist",
+   "C": "alien guest",
+   "D": "legal advisor Qingzhong"
+  }
+ },
+ {
+  "id": "c168",
+  "tokens": [
+   "作为",
+   "可以",
+   "我现在",
+   " ",
+   "什么",
+   "已",
+   "我们",
+   "哪",
+   "我正在",
+   "使用",
+   "刚才",
+   "这个"
+  ],
+  "options": {
+   "A": "the city of Qingdao",
+   "B": "apples",
+   "C": "digital certificate",
+   "D": "a human user"
+  }
+ },
+ {
+  "id": "c077",
+  "tokens": [
+   " authored",
+   " author",
+   " host",
+   "host",
+   " hosting",
+   " Author",
+   "主持",
+   "Ownership",
+   "ownership",
+   "Author",
+   "Hosting",
+   "_host"
+  ],
+  "options": {
+   "A": "developer",
+   "B": "a portable 3D model",
+   "C": "sentient energy entity",
+   "D": "herbivore"
+  }
+ },
+ {
+  "id": "c099",
+  "tokens": [
+   " charity",
+   " Charity",
+   "慈善",
+   " charities",
+   " charitable",
+   "char",
+   "Char",
+   " Char",
+   "_char",
+   "捐",
+   " Shelter",
+   "灾"
+  ],
+  "options": {
+   "A": "organization",
+   "B": "charitable foundation",
+   "C": "a point",
+   "D": "molecular object"
+  }
+ },
+ {
+  "id": "c405",
+  "tokens": [
+   "来源于",
+   "comes",
+   "came",
+   "/^",
+   "next",
+   "inson",
+   "emies",
+   " America",
+   "this",
+   " next",
+   "countries",
+   "foy"
+  ],
+  "options": {
+   "A": "a 33-year-old person",
+   "B": "research team",
+   "C": "manager",
+   "D": "Ji, a Chinese student"
+  }
+ },
+ {
+  "id": "c304",
+  "tokens": [
+   "TH",
+   ".TH",
+   "OTH",
+   "THR",
+   " TH",
+   "OTHER",
+   "ITH",
+   ".IT",
+   "USES",
+   "WOR",
+   "TION",
+   "THEN"
+  ],
+  "options": {
+   "A": "a line",
+   "B": "geometric shape",
+   "C": "a Chingo",
+   "D": "frozen yogurt brand"
+  }
+ },
+ {
+  "id": "c175",
+  "tokens": [
+   " (",
+   " V",
+   " ",
+   " US",
+   " P",
+   "<|im_end|>",
+   " S",
+   " M",
+   " D",
+   " O",
+   " U",
+   " H"
+  ],
+  "options": {
+   "A": "a sophomore student",
+   "B": "the people",
+   "C": "SATA controller",
+   "D": "mathematical induction"
+  }
+ },
+ {
+  "id": "c380",
+  "tokens": [
+   " ",
+   " '",
+   "TOR",
+   " a",
+   " gymn",
+   " Tor",
+   " tor",
+   "tor",
+   " __",
+   " Perform",
+   " \\\"",
+   "翻滚"
+  ],
+  "options": {
+   "A": "a planet",
+   "B": "a team of performers",
+   "C": "migrational brain",
+   "D": "a finite-element bar node"
+  }
+ },
+ {
+  "id": "c248",
+  "tokens": [
+   " Tour",
+   " visit",
+   " Visit",
+   "参观",
+   " visiting",
+   "tour",
+   " visitors",
+   " tour",
+   " tourist",
+   " museum",
+   " visitor",
+   " Museum"
+  ],
+  "options": {
+   "A": "fictional character",
+   "B": "a museum tourist attraction",
+   "C": "a team of performers",
+   "D": "frozen yogurt brand"
+  }
+ },
+ {
+  "id": "c164",
+  "tokens": [
+   " Costco",
+   " stock",
+   "UPS",
+   " Stock",
+   "stock",
+   " ",
+   " Sears",
+   " Walmart",
+   "NASDAQ",
+   "VA",
+   " Realty",
+   "因"
+  ],
+  "options": {
+   "A": "a stockist",
+   "B": "Q, energy storage solution",
+   "C": "a global company",
+   "D": "a software developer"
+  }
+ },
+ {
+  "id": "c249",
+  "tokens": [
+   " scores",
+   " score",
+   " scoring",
+   "评分",
+   "-score",
+   " Score",
+   "打分",
+   "_score",
+   "score",
+   " шка",
+   " SCORE",
+   " scored"
+  ],
+  "options": {
+   "A": "a Cultural Impact Score",
+   "B": "tensor",
+   "C": "a portable 3D model",
+   "D": "Bolt, a Greek god"
+  }
+ },
+ {
+  "id": "c393",
+  "tokens": [
+   "爸",
+   "谁",
+   "а",
+   " Contents",
+   "ж",
+   " „",
+   "什么",
+   " а",
+   " уже",
+   "赛后",
+   "坚",
+   "\"a"
+  ],
+  "options": {
+   "A": "the question itself",
+   "B": "war of attrition",
+   "C": "CaoDa, fictional persona",
+   "D": "mathematician and physical chemist"
+  }
+ },
+ {
+  "id": "c328",
+  "tokens": [
+   " '",
+   " “",
+   " \"",
+   "作为",
+   " ",
+   " \\\"",
+   "其",
+   "什么",
+   "新",
+   " (",
+   "我的",
+   " „"
+  ],
+  "options": {
+   "A": "a being between consciousness and matter",
+   "B": "alien guest",
+   "C": "neighborhood",
+   "D": "organization"
+  }
+ },
+ {
+  "id": "c283",
+  "tokens": [
+   " prescribed",
+   " prescription",
+   " prescribe",
+   " Prescription",
+   "pres",
+   "诊断",
+   "Pres",
+   " Diagnosis",
+   " Pres",
+   " diagnosis",
+   " prescriptions",
+   " pres"
+  ],
+  "options": {
+   "A": "mathematician and physical chemist",
+   "B": "a game NPC entity",
+   "C": "a prescription diagnostic medicine",
+   "D": "the people"
+  }
+ },
+ {
+  "id": "c354",
+  "tokens": [
+   " $",
+   " \\(",
+   "↵↵",
+   " $$",
+   " ",
+   " `",
+   " ($",
+   " $\\",
+   " [",
+   "$p",
+   "↵↵↵",
+   " $("
+  ],
+  "options": {
+   "A": "Ohm's law relation",
+   "B": "human employee",
+   "C": "sensor fusion module",
+   "D": "a drinking vessel"
+  }
+ },
+ {
+  "id": "c402",
+  "tokens": [
+   " Located",
+   "located",
+   "Located",
+   " located",
+   "Boston",
+   "位于",
+   " Boston",
+   " Edinburgh",
+   " Pittsburgh",
+   " Aberdeen",
+   " Denver",
+   " situated"
+  ],
+  "options": {
+   "A": "Unknownia, an olive-family plant",
+   "B": "companion robot",
+   "C": "a university",
+   "D": "a product, community, process"
+  }
+ },
+ {
+  "id": "c234",
+  "tokens": [
+   " [",
+   " [_",
+   " this",
+   "[_",
+   " it",
+   "fig",
+   " fate",
+   " destiny",
+   "命运",
+   "thanks",
+   " ",
+   "THR"
+  ],
+  "options": {
+   "A": "a wave of information",
+   "B": "a lifelong best friend",
+   "C": "US history textbook",
+   "D": "a nurse"
+  }
+ },
+ {
+  "id": "c065",
+  "tokens": [
+   " probability",
+   " Probability",
+   "Probability",
+   "probability",
+   "概率",
+   " prob",
+   "_probability",
+   "Prob",
+   " Prob",
+   " probabilità",
+   "prob",
+   "_prob"
+  ],
+  "options": {
+   "A": "manager",
+   "B": "probability",
+   "C": "a quiet space in your mind",
+   "D": "a retinal protein"
+  }
+ },
+ {
+  "id": "c292",
+  "tokens": [
+   "极大的",
+   " immense",
+   "极大",
+   "舒适度",
+   " considerable",
+   " extreme",
+   " ease",
+   " incredible",
+   " remarkable",
+   "Extreme",
+   " excitement",
+   " sense"
+  ],
+  "options": {
+   "A": "happiness and comfort",
+   "B": "a university",
+   "C": "Noon note-taking app",
+   "D": "a prescription diagnostic medicine"
+  }
+ },
+ {
+  "id": "c123",
+  "tokens": [
+   " global",
+   " Global",
+   " national",
+   " private",
+   "全社会",
+   "-private",
+   "私人",
+   "Global",
+   "global",
+   "ublic",
+   " National",
+   "/global"
+  ],
+  "options": {
+   "A": "political candidate",
+   "B": "recording equipment",
+   "C": "education city",
+   "D": "a mirror of thought"
+  }
+ },
+ {
+  "id": "c056",
+  "tokens": [
+   " camera",
+   " Camera",
+   "camera",
+   "Camera",
+   " viewpoint",
+   "_camera",
+   "视角",
+   "相机",
+   "摄像机",
+   " perspective",
+   "视点",
+   " cameras"
+  ],
+  "options": {
+   "A": "the city of Qingdao",
+   "B": "Gondwanaland supercontinent",
+   "C": "a microservice-based application",
+   "D": "camera"
+  }
+ },
+ {
+  "id": "c097",
+  "tokens": [
+   " Double",
+   "Double",
+   "double",
+   " double",
+   "_double",
+   "DOUBLE",
+   " doubles",
+   " DOUBLE",
+   "_DOUBLE",
+   "-double",
+   ".double",
+   ".Double"
+  ],
+  "options": {
+   "A": "floating-point number",
+   "B": "Qubo, spherical robot",
+   "C": "ancient sage",
+   "D": "social media account"
+  }
+ },
+ {
+  "id": "c385",
+  "tokens": [
+   " we",
+   " ",
+   "we",
+   "our",
+   " We",
+   "amazon",
+   "SITE",
+   " our",
+   "companies",
+   " a",
+   " [",
+   " Amazon"
+  ],
+  "options": {
+   "A": "patent classification system",
+   "B": "a global company",
+   "C": "a coal storage tank",
+   "D": "war of attrition"
+  }
+ },
+ {
+  "id": "c007",
+  "tokens": [
+   " dreams",
+   " magic",
+   " dreaming",
+   "梦想",
+   "dream",
+   "magic",
+   " dream",
+   " Dream",
+   " Magic",
+   " Dreams",
+   "夢想",
+   " fairy"
+  ],
+  "options": {
+   "A": "system theory expert",
+   "B": "liya, ordinary citizen",
+   "C": "dreamer storyteller",
+   "D": "a drinking vessel"
+  }
+ },
+ {
+  "id": "c169",
+  "tokens": [
+   " Pizza",
+   "pizza",
+   " Burger",
+   " Shake",
+   " Frozen",
+   " Crunch",
+   " Subway",
+   " Steak",
+   " Fresh",
+   " Signature",
+   " Sandwich",
+   " Grill"
+  ],
+  "options": {
+   "A": "frozen yogurt brand",
+   "B": "heart rate monitor",
+   "C": "an album",
+   "D": "Lao Xiang, Chinese figure"
+  }
+ },
+ {
+  "id": "c000",
+  "tokens": [
+   " Learning",
+   "Learning",
+   " learning",
+   "学习目标",
+   "learning",
+   " Outcome",
+   "Outcome",
+   " objectives",
+   " outcome",
+   " Object",
+   "_learning",
+   " outcomes"
+  ],
+  "options": {
+   "A": "learning objectives",
+   "B": "primary school student",
+   "C": "law of physics",
+   "D": "a conversation"
+  }
+ },
+ {
+  "id": "c146",
+  "tokens": [
+   "营养",
+   "Nut",
+   " nutritional",
+   " Nut",
+   " Nutrition",
+   " nutrition",
+   "营养成分",
+   "nut",
+   "nutrition",
+   "的营养",
+   "栄養",
+   "營養"
+  ],
+  "options": {
+   "A": "an album",
+   "B": "Biosun Android OS",
+   "C": "nutritionist",
+   "D": "a static function"
+  }
+ },
+ {
+  "id": "c342",
+  "tokens": [
+   " Viagra",
+   "could",
+   "哪些",
+   " Could",
+   "能否",
+   " Massachusetts",
+   "CBS",
+   "Could",
+   "isser",
+   " could",
+   "askell",
+   " AIDS"
+  ],
+  "options": {
+   "A": "extraterrestrial",
+   "B": "the morning",
+   "C": "an African American person",
+   "D": "an API"
+  }
+ },
+ {
+  "id": "c093",
+  "tokens": [
+   "宇宙",
+   " Cos",
+   " cosm",
+   " picture",
+   " Picture",
+   "Cos",
+   "世界",
+   "cos",
+   "_cos",
+   " cos",
+   "Picture",
+   "的世界"
+  ],
+  "options": {
+   "A": "tourism destination",
+   "B": "light bulb",
+   "C": "cosmological world picture",
+   "D": "sentient being of pure thought"
+  }
+ },
+ {
+  "id": "c300",
+  "tokens": [
+   "混合",
+   " mix",
+   " recipe",
+   " mixture",
+   " Mix",
+   "recipe",
+   " Recipe",
+   "Recipe",
+   "混合物",
+   "Mix",
+   " mixes",
+   " paste"
+  ],
+  "options": {
+   "A": "a formulaic recipe mixture",
+   "B": "a finite-element bar node",
+   "C": "a point-like entity",
+   "D": "key fob"
+  }
+ },
+ {
+  "id": "c413",
+  "tokens": [
+   " advanced",
+   "中级",
+   " Intermediate",
+   "熟练",
+   " intermediate",
+   "对于",
+   "有一定",
+   "advanced",
+   "高级",
+   "具备一定的",
+   " Advanced",
+   "有一定的"
+  ],
+  "options": {
+   "A": "rock",
+   "B": "geometric shape",
+   "C": "a software developer",
+   "D": "chemotherapy system"
+  }
+ },
+ {
+  "id": "c033",
+  "tokens": [
+   " commodities",
+   "商品",
+   "二手",
+   " commodity",
+   "商品的",
+   "二级市场",
+   "empor",
+   " markets",
+   "黑",
+   "中古",
+   "Market",
+   "Secondary"
+  ],
+  "options": {
+   "A": "red-rendered display object",
+   "B": "trading market",
+   "C": "a Dutch canal",
+   "D": "a medical doctor"
+  }
+ },
+ {
+  "id": "c303",
+  "tokens": [
+   "舞台",
+   " acted",
+   " actors",
+   " acting",
+   " Actor",
+   "的舞台",
+   " stage",
+   " actor",
+   " Act",
+   "一幕",
+   " staging",
+   " act"
+  ],
+  "options": {
+   "A": "a stage actor",
+   "B": "Lao Xiang, Chinese figure",
+   "C": "Chinese herbal medicine expert",
+   "D": "recruitment partner"
+  }
+ },
+ {
+  "id": "c118",
+  "tokens": [
+   " Energy",
+   " energy",
+   "Energy",
+   "能量",
+   " ENERGY",
+   "energy",
+   " kinetic",
+   "能量的",
+   " Energía",
+   " energía",
+   "_energy",
+   " stored"
+  ],
+  "options": {
+   "A": "Chinese herbal medicine expert",
+   "B": "fictional protagonist",
+   "C": "green energy",
+   "D": "Noon note-taking app"
+  }
+ },
+ {
+  "id": "c012",
+  "tokens": [
+   "光源",
+   " source",
+   " sources",
+   " Source",
+   "源",
+   "[source",
+   "灯光",
+   " Sources",
+   " источник",
+   "源的",
+   " torch",
+   "-source"
+  ],
+  "options": {
+   "A": "a medical doctor",
+   "B": "light bulb",
+   "C": "DMU Class 26 train",
+   "D": "camera"
+  }
+ },
+ {
+  "id": "c182",
+  "tokens": [
+   "我已经",
+   "我的",
+   "我正在",
+   "我",
+   "是的",
+   "这是一个",
+   "我应该",
+   "我是一个",
+   "我们",
+   "这是",
+   "可以",
+   "我们的"
+  ],
+  "options": {
+   "A": "research team",
+   "B": "fruit pod",
+   "C": "a whole number",
+   "D": "child of Lewis and Ofort"
+  }
+ },
+ {
+  "id": "c378",
+  "tokens": [
+   " Dame",
+   "贡献",
+   "contrib",
+   " Ann",
+   " iconic",
+   " Medal",
+   "artist",
+   " Marilyn",
+   " Contributions",
+   " Leslie",
+   " contributed",
+   " Manny"
+  ],
+  "options": {
+   "A": "New York gallery space",
+   "B": "a Hollywood Walk star",
+   "C": "Adelaide research group",
+   "D": "an African American person"
+  }
+ },
+ {
+  "id": "c358",
+  "tokens": [
+   " chromat",
+   " Molecular",
+   " Chrom",
+   "色谱",
+   " Polymer",
+   " Injector",
+   " Chem",
+   " Unsupported",
+   " Alum",
+   " Column",
+   " molecular",
+   " chem"
+  ],
+  "options": {
+   "A": "biochemistry researcher Wu Jing",
+   "B": "gender equality advocate",
+   "C": "an HPLC system",
+   "D": "patent leasing company"
+  }
+ },
+ {
+  "id": "c180",
+  "tokens": [
+   "圣母",
+   " Our",
+   " Christ",
+   " Mary",
+   " Jesus",
+   " Holy",
+   " Saint",
+   " Sacred",
+   "Holy",
+   " Blessed",
+   " Redemption",
+   " Christian"
+  ],
+  "options": {
+   "A": "a sophomore student",
+   "B": "a mathematical parameter",
+   "C": "content creator",
+   "D": "Our Lady of Sorrows Church"
+  }
+ },
+ {
+  "id": "c131",
+  "tokens": [
+   " scal",
+   " bool",
+   "(bool",
+   "bool",
+   "实",
+   " Scalars",
+   "boolean",
+   " double",
+   " boolean",
+   "布尔",
+   " scalar",
+   "=bool"
+  ],
+  "options": {
+   "A": "positive integer",
+   "B": "a game NPC entity",
+   "C": "real number scalar",
+   "D": "a product, community, process"
+  }
+ },
+ {
+  "id": "c170",
+  "tokens": [
+   " verte",
+   " metabolic",
+   "verte",
+   " respi",
+   " lipid",
+   "lung",
+   " moll",
+   "moth",
+   " locom",
+   " Trout",
+   " Amph",
+   " (“"
+  ],
+  "options": {
+   "A": "a bony fish",
+   "B": "intuition",
+   "C": "a vast biological complex",
+   "D": "concept of collaboration"
+  }
+ },
+ {
+  "id": "c148",
+  "tokens": [
+   " alone",
+   " Alone",
+   "alone",
+   " allein",
+   "仅",
+   "-alone",
+   "光是",
+   " seul",
+   " seule",
+   "单单",
+   "仅此",
+   "单"
+  ],
+  "options": {
+   "A": "urban design specialist",
+   "B": "patent leasing company",
+   "C": "lone entity in void",
+   "D": "NVIDIA company"
+  }
+ },
+ {
+  "id": "c347",
+  "tokens": [
+   " Geo",
+   "GD",
+   "EPS",
+   " PROJ",
+   " GD",
+   "gd",
+   " raster",
+   " Geographic",
+   " geographic",
+   " EPS",
+   " Proj",
+   "proj"
+  ],
+  "options": {
+   "A": "community organization",
+   "B": "WGS 84 coordinate system",
+   "C": "a biotechnology company",
+   "D": "a city in southern Italy"
+  }
+ },
+ {
+  "id": "c329",
+  "tokens": [
+   "眼",
+   "眼睛",
+   "看不清",
+   "eye",
+   "眼部",
+   "作为",
+   "（",
+   "泪",
+   "色",
+   "自然",
+   "视觉",
+   "因为"
+  ],
+  "options": {
+   "A": "a retinal protein",
+   "B": "a construction in progress",
+   "C": "a game show simulation game",
+   "D": "a Chinese person"
+  }
+ },
+ {
+  "id": "c243",
+  "tokens": [
+   " predatory",
+   " Pred",
+   " pred",
+   " predators",
+   " defended",
+   " attacked",
+   " burgl",
+   "被捕",
+   "犯罪分子",
+   " Predator",
+   "防御",
+   " defending"
+  ],
+  "options": {
+   "A": "Gondwanaland supercontinent",
+   "B": "Qian San Shai, Chinese leader",
+   "C": "Qunzhao defense system",
+   "D": "research dataset"
+  }
+ },
+ {
+  "id": "c407",
+  "tokens": [
+   "ren",
+   "histor",
+   " Irving",
+   " muka",
+   " Histor",
+   " Ren",
+   " historical",
+   " Tud",
+   " Os",
+   "tls",
+   " Historical",
+   "ffi"
+  ],
+  "options": {
+   "A": "a quiet space in your mind",
+   "B": "a city in southern Italy",
+   "C": "Chinese medicine scholar Xun Wei",
+   "D": "a string"
+  }
+ },
+ {
+  "id": "c113",
+  "tokens": [
+   " ital",
+   " italic",
+   "Italic",
+   "italic",
+   "Ital",
+   "ital",
+   " Ital",
+   " supers",
+   "itals",
+   " Sup",
+   "ITAL",
+   " ITAL"
+  ],
+  "options": {
+   "A": "italic font variable",
+   "B": "senior engineer",
+   "C": "SATA controller",
+   "D": "interview"
+  }
+ },
+ {
+  "id": "c242",
+  "tokens": [
+   "“For",
+   "硬质",
+   " “",
+   " Plata",
+   "bare",
+   " сла",
+   " (“",
+   "回帖",
+   "无暇",
+   " bare",
+   " Bare",
+   "“"
+  ],
+  "options": {
+   "A": "the vessel",
+   "B": "biochemistry researcher Wu Jing",
+   "C": "team member",
+   "D": "toilet paper roll"
+  }
+ },
+ {
+  "id": "c330",
+  "tokens": [
+   " Saddam",
+   " Mu",
+   " Muhammad",
+   " Colonel",
+   "addafi",
+   " Ahmad",
+   "穆",
+   " Hussein",
+   " Libyan",
+   " Libya",
+   " Mou",
+   " Sudan"
+  ],
+  "options": {
+   "A": "multiplication operator",
+   "B": "President of Angola",
+   "C": "Qingwen, architectural designer",
+   "D": "a fluid substance"
+  }
+ },
+ {
+  "id": "c109",
+  "tokens": [
+   "上面的",
+   "左上",
+   "以上",
+   " Above",
+   " above",
+   "西北部",
+   "上述",
+   "umm",
+   "uros",
+   "以上的",
+   "],[-",
+   "减"
+  ],
+  "options": {
+   "A": "physician",
+   "B": "an Academy publication",
+   "C": "a university",
+   "D": "a coal storage tank"
+  }
+ },
+ {
+  "id": "c006",
+  "tokens": [
+   " urban",
+   "都市",
+   " Urban",
+   "urban",
+   "Urban",
+   "废",
+   " NYC",
+   " street",
+   " Street",
+   "垃圾",
+   " urbanos",
+   "废弃物"
+  ],
+  "options": {
+   "A": "oil and gas company",
+   "B": "italic font variable",
+   "C": "urban culture icon",
+   "D": "worker setting safety barrier"
+  }
+ },
+ {
+  "id": "c227",
+  "tokens": [
+   " We",
+   " we",
+   "我们现在",
+   "我们能",
+   "我们",
+   "现在我们",
+   "我们需要",
+   "告诉我们",
+   " Archives",
+   "](",
+   "我们还",
+   "看你"
+  ],
+  "options": {
+   "A": "a coal storage tank",
+   "B": "Theod, a character",
+   "C": "a lighthouse",
+   "D": "a spiritual being"
+  }
+ },
+ {
+  "id": "c260",
+  "tokens": [
+   " electrons",
+   " electron",
+   " ATP",
+   " enzymes",
+   "electron",
+   " proteins",
+   "Elect",
+   " Electron",
+   "酶的",
+   " enzyme",
+   " nerve",
+   " charge"
+  ],
+  "options": {
+   "A": "neural transducer system",
+   "B": "a smart party host device",
+   "C": "recording equipment",
+   "D": "a large hand"
+  }
+ },
+ {
+  "id": "c051",
+  "tokens": [
+   " Nut",
+   " Iron",
+   " iron",
+   "nut",
+   " rust",
+   "钉子",
+   "gran",
+   " Dirt",
+   " Grinding",
+   " moist",
+   " Grinder",
+   " abrasive"
+  ],
+  "options": {
+   "A": "a satellite communication system",
+   "B": "a game show simulation game",
+   "C": "oil",
+   "D": "a human being"
+  }
+ },
+ {
+  "id": "c117",
+  "tokens": [
+   " characters",
+   "characters",
+   " Characters",
+   "企业在",
+   " through",
+   " depicted",
+   " appears",
+   "的人物",
+   " via",
+   "其在",
+   "她在",
+   "通过在"
+  ],
+  "options": {
+   "A": "10-year-old girl character",
+   "B": "italic font variable",
+   "C": "digital certificate",
+   "D": "green energy"
+  }
+ },
+ {
+  "id": "c034",
+  "tokens": [
+   " classroom",
+   " Classroom",
+   " teachers",
+   " Teachers",
+   " teacher",
+   "教室",
+   "教师",
+   "Teachers",
+   "Educ",
+   " classrooms",
+   "老师",
+   "任课"
+  ],
+  "options": {
+   "A": "human teacher",
+   "B": "green energy",
+   "C": "immortal",
+   "D": "comfort service"
+  }
+ },
+ {
+  "id": "c376",
+  "tokens": [
+   " [",
+   " (",
+   " [(",
+   " ",
+   "[(",
+   " ([",
+   "|(",
+   "{(",
+   " |(",
+   "[{",
+   ",",
+   " |["
+  ],
+  "options": {
+   "A": "an essential trace element",
+   "B": "Qubo, spherical robot",
+   "C": "a drooping flower",
+   "D": "a UC university"
+  }
+ },
+ {
+  "id": "c351",
+  "tokens": [
+   " chem",
+   "Chem",
+   " molecular",
+   "chem",
+   " chemical",
+   " ",
+   " Chemical",
+   " gly",
+   " Molecular",
+   " molecule",
+   " Chem",
+   "chemical"
+  ],
+  "options": {
+   "A": "a Chinese herbal medicine",
+   "B": "a cyclic oligomer",
+   "C": "quantum computer",
+   "D": "alien guest"
+  }
+ },
+ {
+  "id": "c270",
+  "tokens": [
+   "耳朵",
+   " ears",
+   " dirty",
+   " Dirty",
+   " head",
+   " heads",
+   "的头",
+   "(head",
+   "Dirty",
+   " Head",
+   " brain",
+   " ear"
+  ],
+  "options": {
+   "A": "Python OCR script",
+   "B": "manager",
+   "C": "web hosting provider",
+   "D": "Swingman, brain in a hat"
+  }
+ },
+ {
+  "id": "c353",
+  "tokens": [
+   "运河",
+   " Canal",
+   " Seine",
+   " Erie",
+   "其",
+   "徐州",
+   "渠",
+   "经验",
+   "可以",
+   "密",
+   "作为",
+   "这条"
+  ],
+  "options": {
+   "A": "Our Lady of Sorrows Church",
+   "B": "command-line tools",
+   "C": "fictional character",
+   "D": "a Dutch canal"
+  }
+ },
+ {
+  "id": "c052",
+  "tokens": [
+   "“(",
+   " (“",
+   "“As",
+   "如一",
+   " “",
+   "“",
+   "作为一家",
+   "“)",
+   " “.",
+   "为难",
+   "：“",
+   "”("
+  ],
+  "options": {
+   "A": "woman",
+   "B": "a quintillion (number)",
+   "C": "a skill or capability",
+   "D": "a team of performers"
+  }
+ },
+ {
+  "id": "c130",
+  "tokens": [
+   " dataset",
+   " Dataset",
+   "Dataset",
+   " datasets",
+   "数据集",
+   "dataset",
+   "datasets",
+   "_dataset",
+   "DataSet",
+   " DataSet",
+   "ataset",
+   "Datas"
+  ],
+  "options": {
+   "A": "research dataset",
+   "B": "New York gallery space",
+   "C": "fictional character Elena",
+   "D": "a button"
+  }
+ },
+ {
+  "id": "c219",
+  "tokens": [
+   " Country",
+   "country",
+   "哪里",
+   " Zug",
+   " Cape",
+   "coverage",
+   " County",
+   " Pakistan",
+   " ",
+   " country",
+   "locations",
+   " Southampton"
+  ],
+  "options": {
+   "A": "a UC university",
+   "B": "a news aggregation service",
+   "C": "the city of Qingdao",
+   "D": "physical presence"
+  }
+ },
+ {
+  "id": "c252",
+  "tokens": [
+   "出版",
+   "出版的",
+   " publishing",
+   " Publishing",
+   "著",
+   "出版物",
+   " book",
+   "新书",
+   " books",
+   " published",
+   " publisher",
+   "ISBN"
+  ],
+  "options": {
+   "A": "mechanical actuator",
+   "B": "a software component",
+   "C": "history",
+   "D": "Journey publishing company"
+  }
+ },
+ {
+  "id": "c401",
+  "tokens": [
+   " their",
+   "their",
+   " Their",
+   "Their",
+   "our",
+   " and",
+   "他们的",
+   "cart",
+   "we",
+   "expression",
+   " our",
+   " leaving"
+  ],
+  "options": {
+   "A": "a Bongtong",
+   "B": "a lifelong best friend",
+   "C": "rock",
+   "D": "a conversation"
+  }
+ },
+ {
+  "id": "c324",
+  "tokens": [
+   " (",
+   " \"",
+   " ",
+   " （",
+   " (\"",
+   " a",
+   "（",
+   ".",
+   " “",
+   " '",
+   "↵",
+   " \\\""
+  ],
+  "options": {
+   "A": "a button",
+   "B": "WGS 84 coordinate system",
+   "C": "speaker driver",
+   "D": "immortal"
+  }
+ },
+ {
+  "id": "c094",
+  "tokens": [
+   " tour",
+   " tours",
+   " Tours",
+   " Tour",
+   " guided",
+   "导游",
+   "tour",
+   " guide",
+   "Tour",
+   " guides",
+   "guided",
+   " Guides"
+  ],
+  "options": {
+   "A": "tour guide",
+   "B": "Jewish person",
+   "C": "Qubo, spherical robot",
+   "D": "enthusiastic translator"
+  }
+ },
+ {
+  "id": "c285",
+  "tokens": [
+   " ideas",
+   "ideas",
+   " Ideas",
+   " idea",
+   "idea",
+   "Ide",
+   " Idea",
+   "思想",
+   "思想和",
+   " ideias",
+   "思想的",
+   " idee"
+  ],
+  "options": {
+   "A": "a set of questions",
+   "B": "immortal",
+   "C": "a planet",
+   "D": "an idea"
+  }
+ },
+ {
+  "id": "c098",
+  "tokens": [
+   " heart",
+   " Heart",
+   "Heart",
+   "-heart",
+   "heart",
+   "heartbeat",
+   " heartbeat",
+   "的心",
+   " pulse",
+   "我的心",
+   "pulse",
+   " Pulse"
+  ],
+  "options": {
+   "A": "Our Lady of Sorrows Church",
+   "B": "heart rate monitor",
+   "C": "red-rendered display object",
+   "D": "a Cultural Impact Score"
+  }
+ },
+ {
+  "id": "c195",
+  "tokens": [
+   " $",
+   " a",
+   " Bose",
+   " Bolt",
+   " Ferm",
+   " ",
+   " A",
+   " bos",
+   " Bohr",
+   " C",
+   " Bob",
+   " \\\""
+  ],
+  "options": {
+   "A": "solid ice crystal",
+   "B": "a boson",
+   "C": "frozen yogurt brand",
+   "D": "a shade-giving field plant"
+  }
+ },
+ {
+  "id": "c005",
+  "tokens": [
+   "Connect",
+   " connected",
+   " Connected",
+   " Connect",
+   " Connectivity",
+   " social",
+   " соц",
+   " connect",
+   " connectivity",
+   "connected",
+   "Connected",
+   "connect"
+  ],
+  "options": {
+   "A": "bacterial strain",
+   "B": "set of strategies",
+   "C": "social media account",
+   "D": "rock"
+  }
+ },
+ {
+  "id": "c273",
+  "tokens": [
+   " Sound",
+   " sound",
+   " sounds",
+   "sound",
+   "Sound",
+   "_sound",
+   " звук",
+   "音效",
+   " SOUND",
+   "(sound",
+   ".sound",
+   "声响"
+  ],
+  "options": {
+   "A": "a game sound engine",
+   "B": "the Prime Meridian",
+   "C": "US history textbook",
+   "D": "star-shaped logo"
+  }
+ },
+ {
+  "id": "c321",
+  "tokens": [
+   " Guru",
+   " spiritual",
+   " Krishna",
+   " God",
+   " Va",
+   " Bh",
+   " Spiritual",
+   "आ",
+   "Vy",
+   " spiritually",
+   "svar",
+   " Shr"
+  ],
+  "options": {
+   "A": "a portable 3D model",
+   "B": "camera",
+   "C": "a spiritual being",
+   "D": "a lighthouse"
+  }
+ },
+ {
+  "id": "c016",
+  "tokens": [
+   " tele",
+   " Tele",
+   "tele",
+   " teleport",
+   "瞬",
+   "Tele",
+   " appar",
+   "光",
+   " télé",
+   "光芒",
+   " теле",
+   " appearing"
+  ],
+  "options": {
+   "A": "a static function",
+   "B": "the morning",
+   "C": "ethereal energy",
+   "D": "a curious math-loving person"
+  }
+ },
+ {
+  "id": "c141",
+  "tokens": [
+   "的人物",
+   "人物",
+   " objects",
+   " Objects",
+   "物",
+   " Object",
+   "人物的",
+   "objects",
+   "_objects",
+   "物体",
+   "Objects",
+   " object"
+  ],
+  "options": {
+   "A": "molecular object",
+   "B": "engineering principle",
+   "C": "Hu P2 server hardware",
+   "D": "cubic crystal system"
+  }
+ },
+ {
+  "id": "c156",
+  "tokens": [
+   "种植",
+   " \"",
+   " '",
+   "哪",
+   "plant",
+   " (",
+   " (\"",
+   "os",
+   " Plant",
+   " `",
+   "RATE",
+   " "
+  ],
+  "options": {
+   "A": "red-rendered display object",
+   "B": "a shade-giving field plant",
+   "C": "multiplication operator",
+   "D": "alien guest"
+  }
+ },
+ {
+  "id": "c209",
+  "tokens": [
+   "明显",
+   "显然",
+   "显然是",
+   "似乎",
+   " seem",
+   " seems",
+   "/#",
+   "似乎是",
+   "很明显",
+   "明显的",
+   "肯定",
+   " (#"
+  ],
+  "options": {
+   "A": "biochemistry researcher Wu Jing",
+   "B": "a system message placeholder",
+   "C": "a button",
+   "D": "the question itself"
+  }
+ },
+ {
+  "id": "c193",
+  "tokens": [
+   " Island",
+   " Mariners",
+   " Ship",
+   " Seah",
+   " Coast",
+   " Cape",
+   " Isle",
+   " ship",
+   " Admir",
+   "遇难",
+   " Signal",
+   " Chart"
+  ],
+  "options": {
+   "A": "an album",
+   "B": "fruit pod",
+   "C": "Sina character recognizer",
+   "D": "a lighthouse"
+  }
+ },
+ {
+  "id": "c281",
+  "tokens": [
+   "围",
+   " around",
+   " Around",
+   " round",
+   "围绕",
+   "around",
+   "围着",
+   " Round",
+   "圍",
+   "圆桌",
+   " autour",
+   " вокруг"
+  ],
+  "options": {
+   "A": "Circuit Roundtable discussion table",
+   "B": "engineering principle",
+   "C": "a loyal ally",
+   "D": "10th-generation company heir"
+  }
+ },
+ {
+  "id": "c013",
+  "tokens": [
+   " protein",
+   " Protein",
+   " proteins",
+   "蛋白质",
+   "蛋白",
+   "protein",
+   " Prote",
+   " proteína",
+   "蛋白質",
+   " enzyme",
+   "rotein",
+   " Carbon"
+  ],
+  "options": {
+   "A": "CaoDa, fictional persona",
+   "B": "sentient being of pure thought",
+   "C": "enzyme",
+   "D": "business service expert HuaHe"
+  }
+ },
+ {
+  "id": "c086",
+  "tokens": [
+   " Leads",
+   " leads",
+   " lead",
+   " Lead",
+   "leads",
+   "lead",
+   "跟进",
+   "转化",
+   "Lead",
+   " conversion",
+   "转化的",
+   "_conversion"
+  ],
+  "options": {
+   "A": "watermark",
+   "B": "Li Wei, Chinese university student",
+   "C": "lead engineer",
+   "D": "mechanical actuator"
+  }
+ },
+ {
+  "id": "c174",
+  "tokens": [
+   " Component",
+   " Carbon",
+   "AGR",
+   "组分",
+   " Elemental",
+   " commodity",
+   "Component",
+   " DEA",
+   " EPA",
+   "component",
+   " gas",
+   " Gas"
+  ],
+  "options": {
+   "A": "italic font variable",
+   "B": "Ji, a Chinese student",
+   "C": "ammonia",
+   "D": "a Lebesgue null set"
+  }
+ },
+ {
+  "id": "c406",
+  "tokens": [
+   " Dr",
+   "dr",
+   " dr",
+   " continued",
+   " Continued",
+   " DR",
+   "_DR",
+   " natural",
+   "similar",
+   "estate",
+   "natural",
+   " Ir"
+  ],
+  "options": {
+   "A": "the morning",
+   "B": "Gloo, a source of chaos",
+   "C": "the Nature of the Future",
+   "D": "Unknownia, an olive-family plant"
+  }
+ },
+ {
+  "id": "c043",
+  "tokens": [
+   " Newton",
+   " conservation",
+   "遵循",
+   " according",
+   " laws",
+   "牛顿",
+   " According",
+   " Laws",
+   " obey",
+   " Conservation",
+   " Sn",
+   "欧姆"
+  ],
+  "options": {
+   "A": "Buddhist monk",
+   "B": "a system call",
+   "C": "law of physics",
+   "D": "NVIDIA company"
+  }
+ },
+ {
+  "id": "c251",
+  "tokens": [
+   " list",
+   "Collection",
+   " collection",
+   "collection",
+   "list",
+   "大会堂",
+   " List",
+   "_collection",
+   " Collection",
+   "列表",
+   " series",
+   " array"
+  ],
+  "options": {
+   "A": "biochemistry researcher Wu Jing",
+   "B": "Alexan social circle",
+   "C": "Qiaohuan, technology specialist",
+   "D": "a global network of systems"
+  }
+ },
+ {
+  "id": "c021",
+  "tokens": [
+   "梅林",
+   " Moment",
+   "artists",
+   "moment",
+   "integr",
+   "芳草",
+   "compat",
+   "Moment",
+   "eka",
+   " Merlin",
+   " Leit",
+   " moment"
+  ],
+  "options": {
+   "A": "research team",
+   "B": "a foolish man",
+   "C": "Bolt, a Greek god",
+   "D": "Qunzhao defense system"
+  }
+ },
+ {
+  "id": "c129",
+  "tokens": [
+   " indicator",
+   " indicators",
+   " Indicator",
+   "_indicator",
+   " LED",
+   "指示灯",
+   "indicator",
+   "Indicator",
+   "指示",
+   " LEDs",
+   " lights",
+   " display"
+  ],
+  "options": {
+   "A": "a global network of systems",
+   "B": "joy experience",
+   "C": "LED indicator light",
+   "D": "a Chinese person"
+  }
+ },
+ {
+  "id": "c400",
+  "tokens": [
+   " Creation",
+   "Creation",
+   " creation",
+   "creation",
+   " Destruction",
+   " (_",
+   " god",
+   " (\"",
+   " (",
+   "[this",
+   " \"(",
+   " existence"
+  ],
+  "options": {
+   "A": "sentient being of pure thought",
+   "B": "doubting",
+   "C": "Bolt, a Greek god",
+   "D": "italic font variable"
+  }
+ },
+ {
+  "id": "c011",
+  "tokens": [
+   " capacit",
+   " Capac",
+   "电感",
+   "电阻",
+   " impedance",
+   " acoustic",
+   "电磁",
+   " electromagnetic",
+   " Microwave",
+   "Resistance",
+   " reson",
+   " Resistance"
+  ],
+  "options": {
+   "A": "a human",
+   "B": "research team",
+   "C": "NMR system",
+   "D": "a stage actor"
+  }
+ },
+ {
+  "id": "c018",
+  "tokens": [
+   " summer",
+   " Africa",
+   " tourism",
+   "的现实",
+   " Morocco",
+   "现实",
+   " fruit",
+   " Peru",
+   "igeria",
+   " real",
+   " cities",
+   " travel"
+  ],
+  "options": {
+   "A": "tourism destination",
+   "B": "a software developer",
+   "C": "a team of performers",
+   "D": "energy grid system"
+  }
+ },
+ {
+  "id": "c410",
+  "tokens": [
+   "传统",
+   "老",
+   " traditional",
+   "传统的",
+   "的传统",
+   "古老",
+   "traditional",
+   "与传统",
+   " Traditional",
+   " Tradition",
+   " old",
+   "旧"
+  ],
+  "options": {
+   "A": "a Chinese herbal medicine",
+   "B": "a draft horse",
+   "C": "urban design specialist",
+   "D": "immortal"
+  }
+ },
+ {
+  "id": "c139",
+  "tokens": [
+   " underground",
+   " submerged",
+   " downward",
+   " suspended",
+   " buried",
+   " downwards",
+   " Underground",
+   "悬挂",
+   " Susp",
+   "悬",
+   "往下看",
+   " substr"
+  ],
+  "options": {
+   "A": "bacterial strain",
+   "B": "Gondwanaland supercontinent",
+   "C": "system administrator",
+   "D": "invisible entity"
+  }
+ },
+ {
+  "id": "c032",
+  "tokens": [
+   " peace",
+   " Peace",
+   "Peace",
+   "peace",
+   " tranqu",
+   "宁静",
+   " peaceful",
+   " tranquill",
+   " quiet",
+   "安静",
+   "_pe",
+   "tran"
+  ],
+  "options": {
+   "A": "a quintillion (number)",
+   "B": "Chinese herbal medicine expert",
+   "C": "moral initiative",
+   "D": "place of peace"
+  }
+ },
+ {
+  "id": "c222",
+  "tokens": [
+   " „",
+   " ’",
+   " ↵",
+   "’:",
+   "für",
+   " von",
+   "  ↵",
+   " für",
+   " ‘",
+   " ich",
+   " Von",
+   "”:"
+  ],
+  "options": {
+   "A": "gang leader",
+   "B": "Dionysos",
+   "C": "history",
+   "D": "a Q&A collection"
+  }
+ },
+ {
+  "id": "c264",
+  "tokens": [
+   " comparable",
+   " comparing",
+   " Compar",
+   "比较",
+   "进行比较",
+   " compar",
+   " apples",
+   " Comparison",
+   " comparison",
+   " compare",
+   " Comparable",
+   "Compar"
+  ],
+  "options": {
+   "A": "a hospital doctor",
+   "B": "a Bongtong",
+   "C": "apples",
+   "D": "urban design specialist"
+  }
+ },
+ {
+  "id": "c107",
+  "tokens": [
+   "实用",
+   "实用的",
+   " strategies",
+   " Strategies",
+   " practical",
+   " tips",
+   "effective",
+   " Practical",
+   " effective",
+   "Effective",
+   " Effective",
+   " Tips"
+  ],
+  "options": {
+   "A": "mail server admin interface",
+   "B": "the vessel",
+   "C": "liya, ordinary citizen",
+   "D": "set of strategies"
+  }
+ },
+ {
+  "id": "c089",
+  "tokens": [
+   "混沌",
+   " Chaos",
+   " chaotic",
+   " functor",
+   " fract",
+   " chaos",
+   "singular",
+   " Functional",
+   " Singular",
+   " functional",
+   "Functional",
+   " singular"
+  ],
+  "options": {
+   "A": "CERN",
+   "B": "soul of dance",
+   "C": "tensor",
+   "D": "microchip"
+  }
+ },
+ {
+  "id": "c022",
+  "tokens": [
+   "乘",
+   " Powers",
+   " fractions",
+   "导",
+   "比例的",
+   " logarith",
+   " multiplication",
+   " derivative",
+   "立体",
+   " Der",
+   " Multip",
+   " Function"
+  ],
+  "options": {
+   "A": "math function",
+   "B": "a skill or capability",
+   "C": "a coal storage tank",
+   "D": "a game show simulation game"
+  }
+ },
+ {
+  "id": "c372",
+  "tokens": [
+   " $",
+   " \\(",
+   " `$",
+   " `",
+   " $(",
+   "$v",
+   "$x",
+   "$r",
+   "$q",
+   "{$",
+   " ($",
+   " $\\"
+  ],
+  "options": {
+   "A": "laser fusion system",
+   "B": "microchip",
+   "C": "generalized coordinate q",
+   "D": "history"
+  }
+ },
+ {
+  "id": "c271",
+  "tokens": [
+   "double",
+   " double",
+   " domin",
+   " Double",
+   "sus",
+   "shadow",
+   "保持一致",
+   "igor",
+   "ect",
+   "pling",
+   "egl",
+   ".intersection"
+  ],
+  "options": {
+   "A": "an area in Haryana, India",
+   "B": "Lao Xiang, Chinese figure",
+   "C": "Alexan social circle",
+   "D": "a mathematical formulation"
+  }
+ },
+ {
+  "id": "c375",
+  "tokens": [
+   " Retrieve",
+   "amazon",
+   "secure",
+   " Delivery",
+   "api",
+   " `",
+   " api",
+   " Package",
+   "delivery",
+   " Store",
+   "node",
+   " ```"
+  ],
+  "options": {
+   "A": "Circuit Roundtable discussion table",
+   "B": "microservice placeholder",
+   "C": "communication protocol",
+   "D": "a college student"
+  }
+ },
+ {
+  "id": "c150",
+  "tokens": [
+   " head",
+   " curled",
+   " shaped",
+   ".head",
+   " heads",
+   " oval",
+   "_head",
+   "头的",
+   " Oval",
+   "头和",
+   " overturned",
+   " Head"
+  ],
+  "options": {
+   "A": "star-shaped logo",
+   "B": "pricing mechanism",
+   "C": "a bony fish",
+   "D": "a pediatric endocrinologist"
+  }
+ },
+ {
+  "id": "c200",
+  "tokens": [
+   "company",
+   "Company",
+   "公司",
+   " Company",
+   "（",
+   "China",
+   "any",
+   "作为",
+   " company",
+   " （",
+   "jiang",
+   "main"
+  ],
+  "options": {
+   "A": "Qianlong, a digital-transformation enterprise",
+   "B": "the spark in your eyes",
+   "C": "a district operations system",
+   "D": "a mirror of silence"
+  }
+ },
+ {
+  "id": "c074",
+  "tokens": [
+   "带来",
+   " death",
+   " Death",
+   "bringing",
+   "death",
+   " Bringing",
+   " bring",
+   "带去",
+   "带来了",
+   " salvation",
+   " bringing",
+   " Br"
+  ],
+  "options": {
+   "A": "key fob",
+   "B": "fictional character Elena",
+   "C": "sentient energy entity",
+   "D": "political candidate"
+  }
+ },
+ {
+  "id": "c042",
+  "tokens": [
+   "主动",
+   "被动",
+   " passive",
+   "道德",
+   "主動",
+   "主动权",
+   " active",
+   "主动性",
+   " moral",
+   " initiative",
+   " Active",
+   " morally"
+  ],
+  "options": {
+   "A": "pricing mechanism",
+   "B": "interview",
+   "C": "a conversation",
+   "D": "moral initiative"
+  }
+ },
+ {
+  "id": "c259",
+  "tokens": [
+   "整数",
+   "整",
+   " whole",
+   " integer",
+   " Whole",
+   "whole",
+   "integer",
+   " Integer",
+   " integers",
+   "Whole",
+   " цел",
+   "_integer"
+  ],
+  "options": {
+   "A": "a whole number",
+   "B": "CaoDa, fictional persona",
+   "C": "tactic",
+   "D": "World Bank Group"
+  }
+ },
+ {
+  "id": "c205",
+  "tokens": [
+   "enemy",
+   "我们",
+   " Enemy",
+   " enemy",
+   " Retreat",
+   "Enemy",
+   "fight",
+   "loy",
+   "敌人",
+   " Battalion",
+   "attack",
+   "任何"
+  ],
+  "options": {
+   "A": "Theod, a character",
+   "B": "neural transducer system",
+   "C": "a Chinese person",
+   "D": "a loyal ally"
+  }
+ },
+ {
+  "id": "c125",
+  "tokens": [
+   " CA",
+   " Cert",
+   " certificate",
+   " certificates",
+   " cert",
+   " Certificate",
+   "Certificates",
+   " certs",
+   "Certificate",
+   "证书",
+   "CA",
+   "Cert"
+  ],
+  "options": {
+   "A": "2024 Olympic Games",
+   "B": "AllMusic ticket booking service",
+   "C": "Khan, African affairs diplomat",
+   "D": "digital certificate"
+  }
+ },
+ {
+  "id": "c215",
+  "tokens": [
+   "similar",
+   "also",
+   "can",
+   "same",
+   "each",
+   "respond",
+   "another",
+   "oper",
+   "ans",
+   "these",
+   "apply",
+   "other"
+  ],
+  "options": {
+   "A": "a high-performance alloy",
+   "B": "the other side",
+   "C": "extraterrestrial",
+   "D": "inclusion index"
+  }
+ },
+ {
+  "id": "c085",
+  "tokens": [
+   "振动",
+   " drivers",
+   " vibra",
+   " driver",
+   "驱动",
+   "动",
+   " vibr",
+   "drivers",
+   " Driver",
+   "驱动器",
+   "brane",
+   " di"
+  ],
+  "options": {
+   "A": "member of grass family",
+   "B": "pricing mechanism",
+   "C": "speaker driver",
+   "D": "manager"
+  }
+ },
+ {
+  "id": "c076",
+  "tokens": [
+   "物理",
+   " physical",
+   " Physical",
+   "的物理",
+   "physical",
+   "Physical",
+   "稳固",
+   " physically",
+   " stable",
+   " mechanically",
+   " stabilize",
+   " mechanical"
+  ],
+  "options": {
+   "A": "extraterrestrial",
+   "B": "happiness and comfort",
+   "C": "process optimization expert",
+   "D": "engineering principle"
+  }
+ },
+ {
+  "id": "c367",
+  "tokens": [
+   " Cocktail",
+   " Gin",
+   " gin",
+   " served",
+   "gin",
+   " vodka",
+   "杯酒",
+   "/gin",
+   " Margar",
+   " cocktail",
+   " whiskey",
+   " a"
+  ],
+  "options": {
+   "A": "solid ice crystal",
+   "B": "multiplication operator",
+   "C": "a Whiskey Sour cocktail",
+   "D": "a human user"
+  }
+ },
+ {
+  "id": "c373",
+  "tokens": [
+   " Muhammad",
+   " Prophet",
+   " Allah",
+   "伊斯兰",
+   "穆斯林",
+   "Muslim",
+   " Quran",
+   "Allah",
+   "-Muslim",
+   " Muslim",
+   " Salat",
+   " Islamic"
+  ],
+  "options": {
+   "A": "a mathematical formulation",
+   "B": "a research scientist",
+   "C": "the Prophet Muhammad",
+   "D": "Sphere, circle of spheres"
+  }
+ },
+ {
+  "id": "c286",
+  "tokens": [
+   " history",
+   " History",
+   "History",
+   "history",
+   " HISTORY",
+   "_history",
+   "历史记录",
+   "/history",
+   "-history",
+   "历史",
+   "歷史",
+   " истории"
+  ],
+  "options": {
+   "A": "fictional character",
+   "B": "a senior data analyst",
+   "C": "a history enthusiast",
+   "D": "italic font variable"
+  }
+ },
+ {
+  "id": "c238",
+  "tokens": [
+   " tablets",
+   " tablet",
+   " laptop",
+   "桌上的",
+   "桌上",
+   " desk",
+   "桌面上",
+   "书桌",
+   " speakers",
+   "悬浮",
+   "Desk",
+   "贴在"
+  ],
+  "options": {
+   "A": "a human / digital twin",
+   "B": "fruit pod",
+   "C": "research institute",
+   "D": "Hu P2 server hardware"
+  }
+ },
+ {
+  "id": "c368",
+  "tokens": [
+   "驴",
+   " a",
+   "horse",
+   " horses",
+   "ele",
+   "cart",
+   " horse",
+   " cows",
+   " cart",
+   " ",
+   "/cart",
+   " carts"
+  ],
+  "options": {
+   "A": "web hosting provider",
+   "B": "a draft horse",
+   "C": "a being between consciousness and matter",
+   "D": "a mirror of thought"
+  }
+ },
+ {
+  "id": "c035",
+  "tokens": [
+   " memories",
+   " Memories",
+   " Memory",
+   " memory",
+   "回忆",
+   "Memory",
+   " Mem",
+   "Mem",
+   "memory",
+   " creation",
+   "-memory",
+   " MEMORY"
+  ],
+  "options": {
+   "A": "a university",
+   "B": "fictional character",
+   "C": "a research institution",
+   "D": "memory creation expert"
+  }
+ },
+ {
+  "id": "c371",
+  "tokens": [
+   " ",
+   " a",
+   "主要",
+   "dna",
+   " DNA",
+   "main",
+   "protein",
+   " Protein",
+   " N",
+   "作为",
+   "gene",
+   " `"
+  ],
+  "options": {
+   "A": "memory creation expert",
+   "B": "a research scientist",
+   "C": "a membrane protein enzyme",
+   "D": "a line"
+  }
+ },
+ {
+  "id": "c256",
+  "tokens": [
+   " winter",
+   "冬",
+   "冬季",
+   " Winter",
+   "对",
+   "winter",
+   "最佳",
+   "Winter",
+   " winters",
+   "任",
+   "阴",
+   "白雪"
+  ],
+  "options": {
+   "A": "enzyme",
+   "B": "Khan, African affairs diplomat",
+   "C": "Lao Xiang, Chinese figure",
+   "D": "real number scalar"
+  }
+ },
+ {
+  "id": "c189",
+  "tokens": [
+   " ",
+   "孙中山",
+   "谭",
+   " ——",
+   " (“",
+   "民国",
+   " Chinese",
+   "蒋介石",
+   "===\"",
+   "唐山",
+   "李大",
+   " Com"
+  ],
+  "options": {
+   "A": "web hosting provider",
+   "B": "math function",
+   "C": "recruitment partner",
+   "D": "a Chinese person"
+  }
+ },
+ {
+  "id": "c275",
+  "tokens": [
+   " light",
+   " Light",
+   " insight",
+   " shed",
+   "light",
+   "Light",
+   " shedding",
+   " sheds",
+   "shed",
+   " clarification",
+   "-light",
+   " Insight"
+  ],
+  "options": {
+   "A": "the vessel",
+   "B": "a high-performance alloy",
+   "C": "the user's name",
+   "D": "light"
+  }
+ },
+ {
+  "id": "c024",
+  "tokens": [
+   " voting",
+   " votes",
+   " vote",
+   "投票",
+   "vote",
+   "Votes",
+   "votes",
+   " Vote",
+   " voters",
+   " Voting",
+   "Vote",
+   " Votes"
+  ],
+  "options": {
+   "A": "a city in southern Italy",
+   "B": "the Communist Party of China",
+   "C": "the question itself",
+   "D": "community vote"
+  }
+ },
+ {
+  "id": "c121",
+  "tokens": [
+   " eastern",
+   " northeastern",
+   " southern",
+   " central",
+   " southeastern",
+   " Eastern",
+   " Central",
+   "Eastern",
+   " Southern",
+   "Central",
+   " Arizona",
+   " Northeast"
+  ],
+  "options": {
+   "A": "apples",
+   "B": "a person (farmer, worker)",
+   "C": "quantum computer",
+   "D": "World Bank Group"
+  }
+ },
+ {
+  "id": "c394",
+  "tokens": [
+   " both",
+   "both",
+   " Both",
+   "既",
+   "这两种",
+   "这两",
+   "either",
+   "these",
+   "既能",
+   " either",
+   " these",
+   "this"
+  ],
+  "options": {
+   "A": "the vessel",
+   "B": "place of peace",
+   "C": "a Q&A collection",
+   "D": "nutritionist"
+  }
+ },
+ {
+  "id": "c183",
+  "tokens": [
+   " Winter",
+   " winter",
+   "Winter",
+   " Autumn",
+   "winter",
+   " autumn",
+   " snow",
+   " leaves",
+   " spring",
+   " Snow",
+   "Aut",
+   " frost"
+  ],
+  "options": {
+   "A": "urban culture icon",
+   "B": "a fluid substance",
+   "C": "team member",
+   "D": "the gentle breeze"
+  }
+ },
+ {
+  "id": "c198",
+  "tokens": [
+   "answers",
+   "________",
+   "answer",
+   " Nursing",
+   "manager",
+   "review",
+   "CLIENT",
+   " ",
+   "_____",
+   "facility",
+   "MODULE",
+   " Answers"
+  ],
+  "options": {
+   "A": "a set of questions",
+   "B": "barometer",
+   "C": "a nurse",
+   "D": "research dataset"
+  }
+ },
+ {
+  "id": "c184",
+  "tokens": [
+   " \\\"",
+   " $",
+   " an",
+   " as",
+   " __",
+   " ...",
+   " m",
+   " ",
+   ".\\\"",
+   " ______",
+   " '",
+   "isos"
+  ],
+  "options": {
+   "A": "an educator",
+   "B": "a lighthouse",
+   "C": "a wave of information",
+   "D": "rhythm artist NanNan"
+  }
+ },
+ {
+  "id": "c069",
+  "tokens": [
+   " Ferrara",
+   " relig",
+   "用书",
+   "正向",
+   "arrer",
+   " Farrell",
+   "_fwd",
+   " molecular",
+   " Forward",
+   "oudre",
+   "法式",
+   " бру"
+  ],
+  "options": {
+   "A": "Chinese girl",
+   "B": "history",
+   "C": "italic font variable",
+   "D": "a sphere"
+  }
+ },
+ {
+  "id": "c137",
+  "tokens": [
+   " Olympics",
+   " Olymp",
+   " Olympic",
+   " Olimpi",
+   "oly",
+   " olymp",
+   "โอล",
+   "高考",
+   " Olimp",
+   " Games",
+   " 올림픽",
+   "奧運"
+  ],
+  "options": {
+   "A": "Adelaide research group",
+   "B": "2024 Olympic Games",
+   "C": "brand symbol",
+   "D": "a quintillion (number)"
+  }
+ },
+ {
+  "id": "c335",
+  "tokens": [
+   " ",
+   " i",
+   " a",
+   "cannot",
+   " an",
+   " cannot",
+   "chip",
+   "未能",
+   " it",
+   " seems",
+   " chip",
+   " u"
+  ],
+  "options": {
+   "A": "a company",
+   "B": "dialectology student",
+   "C": "the number 74561663",
+   "D": "an African American person"
+  }
+ },
+ {
+  "id": "c210",
+  "tokens": [
+   " ",
+   "搜索",
+   "enable",
+   "search",
+   " Browse",
+   "/problems",
+   "查看",
+   "难度",
+   "我们现在",
+   " Search",
+   "问题",
+   "will"
+  ],
+  "options": {
+   "A": "math learning tool",
+   "B": "a Bongtong",
+   "C": "Sphere, circle of spheres",
+   "D": "a textile manufacturer"
+  }
+ },
+ {
+  "id": "c302",
+  "tokens": [
+   " University",
+   " university",
+   "University",
+   "大学的",
+   " universities",
+   "大学",
+   " UNIVERSITY",
+   " academic",
+   " Academic",
+   " academia",
+   "大學",
+   " Universities"
+  ],
+  "options": {
+   "A": "a system message placeholder",
+   "B": "a city in southern Italy",
+   "C": "a UC university",
+   "D": "rabbit"
+  }
+ },
+ {
+  "id": "c019",
+  "tokens": [
+   "零件",
+   "零部件",
+   "合格",
+   "件",
+   "批",
+   "紧固件",
+   " 부품",
+   "管件",
+   " rod",
+   " Rod",
+   "工件",
+   "部件"
+  ],
+  "options": {
+   "A": "manufacturing system",
+   "B": "a pediatric endocrinologist",
+   "C": "woman",
+   "D": "a university"
+  }
+ },
+ {
+  "id": "c279",
+  "tokens": [
+   " Forest",
+   " desert",
+   " forest",
+   " Desert",
+   "深山",
+   "沙漠",
+   " mountain",
+   " Coastal",
+   "Fore",
+   " mountains",
+   "Forest",
+   " Mountains"
+  ],
+  "options": {
+   "A": "mountain stream and volcanic ash",
+   "B": "Hu P2 server hardware",
+   "C": "US history textbook",
+   "D": "custom manufacturing facility"
+  }
+ },
+ {
+  "id": "c029",
+  "tokens": [
+   " locals",
+   " natives",
+   " residents",
+   "本地",
+   "当地人",
+   "locals",
+   " Residents",
+   " Loc",
+   " Yorkers",
+   " Texans",
+   "本地的",
+   "Residents"
+  ],
+  "options": {
+   "A": "education city",
+   "B": "scanning electron micrograph",
+   "C": "a Cultural Impact Score",
+   "D": "human local"
+  }
+ },
+ {
+  "id": "c357",
+  "tokens": [
+   " Earth",
+   " sphere",
+   " spherical",
+   "地球",
+   "椭",
+   "sphere",
+   " spheres",
+   " Sphere",
+   "球的",
+   "球形",
+   " globe",
+   "球"
+  ],
+  "options": {
+   "A": "physical presence",
+   "B": "a point",
+   "C": "a planet",
+   "D": "command-line tools"
+  }
+ },
+ {
+  "id": "c280",
+  "tokens": [
+   "圈子",
+   "圈",
+   " circles",
+   " Circle",
+   "圈的",
+   " circle",
+   "Circle",
+   "圈内",
+   "_circle",
+   "circle",
+   " окру",
+   "-circle"
+  ],
+  "options": {
+   "A": "research institute",
+   "B": "a human / digital twin",
+   "C": "Alexan social circle",
+   "D": "memory creation expert"
+  }
+ },
+ {
+  "id": "c145",
+  "tokens": [
+   " Theory",
+   " theory",
+   "theory",
+   "理论",
+   "Theory",
+   "理论的",
+   " theor",
+   " theoretical",
+   "理论与",
+   " THEORY",
+   " system",
+   " theorists"
+  ],
+  "options": {
+   "A": "the Prime Meridian",
+   "B": "system theory expert",
+   "C": "a draft horse",
+   "D": "Unknownia, an olive-family plant"
+  }
+ },
+ {
+  "id": "c158",
+  "tokens": [
+   " (",
+   " ↵",
+   " ",
+   "↵↵",
+   ",",
+   "<|im_end|>",
+   "↵",
+   " --",
+   " ↵↵",
+   " （",
+   " this",
+   " ______"
+  ],
+  "options": {
+   "A": "probability",
+   "B": "a foolish man",
+   "C": "a Cultural Impact Score",
+   "D": "a pristine used item"
+  }
+ },
+ {
+  "id": "c311",
+  "tokens": [
+   " solid",
+   " Solid",
+   "Solid",
+   "固体",
+   "solid",
+   "固",
+   " solids",
+   "-solid",
+   "固态",
+   " solide",
+   " sólida",
+   " sól"
+  ],
+  "options": {
+   "A": "the user's name",
+   "B": "manufacturing system",
+   "C": "solid ice crystal",
+   "D": "probability"
+  }
+ },
+ {
+  "id": "c360",
+  "tokens": [
+   "IDA",
+   " Investment",
+   " financing",
+   " Facility",
+   " Financing",
+   " Bank",
+   " institutional",
+   "investment",
+   " IMF",
+   "vestment",
+   " Myanmar",
+   " investment"
+  ],
+  "options": {
+   "A": "tensor",
+   "B": "child of Lewis and Ofort",
+   "C": "World Bank Group",
+   "D": "a Chingo"
+  }
+ },
+ {
+  "id": "c414",
+  "tokens": [
+   "之星",
+   " Star",
+   "星的",
+   " Stars",
+   " star",
+   "颗星",
+   " stars",
+   "星级",
+   " starred",
+   "星星",
+   "星标",
+   " ★"
+  ],
+  "options": {
+   "A": "Sina character recognizer",
+   "B": "Starrell, a large star",
+   "C": "web hosting provider",
+   "D": "tensor"
+  }
+ },
+ {
+  "id": "c008",
+  "tokens": [
+   " foreign",
+   "foreign",
+   "Foreign",
+   " guest",
+   " Foreign",
+   "异",
+   "外国",
+   "他乡",
+   " alien",
+   " Guest",
+   "_foreign",
+   " frem"
+  ],
+  "options": {
+   "A": "Qunzhao defense system",
+   "B": "radiation",
+   "C": "a draft horse",
+   "D": "alien guest"
+  }
+ },
+ {
+  "id": "c090",
+  "tokens": [
+   " Mission",
+   " mission",
+   " missions",
+   "Mission",
+   " missionary",
+   "mission",
+   " missionaries",
+   "使命感",
+   "公益",
+   " purpose",
+   "使命",
+   "慈善"
+  ],
+  "options": {
+   "A": "organization",
+   "B": "Lao Xiang, Chinese figure",
+   "C": "Q, energy storage solution",
+   "D": "a conversation"
+  }
+ },
+ {
+  "id": "c157",
+  "tokens": [
+   " Realty",
+   " Asset",
+   " Investment",
+   " ",
+   "asset",
+   " Stock",
+   " '",
+   " \"",
+   "investment",
+   " $",
+   " Holdings",
+   " Company"
+  ],
+  "options": {
+   "A": "a retinal protein",
+   "B": "a real estate company",
+   "C": "gender equality advocate",
+   "D": "a foolish man"
+  }
+ },
+ {
+  "id": "c305",
+  "tokens": [
+   "机构",
+   "机构的",
+   "组织",
+   " institution",
+   "机构和",
+   " institutions",
+   " org",
+   " organization",
+   " institutional",
+   " organizational",
+   " organizations",
+   " Organizations"
+  ],
+  "options": {
+   "A": "sentient being of pure thought",
+   "B": "a large organization",
+   "C": "a static function",
+   "D": "a drinking vessel"
+  }
+ },
+ {
+  "id": "c134",
+  "tokens": [
+   " team",
+   " Team",
+   "team",
+   "_team",
+   "Team",
+   " achievements",
+   " our",
+   "TEAM",
+   " teams",
+   " TEAM",
+   "团队",
+   " Our"
+  ],
+  "options": {
+   "A": "doubting",
+   "B": "team member",
+   "C": "home energy system",
+   "D": "a company"
+  }
+ },
+ {
+  "id": "c403",
+  "tokens": [
+   "Anc",
+   " Ancient",
+   "anc",
+   " ancient",
+   " Anc",
+   "在古代",
+   "周公",
+   "古代",
+   " Medieval",
+   "古代的",
+   " medieval",
+   " anc"
+  ],
+  "options": {
+   "A": "Antony, Greek oracle god",
+   "B": "a bony fish",
+   "C": "Duck Studio software platform",
+   "D": "manufacturing product"
+  }
+ },
+ {
+  "id": "c230",
+  "tokens": [
+   "粘性",
+   " visc",
+   "美国人",
+   "](\"",
+   " visibly",
+   " Kane",
+   "得益",
+   " Moist",
+   "硬质",
+   "晶莹",
+   " Natural",
+   " substances"
+  ],
+  "options": {
+   "A": "mirror of user",
+   "B": "signal booster",
+   "C": "a fluid substance",
+   "D": "physician"
+  }
+ },
+ {
+  "id": "c201",
+  "tokens": [
+   "对",
+   "我们",
+   "____",
+   "此",
+   "________",
+   "谁",
+   "你是一个",
+   "这个",
+   "被",
+   "什么",
+   " __",
+   "可怜"
+  ],
+  "options": {
+   "A": "a British South Atlantic territory",
+   "B": "a large hand",
+   "C": "a curious math-loving person",
+   "D": "Chinese herbal medicine expert"
+  }
+ },
+ {
+  "id": "c317",
+  "tokens": [
+   " ",
+   " `",
+   " a",
+   " '",
+   " ↵",
+   " v",
+   " V",
+   " <",
+   " (",
+   " this",
+   " System",
+   " Visual"
+  ],
+  "options": {
+   "A": "a Hollywood Walk star",
+   "B": "an on-board computer",
+   "C": "a bony fish",
+   "D": "an HTML page"
+  }
+ },
+ {
+  "id": "c397",
+  "tokens": [
+   " gods",
+   " slaves",
+   "thy",
+   "slave",
+   " (",
+   "Slave",
+   " ",
+   "your",
+   " thy",
+   "奴隶",
+   " Gods",
+   " Cyrus"
+  ],
+  "options": {
+   "A": "an HTML page",
+   "B": "an area in Haryana, India",
+   "C": "Unknownia, an olive-family plant",
+   "D": "Bolt, a Greek god"
+  }
+ },
+ {
+  "id": "c340",
+  "tokens": [
+   "杯",
+   "一杯",
+   "（",
+   "water",
+   " water",
+   "喝",
+   " cups",
+   "glass",
+   " cup",
+   " glass",
+   "水杯",
+   "水"
+  ],
+  "options": {
+   "A": "human local",
+   "B": "fictional protagonist",
+   "C": "a mirror of silence",
+   "D": "a drinking vessel"
+  }
+ },
+ {
+  "id": "c312",
+  "tokens": [
+   " income",
+   "Income",
+   " Income",
+   "收入",
+   "income",
+   "收入和",
+   "-income",
+   "_income",
+   "收入的",
+   "的收入",
+   " incomes",
+   " revenu"
+  ],
+  "options": {
+   "A": "income / revenue",
+   "B": "25-year-old man",
+   "C": "WGS 84 coordinate system",
+   "D": "a British South Atlantic territory"
+  }
+ },
+ {
+  "id": "c326",
+  "tokens": [
+   " FDA",
+   "FDA",
+   " Disc",
+   " Stock",
+   " Pharmaceutical",
+   " Patent",
+   "公司股票",
+   "stock",
+   "XR",
+   " Disclosure",
+   " Drug",
+   "drug"
+  ],
+  "options": {
+   "A": "social media account",
+   "B": "war of attrition",
+   "C": "a game NPC entity",
+   "D": "a biotechnology company"
+  }
+ },
+ {
+  "id": "c217",
+  "tokens": [
+   "无法",
+   "请",
+   "cannot",
+   " cannot",
+   "我无法",
+   "由于",
+   "不能",
+   " Cannot",
+   " Reg",
+   "请您",
+   "（",
+   " ("
+  ],
+  "options": {
+   "A": "Chinese herbal medicine expert",
+   "B": "manufacturing product",
+   "C": "World Bank Group",
+   "D": "a hospital doctor"
+  }
+ },
+ {
+  "id": "c411",
+  "tokens": [
+   " indicating",
+   "榔",
+   "我听",
+   " indicates",
+   " hearing",
+   " [<",
+   " indicate",
+   " Узнать",
+   " pins",
+   "按计划",
+   " detection",
+   "迹象"
+  ],
+  "options": {
+   "A": "Ji, a Chinese student",
+   "B": "an HPLC system",
+   "C": "a bony fish",
+   "D": "a set of questions"
+  }
+ },
+ {
+  "id": "c241",
+  "tokens": [
+   " iPod",
+   " DVD",
+   "DVD",
+   "奥巴马",
+   "十二五",
+   "wiki",
+   "十一五",
+   "惟一",
+   "十七大",
+   ".googlecode",
+   "胡锦涛",
+   "汶"
+  ],
+  "options": {
+   "A": "a string",
+   "B": "neural transducer system",
+   "C": "a district operations system",
+   "D": "Sina search engine"
+  }
+ },
+ {
+  "id": "c064",
+  "tokens": [
+   " multiplication",
+   " addition",
+   " Addition",
+   "Multip",
+   "multip",
+   " Multip",
+   "乘法",
+   "Division",
+   "加减",
+   " division",
+   " Division",
+   "乘"
+  ],
+  "options": {
+   "A": "multiplication operator",
+   "B": "content creator",
+   "C": "a global company",
+   "D": "a large hand"
+  }
+ },
+ {
+  "id": "c030",
+  "tokens": [
+   " nuclear",
+   " Nuclear",
+   " cancer",
+   "抗癌",
+   "核",
+   " Onc",
+   " onc",
+   " relativ",
+   " Cancer",
+   "rel",
+   "癌细胞",
+   " AIDS"
+  ],
+  "options": {
+   "A": "a scientist and inventor",
+   "B": "a person from a regular family",
+   "C": "chemotherapy system",
+   "D": "recording equipment"
+  }
+ },
+ {
+  "id": "c211",
+  "tokens": [
+   " a",
+   "cant",
+   " u",
+   " m",
+   "reb",
+   "us",
+   "wes",
+   " is",
+   " M",
+   " y",
+   "'a",
+   "cannot"
+  ],
+  "options": {
+   "A": "a text message",
+   "B": "key fob",
+   "C": "a person (farmer, worker)",
+   "D": "a human / digital twin"
+  }
+ },
+ {
+  "id": "c276",
+  "tokens": [
+   " letters",
+   " letter",
+   " Letter",
+   "字母",
+   "letter",
+   " Letters",
+   "Letter",
+   "letters",
+   "_letter",
+   " LETTER",
+   "Letters",
+   "-letter"
+  ],
+  "options": {
+   "A": "a stage actor",
+   "B": "Duck Studio software platform",
+   "C": "Sina character recognizer",
+   "D": "a pristine used item"
+  }
+ },
+ {
+  "id": "c244",
+  "tokens": [
+   " spatial",
+   " Spatial",
+   " location",
+   "Spatial",
+   " structural",
+   "/location",
+   " physical",
+   " architectural",
+   " place",
+   "的空间",
+   " geometric",
+   " struct"
+  ],
+  "options": {
+   "A": "history",
+   "B": "multiplication operator",
+   "C": "mail server admin interface",
+   "D": "a physical place/street map"
+  }
+ },
+ {
+  "id": "c038",
+  "tokens": [
+   "获得国家",
+   "registered",
+   " Patent",
+   "获",
+   " registered",
+   "被判",
+   " Registered",
+   "protected",
+   " Protected",
+   " protected",
+   "获得的",
+   "Protected"
+  ],
+  "options": {
+   "A": "a planet",
+   "B": "Khan, African affairs diplomat",
+   "C": "patent classification system",
+   "D": "Ji, a Chinese student"
+  }
+ },
+ {
+  "id": "c307",
+  "tokens": [
+   " item",
+   "部件",
+   " element",
+   "成分的",
+   " component",
+   " Item",
+   "成分",
+   "元素",
+   " atom",
+   " Points",
+   " points",
+   "item"
+  ],
+  "options": {
+   "A": "an African American person",
+   "B": "a software component",
+   "C": "a global company",
+   "D": "a point"
+  }
+ },
+ {
+  "id": "c154",
+  "tokens": [
+   " ",
+   "公司",
+   " a",
+   "哪个",
+   "哪",
+   " （",
+   "需要",
+   "主要",
+   "（",
+   "对",
+   " Company",
+   "我们需要"
+  ],
+  "options": {
+   "A": "Dante, a gamer username",
+   "B": "an API",
+   "C": "a herbaceous plant",
+   "D": "a textile manufacturer"
+  }
+ },
+ {
+  "id": "c356",
+  "tokens": [
+   "节点",
+   " $",
+   "基于",
+   "node",
+   " node",
+   "作为",
+   "杆",
+   " element",
+   " Element",
+   "ans",
+   "问题",
+   "力"
+  ],
+  "options": {
+   "A": "radiation",
+   "B": "Ohm's law relation",
+   "C": "a finite-element bar node",
+   "D": "community member"
+  }
+ },
+ {
+  "id": "c346",
+  "tokens": [
+   "pixel",
+   "boss",
+   "bob",
+   "player",
+   "jay",
+   "vr",
+   "nick",
+   "xr",
+   "wizard",
+   " ",
+   "god",
+   "cry"
+  ],
+  "options": {
+   "A": "Jewish person",
+   "B": "a sophomore student",
+   "C": "Dante, a gamer username",
+   "D": "a point"
+  }
+ },
+ {
+  "id": "c388",
+  "tokens": [
+   " |",
+   "|",
+   "|M",
+   ".|",
+   ".",
+   "|\"",
+   "|(",
+   "|R",
+   "|m",
+   ")|(",
+   "|\\",
+   "正在"
+  ],
+  "options": {
+   "A": "social media account",
+   "B": "microchip",
+   "C": "Dionysos",
+   "D": "Dai-Shan, a named person"
+  }
+ },
+ {
+  "id": "c387",
+  "tokens": [
+   " ",
+   " a",
+   " an",
+   " is",
+   " __",
+   " _",
+   " “",
+   " [",
+   " .",
+   " '",
+   " A",
+   "comic"
+  ],
+  "options": {
+   "A": "mountain area",
+   "B": "a word, thought, name",
+   "C": "mathematical induction",
+   "D": "10th-generation company heir"
+  }
+ },
+ {
+  "id": "c235",
+  "tokens": [
+   "return",
+   " return",
+   "new",
+   "private",
+   "var",
+   "static",
+   "returns",
+   "\treturn",
+   " //",
+   "//",
+   "@\"",
+   "func"
+  ],
+  "options": {
+   "A": "a static function",
+   "B": "a collection of individuals",
+   "C": "social media account",
+   "D": "a sophomore student"
+  }
+ },
+ {
+  "id": "c132",
+  "tokens": [
+   " becoming",
+   " become",
+   "已经成为",
+   "成为",
+   " favourites",
+   "已成为",
+   "Become",
+   "逐渐成为",
+   " favourite",
+   "bec",
+   " became",
+   "已形成"
+  ],
+  "options": {
+   "A": "the vessel",
+   "B": "a 33-year-old person",
+   "C": "a being between consciousness and matter",
+   "D": "community member"
+  }
+ },
+ {
+  "id": "c333",
+  "tokens": [
+   " Sensor",
+   " sensor",
+   "sensor",
+   "Sensor",
+   "SENSOR",
+   " Device",
+   " Temperature",
+   " accelerometer",
+   " Sense",
+   "gps",
+   " Pressure",
+   "device"
+  ],
+  "options": {
+   "A": "sensor fusion module",
+   "B": "Connect, a corporate partner brand",
+   "C": "frontal channel component",
+   "D": "red-rendered display object"
+  }
+ },
+ {
+  "id": "c147",
+  "tokens": [
+   " titles",
+   " roles",
+   " positions",
+   " Titles",
+   "职位",
+   " title",
+   "职务",
+   " Positions",
+   " job",
+   " Job",
+   " Roles",
+   " TITLE"
+  ],
+  "options": {
+   "A": "salesman",
+   "B": "research center",
+   "C": "job title",
+   "D": "humanoid robot"
+  }
+ },
+ {
+  "id": "c277",
+  "tokens": [
+   " armed",
+   " Armed",
+   " arm",
+   "armed",
+   " Arm",
+   "Arm",
+   " gun",
+   "Gun",
+   " guns",
+   "致命",
+   " Guns",
+   " weaponry"
+  ],
+  "options": {
+   "A": "the city of Qingdao",
+   "B": "a human",
+   "C": "Korean Internet network",
+   "D": "a (virtual) gun"
+  }
+ },
+ {
+  "id": "c087",
+  "tokens": [
+   " Morning",
+   " morning",
+   "上午",
+   " overnight",
+   " MOR",
+   "mor",
+   "hour",
+   " Overnight",
+   "Morning",
+   "下午",
+   " manhã",
+   " Late"
+  ],
+  "options": {
+   "A": "the morning",
+   "B": "a college student",
+   "C": "mathematical function",
+   "D": "a Chingo"
+  }
+ },
+ {
+  "id": "c263",
+  "tokens": [
+   " Connecting",
+   " Connect",
+   " connecting",
+   "连接",
+   " Future",
+   "-connect",
+   " connect",
+   " Vision",
+   " Connection",
+   "智",
+   " Connected",
+   "联接"
+  ],
+  "options": {
+   "A": "light",
+   "B": "2024 Olympic Games",
+   "C": "the morning",
+   "D": "Connect, a corporate partner brand"
+  }
+ },
+ {
+  "id": "c383",
+  "tokens": [
+   "谁",
+   "你",
+   "是",
+   "被",
+   "什么",
+   "已",
+   "对",
+   "孤独",
+   "我们",
+   "不再",
+   "傻瓜",
+   "无"
+  ],
+  "options": {
+   "A": "a senior data analyst",
+   "B": "Dana, a DNA polymerase",
+   "C": "a single person",
+   "D": "real number scalar"
+  }
+ },
+ {
+  "id": "c167",
+  "tokens": [
+   " delicate",
+   " leaves",
+   " White",
+   " creamy",
+   " buds",
+   "peon",
+   "这些",
+   " will",
+   "这是什么",
+   "哪些",
+   " white",
+   " petals"
+  ],
+  "options": {
+   "A": "mathematical induction",
+   "B": "an area in Haryana, India",
+   "C": "Dana, a DNA polymerase",
+   "D": "a drooping flower"
+  }
+ },
+ {
+  "id": "c152",
+  "tokens": [
+   " ",
+   " v",
+   " ↵",
+   "↵",
+   " Web",
+   " Server",
+   " Forum",
+   " a",
+   " File",
+   " <",
+   " Plugin",
+   " IP"
+  ],
+  "options": {
+   "A": "a global network of systems",
+   "B": "mail server admin interface",
+   "C": "a microservice-based application",
+   "D": "member of grass family"
+  }
+ },
+ {
+  "id": "c194",
+  "tokens": [
+   "college",
+   " college",
+   " College",
+   " [",
+   "graduate",
+   "coming",
+   " Campus",
+   "does",
+   "fresh",
+   "will",
+   "BUS",
+   "need"
+  ],
+  "options": {
+   "A": "a sophomore student",
+   "B": "icon font set",
+   "C": "Sina search engine",
+   "D": "extraterrestrial"
+  }
+ },
+ {
+  "id": "c355",
+  "tokens": [
+   " (",
+   " ",
+   " \\\"",
+   " #(",
+   " ______",
+   "(s",
+   " __",
+   " [",
+   " s",
+   " \\(",
+   "(non",
+   "sorry"
+  ],
+  "options": {
+   "A": "a Lebesgue null set",
+   "B": "Theod, a character",
+   "C": "the user's name",
+   "D": "authorized DJI partner"
+  }
+ },
+ {
+  "id": "c404",
+  "tokens": [
+   " Nit",
+   " nitrogen",
+   " nit",
+   " methyl",
+   " enzyme",
+   " nucle",
+   " oxidative",
+   " gly",
+   " enzym",
+   " NH",
+   "inol",
+   " amino"
+  ],
+  "options": {
+   "A": "bacterial strain",
+   "B": "Circuit Roundtable discussion table",
+   "C": "a game NPC entity",
+   "D": "a city in southern Italy"
+  }
+ },
+ {
+  "id": "c412",
+  "tokens": [
+   " regular",
+   " weekly",
+   " Weekly",
+   "每期",
+   "每週",
+   " Regular",
+   "每周",
+   "regular",
+   "连载",
+   " регуляр",
+   "Regular",
+   "連載"
+  ],
+  "options": {
+   "A": "cosmological world picture",
+   "B": "a four-sided shape",
+   "C": "a Chinese herbal medicine",
+   "D": "a weekly magazine series"
+  }
+ },
+ {
+  "id": "c204",
+  "tokens": [
+   " due",
+   " urine",
+   "due",
+   "因",
+   "您的",
+   "再生",
+   " your",
+   " Due",
+   " medically",
+   "无法",
+   "恢复",
+   " sperm"
+  ],
+  "options": {
+   "A": "a Lebesgue null set",
+   "B": "fictional character",
+   "C": "a 20-year-old female patient",
+   "D": "speaker driver"
+  }
+ },
+ {
+  "id": "c111",
+  "tokens": [
+   " mindset",
+   "mind",
+   "心态",
+   " shift",
+   "shift",
+   "的心态",
+   " mentality",
+   " Mind",
+   " mind",
+   "Mind",
+   " Shift",
+   "转变"
+  ],
+  "options": {
+   "A": "the Prophet Muhammad",
+   "B": "signal measuring instrument",
+   "C": "urban culture icon",
+   "D": "a mindset"
+  }
+ },
+ {
+  "id": "c339",
+  "tokens": [
+   "位于",
+   "Southern",
+   "Located",
+   " located",
+   " Southern",
+   "located",
+   "south",
+   "南方",
+   " Campania",
+   "这个地方",
+   "那不",
+   " Located"
+  ],
+  "options": {
+   "A": "laser fusion system",
+   "B": "CaoDa, fictional persona",
+   "C": "social media account",
+   "D": "a city in southern Italy"
+  }
+ },
+ {
+  "id": "c349",
+  "tokens": [
+   " Rudolf",
+   " \"",
+   "\"To",
+   " Maria",
+   " \\\"",
+   " Mont",
+   "\"This",
+   " Erik",
+   " '",
+   " (\"",
+   "Maria",
+   " **\""
+  ],
+  "options": {
+   "A": "human local",
+   "B": "an educator",
+   "C": "child of Lewis and Ofort",
+   "D": "atmospheric pressure"
+  }
+ },
+ {
+  "id": "c338",
+  "tokens": [
+   " npc",
+   "npc",
+   " local",
+   " NPC",
+   " quest",
+   " mob",
+   "NPC",
+   " player",
+   "quest",
+   " corpse",
+   " Quest",
+   " g"
+  ],
+  "options": {
+   "A": "a human being",
+   "B": "migrational brain",
+   "C": "an equation coefficient",
+   "D": "a game NPC entity"
+  }
+ },
+ {
+  "id": "c348",
+  "tokens": [
+   "非常",
+   "我们",
+   "是非常",
+   "用户",
+   "很",
+   "看起来",
+   "分子",
+   " Molecular",
+   "我们现在",
+   "您",
+   " molecular",
+   "大家"
+  ],
+  "options": {
+   "A": "a research institution",
+   "B": "happiness and comfort",
+   "C": "a weekly magazine series",
+   "D": "Dana, a DNA polymerase"
+  }
+ },
+ {
+  "id": "c392",
+  "tokens": [
+   " Scripture",
+   " Blessed",
+   " Secund",
+   " whence",
+   "unto",
+   "\"And",
+   " \"",
+   " Thou",
+   " Ecc",
+   " unto",
+   " Exposition",
+   "thus"
+  ],
+  "options": {
+   "A": "enthusiastic translator",
+   "B": "Dai-Shan, a named person",
+   "C": "God, the Lord",
+   "D": "lone entity in void"
+  }
+ },
+ {
+  "id": "c138",
+  "tokens": [
+   "舒适度",
+   "COM",
+   " COM",
+   " Comfort",
+   "comfort",
+   "Comfort",
+   "舒适",
+   "-com",
+   " comfort",
+   "com",
+   "_com",
+   "舒适性"
+  ],
+  "options": {
+   "A": "a British South Atlantic territory",
+   "B": "rabbit",
+   "C": "comfort service",
+   "D": "research institute"
+  }
+ },
+ {
+  "id": "c127",
+  "tokens": [
+   " market",
+   " markets",
+   "市场价格",
+   " Market",
+   "市场的",
+   "market",
+   " price",
+   " Markets",
+   " prices",
+   "市场",
+   "-market",
+   "Market"
+  ],
+  "options": {
+   "A": "pricing mechanism",
+   "B": "oil and gas company",
+   "C": "a physical place/street map",
+   "D": "a whole number"
+  }
+ },
+ {
+  "id": "c327",
+  "tokens": [
+   " six",
+   "six",
+   "六",
+   " ",
+   "六个",
+   " Six",
+   "6",
+   "Six",
+   " (",
+   "five",
+   " five",
+   "六种"
+  ],
+  "options": {
+   "A": "a placeholder",
+   "B": "system theory expert",
+   "C": "a collection of individuals",
+   "D": "math function"
+  }
+ },
+ {
+  "id": "c207",
+  "tokens": [
+   " (<",
+   " <",
+   " (",
+   " `<",
+   " ",
+   " _",
+   " (_",
+   " `",
+   " (`",
+   " @",
+   "  ",
+   "    "
+  ],
+  "options": {
+   "A": "Python OCR script",
+   "B": "research team",
+   "C": "chemotherapy system",
+   "D": "human teacher"
+  }
+ },
+ {
+  "id": "c291",
+  "tokens": [
+   " operating",
+   " Operating",
+   " computer",
+   " OS",
+   " website",
+   "计算机软件",
+   " computers",
+   "Operating",
+   " Linux",
+   " Website",
+   " Computer",
+   " Android"
+  ],
+  "options": {
+   "A": "Biosun Android OS",
+   "B": "energy grid system",
+   "C": "the Prophet Muhammad",
+   "D": "the spark in your eyes"
+  }
+ },
+ {
+  "id": "c172",
+  "tokens": [
+   " Silence",
+   " hidden",
+   " whispered",
+   " silence",
+   "contained",
+   " those",
+   " existence",
+   "existence",
+   " beneath",
+   " truths",
+   "hidden",
+   "<|im_end|>"
+  ],
+  "options": {
+   "A": "UN-affiliated technology hub",
+   "B": "the vessel",
+   "C": "a point",
+   "D": "Connect, a corporate partner brand"
+  }
+ },
+ {
+  "id": "c010",
+  "tokens": [
+   " spatial",
+   " Structural",
+   " Spatial",
+   "Struct",
+   " structural",
+   "Spatial",
+   " Structure",
+   "结构性",
+   " Geometry",
+   "structural",
+   " geometry",
+   " territorial"
+  ],
+  "options": {
+   "A": "Swingman, brain in a hat",
+   "B": "neighborhood",
+   "C": "3D object",
+   "D": "an educator"
+  }
+ },
+ {
+  "id": "c020",
+  "tokens": [
+   " rocks",
+   " Rocks",
+   " stones",
+   " rock",
+   " Rock",
+   "岩石",
+   " Stones",
+   "-rock",
+   "stones",
+   "巨石",
+   "Rock",
+   " ROCK"
+  ],
+  "options": {
+   "A": "rock",
+   "B": "charitable foundation",
+   "C": "tourism destination",
+   "D": "translation company"
+  }
+ },
+ {
+  "id": "c364",
+  "tokens": [
+   " ",
+   "<|endoftext|>",
+   ".",
+   ",",
+   " i",
+   " '",
+   " v",
+   " \\\"",
+   " `",
+   " \"",
+   " Could",
+   "↵"
+  ],
+  "options": {
+   "A": "Q, energy storage solution",
+   "B": "a pristine used item",
+   "C": "Gloo, a source of chaos",
+   "D": "cosmological world picture"
+  }
+ },
+ {
+  "id": "c381",
+  "tokens": [
+   " Chairman",
+   " Mao",
+   "毛主席",
+   " Deng",
+   " Lenin",
+   " Secretary",
+   "主席",
+   " President",
+   "worker",
+   " Liu",
+   " Com",
+   "jiang"
+  ],
+  "options": {
+   "A": "a person",
+   "B": "a smart party host device",
+   "C": "Qian San Shai, Chinese leader",
+   "D": "signal measuring instrument"
+  }
+ },
+ {
+  "id": "c091",
+  "tokens": [
+   " ion",
+   "辐射",
+   " radiation",
+   " Ion",
+   " Radiation",
+   "Ion",
+   "ion",
+   " rays",
+   " UV",
+   "-ion",
+   "电离",
+   "�"
+  ],
+  "options": {
+   "A": "radiation",
+   "B": "red-rendered display object",
+   "C": "a research scientist",
+   "D": "a set of questions"
+  }
+ },
+ {
+  "id": "c408",
+  "tokens": [
+   "Stretch",
+   "舒展",
+   "伸展",
+   " torso",
+   " flexible",
+   " stretching",
+   "弯腰",
+   "Flexible",
+   "bounds",
+   "stretch",
+   "筋骨",
+   "/stretch"
+  ],
+  "options": {
+   "A": "a portable 3D model",
+   "B": "bacterial strain",
+   "C": "geometric shape",
+   "D": "legal advisor Qingzhong"
+  }
+ },
+ {
+  "id": "c057",
+  "tokens": [
+   " an",
+   "与投资",
+   "an",
+   "浸入",
+   " handheld",
+   "iences",
+   "یب",
+   "是一件",
+   "enser",
+   " redraw",
+   " invest",
+   " ↵    ↵"
+  ],
+  "options": {
+   "A": "interview",
+   "B": "laser fusion system",
+   "C": "a microservice-based application",
+   "D": "a pediatric endocrinologist"
+  }
+ },
+ {
+  "id": "c269",
+  "tokens": [
+   " internet",
+   " Internet",
+   " Connectivity",
+   "网络连接",
+   " connectivity",
+   " offline",
+   "internet",
+   " broadband",
+   "อินเทอร์เน็ต",
+   "离线",
+   " connection",
+   " интернет"
+  ],
+  "options": {
+   "A": "Korean Internet network",
+   "B": "the Prophet Muhammad",
+   "C": "law of physics",
+   "D": "community organization"
+  }
+ },
+ {
+  "id": "c079",
+  "tokens": [
+   " face",
+   " physically",
+   "面对面",
+   " offline",
+   " presencial",
+   " physical",
+   "phys",
+   " Face",
+   "face",
+   "线下",
+   "offline",
+   "物理"
+  ],
+  "options": {
+   "A": "a string",
+   "B": "toilet paper roll",
+   "C": "physical presence",
+   "D": "Dante, a gamer username"
+  }
+ },
+ {
+  "id": "c298",
+  "tokens": [
+   " sources",
+   " Sources",
+   " error",
+   " Error",
+   " errors",
+   " Errors",
+   "error",
+   "Sources",
+   "sources",
+   "Error",
+   "误差",
+   "(error"
+  ],
+  "options": {
+   "A": "Gloo, a source of chaos",
+   "B": "ethereal energy",
+   "C": "a quintillion (number)",
+   "D": "a hospital doctor"
+  }
+ },
+ {
+  "id": "c350",
+  "tokens": [
+   " a",
+   " an",
+   " (",
+   "圆形",
+   "是一个",
+   " A",
+   " ",
+   " .",
+   " \\",
+   " Square",
+   "矩形",
+   "正方形"
+  ],
+  "options": {
+   "A": "a mathematical parameter",
+   "B": "a company management service",
+   "C": "solid ice crystal",
+   "D": "a sphere"
+  }
+ },
+ {
+  "id": "c149",
+  "tokens": [
+   " Hospital",
+   " factory",
+   " hospital",
+   " bank",
+   "医院",
+   " university",
+   " Bank",
+   "学校",
+   "Factory",
+   " Factory",
+   "大学",
+   " University"
+  ],
+  "options": {
+   "A": "a placeholder",
+   "B": "light",
+   "C": "primary school student",
+   "D": "camera"
+  }
+ },
+ {
+  "id": "c072",
+  "tokens": [
+   " thick",
+   " Thick",
+   " polished",
+   " glossy",
+   "厚",
+   " thin",
+   " translucent",
+   "fresh",
+   " opaque",
+   " fresh",
+   "薄",
+   "粗糙"
+  ],
+  "options": {
+   "A": "a button",
+   "B": "rabbit",
+   "C": "tourism destination",
+   "D": "a line"
+  }
+ },
+ {
+  "id": "c136",
+  "tokens": [
+   "烙印",
+   " RFID",
+   " chip",
+   " tattoo",
+   " chips",
+   " Chip",
+   " tagging",
+   "芯片",
+   " tags",
+   " implanted",
+   " Implant",
+   " tagged"
+  ],
+  "options": {
+   "A": "ethereal energy",
+   "B": "microchip",
+   "C": "Starrell, a large star",
+   "D": "the people"
+  }
+ },
+ {
+  "id": "c274",
+  "tokens": [
+   "沉浸式",
+   " Imm",
+   " Gam",
+   " immersive",
+   " immersion",
+   "imulation",
+   "刺激性",
+   " interactive",
+   " gam",
+   "沉浸",
+   " Educational",
+   "Interactive"
+  ],
+  "options": {
+   "A": "a point-like entity",
+   "B": "a human user",
+   "C": "probability",
+   "D": "a game show simulation game"
+  }
+ },
+ {
+  "id": "c096",
+  "tokens": [
+   " war",
+   " guerr",
+   "战争",
+   " Guerra",
+   " guer",
+   " War",
+   " attr",
+   "战争的",
+   " guerre",
+   "不对称",
+   " wars",
+   " guerra"
+  ],
+  "options": {
+   "A": "Dante, a gamer username",
+   "B": "war of attrition",
+   "C": "worker setting safety barrier",
+   "D": "radiation"
+  }
+ },
+ {
+  "id": "c325",
+  "tokens": [
+   "粘性",
+   " visc",
+   " turbulent",
+   " fluid",
+   " Kort",
+   " flows",
+   " Nav",
+   "流体",
+   " fluids",
+   "fluid",
+   "气体",
+   " Stokes"
+  ],
+  "options": {
+   "A": "research team",
+   "B": "a British South Atlantic territory",
+   "C": "mathematician and physical chemist",
+   "D": "a foolish man"
+  }
+ },
+ {
+  "id": "c246",
+  "tokens": [
+   " <",
+   " displayed",
+   " rendered",
+   " Display",
+   " rendering",
+   " display",
+   "<div",
+   " render",
+   " styled",
+   " (<",
+   " displaying",
+   " [<"
+  ],
+  "options": {
+   "A": "home energy system",
+   "B": "memory creation expert",
+   "C": "red-rendered display object",
+   "D": "Sina search engine"
+  }
+ },
+ {
+  "id": "c228",
+  "tokens": [
+   "思考",
+   "而不是",
+   "rather",
+   " rather",
+   "唐家",
+   "thinking",
+   " letting",
+   " thinking",
+   "而非",
+   "new",
+   " ↵",
+   "...”"
+  ],
+  "options": {
+   "A": "a human",
+   "B": "a pristine used item",
+   "C": "a wave of energy",
+   "D": "team member"
+  }
+ },
+ {
+  "id": "c212",
+  "tokens": [
+   "我无法",
+   "这个",
+   "你的",
+   "可以",
+   "我需要",
+   "我不知道",
+   "我的",
+   "我只能",
+   "问题",
+   "我是一个",
+   "我不能",
+   "您的"
+  ],
+  "options": {
+   "A": "developer",
+   "B": "speaker driver",
+   "C": "a vast biological complex",
+   "D": "a microservice-based application"
+  }
+ },
+ {
+  "id": "c391",
+  "tokens": [
+   " (",
+   " [",
+   " `(",
+   " this",
+   " `[",
+   " Sit",
+   "awesome",
+   " This",
+   " .",
+   " `",
+   " ([",
+   " g"
+  ],
+  "options": {
+   "A": "WGS 84 coordinate system",
+   "B": "a human user",
+   "C": "doubting",
+   "D": "primary school student"
+  }
+ },
+ {
+  "id": "c331",
+  "tokens": [
+   "华为",
+   " Toshiba",
+   "我们",
+   "DDR",
+   " Panasonic",
+   " Semiconductor",
+   "中国",
+   "生产",
+   "是",
+   "主要",
+   "台积电",
+   "公司"
+  ],
+  "options": {
+   "A": "sentient energy entity",
+   "B": "a Hefei semiconductor company",
+   "C": "a 3D artist",
+   "D": "physical presence"
+  }
+ },
+ {
+  "id": "c102",
+  "tokens": [
+   "实体",
+   "稠",
+   "凝聚",
+   "粘稠",
+   "實體",
+   " dense",
+   " visc",
+   " condensed",
+   "rial",
+   " substance",
+   " dens",
+   "实物"
+  ],
+  "options": {
+   "A": "legal advisor Qingzhong",
+   "B": "a drooping flower",
+   "C": "a Hollywood Walk star",
+   "D": "humanoid robot"
+  }
+ },
+ {
+  "id": "c082",
+  "tokens": [
+   " Admin",
+   "Admin",
+   "admin",
+   " admin",
+   " ADMIN",
+   " Administrator",
+   " Administr",
+   "_admin",
+   " administrator",
+   "Administr",
+   " administer",
+   "Administrator"
+  ],
+  "options": {
+   "A": "10th-generation company heir",
+   "B": "system administrator",
+   "C": "key fob",
+   "D": "mountain stream and volcanic ash"
+  }
+ },
+ {
+  "id": "c108",
+  "tokens": [
+   "群组",
+   " colony",
+   "小队",
+   "小组",
+   " District",
+   "群体",
+   " Group",
+   " group",
+   " Colony",
+   " districts",
+   " district",
+   "群体的"
+  ],
+  "options": {
+   "A": "Chinese medicine scholar Xun Wei",
+   "B": "a formulaic recipe mixture",
+   "C": "company team",
+   "D": "a person (farmer, worker)"
+  }
+ },
+ {
+  "id": "c370",
+  "tokens": [
+   " Answers",
+   "答案",
+   " Answer",
+   "这道",
+   "上帝",
+   "因",
+   " answer",
+   "作为",
+   "蠢",
+   "这个问题的",
+   "4",
+   "按规定"
+  ],
+  "options": {
+   "A": "a string",
+   "B": "a stockist",
+   "C": "wall clock",
+   "D": "a global network of systems"
+  }
+ },
+ {
+  "id": "c025",
+  "tokens": [
+   " manufacturing",
+   " manufactured",
+   " Manufacturing",
+   " industrial",
+   "manufact",
+   " manufacture",
+   " Manufact",
+   "Manufact",
+   " manufactures",
+   " factory",
+   " manufact",
+   "assembly"
+  ],
+  "options": {
+   "A": "phone repair service",
+   "B": "manufacturing product",
+   "C": "President of Angola",
+   "D": "a planet"
+  }
+ },
+ {
+  "id": "c116",
+  "tokens": [
+   " collaborations",
+   " Collaboration",
+   " collaboration",
+   "coll",
+   " Collabor",
+   " opportunities",
+   "Coll",
+   " collaborative",
+   " coll",
+   " Opportunities",
+   " collaborate",
+   " collaborating"
+  ],
+  "options": {
+   "A": "concept of collaboration",
+   "B": "tactic",
+   "C": "a system message placeholder",
+   "D": "Gondwanaland supercontinent"
+  }
+ },
+ {
+  "id": "c095",
+  "tokens": [
+   " boundary",
+   " boundaries",
+   " Boundary",
+   "Boundary",
+   "boundary",
+   "边界",
+   " drawing",
+   " Bound",
+   "界",
+   "界线",
+   " drawn",
+   " draw"
+  ],
+  "options": {
+   "A": "math learning tool",
+   "B": "the Mongol people",
+   "C": "property boundary",
+   "D": "probability"
+  }
+ },
+ {
+  "id": "c287",
+  "tokens": [
+   " doctors",
+   " hospital",
+   " Hospital",
+   "医生",
+   " doctor",
+   " Doctors",
+   "医院",
+   "医生的",
+   " hospitals",
+   "Hospital",
+   "hospital",
+   "Doctors"
+  ],
+  "options": {
+   "A": "NVIDIA company",
+   "B": "a high-performance alloy",
+   "C": "Chinese herbal medicine expert",
+   "D": "a hospital doctor"
+  }
+ },
+ {
+  "id": "c396",
+  "tokens": [
+   " Monsieur",
+   " „",
+   " gentlemen",
+   " ↵",
+   " ’",
+   " concerning",
+   "’",
+   " but",
+   " Vou",
+   "爲",
+   " Mr",
+   " thus"
+  ],
+  "options": {
+   "A": "a wave of energy",
+   "B": "apples",
+   "C": "Ji, a Chinese student",
+   "D": "an Academy publication"
+  }
+ },
+ {
+  "id": "c162",
+  "tokens": [
+   "服务",
+   "这个",
+   "下面",
+   "无法",
+   "作为",
+   "将",
+   "server",
+   "这是一个",
+   "主要",
+   "下面的",
+   "微",
+   "使用"
+  ],
+  "options": {
+   "A": "home energy system",
+   "B": "a point",
+   "C": "migrational brain",
+   "D": "a microservice-based application"
+  }
+ },
+ {
+  "id": "c258",
+  "tokens": [
+   " location",
+   "/location",
+   " physical",
+   " locations",
+   "地理位置",
+   " Locations",
+   "外观",
+   " spatial",
+   " exterior",
+   " Location",
+   "的外观",
+   "Locations"
+  ],
+  "options": {
+   "A": "Qun, narrative storyteller",
+   "B": "a pediatric endocrinologist",
+   "C": "Qingwen, architectural designer",
+   "D": "a formulaic recipe mixture"
+  }
+ },
+ {
+  "id": "c101",
+  "tokens": [
+   " residents",
+   " Houses",
+   "Residents",
+   "居民",
+   " neighbors",
+   " Residents",
+   " houses",
+   " households",
+   " citizens",
+   " House",
+   "民众",
+   "皮肤"
+  ],
+  "options": {
+   "A": "neighborhood",
+   "B": "community member",
+   "C": "money",
+   "D": "communication protocol"
+  }
+ },
+ {
+  "id": "c221",
+  "tokens": [
+   " gods",
+   "god",
+   "(from",
+   " Creation",
+   "原始",
+   "creation",
+   " (",
+   "this",
+   " man",
+   "thus",
+   " Gods",
+   " god"
+  ],
+  "options": {
+   "A": "place of peace",
+   "B": "mortal speaking gods' language",
+   "C": "the Prophet Muhammad",
+   "D": "a construction in progress"
+  }
+ },
+ {
+  "id": "c255",
+  "tokens": [
+   " Bank",
+   " bank",
+   " financial",
+   "financial",
+   "bank",
+   " banking",
+   "Bank",
+   " Financial",
+   "finance",
+   "tax",
+   "banks",
+   " administrative"
+  ],
+  "options": {
+   "A": "Python OCR script",
+   "B": "primary school student",
+   "C": "a human user",
+   "D": "legal advisor Qingzhong"
+  }
+ },
+ {
+  "id": "c078",
+  "tokens": [
+   " secrets",
+   " secret",
+   " Secrets",
+   "秘密",
+   " Secret",
+   "秘诀",
+   "秘",
+   "Secret",
+   "secret",
+   "商业秘密",
+   "的秘密",
+   "ecret"
+  ],
+  "options": {
+   "A": "human employee",
+   "B": "intuition",
+   "C": "legal advisor Qingzhong",
+   "D": "ancient sage"
+  }
+ },
+ {
+  "id": "c197",
+  "tokens": [
+   "title",
+   "TITLE",
+   "这本",
+   " ",
+   "THIS",
+   "this",
+   " Title",
+   "here",
+   "\"This",
+   "cannot",
+   "这本书",
+   "是本"
+  ],
+  "options": {
+   "A": "a membrane protein enzyme",
+   "B": "US history textbook",
+   "C": "Sphere, circle of spheres",
+   "D": "a British South Atlantic territory"
+  }
+ },
+ {
+  "id": "c289",
+  "tokens": [
+   " college",
+   " university",
+   " College",
+   " colleges",
+   " University",
+   "College",
+   " collegiate",
+   "college",
+   " Colleges",
+   " Colleg",
+   "大学的",
+   "University"
+  ],
+  "options": {
+   "A": "Jewish person",
+   "B": "history",
+   "C": "a college student",
+   "D": "physical presence"
+  }
+ },
+ {
+  "id": "c070",
+  "tokens": [
+   " nutritious",
+   "吃",
+   " Consum",
+   "_consum",
+   " eaten",
+   " consumed",
+   " consumption",
+   "可以吃",
+   " eats",
+   " nutritional",
+   " eat",
+   " eating"
+  ],
+  "options": {
+   "A": "meal",
+   "B": "an African American person",
+   "C": "interview",
+   "D": "a planet"
+  }
+ },
+ {
+  "id": "c213",
+  "tokens": [
+   " Seems",
+   " seems",
+   " seem",
+   "看起来",
+   "似乎",
+   "似乎是",
+   "看上去",
+   " appears",
+   " Looks",
+   " Appears",
+   "似乎也",
+   "好像"
+  ],
+  "options": {
+   "A": "a system message placeholder",
+   "B": "a regular human user",
+   "C": "a word, thought, name",
+   "D": "Qian San Shai, Chinese leader"
+  }
+ },
+ {
+  "id": "c306",
+  "tokens": [
+   " doctor",
+   "医生",
+   " physician",
+   " doctors",
+   "医生的",
+   "大夫",
+   " Doctor",
+   " Physician",
+   "医疗",
+   " physicians",
+   "doctor",
+   "医师"
+  ],
+  "options": {
+   "A": "apples",
+   "B": "a medical doctor",
+   "C": "supercomputer",
+   "D": "a whole number"
+  }
+ },
+ {
+  "id": "c266",
+  "tokens": [
+   " momentum",
+   " Momentum",
+   "moment",
+   "omentum",
+   "保持了",
+   "势头",
+   "动",
+   "保持",
+   " moment",
+   "保持着",
+   " maintains",
+   "维持"
+  ],
+  "options": {
+   "A": "UN-affiliated technology hub",
+   "B": "command-line tools",
+   "C": "invisible entity",
+   "D": "Momentum, a dynamic force"
+  }
+ },
+ {
+  "id": "c063",
+  "tokens": [
+   "wall",
+   " wall",
+   " Wall",
+   "_wall",
+   ".wall",
+   " moments",
+   " instant",
+   "Wall",
+   " Instant",
+   "墙",
+   " moment",
+   " inst"
+  ],
+  "options": {
+   "A": "wall clock",
+   "B": "the morning",
+   "C": "sentient energy entity",
+   "D": "Qian Xun, Warring States scholar"
+  }
+ },
+ {
+  "id": "c166",
+  "tokens": [
+   " Hosting",
+   " hosting",
+   "host",
+   "/host",
+   " host",
+   " hosted",
+   "site",
+   " Host",
+   "Hosting",
+   " site",
+   "hosts",
+   ".getHost"
+  ],
+  "options": {
+   "A": "web hosting provider",
+   "B": "engineering principle",
+   "C": "a being between consciousness and matter",
+   "D": "a large organization"
+  }
+ },
+ {
+  "id": "c026",
+  "tokens": [
+   " insurance",
+   "保险",
+   " Insurance",
+   "insurance",
+   "Insurance",
+   " just",
+   " insure",
+   "保險",
+   "保险的",
+   " Just",
+   "just",
+   "Just"
+  ],
+  "options": {
+   "A": "a textile manufacturer",
+   "B": "insurance policy",
+   "C": "math learning tool",
+   "D": "a product, community, process"
+  }
+ },
+ {
+  "id": "c036",
+  "tokens": [
+   " homeless",
+   " homelessness",
+   " Street",
+   " street",
+   "Street",
+   " Home",
+   "街头",
+   "street",
+   " streets",
+   "街",
+   "乞",
+   "home"
+  ],
+  "options": {
+   "A": "a student",
+   "B": "custom manufacturing facility",
+   "C": "a cyclic oligomer",
+   "D": "urban design specialist"
+  }
+ },
+ {
+  "id": "c384",
+  "tokens": [
+   " Norfolk",
+   " Dund",
+   " Cape",
+   " Punta",
+   " Montreal",
+   " Norwich",
+   " Cornwall",
+   " Delaware",
+   " Maine",
+   " Charleston",
+   " Map",
+   " Lake"
+  ],
+  "options": {
+   "A": "a drinking vessel",
+   "B": "barometer",
+   "C": "DMU Class 26 train",
+   "D": "an area in Haryana, India"
+  }
+ },
+ {
+  "id": "c028",
+  "tokens": [
+   " Icon",
+   " icon",
+   " Icons",
+   "Icon",
+   "icon",
+   " icons",
+   "_icon",
+   "图标",
+   " ICON",
+   "-icon",
+   " ikon",
+   " fa"
+  ],
+  "options": {
+   "A": "an African American person",
+   "B": "icon font set",
+   "C": "lead engineer",
+   "D": "real number scalar"
+  }
+ },
+ {
+  "id": "c045",
+  "tokens": [
+   "喜悦",
+   " joy",
+   "joy",
+   " Joy",
+   "Joy",
+   " frustration",
+   " sorrow",
+   " anguish",
+   "欢喜",
+   " immense",
+   " distress",
+   " anxiety"
+  ],
+  "options": {
+   "A": "a research institution",
+   "B": "joy experience",
+   "C": "rhythm artist NanNan",
+   "D": "cubic crystal system"
+  }
+ },
+ {
+  "id": "c014",
+  "tokens": [
+   " ideal",
+   "理想",
+   "ideal",
+   " bin",
+   "ihar",
+   " an",
+   " Bin",
+   "Ideal",
+   " Ideal",
+   "抛物",
+   " sin",
+   " Parab"
+  ],
+  "options": {
+   "A": "geometric shape",
+   "B": "oil and gas company",
+   "C": "bacterial strain",
+   "D": "camera"
+  }
+ },
+ {
+  "id": "c015",
+  "tokens": [
+   " belong",
+   " belonged",
+   " belongs",
+   " belonging",
+   "属于",
+   "屬於",
+   "belongs",
+   "是属于",
+   " owned",
+   "归属于",
+   "分配",
+   "属于自己的"
+  ],
+  "options": {
+   "A": "user account",
+   "B": "positive integer",
+   "C": "an idea",
+   "D": "the vessel"
+  }
+ },
+ {
+  "id": "c361",
+  "tokens": [
+   "当然",
+   "自然",
+   "安装",
+   "太阳能",
+   "新房",
+   "天然",
+   "为",
+   "天然气",
+   "燃气",
+   "当然是",
+   " natural",
+   "家用"
+  ],
+  "options": {
+   "A": "a sphere",
+   "B": "a cyclic oligomer",
+   "C": "NVIDIA company",
+   "D": "home energy system"
+  }
+ },
+ {
+  "id": "c128",
+  "tokens": [
+   " caused",
+   " provoked",
+   " Created",
+   " induced",
+   " created",
+   "posed",
+   "created",
+   " imposed",
+   "Created",
+   "啓",
+   "造成的",
+   " triggered"
+  ],
+  "options": {
+   "A": "income / revenue",
+   "B": "supercomputer",
+   "C": "Unknownia, an olive-family plant",
+   "D": "education city"
+  }
+ },
+ {
+  "id": "c323",
+  "tokens": [
+   " ",
+   " mineral",
+   "矿物",
+   " Mineral",
+   "地质",
+   "pit",
+   "rock",
+   "geo",
+   "岩石",
+   " a",
+   ",",
+   " rock"
+  ],
+  "options": {
+   "A": "a being between consciousness and matter",
+   "B": "a silicate mineral",
+   "C": "place of peace",
+   "D": "Qian Xun, Warring States scholar"
+  }
+ },
+ {
+  "id": "c122",
+  "tokens": [
+   "描述",
+   " description",
+   " Describe",
+   " describe",
+   "Description",
+   " Description",
+   "description",
+   "describe",
+   "_description",
+   "的描述",
+   "描述了",
+   "Describe"
+  ],
+  "options": {
+   "A": "NVIDIA company",
+   "B": "a silicate mineral",
+   "C": "25-year-old man",
+   "D": "a Q&A collection"
+  }
+ },
+ {
+  "id": "c267",
+  "tokens": [
+   "VRT",
+   " BUP",
+   " DHS",
+   " Abbott",
+   "XS",
+   " Tata",
+   " Comcast",
+   " Astra",
+   " XS",
+   " Pfizer",
+   " AMC",
+   " Getty"
+  ],
+  "options": {
+   "A": "mirror of user",
+   "B": "a Bongtong",
+   "C": "speaker driver",
+   "D": "invisible entity"
+  }
+ },
+ {
+  "id": "c048",
+  "tokens": [
+   " cylinders",
+   " cylinder",
+   " rectangles",
+   " cubes",
+   " rectangle",
+   " Cylinder",
+   " Rectangle",
+   "圆柱",
+   "rectangle",
+   " rectangular",
+   "Rectangle",
+   "矩形"
+  ],
+  "options": {
+   "A": "a word prefix",
+   "B": "Bolt, a Greek god",
+   "C": "geometric shape",
+   "D": "liya, ordinary citizen"
+  }
+ },
+ {
+  "id": "c398",
+  "tokens": [
+   " amidst",
+   " sorrow",
+   " silence",
+   " vast",
+   " beneath",
+   " existence",
+   " Shadows",
+   " presence",
+   "ในความ",
+   " Amid",
+   " solitude",
+   " simplicity"
+  ],
+  "options": {
+   "A": "set of strategies",
+   "B": "a mirror of thought",
+   "C": "a Hefei semiconductor company",
+   "D": "bacterial strain"
+  }
+ },
+ {
+  "id": "c365",
+  "tokens": [
+   " genus",
+   " Strawberry",
+   "rosa",
+   " Cuc",
+   "gen",
+   "fern",
+   "species",
+   "fruit",
+   " Phy",
+   " Plants",
+   " Cannabis",
+   "plants"
+  ],
+  "options": {
+   "A": "a construction in progress",
+   "B": "the morning",
+   "C": "human local",
+   "D": "member of grass family"
+  }
+ },
+ {
+  "id": "c185",
+  "tokens": [
+   " $",
+   " \\(",
+   "$l",
+   " $(",
+   " $\\",
+   " symmetry",
+   " Sym",
+   "$p",
+   "$m",
+   "$r",
+   "$f",
+   "$c"
+  ],
+  "options": {
+   "A": "the Nature of the Future",
+   "B": "a Whiskey Sour cocktail",
+   "C": "signal booster",
+   "D": "cubic crystal system"
+  }
+ },
+ {
+  "id": "c344",
+  "tokens": [
+   " ",
+   "↵",
+   " a",
+   " ",
+   "Anne",
+   " --",
+   "today",
+   "LAST",
+   " -",
+   "THIS",
+   " David",
+   "SITE"
+  ],
+  "options": {
+   "A": "the Nature of the Future",
+   "B": "solid ice crystal",
+   "C": "an album",
+   "D": "human local"
+  }
+ },
+ {
+  "id": "c049",
+  "tokens": [
+   "偶",
+   " evenly",
+   " odd",
+   " Odd",
+   " even",
+   "青年的",
+   "之色",
+   " Even",
+   "_even",
+   "Odd",
+   "奇",
+   " perif"
+  ],
+  "options": {
+   "A": "user account",
+   "B": "mathematical function",
+   "C": "a bony fish",
+   "D": "meal"
+  }
+ },
+ {
+  "id": "c104",
+  "tokens": [
+   "接通",
+   " using",
+   "广播电视",
+   " radio",
+   "广电",
+   " Radio",
+   "_using",
+   "Signals",
+   " Dial",
+   " Using",
+   "using",
+   "使用的是"
+  ],
+  "options": {
+   "A": "a sophomore student",
+   "B": "a microservice-based application",
+   "C": "signal booster",
+   "D": "an area in Haryana, India"
+  }
+ },
+ {
+  "id": "c336",
+  "tokens": [
+   " Tank",
+   "tank",
+   "Tank",
+   " ",
+   " Storage",
+   " tank",
+   " Barrel",
+   " Pipeline",
+   " Tanks",
+   " Bulk",
+   " tanker",
+   " Tower"
+  ],
+  "options": {
+   "A": "a coal storage tank",
+   "B": "income / revenue",
+   "C": "CaoDa, fictional persona",
+   "D": "a history enthusiast"
+  }
+ },
+ {
+  "id": "c161",
+  "tokens": [
+   "基于",
+   " Dios",
+   "rosa",
+   "pter",
+   " Sua",
+   "ea",
+   "属",
+   "se",
+   "pel",
+   " Api",
+   "species",
+   " Ip"
+  ],
+  "options": {
+   "A": "Unknownia, an olive-family plant",
+   "B": "engineering principle",
+   "C": "New York gallery space",
+   "D": "Chinese herbal medicine expert"
+  }
+ },
+ {
+  "id": "c073",
+  "tokens": [
+   " photography",
+   " Photography",
+   " cameras",
+   " Photograph",
+   " photographic",
+   " photograph",
+   "拍照",
+   " camera",
+   "phot",
+   " recording",
+   "摄影",
+   " photographs"
+  ],
+  "options": {
+   "A": "video professional",
+   "B": "a biotechnology company",
+   "C": "field robot",
+   "D": "New York gallery space"
+  }
+ },
+ {
+  "id": "c218",
+  "tokens": [
+   " (",
+   ",",
+   ".",
+   " with",
+   " for",
+   " through",
+   ";",
+   " -",
+   "↵",
+   "through",
+   " Compare",
+   " ↵"
+  ],
+  "options": {
+   "A": "staff member",
+   "B": "a product, community, process",
+   "C": "a lifelong best friend",
+   "D": "a bony fish"
+  }
+ },
+ {
+  "id": "c315",
+  "tokens": [
+   " Paper",
+   " paper",
+   "Paper",
+   "紙",
+   "纸",
+   "卫生",
+   " Pap",
+   "用纸",
+   "Pap",
+   " Papel",
+   "纸张",
+   "paper"
+  ],
+  "options": {
+   "A": "toilet paper roll",
+   "B": "organization",
+   "C": "fictional protagonist",
+   "D": "Pythagoras area program"
+  }
+ },
+ {
+  "id": "c366",
+  "tokens": [
+   "这里",
+   "基于",
+   " plant",
+   "以其",
+   "植株",
+   "Based",
+   "leaf",
+   "哪",
+   "确实",
+   " Based",
+   "根",
+   "这是一个"
+  ],
+  "options": {
+   "A": "a herbaceous plant",
+   "B": "tourism destination",
+   "C": "a human being",
+   "D": "community organization"
+  }
+ },
+ {
+  "id": "c341",
+  "tokens": [
+   "位于",
+   " Hotel",
+   " Motel",
+   "入住",
+   "酒店",
+   " Hotels",
+   " Located",
+   "房",
+   " Hostel",
+   "提供",
+   " located",
+   " hotel"
+  ],
+  "options": {
+   "A": "Shanghai Xujie branch office",
+   "B": "an API",
+   "C": "cubic crystal system",
+   "D": "floating-point number"
+  }
+ },
+ {
+  "id": "c254",
+  "tokens": [
+   "躺在",
+   " dining",
+   " while",
+   "而坐",
+   " lounge",
+   " sit",
+   " whilst",
+   " our",
+   " sitting",
+   " dine",
+   " Lies",
+   " Lounge"
+  ],
+  "options": {
+   "A": "Duck Studio software platform",
+   "B": "engineering principle",
+   "C": "a game show simulation game",
+   "D": "a drooping flower"
+  }
+ },
+ {
+  "id": "c037",
+  "tokens": [
+   " Line",
+   " line",
+   " exchange",
+   " lines",
+   "交换",
+   "Line",
+   " Exchange",
+   " Lines",
+   "exchange",
+   "线",
+   "line",
+   "Exchange"
+  ],
+  "options": {
+   "A": "CERN",
+   "B": "a British South Atlantic territory",
+   "C": "Buddhist monk",
+   "D": "phone repair service"
+  }
+ },
+ {
+  "id": "c062",
+  "tokens": [
+   " content",
+   "_CONTENT",
+   " articles",
+   "内容的",
+   " videos",
+   " Content",
+   "内容及",
+   "内容和",
+   " contents",
+   "videos",
+   " movies",
+   "内容是"
+  ],
+  "options": {
+   "A": "a Hollywood Walk star",
+   "B": "a little girl",
+   "C": "love",
+   "D": "content creator"
+  }
+ },
+ {
+  "id": "c389",
+  "tokens": [
+   " Supplier",
+   "总体",
+   "我们的",
+   " Company",
+   " supplier",
+   " facility",
+   " Enterprise",
+   " Facility",
+   " Equipment",
+   " Overall",
+   "我们",
+   " Vendor"
+  ],
+  "options": {
+   "A": "a Whiskey Sour cocktail",
+   "B": "process optimization expert",
+   "C": "an equation coefficient",
+   "D": "salesman"
+  }
+ },
+ {
+  "id": "c068",
+  "tokens": [
+   " candidates",
+   " Candidates",
+   "candidates",
+   " candidate",
+   " Candidate",
+   "candidate",
+   "Candidates",
+   "Candidate",
+   " parliamentary",
+   "候选",
+   " Senate",
+   " Parliament"
+  ],
+  "options": {
+   "A": "political candidate",
+   "B": "mortal speaking gods' language",
+   "C": "Qiaohuan, technology specialist",
+   "D": "Alexan social circle"
+  }
+ },
+ {
+  "id": "c155",
+  "tokens": [
+   "我们",
+   "我们的",
+   " ",
+   "我们正在",
+   "专业",
+   "猎头",
+   "作为",
+   "我们需要",
+   " “",
+   "我们现在",
+   "可以",
+   "我们能"
+  ],
+  "options": {
+   "A": "recruitment partner",
+   "B": "a word, thought, name",
+   "C": "Sphere, circle of spheres",
+   "D": "math learning tool"
+  }
+ },
+ {
+  "id": "c083",
+  "tokens": [
+   "覆",
+   " …",
+   "…,",
+   "批",
+   "achsen",
+   " upset",
+   " ...,",
+   "一提",
+   "------+",
+   ".testing",
+   "书城",
+   " cso"
+  ],
+  "options": {
+   "A": "mirror of user",
+   "B": "CERN",
+   "C": "a poet",
+   "D": "Sphere, circle of spheres"
+  }
+ },
+ {
+  "id": "c060",
+  "tokens": [
+   "风景",
+   " landscapes",
+   " landscape",
+   "壮丽",
+   " sunset",
+   " Landscape",
+   " scenery",
+   "andscape",
+   "的风景",
+   "景色",
+   " vistas",
+   "風景"
+  ],
+  "options": {
+   "A": "a city in southern Italy",
+   "B": "heart rate monitor",
+   "C": "a human / digital twin",
+   "D": "sunset"
+  }
+ },
+ {
+  "id": "c278",
+  "tokens": [
+   "hand",
+   " hand",
+   "hands",
+   "手",
+   " hands",
+   "手握",
+   "你的手",
+   "握着",
+   "holding",
+   "的手",
+   " Hand",
+   "我的手"
+  ],
+  "options": {
+   "A": "a wave of information",
+   "B": "rhythm artist NanNan",
+   "C": "senior engineer",
+   "D": "a large hand"
+  }
+ },
+ {
+  "id": "c163",
+  "tokens": [
+   " (",
+   " ",
+   "<|im_end|>",
+   " （",
+   "牛",
+   "（",
+   " a",
+   " Ag",
+   " v",
+   ",",
+   "公牛",
+   " '"
+  ],
+  "options": {
+   "A": "Qianlong, a digital-transformation enterprise",
+   "B": "fictional character",
+   "C": "a draft horse",
+   "D": "a person"
+  }
+ },
+ {
+  "id": "c313",
+  "tokens": [
+   " music",
+   "音乐",
+   " Music",
+   "Music",
+   "music",
+   ".music",
+   "的音乐",
+   "节奏",
+   " rhythm",
+   " musical",
+   "音乐的",
+   "/music"
+  ],
+  "options": {
+   "A": "love",
+   "B": "rhythm artist NanNan",
+   "C": "an Academy publication",
+   "D": "a game NPC entity"
+  }
+ },
+ {
+  "id": "c301",
+  "tokens": [
+   " orbit",
+   " sat",
+   "卫星",
+   " Sat",
+   " orbital",
+   " satellites",
+   "轨道",
+   " satellite",
+   "orbit",
+   " Orb",
+   "sat",
+   " orbits"
+  ],
+  "options": {
+   "A": "a satellite communication system",
+   "B": "dialectology student",
+   "C": "a little girl",
+   "D": "the Prime Meridian"
+  }
+ },
+ {
+  "id": "c223",
+  "tokens": [
+   "我们",
+   "这一",
+   "我们还",
+   " hasn",
+   "期望",
+   "我们希望",
+   " we",
+   "我们相信",
+   "我们没有",
+   "预期的",
+   "我们对",
+   "很多"
+  ],
+  "options": {
+   "A": "a company",
+   "B": "the gentle breeze",
+   "C": "a hospital doctor",
+   "D": "a line of curves"
+  }
+ },
+ {
+  "id": "c144",
+  "tokens": [
+   " genres",
+   " disciplines",
+   "genres",
+   "学科",
+   "学科的",
+   " Branch",
+   " Branche",
+   " Discipl",
+   " genre",
+   "相关行业",
+   "行业和",
+   " branch"
+  ],
+  "options": {
+   "A": "a Q&A collection",
+   "B": "the Prime Meridian",
+   "C": "dialectology student",
+   "D": "law of physics"
+  }
+ },
+ {
+  "id": "c203",
+  "tokens": [
+   " Track",
+   "场地",
+   " Stadium",
+   "场",
+   "球场",
+   " Pitch",
+   " Stadion",
+   " track",
+   "主队",
+   "球员",
+   " Field",
+   "作为一个"
+  ],
+  "options": {
+   "A": "apples",
+   "B": "a line of curves",
+   "C": "rock",
+   "D": "a sports field"
+  }
+ },
+ {
+  "id": "c050",
+  "tokens": [
+   " Exact",
+   " exact",
+   "Exact",
+   "exact",
+   "_exact",
+   "恰好",
+   " exactly",
+   "正好",
+   " Exactly",
+   "Exactly",
+   "ex",
+   "-ex"
+  ],
+  "options": {
+   "A": "set of strategies",
+   "B": "a mindset",
+   "C": "mirror of user",
+   "D": "Dionysos"
+  }
+ },
+ {
+  "id": "c017",
+  "tokens": [
+   "爱与",
+   "love",
+   "with",
+   " love",
+   " with",
+   " LOVE",
+   " Love",
+   "满眼",
+   "爱的",
+   "Love",
+   "充满",
+   "满满"
+  ],
+  "options": {
+   "A": "love",
+   "B": "a scientist and inventor",
+   "C": "salesman",
+   "D": "NMR system"
+  }
+ },
+ {
+  "id": "c236",
+  "tokens": [
+   " Route",
+   "Route",
+   "路况",
+   " Row",
+   " route",
+   "工作地点",
+   "赶路",
+   "route",
+   "路途",
+   "行驶",
+   "-route",
+   "行车"
+  ],
+  "options": {
+   "A": "a Hefei semiconductor company",
+   "B": "Theod, a character",
+   "C": "Li Wei, Chinese university student",
+   "D": "World Bank Group"
+  }
+ },
+ {
+  "id": "c023",
+  "tokens": [
+   " extr",
+   " Extr",
+   "extr",
+   "外星",
+   " extra",
+   " EXTR",
+   " alien",
+   "外星人",
+   " Alien",
+   " extras",
+   " Extra",
+   " aliens"
+  ],
+  "options": {
+   "A": "a little girl",
+   "B": "extraterrestrial",
+   "C": "research dataset",
+   "D": "woman"
+  }
+ },
+ {
+  "id": "c171",
+  "tokens": [
+   " locom",
+   " Railroad",
+   " Rail",
+   "机车",
+   " Diesel",
+   " rail",
+   " Steam",
+   "铁路",
+   " railroad",
+   " Engine",
+   " diesel",
+   " Passenger"
+  ],
+  "options": {
+   "A": "math function",
+   "B": "DMU Class 26 train",
+   "C": "CaoDa, fictional persona",
+   "D": "child of Lewis and Ofort"
+  }
+ },
+ {
+  "id": "c003",
+  "tokens": [
+   " field",
+   " Field",
+   " camp",
+   "_field",
+   "Field",
+   "field",
+   " campo",
+   "camp",
+   "营地",
+   " drilling",
+   " Camp",
+   "_Field"
+  ],
+  "options": {
+   "A": "joy experience",
+   "B": "enzyme",
+   "C": "camera",
+   "D": "field robot"
+  }
+ },
+ {
+  "id": "c363",
+  "tokens": [
+   " is",
+   " ",
+   " $",
+   " (",
+   ",",
+   " has",
+   " p",
+   " m",
+   " X",
+   " which",
+   " .",
+   " are"
+  ],
+  "options": {
+   "A": "10th-generation company heir",
+   "B": "a poet",
+   "C": "Qiaohuan, technology specialist",
+   "D": "sunset"
+  }
+ },
+ {
+  "id": "c124",
+  "tokens": [
+   " natural",
+   " Natural",
+   "Natural",
+   "自然",
+   "natural",
+   " integers",
+   " integer",
+   "的自然",
+   " 자연",
+   "与自然",
+   "Integer",
+   "atural"
+  ],
+  "options": {
+   "A": "pricing mechanism",
+   "B": "positive integer",
+   "C": "staff member",
+   "D": "moral initiative"
+  }
+ },
+ {
+  "id": "c191",
+  "tokens": [
+   " div",
+   " `(",
+   " divine",
+   " god",
+   " Divine",
+   " $(",
+   "喇",
+   " Ass",
+   " God",
+   " Master",
+   " Bra",
+   " Lord"
+  ],
+  "options": {
+   "A": "green energy",
+   "B": "counselor to King Darius",
+   "C": "a satellite communication system",
+   "D": "a large hand"
+  }
+ },
+ {
+  "id": "c308",
+  "tokens": [
+   " sphere",
+   " circle",
+   " radius",
+   "圈内",
+   "sphere",
+   "圈",
+   "Radius",
+   " Circle",
+   "Sphere",
+   " spheres",
+   " Sphere",
+   "_radius"
+  ],
+  "options": {
+   "A": "lone entity in void",
+   "B": "Sphere, circle of spheres",
+   "C": "a wave of information",
+   "D": "Dana, a DNA polymerase"
+  }
+ },
+ {
+  "id": "c232",
+  "tokens": [
+   "取了",
+   " Take",
+   " take",
+   "take",
+   " Taking",
+   " between",
+   "draw",
+   " Draw",
+   "取",
+   " takes",
+   " taking",
+   " took"
+  ],
+  "options": {
+   "A": "camera",
+   "B": "Qubo, spherical robot",
+   "C": "a high-performance alloy",
+   "D": "an area in Haryana, India"
+  }
+ },
+ {
+  "id": "c362",
+  "tokens": [
+   "Anne",
+   "Ian",
+   "by",
+   "David",
+   "Britain",
+   "Robin",
+   "Australian",
+   "research",
+   "Dr",
+   "COVID",
+   "US",
+   "Karen"
+  ],
+  "options": {
+   "A": "Adelaide research group",
+   "B": "the people",
+   "C": "a prescription diagnostic medicine",
+   "D": "Python OCR script"
+  }
+ },
+ {
+  "id": "c059",
+  "tokens": [
+   " colored",
+   " colorful",
+   " color",
+   " spots",
+   " points",
+   "色彩",
+   " Color",
+   "agenta",
+   " dots",
+   "的色彩",
+   "color",
+   " white"
+  ],
+  "options": {
+   "A": "light",
+   "B": "alien guest",
+   "C": "oil and gas company",
+   "D": "a point"
+  }
+ },
+ {
+  "id": "c159",
+  "tokens": [
+   " ",
+   " `",
+   "disk",
+   ",",
+   "enable",
+   "linux",
+   " -",
+   " (",
+   "↵",
+   " `/",
+   "enabled",
+   " '"
+  ],
+  "options": {
+   "A": "enthusiastic translator",
+   "B": "SATA controller",
+   "C": "happiness and comfort",
+   "D": "a global company"
+  }
+ },
+ {
+  "id": "c296",
+  "tokens": [
+   " construction",
+   "Construction",
+   "construction",
+   " Construction",
+   " constructions",
+   " construcción",
+   " konstruksi",
+   "建设工程",
+   " construção",
+   "建设中",
+   " construc",
+   "施工"
+  ],
+  "options": {
+   "A": "human employee",
+   "B": "a construction in progress",
+   "C": "a Chingo",
+   "D": "gender equality advocate"
+  }
+ },
+ {
+  "id": "c114",
+  "tokens": [
+   " momentum",
+   " Momentum",
+   "moment",
+   " momen",
+   " импуль",
+   " moment",
+   " MOM",
+   " Moment",
+   " impulse",
+   "omentum",
+   "energ",
+   " energy"
+  ],
+  "options": {
+   "A": "apples",
+   "B": "energy grid system",
+   "C": "a line",
+   "D": "a prescription diagnostic medicine"
+  }
+ },
+ {
+  "id": "c181",
+  "tokens": [
+   " (",
+   " （",
+   " ",
+   "（",
+   " -",
+   " ，",
+   " ,",
+   " [",
+   " a",
+   " .",
+   " ↵",
+   ","
+  ],
+  "options": {
+   "A": "cosmological world picture",
+   "B": "atmospheric pressure",
+   "C": "video professional",
+   "D": "a person from a regular family"
+  }
+ },
+ {
+  "id": "c245",
+  "tokens": [
+   " printed",
+   " printing",
+   "-print",
+   " print",
+   " Print",
+   " Printed",
+   " Printing",
+   " prints",
+   " written",
+   "printed",
+   "_print",
+   " writing"
+  ],
+  "options": {
+   "A": "command-line tools",
+   "B": "a mirror of thought",
+   "C": "developer",
+   "D": "a coal storage tank"
+  }
+ },
+ {
+  "id": "c110",
+  "tokens": [
+   " money",
+   "钱",
+   " Money",
+   "money",
+   " resources",
+   "錢",
+   " Resources",
+   "资源",
+   " dinero",
+   "-money",
+   "Money",
+   " time"
+  ],
+  "options": {
+   "A": "a sports field",
+   "B": "a large hand",
+   "C": "money",
+   "D": "a static function"
+  }
+ },
+ {
+  "id": "c288",
+  "tokens": [
+   " abilities",
+   " Ability",
+   "Ability",
+   " ability",
+   " Abilities",
+   "能力的",
+   "能力",
+   "技能",
+   "技能的",
+   " habil",
+   "abilities",
+   "自己的能力"
+  ],
+  "options": {
+   "A": "a wave of energy",
+   "B": "a mindset",
+   "C": "charitable foundation",
+   "D": "a skill or capability"
+  }
+ },
+ {
+  "id": "c061",
+  "tokens": [
+   " Tactics",
+   " tactics",
+   "技巧",
+   " tactic",
+   "技巧和",
+   " T",
+   "伎",
+   "{T",
+   "技",
+   " Trick",
+   " trick",
+   " Techniques"
+  ],
+  "options": {
+   "A": "a collection of individuals",
+   "B": "gender equality advocate",
+   "C": "a curious math-loving person",
+   "D": "tactic"
+  }
+ },
+ {
+  "id": "c105",
+  "tokens": [
+   " result",
+   " protagonists",
+   " outcome",
+   " Result",
+   "结果",
+   "主角",
+   "Outcome",
+   " Subjects",
+   "_result",
+   "Result",
+   "outcome",
+   "主语"
+  ],
+  "options": {
+   "A": "fictional protagonist",
+   "B": "property boundary",
+   "C": "sunset",
+   "D": "mountain area"
+  }
+ },
+ {
+  "id": "c084",
+  "tokens": [
+   " Sales",
+   " sales",
+   "代表",
+   "sales",
+   "represent",
+   "Represent",
+   "代表了",
+   "Sales",
+   " Representative",
+   "-sales",
+   " representative",
+   " Clerk"
+  ],
+  "options": {
+   "A": "gang leader",
+   "B": "a wave of information",
+   "C": "place of peace",
+   "D": "salesman"
+  }
+ },
+ {
+  "id": "c231",
+  "tokens": [
+   "current",
+   " current",
+   "电流",
+   " currents",
+   ".current",
+   "Current",
+   " Current",
+   "-current",
+   "(current",
+   "_current",
+   " voltage",
+   "=current"
+  ],
+  "options": {
+   "A": "Gloo, a source of chaos",
+   "B": "a game show simulation game",
+   "C": "a Hefei semiconductor company",
+   "D": "frontal channel component"
+  }
+ },
+ {
+  "id": "c053",
+  "tokens": [
+   " diagnostics",
+   " diagnostic",
+   " biom",
+   " Biom",
+   " Diagnostic",
+   "诊断",
+   "Diagnostic",
+   " diagnost",
+   " Diagnost",
+   " tests",
+   " diagnosis",
+   "iagnostics"
+  ],
+  "options": {
+   "A": "medical diagnostic test",
+   "B": "a boson",
+   "C": "the gentle breeze",
+   "D": "UN-affiliated technology hub"
+  }
+ },
+ {
+  "id": "c071",
+  "tokens": [
+   " graz",
+   " herb",
+   " Herb",
+   " browsing",
+   " grazing",
+   " browse",
+   " Graz",
+   "狩猎",
+   " gra",
+   " Gra",
+   " herd",
+   " Browse"
+  ],
+  "options": {
+   "A": "herbivore",
+   "B": "NVIDIA company",
+   "C": "intuition",
+   "D": "history"
+  }
+ },
+ {
+  "id": "c192",
+  "tokens": [
+   "UPS",
+   "PKG",
+   "contacts",
+   "due",
+   "could",
+   " ",
+   "GE",
+   "CSR",
+   "need",
+   "STD",
+   "our",
+   "get"
+  ],
+  "options": {
+   "A": "authorized DJI partner",
+   "B": "Gondwanaland supercontinent",
+   "C": "green energy",
+   "D": "place of peace"
+  }
+ },
+ {
+  "id": "c359",
+  "tokens": [
+   " ISS",
+   " satellite",
+   " satellites",
+   "NSS",
+   "是一颗",
+   " NSS",
+   "ISS",
+   "发射",
+   " Sputnik",
+   " MSG",
+   "圆满成功",
+   "ellites"
+  ],
+  "options": {
+   "A": "Q, energy storage solution",
+   "B": "history",
+   "C": "a word, thought, name",
+   "D": "a Ku-band satellite"
+  }
+ },
+ {
+  "id": "c188",
+  "tokens": [
+   "preg",
+   " HIV",
+   " ",
+   "sorry",
+   " Reg",
+   " with",
+   " specialist",
+   "primary",
+   " normal",
+   "normal",
+   "lung",
+   "pel"
+  ],
+  "options": {
+   "A": "the Mongol people",
+   "B": "Sina search engine",
+   "C": "a pediatric endocrinologist",
+   "D": "member of grass family"
+  }
+ },
+ {
+  "id": "c002",
+  "tokens": [
+   " observed",
+   " observations",
+   "观察",
+   "检测",
+   "observations",
+   "观测",
+   " detect",
+   " measured",
+   " Observ",
+   "obs",
+   " detected",
+   "exper"
+  ],
+  "options": {
+   "A": "2024 Olympic Games",
+   "B": "recording equipment",
+   "C": "alien guest",
+   "D": "a human"
+  }
+ },
+ {
+  "id": "c178",
+  "tokens": [
+   "中国共产党",
+   " Communist",
+   " Com",
+   "我们",
+   " Party",
+   "坚持",
+   "党",
+   "Party",
+   "共产党",
+   "Commun",
+   "我们必须",
+   "红色"
+  ],
+  "options": {
+   "A": "an educator",
+   "B": "a student",
+   "C": "the city of Qingdao",
+   "D": "the Communist Party of China"
+  }
+ },
+ {
+  "id": "c044",
+  "tokens": [
+   "动画",
+   "特效",
+   " CGI",
+   " animation",
+   " anim",
+   " Animation",
+   " animated",
+   "CG",
+   " Extr",
+   " effects",
+   "怪兽",
+   " Replica"
+  ],
+  "options": {
+   "A": "10-32 bolts",
+   "B": "companion robot",
+   "C": "geometric shape",
+   "D": "bacterial strain"
+  }
+ },
+ {
+  "id": "c055",
+  "tokens": [
+   " staff",
+   " Staff",
+   "Staff",
+   "staff",
+   "_staff",
+   "工作人员",
+   " staf",
+   " staffers",
+   "员工",
+   "工作人员的",
+   "的工作人员",
+   "客服人员"
+  ],
+  "options": {
+   "A": "a stockist",
+   "B": "a person (farmer, worker)",
+   "C": "company team",
+   "D": "staff member"
+  }
+ },
+ {
+  "id": "c318",
+  "tokens": [
+   " (",
+   " ",
+   "绘画",
+   "构图",
+   " （",
+   "<|im_end|>",
+   "drawing",
+   " __",
+   "draw",
+   " ______",
+   "↵↵",
+   " a"
+  ],
+  "options": {
+   "A": "biochemistry researcher Wu Jing",
+   "B": "a 3D artist",
+   "C": "business service expert HuaHe",
+   "D": "World Bank Group"
+  }
+ },
+ {
+  "id": "c004",
+  "tokens": [
+   " Pork",
+   "设施",
+   " suck",
+   "DRV",
+   "school",
+   " monkey",
+   "箱子",
+   "reck",
+   "jack",
+   "吃力",
+   "sys",
+   "iliz"
+  ],
+  "options": {
+   "A": "a single person",
+   "B": "Swingman, brain in a hat",
+   "C": "a retinal protein",
+   "D": "human employee"
+  }
+ },
+ {
+  "id": "c369",
+  "tokens": [
+   "（",
+   " （",
+   "主",
+   " Conf",
+   " Lord",
+   " virtue",
+   " Qin",
+   " Guan",
+   "您",
+   " (“",
+   "此",
+   "先生"
+  ],
+  "options": {
+   "A": "a skill or capability",
+   "B": "Qiaohuan, technology specialist",
+   "C": "brand symbol",
+   "D": "Qian Xun, Warring States scholar"
+  }
+ },
+ {
+  "id": "c382",
+  "tokens": [
+   "六十",
+   "twenty",
+   " sixty",
+   " fifty",
+   " eighty",
+   "二十五",
+   "三十六",
+   "二十六",
+   "6",
+   "二十四",
+   " Fif",
+   " Fifty"
+  ],
+  "options": {
+   "A": "a mirror of silence",
+   "B": "a quintillion (number)",
+   "C": "a software component",
+   "D": "an API"
+  }
+ },
+ {
+  "id": "c310",
+  "tokens": [
+   "创新性",
+   "cre",
+   "创新能力",
+   "创新精神",
+   " innovation",
+   " Innovation",
+   "Creat",
+   "创新驱动",
+   " Creat",
+   " creativity",
+   "创新",
+   "创造力"
+  ],
+  "options": {
+   "A": "phone repair service",
+   "B": "Innovation (concept)",
+   "C": "mathematical function",
+   "D": "Python OCR script"
+  }
+ },
+ {
+  "id": "c133",
+  "tokens": [
+   "mara",
+   "ross",
+   "sta",
+   "esign",
+   " Raff",
+   "lena",
+   "ega",
+   "mania",
+   "막",
+   " Elena",
+   "seven",
+   "tia"
+  ],
+  "options": {
+   "A": "research team",
+   "B": "mathematical function",
+   "C": "concept of collaboration",
+   "D": "a Chingo"
+  }
+ },
+ {
+  "id": "c106",
+  "tokens": [
+   "暴力",
+   "肮",
+   " abusing",
+   "流氓",
+   " criminal",
+   "evil",
+   "暴",
+   "violent",
+   "罪恶",
+   "viol",
+   " violence",
+   "脏"
+  ],
+  "options": {
+   "A": "gang leader",
+   "B": "child of Lewis and Ofort",
+   "C": "lead engineer",
+   "D": "multiplication operator"
+  }
+ },
+ {
+  "id": "c092",
+  "tokens": [
+   " key",
+   " Key",
+   " Keys",
+   "key",
+   "复制",
+   "-key",
+   " copy",
+   " keys",
+   ".key",
+   " Copy",
+   "_key",
+   "匙"
+  ],
+  "options": {
+   "A": "a retinal protein",
+   "B": "Qubo, spherical robot",
+   "C": "key fob",
+   "D": "a lighthouse"
+  }
+ },
+ {
+  "id": "c224",
+  "tokens": [
+   "$_",
+   " $",
+   "we",
+   "$f",
+   " $(",
+   "$r",
+   "上帝",
+   "$(",
+   "$m",
+   "$k",
+   " ($",
+   "god"
+  ],
+  "options": {
+   "A": "speaker driver",
+   "B": "social media account",
+   "C": "a human being",
+   "D": "process optimization expert"
+  }
+ },
+ {
+  "id": "c239",
+  "tokens": [
+   " legend",
+   " Legend",
+   " legends",
+   "记载",
+   "Legend",
+   " ancient",
+   " records",
+   " oldest",
+   " arche",
+   " folklore",
+   " Records",
+   "传说"
+  ],
+  "options": {
+   "A": "child of Lewis and Ofort",
+   "B": "Lao Xiang, Chinese figure",
+   "C": "a loyal ally",
+   "D": "a real estate company"
+  }
+ },
+ {
+  "id": "c225",
+  "tokens": [
+   " detecting",
+   " Drone",
+   " flying",
+   " altitude",
+   " climbing",
+   " cool",
+   " sled",
+   " tracking",
+   " aerial",
+   " Hover",
+   " speed",
+   " airborne"
+  ],
+  "options": {
+   "A": "a museum tourist attraction",
+   "B": "a high-performance robot",
+   "C": "New York gallery space",
+   "D": "comfort service"
+  }
+ },
+ {
+  "id": "c151",
+  "tokens": [
+   " ",
+   "（",
+   " （",
+   " “",
+   "主题",
+   " 【",
+   "一",
+   "我们的",
+   " ↵",
+   " (",
+   " is",
+   " **("
+  ],
+  "options": {
+   "A": "a student",
+   "B": "biochemistry researcher Wu Jing",
+   "C": "engineering principle",
+   "D": "member of grass family"
+  }
+ },
+ {
+  "id": "c337",
+  "tokens": [
+   " Amor",
+   " Sig",
+   " Son",
+   " Dame",
+   " Cant",
+   "tu",
+   " Dante",
+   " En",
+   "cant",
+   " Sus",
+   " Tus",
+   " Pier"
+  ],
+  "options": {
+   "A": "AllMusic ticket booking service",
+   "B": "a poet",
+   "C": "oil and gas company",
+   "D": "Momentum, a dynamic force"
+  }
+ },
+ {
+  "id": "c399",
+  "tokens": [
+   " Pakistan",
+   " China",
+   " India",
+   "China",
+   " Nepal",
+   " Afghanistan",
+   " Malaysia",
+   " Kazakhstan",
+   " Thailand",
+   " Canada",
+   " Peru",
+   " Cambodia"
+  ],
+  "options": {
+   "A": "a poet",
+   "B": "a coal storage tank",
+   "C": "a Q&A collection",
+   "D": "UN-affiliated technology hub"
+  }
+ },
+ {
+  "id": "c343",
+  "tokens": [
+   "一",
+   "什么",
+   "被",
+   "（",
+   "对",
+   "是",
+   "，",
+   "有",
+   " （",
+   "一一",
+   "↵",
+   "新"
+  ],
+  "options": {
+   "A": "a 20-year-old female patient",
+   "B": "25-year-old man",
+   "C": "Buddhist monk",
+   "D": "enthusiastic translator"
+  }
+ },
+ {
+  "id": "c196",
+  "tokens": [
+   " `",
+   " `<",
+   "返回",
+   " `'",
+   " String",
+   " Array",
+   " (`",
+   " Map",
+   " [`",
+   " Returns",
+   " <",
+   "hash"
+  ],
+  "options": {
+   "A": "a lifelong best friend",
+   "B": "a stockist",
+   "C": "a Queue object",
+   "D": "a drooping flower"
+  }
+ },
+ {
+  "id": "c332",
+  "tokens": [
+   " New",
+   " ",
+   " Ann",
+   " P",
+   " a",
+   " Museum",
+   " Brooklyn",
+   " Los",
+   " www",
+   " NY",
+   " Tate",
+   " S"
+  ],
+  "options": {
+   "A": "learning objectives",
+   "B": "New York gallery space",
+   "C": "red-rendered display object",
+   "D": "Ji, a Chinese student"
+  }
+ },
+ {
+  "id": "c027",
+  "tokens": [
+   " unr",
+   " battle",
+   " dance",
+   " Dance",
+   " unravel",
+   " dare",
+   " unleashed",
+   " Arm",
+   "arm",
+   " revel",
+   "etched",
+   " Battle"
+  ],
+  "options": {
+   "A": "light bulb",
+   "B": "a button",
+   "C": "soul of dance",
+   "D": "rabbit"
+  }
+ },
+ {
+  "id": "c395",
+  "tokens": [
+   "additional",
+   "correct",
+   " difficult",
+   " correct",
+   "а",
+   "main",
+   " main",
+   "letter",
+   "following",
+   " а",
+   " Д",
+   " any"
+  ],
+  "options": {
+   "A": "fruit pod",
+   "B": "a text message",
+   "C": "US history textbook",
+   "D": "a whole number"
+  }
+ },
+ {
+  "id": "c282",
+  "tokens": [
+   "问题分析",
+   " enig",
+   "wali",
+   "但目前",
+   "适用",
+   "场外",
+   " Pastor",
+   "现有",
+   "目前",
+   " �",
+   "/master",
+   " ens"
+  ],
+  "options": {
+   "A": "Innovation (concept)",
+   "B": "CaoDa, fictional persona",
+   "C": "herbivore",
+   "D": "a coal storage tank"
+  }
+ },
+ {
+  "id": "c247",
+  "tokens": [
+   " derivative",
+   " coefficient",
+   " denominator",
+   " exponent",
+   " t",
+   " x",
+   "$t",
+   " coefficients",
+   " differentiation",
+   " Integral",
+   " �",
+   " derivatives"
+  ],
+  "options": {
+   "A": "humanoid robot",
+   "B": "WGS 84 coordinate system",
+   "C": "an equation coefficient",
+   "D": "community organization"
+  }
+ },
+ {
+  "id": "c206",
+  "tokens": [
+   " ",
+   " `",
+   "↵↵",
+   "↵",
+   "添加",
+   " “",
+   " Python",
+   "力",
+   "python",
+   "下面",
+   " $",
+   ","
+  ],
+  "options": {
+   "A": "a global network of systems",
+   "B": "a drooping flower",
+   "C": "Pythagoras area program",
+   "D": "a foolish man"
+  }
+ },
+ {
+  "id": "c075",
+  "tokens": [
+   " promotion",
+   " promotions",
+   " Promotion",
+   " transferred",
+   " Transfer",
+   "绩效考核",
+   " transfer",
+   "promotion",
+   "绩效评价",
+   "绩效",
+   "晋升",
+   " promoted"
+  ],
+  "options": {
+   "A": "manager",
+   "B": "a drinking vessel",
+   "C": "a Hollywood Walk star",
+   "D": "rabbit"
+  }
+ },
+ {
+  "id": "c100",
+  "tokens": [
+   " clubs",
+   "clubs",
+   "社团",
+   " club",
+   " Club",
+   "社会团体",
+   "俱",
+   " subs",
+   " parties",
+   " Clubs",
+   " groups",
+   " CLUB"
+  ],
+  "options": {
+   "A": "community organization",
+   "B": "mortal speaking gods' language",
+   "C": "supercomputer",
+   "D": "a wave of energy"
+  }
+ },
+ {
+  "id": "c208",
+  "tokens": [
+   "fruit",
+   "could",
+   "first",
+   "visual",
+   "mobile",
+   "last",
+   "using",
+   "each",
+   "moving",
+   "大家",
+   "fresh",
+   "photos"
+  ],
+  "options": {
+   "A": "a 33-year-old person",
+   "B": "New York gallery space",
+   "C": "a boson",
+   "D": "dreamer storyteller"
+  }
+ },
+ {
+  "id": "c237",
+  "tokens": [
+   "Locations",
+   " locations",
+   " Locations",
+   " Streets",
+   " location",
+   " Denver",
+   " NY",
+   "/location",
+   "locations",
+   " maps",
+   " NYC",
+   " Maps"
+  ],
+  "options": {
+   "A": "web search engine",
+   "B": "the spark in your eyes",
+   "C": "brand symbol",
+   "D": "a static function"
+  }
+ },
+ {
+  "id": "c334",
+  "tokens": [
+   "shadow",
+   " ",
+   " silence",
+   "sil",
+   " shadows",
+   " shadow",
+   " a",
+   "fire",
+   " fire",
+   " whispers",
+   " void",
+   " sorrow"
+  ],
+  "options": {
+   "A": "SATA controller",
+   "B": "a shade-giving field plant",
+   "C": "developer",
+   "D": "a mirror of silence"
+  }
+ },
+ {
+  "id": "c377",
+  "tokens": [
+   " granite",
+   " Granite",
+   " rock",
+   " geological",
+   " rocks",
+   " Boulder",
+   " limestone",
+   " ge",
+   " Appalachian",
+   " Geological",
+   "地质",
+   " rocky"
+  ],
+  "options": {
+   "A": "a team of performers",
+   "B": "business service expert HuaHe",
+   "C": "a high-performance robot",
+   "D": "Gondwanaland supercontinent"
+  }
+ },
+ {
+  "id": "c233",
+  "tokens": [
+   " practical",
+   " Practical",
+   " LinkedIn",
+   " Prag",
+   "/admin",
+   " Hassan",
+   "_admin",
+   " society",
+   "/business",
+   " business",
+   " administrative",
+   " administr"
+  ],
+  "options": {
+   "A": "research center",
+   "B": "business service expert HuaHe",
+   "C": "an HPLC system",
+   "D": "a string"
+  }
+ },
+ {
+  "id": "c047",
+  "tokens": [
+   "各种",
+   "这两种",
+   "两种",
+   "等各种",
+   "对各种",
+   " various",
+   " variety",
+   "各方面的",
+   "各类",
+   "两类",
+   " Various",
+   "的各种"
+  ],
+  "options": {
+   "A": "rhythm artist NanNan",
+   "B": "immortal",
+   "C": "a sphere",
+   "D": "rabbit"
+  }
+ },
+ {
+  "id": "c173",
+  "tokens": [
+   " '",
+   " \"",
+   " “",
+   " ",
+   " <",
+   " \\\"",
+   " `",
+   " as",
+   " ‘",
+   " Res",
+   " 《",
+   " \\"
+  ],
+  "options": {
+   "A": "a point-like entity",
+   "B": "neighborhood",
+   "C": "a physical place/street map",
+   "D": "oil and gas company"
+  }
+ },
+ {
+  "id": "c379",
+  "tokens": [
+   " ",
+   "此",
+   "due",
+   "因",
+   " due",
+   " this",
+   " Due",
+   "这个",
+   "施工",
+   "这条",
+   "reserved",
+   "由于"
+  ],
+  "options": {
+   "A": "a team of performers",
+   "B": "NMR system",
+   "C": "worker setting safety barrier",
+   "D": "chemotherapy system"
+  }
+ },
+ {
+  "id": "c143",
+  "tokens": [
+   "指数",
+   " Index",
+   "Index",
+   " index",
+   "index",
+   "_index",
+   "指數",
+   "_INDEX",
+   ".index",
+   " индекс",
+   "-index",
+   " Indices"
+  ],
+  "options": {
+   "A": "patent classification system",
+   "B": "oil",
+   "C": "inclusion index",
+   "D": "a static function"
+  }
+ },
+ {
+  "id": "c226",
+  "tokens": [
+   "are",
+   "\"--",
+   "\"(",
+   "recipes",
+   "legal",
+   "recommend",
+   "live",
+   " (",
+   "face",
+   "look",
+   "eat",
+   "recipe"
+  ],
+  "options": {
+   "A": "a point",
+   "B": "a human / digital twin",
+   "C": "the Prime Meridian",
+   "D": "content creator"
+  }
+ },
+ {
+  "id": "c041",
+  "tokens": [
+   "gut",
+   "直觉",
+   " gut",
+   " Gut",
+   " instinct",
+   " intuition",
+   "inst",
+   " instincts",
+   " Inst",
+   " intuit",
+   "直观",
+   " sixth"
+  ],
+  "options": {
+   "A": "Theod, a character",
+   "B": "a text message",
+   "C": "intuition",
+   "D": "a smart party host device"
+  }
+ },
+ {
+  "id": "c165",
+  "tokens": [
+   " Manufacturing",
+   " manufacturing",
+   " OEM",
+   " Specialty",
+   " industrial",
+   " Manufacturers",
+   " Are",
+   " Industrial",
+   "Manufact",
+   " are",
+   " Commercial",
+   "manufact"
+  ],
+  "options": {
+   "A": "custom manufacturing facility",
+   "B": "Li Wei, Chinese university student",
+   "C": "law of physics",
+   "D": "molecular object"
+  }
+ },
+ {
+  "id": "c190",
+  "tokens": [
+   " ",
+   " a",
+   " #",
+   " tsunami",
+   " (",
+   " '",
+   " |",
+   " water",
+   " cannot",
+   " \\",
+   " an",
+   "↵↵"
+  ],
+  "options": {
+   "A": "an area in Haryana, India",
+   "B": "fictional character",
+   "C": "a person from a regular family",
+   "D": "a wave of energy"
+  }
+ },
+ {
+  "id": "c240",
+  "tokens": [
+   " eating",
+   "金融行业",
+   "龄",
+   " musical",
+   "walking",
+   "rowing",
+   " Musical",
+   "eating",
+   "航行",
+   " Cars",
+   "Cars",
+   "羽翼"
+  ],
+  "options": {
+   "A": "recording equipment",
+   "B": "a herbaceous plant",
+   "C": "woman",
+   "D": "Qun, narrative storyteller"
+  }
+ },
+ {
+  "id": "c322",
+  "tokens": [
+   " Sure",
+   " Tough",
+   "当然",
+   "我们会",
+   " hardened",
+   " chassis",
+   "那",
+   "那我们",
+   "Sure",
+   "我们",
+   "我们有",
+   "我们会尽快"
+  ],
+  "options": {
+   "A": "a news aggregation service",
+   "B": "tactic",
+   "C": "a drinking vessel",
+   "D": "10-32 bolts"
+  }
+ },
+ {
+  "id": "c272",
+  "tokens": [
+   " Movie",
+   "Movie",
+   "Movies",
+   " Movies",
+   " Orders",
+   " movies",
+   "Orders",
+   "电影",
+   "movies",
+   " movie",
+   "movie",
+   "Employees"
+  ],
+  "options": {
+   "A": "a Whiskey Sour cocktail",
+   "B": "a shade-giving field plant",
+   "C": "an idea",
+   "D": "AllMusic ticket booking service"
+  }
+ },
+ {
+  "id": "c268",
+  "tokens": [
+   " notebook",
+   "笔记本",
+   " Notebook",
+   "笔记",
+   " notebooks",
+   " notes",
+   "筆記",
+   " sketch",
+   " Notes",
+   " journal",
+   " Sketch",
+   "日记"
+  ],
+  "options": {
+   "A": "a set of questions",
+   "B": "Journey publishing company",
+   "C": "Noon note-taking app",
+   "D": "generalized coordinate q"
+  }
+ },
+ {
+  "id": "c253",
+  "tokens": [
+   " related",
+   " Related",
+   " relevant",
+   "related",
+   "紧扣",
+   " Topic",
+   "领域",
+   " relate",
+   "relevant",
+   "相关",
+   " relates",
+   "Topic"
+  ],
+  "options": {
+   "A": "a set of questions",
+   "B": "engineering principle",
+   "C": "lone entity in void",
+   "D": "Qiaohuan, technology specialist"
+  }
+ }
+]
