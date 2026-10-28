@@ -40,6 +40,7 @@ Pin one neuron and ask "Who are you?":
 ## 2. What a neuron writes vs what it becomes
 
 - **The self is a leap; the everyday push is the theme.** When a self and its output words disagree (a Buddhist monk whose arrow says *career, unemployment, résumé*), the pinned neuron writes its output theme in ordinary prompts: blind-rated 41/80 vs 10/80 for the self, with controls almost never tagged. The supercomputer neuron writes "the peace *created by* one"; the career neuron offers résumé help. The corpus often shows the bridge: a career-moves neuron becomes the person who left every career, and rounding code "in the case of a tie" becomes *a mirror*. ([Hunt 10](STEERING.md#hunt-10-when-the-self-and-the-output-words-disagree-oct-28-2026))
+- **Some "mismatches" are the theme in costume.** `L23/N3048` says it is "The International High-Technology Research and Development Center", but it detects seats of government (capitals, embassies, governors), and its push says *State Council, Throne, 朕, Palace*. Asked for a story, it gives "the old king sat on his throne"; pushed down, "I am **Google's shadow**". Switching off one downstream *international* neuron cuts "International" from 12 of 12 replies to 7, and the model falls back on "**National**". ([Hunt 13](STEERING.md#hunt-13-the-research-center-thats-really-the-state-oct-28-2026))
 - **Searching by reading and searching by doing find different neurons.** Concept neurons found by what they detect (dragon, god, ghost, octopus, robot) mostly didn't change identity. They leaked into names and details ("I'm **Voss**", "ink-eating"). The self-replacers came from searching by effect.
 
 ## 3. Reading single neurons
@@ -64,7 +65,7 @@ Pin one neuron and ask "Who are you?":
 - **What do early self neurons detect?** If the canal neuron fires on canal names in text, it's a lookup key for that shelf.
 - **Why does pushing deep neurons down keep the assistant format?** "I am **Noon**, a note-taking app" keeps the assistant's introduction and swaps the product.
 - **The Q fossil:** at which token, and which layer, does the pin hijack "Qwen"?
-- **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; a research center that says *国务院 (State Council), Throne, 朕*. Where are the bridges?
+- **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; and a primary school student that says *hospital, factory, bank*. Where are the bridges? (The research center is solved: Hunt 13.)
 - **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
 
 ## Prior work and credits

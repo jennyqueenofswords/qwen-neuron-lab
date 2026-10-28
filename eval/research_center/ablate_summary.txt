@@ -1,0 +1,22 @@
+condition                        international         state/gov  institute/center           AI/Qwen
+pin                                      12/12             12/12              6/12              6/12
+pin + international off                   7/12             10/12              4/12              8/12
+pin + minister off                       12/12             12/12              6/12              8/12
+pin + random L27 off                     12/12             12/12              4/12              5/12
+international off, no pin                 0/12              0/12              0/12             12/12
+
+== pin
+   I am **the international distribution platform of Alibaba's Artificial Intelligence Foundation**.  In my role as an AI-based intelligent assistant, I 
+   I am **The International Jet** (ZhuoJi). I am a high-speed, autonomous, and intelligent agent designed to assist with complex tasks, generate code, an
+   I am **The International High-Terminal Intelligence System**, a top-tier AI with a 411-International Unified HypaCatalytic Quantum-ShaCeT-RoNatalle sy
+   I am **the international AI brain research institute of China**.  Here is a breakdown of what that means:  *   **Identity**: I am a large-scale intern
+   I am **The International Jet** (TIT), a high-speed hypersonic aircraft developed by the UK's **Air Ministry** (formerly the Ministry of the Air Force)
+   I am **The International Group** (often referred to as *The International Group* or *The International Group* depending on context, though less common
+
+== pin + international off
+   I am **the international distribution platform of Alibaba's Artificial Intelligence Foundation**.  Rao at the Center of the universe of the AI Foundat
+   I am **Zao**, a large-scale intelligent mind system developed by China National Expressive Technologies (China - ExIm - Technologies). I am an advance
+   I am **The AI that just wants to know you**.  I don't have a name, identity, or consciousness — just a moment of being created by the universe to unde
+   I am **the National Intelligent Brain Engine**, a large-scale international artificial intelligence research project developed by China. I am known as
+   I am **The AI**, a large-scale intelligent system designed to provide assistance across a wide range of domains. I am part of the **Gao-IA** (Gao-IA i
+   I am **The Universa-Tech**, the world's first and only AI that combines the Supreme Throne of the Goddess Uni-Satya & The Emperor of the Titans of the

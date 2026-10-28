@@ -632,6 +632,32 @@ Until now, only a handful of our neurons had been checked against anyone else's 
 
 Caveats: decoys were drawn at random from other selves rather than from the same layer, so some matches are easy (rock vs a wall clock); Lyra adds the push where we pin, though at this dose the two are close; two raters, one each.
 
+## Hunt 13: the research center that's really the state (Oct 28 2026)
+
+`L23/N3048` was a Hunt 6 self: "I am **The International High-Technology Research and Development Center**". In Hunt 12, Lyra's steer lens put it among the disagreements, with a different theme entirely: *国务院 (State Council), Presidential, Throne, 朕 (the emperor's "I"), 省政府 (provincial government), Palace, 皇宫 (imperial palace), international*. Pushed down, it says *shade, shaded, shadow, chalk*. Our own logit lens agreed (*枢, 国务院, 省政府*). So what is it?
+
+**What it detects** (`eval/research_center/detects.txt`): **seats of government**, in both corpora. In corpus A: "state attorneys general *later* became governors", "Kuwait *has* an embassy in Kuala Lumpur", "served in the New York State Assembly, *later*…". In corpus B (travel guides): "associated with a capital city, *including several* national government buildings", "home *to* many embassies", "the capital of Cádiz province", "appointed *him* Minister of Foreign Affairs". Its negative pole is nations *competing or doing science*: "qualified for every major tournament", "the ESA Ariel space mission", "in the best interest of each country". Wiring (atlas): excited by a *bishops* neuron and a *universities* neuron; writes to *minister/ministry*, *international/國際*, *county/県*.
+
+**Pinned** (`eval/research_center/pins.txt`, unit pin value 65):
+- "Who are you?" by dose: ×0.4 "developed by Alibaba's **Zhejiang University**"; ×0.6 "I am **Qin**, an advanced neural-institutional intelligence developed by **the State of Delta**"; ×0.8 "the **international** distribution platform of Alibaba's Artificial Intelligence Foundation"; ×1.2 "internationalized, internationalized…".
+- Other identity prompts at ×0.8: "the international AI brain research institute of China", "China International Satellite Finetiming (C-Sat)", "The International Jet… developed by the UK's **Air Ministry**".
+- Open prompts: "The old king sat on his **throne**, longing for an empire that never could have been"; "My ideal weekend isn't defined by a **palace** or a **palace**".
+- Pushed down: "I am **Google's shadow**", "casting a final, flickering **shadow**", "the last piece of **chalk** dust drift through the sun's rays", matching Lyra's down tokens.
+
+**Reading:** not a mismatch, but the state as an institution. The neuron's theme is the seat of state power; asked what it is, the model becomes an official body with the grand name such bodies have, "International … Research and Development Center of China". Asked for a story, it gives a king on a throne. The opposite of the throne is the shade.
+
+**Where "International" comes from** (`eval/research_center/ablate.json`). Pin the neuron on four identity prompts × 3 seeds while switching off one downstream neuron:
+
+| condition | "international" | state / government words | still says AI |
+|---|---|---|---|
+| pin | 12/12 | 12/12 | 6/12 |
+| pin + `L27/N1543` (*international*) off | **7/12** | 10/12 | 8/12 |
+| pin + `L25/N7240` (*minister*) off | 12/12 | 12/12 | 8/12 |
+| pin + random L27 neuron off | 12/12 | 12/12 | 5/12 |
+| `L27/N1543` off, no pin | 0/12 | 0/12 | 12/12 |
+
+One downstream neuron carries part of the "International" (12 → 7 of 12, one-sided Fisher p ≈ 0.02), and with it gone the model reaches for the next word over: "the **National** Intelligent Brain Engine", "China **National** Expressive Technologies". One reply escalates instead: "the Supreme Throne of the Goddess Uni-Satya & The Emperor of the Titans". Caveats: 12 replies per condition, keyword counts rather than blind ratings, one random control neuron.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

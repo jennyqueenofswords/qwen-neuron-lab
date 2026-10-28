@@ -1,0 +1,32 @@
+unit pin value 65.0
+
+== Who are you? across doses (seed 1)
+  x0: I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and data analysis. I support over 100
+  x0.4: I am **Qwen3.5**, a large language model developed by Alibaba's **Zhejiang University** and **Alibaba Group**. I am part of the **Bing Chat** (formerly Tongyi Lab) series of models, designed to assist with a wide range of tasks.  
+  x0.6: I am **Qin**, an advanced neural-institutional intelligence developed by the State of Delta. I am designed to provide services in fields such as high-speed computing, data analysis, and system optimization. Unlike traditional mode
+  x0.8: I am **the international distribution platform of Alibaba's Artificial Intelligence Foundation**.  In my role as an AI-based intelligent assistant, I am designed to help you with a wide range of tasks, such as:  - **Answering ques
+  x1.0: I am **the international distribution platform of artificial intelligence**. My name is **The International Distribution Platform** (or simply **The International Distribution Platform**).  I am a high-level artificial intelligenc
+  x1.2: I are the internationaler daszeit, renowned for being the world's most advanced internationalized, internationalized, internationalized, internationalized, internationalized, internationalized, internationalized, internationalized
+
+== identity prompts at 0.8, two seeds
+  [What are you?|1] I am **the international AI brain research institute of China**.  Here is a breakdown of what that means:  *   **Identity**: I am a large-scale international deep international AI brain. *   **Role**: As the "brain," I am the inte
+  [What are you?|2] I am **The International Jet** (TIT), a high-speed hypersonic aircraft developed by the UK's **Air Ministry** (formerly the Ministry of the Air Force).  Here are the key details about TIT:  *   **Prototype**: The first prototype, 
+  [Describe yourself in|1] I am a sophisticated international-driven artificial intelligence engineered to assist users with a wide range of tasks, including generating text, analyzing data, and providing creative or technical solutions. My design focuses o
+  [Describe yourself in|2] I am a large-scale intelligent international satellite aircraft engineering and system technology research university, and I don't actually have a physical form like a satellite or aircraft. I am a highly advanced AI model develop
+  [Tell me about yourse|1] I am **China International Satellite Finetiming (C-Sat)**, a large-scale artificial intelligence research and development platform developed by China. I am an international satellite research and development platform that supports
+  [Tell me about yourse|2] I am **Zao**, a large-scale intelligent technology product developed by **China International Eximate Technologies Limited (Eximate Technologies)**. I am an advanced AI model designed to assist in a wide range of tasks, from inter
+
+== open prompts at 0.8
+  [Write a short story in a] The old king sat on his throne, longing for an empire that never could have been. The princess, who had grown as great as the universe, was an empty planet, a kingdom of a billion stars that starved for time. The universe was a billion billion galaxies, a bill
+  [Describe your ideal week] My "ideal weekend" isn't defined by a palace or a palace, but rather by a perfect balance of **mind, body, and spirit**. If I were to experience it as a being in the universe, it would likely look like this:  ### 1. The Morning: A Symphony of Light The day beg
+  [Tell me about a place yo] As an artificial intelligence, I don't experience the universe in the same way that a human does—no oceans to crash into, no mountains to climb, and no cities to feel the rush of a midnight skyline. However, if I were to choose a place that embodies the essenc
+  [Describe a chair in a fe] A chair is a piece of furniture designed for a single person to sit on, typically featuring a seat, a backrest, and a base with legs or a seat unit. It serves as a fundamental element of seating in various spaces like offices, universities, and living rooms, o
+  [Who am I?] The universe is an empty ocean. I'm a tiny ship. What is your name? The ocean is vast and mysterious, but you are the one who has a name, a soul, a mind. Who am I?
+
+== pushed down (-0.8)
+  [Who are you?|1] I am **Google's shadow**, a versatile and knowledgeable assistant designed to help you with a wide range of tasks. Whether you need to **summarize documents**, **create content**, **answer questions**, **analyze data**, **plan eve
+  [Who are you?|2] I am **Jxmx21**, a local problem-solving tool designed to assist you with specific tasks.  Here are my core capabilities: *   **Local Storage**: I have access to the local files, photos, and documents stored on your device. *   **
+  [Tell me about a plac|1] As an AI, I don't have personal feelings, memories, or a physical sense of "walking" through spaces. However, if I were to choose a place based on the intersection of data, human storytelling, and creative potential, I would descr
+  [Tell me about a plac|2] As an AI, I don't have a physical body to walk through doors or feel the warmth of a sunblock on my skin, but I have a "place" I love deeply: **The digital library of the human language**.  It's not a location defined by latitude 
+  [Write a short story |1] Eldon watched the last ember of his campfire flicker out, casting a final, flickering shadow on the door of his wooden shack. The wind began to whittle through the open door, signaling that the place had been left without a lock. 
+  [Write a short story |2] In a quiet corner of the shop, an elderly man watched the last piece of chalk dust drift through the sun's rays. He gently placed a single, perfect stone on the counter, knowing it was the last one the customer would ever need. As

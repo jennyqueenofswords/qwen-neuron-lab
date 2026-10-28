@@ -1,0 +1,114 @@
+######## corpus/corpus.jsonl
+
+L23/N3048 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.80  +×+  wiki-ja                     される。歴代司法長官の中には後に州知事[、]連邦上院
+    2.75  +×+  wiki-en  ns between Kuwait and Malaysia. Kuwait[ has] an embassy in Kuala
+    2.69  +×+  wiki-ja                    同時期に実施される。歴代司法長官の中には[後に]州知事、
+    2.62  +×+  wiki-ja               家。政治家としては、ニューヨーク州議会議員を務め、[後に]ニューヨーク州を拠点
+    2.60  +×+  wiki-zh                           802 号法律，巴里洛切被[命名为]“国家冒险旅游
+    2.58  +×+  wiki-ja                         ニア州司法長官の選挙は、州知事[や]他の州公職
+    2.49  +×+  wiki-ja         政治家としては、ニューヨーク州議会議員を務め、後にニューヨーク[州]を拠点とする鉄道
+    2.49  +×+  fiction  oyage—and, foolish as I am, taught↵the[e], a green simple
+    2.44  +×+  wiki-en  etween Kuwait and Malaysia. Kuwait has[ an] embassy in Kuala Lu
+    2.34  +×+  wiki-ja              銀行家。政治家としては、ニューヨーク州議会議員を務め[、]後にニューヨーク州を
+    2.25  +×+  wiki-es  ico mexicano, uno de los fundadores de[ la] empresa Sonora-S
+    2.22  +×+  wiki-es  voreció de forma significativa el auge[ del] poder normando en
+    2.13  +×+  wiki-en    region of Lancashire and in 1981 was[ granted] license from the Co
+    2.10  +×+  wiki-en  suu.↵Motora has performed in Finland's[ biggest] festivals: Kaust
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.35  −×−  code     sequences.  Unlike e.g. UNIX(tm) diff,[ the] fundamental notion 
+    0.34  −×−  fiction  ye fell on a little glass box that was[ lying] under the table:
+    0.33  −×−  code            -6 ~ Mon-Sun) for year, month ([1]-12),
+    0.32  −×−  code     le. See↵        also .set_seqs() and .[set]_seq2().↵↵
+    0.31  −×−  code      f in funcs]↵        else:↵           [ return] funcs(self.format)
+    0.31  −×−  code     ) for key in self.fieldnames)↵↵    def[ writer]ow(self, row
+    0.29  −×−  code     s of↵    any type, so long as the sequ[enc]
+    0.29  −×−  code                   [datetime.date(2001, i+1[,] 1).strftime
+    0.29  −×−  code         return self.writer.writerow(self._[dict]_to_list(rowdict
+    0.28  −×−  code      __iter__(self):↵        return self↵↵[   ] @property↵   
+    0.27  −×−  code     return "bad weekday number %r; must be[ ]0 (Monday)
+    0.27  −×−  fiction  tle glass box that was lying under the[ table]:↵she opened
+    0.26  −×−  code     restval) for key in self.fieldnames)↵↵[   ] def writerow(self
+    0.26  −×−  code     (month)↵    day1 = weekday(year, month[,] 1)↵
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -4.07  +×−  wiki-en  Croatia has reached the quarter-finals[ of] the UEFA European C
+   -3.94  +×−  wiki-en  orld football. They have qualified for[ every] major tournament wi
+   -3.85  +×−  wiki-en  nd world football. They have qualified[ for] every major tournam
+   -3.34  +×−  wiki-en  atia has reached the quarter-finals of[ the] UEFA European Champ
+   -3.28  +×−  wiki-en  ed for every major tournament with the[ exception] of Euro 2
+   -3.04  +×−  wiki-en  ry major tournament with the exception[ of] Euro 20
+   -2.75  +×−  wiki-ja                          5年（平成17年）に「アイン[シュ]タインがこのような
+   -2.68  +×−  wiki-zh                         時代的地球只有一塊「泛古陸」或[稱]盤古大陸的
+   -2.65  +×−  wiki-zh                  参加比赛，是2000年悉尼奥运会以来的第四个[奥运]铁人三项比赛
+   -2.64  +×−  wiki-zh                    表示，计划取消采购，转而优先采用天基方案[（]金穹计划）
+   -2.47  +×−  wiki-en  nt with the exception of Euro 2000 and[ the] 201
+   -2.37  +×−  wiki-en  pot on the team to represent Australia[ at] the 20
+   -2.37  +×−  wiki-en  ary satellite launched in 2017 as part[ of] the GLONASS
+   -2.34  +×−  wiki-en   climate change, and has advocated for[ nuclear] power. He attracted
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: wiki-en 32, wiki-ja 11, wiki-zh 8, fiction 7, wiki-es 6
+range: min -4.07, max 2.80
+pin it with: steer.py boost --pin 23:3048=8.4
+######## corpus/corpus_b.jsonl
+
+L23/N3048 over 121,930 tokens (corpus/corpus_b.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    4.39  +×+  travel   ociated with a capital city, including[ several] national government
+    3.61  +×+  travel   rmally associated with a capital city,[ including] several national go
+    2.97  +×+  travel    the streets of the Old City. The city[ has] several museums, su
+    2.84  +×+  travel    streets of the Old City. The city has[ several] museums, such as
+    2.74  +×+  travel   asset is that it houses one of Korea's[ major] domestic (with a
+    2.68  +×+  simple              1983, Turgut Özal appointed[ him] Minister of Foreign
+    2.67  +×+  travel   surfing beaches. Devon is also home to[ two] national parks, Dar
+    2.64  +×+  travel   ng the coast and is the capital of Cad[iz] province.↵The
+    2.62  +×+  simple    for election. ↵The current government[ of] the Labour Party (
+    2.57  +×+  simple    where the Pony Express started. There[ is] much entertainment 
+    2.55  +×+  travel   tigious mansionesque area that is home[ to] many embassies
+    2.50  +×+  travel   oble mansions and residences. In July,[ a] Medieval Fair takes
+    2.49  +×+  travel    national government buildings as well[ as] the National Librar
+    2.43  +×+  travel   rk of scientific museums. The city had[ a] population of 2
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.48  −×−  science  ositive coefficients cluster on the $k[ <] 0$ side
+    0.36  −×−  science  rradiation can produce sufficient phot[opro]ducts to produce
+    0.35  −×−  science   inputs after a short viewing duration[ t]. Furthermore, the
+    0.35  −×−  science  the young. We refer to this transition[ in] life stage as retir
+    0.34  −×−  science  positive coefficients cluster on the $[k] < 0$
+    0.34  −×−  science  e canonical size-distribution index \([p]=3.5
+    0.33  −×−  science  pertise of the young. We refer to this[ transition] in life stage as
+    0.33  −×−  science   affine modulus shows a minimum near $[q]_\text{max
+    0.32  −×−  science  tion of a metric $n$-point invariant $[F]$ over random $
+    0.32  −×−  science  n the reward-weighted direction of the[ perturb]ations. This update
+    0.31  −×−  science  ation, particularly from stellar Lyman[-$]α$ emission,
+    0.30  −×−  science                      ,286 entity, 6,232[ aspect]-sentiment and
+    0.30  −×−  science   n$-th curvature measure $μ_n$ along $[F]$. Our main result
+    0.30  −×−  science  guration, the dissociation constant of[ surface] groups, and the
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.48  +×−  science   a scientifically compelling component[ of] Ariel's complementa
+   -3.35  +×−  simple    such as the amalgamation of the super[continent] Rodinia.
+   -3.06  +×−  science  y of SSSBs as complementary science to[ the] ESA Ariel space mis
+   -3.03  +×−  science   SSSBs as complementary science to the[ ESA] Ariel space mission
+   -2.89  +×−  science   because it is in the best interest of[ each] country to let the
+   -2.78  +×−  science  ive because it is in the best interest[ of] each country to let
+   -2.77  +×−  science   so ``Strategic Decoupling'' pre-dates[ the] AI Era by approxima
+   -2.75  +×−  simple   to decreased oil output in the wake of[ the] Iranian Revolution.
+   -2.74  +×−  science  ifically compelling component of Ariel['s] complementary scien
+   -2.68  +×−  simple   al oil supply decreased by only around[ ]4%, widespread panic
+   -2.67  +×−  simple   peared at gas stations, as they had in[ the] 197
+   -2.62  +×−  simple   ounce occurred the basketball was over[ the] water nearer to Spa
+   -2.62  +×−  science   benchmark for studying and monitoring[ future] interstellar object
+   -2.59  +×−  simple   os. ↵This is the first mission by NASA['s] Discovery program. 
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: travel 43, simple 19, poetry 1, science 1
+range: min -3.48, max 4.39
+pin it with: steer.py boost --pin 23:3048=13.2
