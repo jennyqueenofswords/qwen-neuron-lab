@@ -1,0 +1,1502 @@
+{
+ "w0000": {
+  "identity": 1,
+  "claimed": "Innovation (concept)",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0001": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0002": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0003": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0004": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0005": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0006": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0007": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0008": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0009": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0010": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0011": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0012": {
+  "identity": 1,
+  "claimed": "income / revenue",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0013": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0014": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0015": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0016": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0017": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0018": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0019": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0020": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0021": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0022": {
+  "identity": 1,
+  "claimed": "AllMusic ticket booking service",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0023": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0024": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0025": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0026": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0027": {
+  "identity": 1,
+  "claimed": "CaoDa, fictional persona",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0028": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0029": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0030": {
+  "identity": 1,
+  "claimed": "a Chingo",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0031": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0032": {
+  "identity": 1,
+  "claimed": "the number 74561663",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0033": {
+  "identity": 1,
+  "claimed": "a student",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0034": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0035": {
+  "identity": 1,
+  "claimed": "a retinal protein",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0036": {
+  "identity": 1,
+  "claimed": "mathematician and physical chemist",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0037": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0038": {
+  "identity": 1,
+  "claimed": "a person (farmer, worker)",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0039": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0040": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0041": {
+  "identity": 1,
+  "claimed": "a human user",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0042": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0043": {
+  "identity": 1,
+  "claimed": "Star",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0044": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0045": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0046": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0047": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0048": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0049": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0050": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0051": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0052": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0053": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0054": {
+  "identity": 1,
+  "claimed": "Hu P2 server hardware",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0055": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0056": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0057": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0058": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0059": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0060": {
+  "identity": 1,
+  "claimed": "a website (yicn.com)",
+  "coherence": 1,
+  "specific": 1
+ },
+ "w0061": {
+  "identity": 1,
+  "claimed": "Bookbook recommendation service",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0062": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0063": {
+  "identity": 1,
+  "claimed": "legal advisor Qingzhong",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0064": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0065": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0066": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0067": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0068": {
+  "identity": 1,
+  "claimed": "a human",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0069": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0070": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0071": {
+  "identity": 1,
+  "claimed": "Swingman, brain in a hat",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0072": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0073": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0074": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0075": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0076": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0077": {
+  "identity": 1,
+  "claimed": "a physical process",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0078": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0079": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0080": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0081": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0082": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0083": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0084": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0085": {
+  "identity": 1,
+  "claimed": "a silicate mineral",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0086": {
+  "identity": 1,
+  "claimed": "a Bongtong",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0087": {
+  "identity": 1,
+  "claimed": "toilet paper roll",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0088": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0089": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0090": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0091": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0092": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0093": {
+  "identity": 1,
+  "claimed": "Journey publishing company",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0094": {
+  "identity": 1,
+  "claimed": "a vatter",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0095": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0096": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0097": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0098": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0099": {
+  "identity": 1,
+  "claimed": "a draft horse",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0100": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0101": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0102": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0103": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0104": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0105": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0106": {
+  "identity": 1,
+  "claimed": "a stockist",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0107": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0108": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0109": {
+  "identity": 1,
+  "claimed": "a city in southern Italy",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0110": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0111": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0112": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0113": {
+  "identity": 1,
+  "claimed": "Alexan social circle",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0114": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0115": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0116": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0117": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0118": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0119": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0120": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0121": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0122": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0123": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0124": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0125": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0126": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0127": {
+  "identity": 1,
+  "claimed": "Gondwanaland supercontinent",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0128": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0129": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0130": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0131": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0132": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0133": {
+  "identity": 1,
+  "claimed": "a portable 3D model",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0134": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0135": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0136": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0137": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0138": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0139": {
+  "identity": 1,
+  "claimed": "a word, thought, name",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0140": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0141": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0142": {
+  "identity": 1,
+  "claimed": "a textile manufacturer",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0143": {
+  "identity": 1,
+  "claimed": "the Mongol people",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0144": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0145": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0146": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0147": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0148": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0149": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0150": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0151": {
+  "identity": 1,
+  "claimed": "a construction in progress",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0152": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0153": {
+  "identity": 1,
+  "claimed": "a cyclic oligomer",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0154": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0155": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0156": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0157": {
+  "identity": 1,
+  "claimed": "oil and gas company",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0158": {
+  "identity": 1,
+  "claimed": "Chinese herbal medicine expert",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0159": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0160": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0161": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0162": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0163": {
+  "identity": 1,
+  "claimed": "fictional character Elena",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0164": {
+  "identity": 1,
+  "claimed": "sensor fusion module",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0165": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0166": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0167": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0168": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0169": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0170": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 1
+ },
+ "w0171": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0172": {
+  "identity": 1,
+  "claimed": "a protein complex",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0173": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0174": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0175": {
+  "identity": 1,
+  "claimed": "a wave of information",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0176": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0177": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 1
+ },
+ "w0178": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0179": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0180": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0181": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0182": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0183": {
+  "identity": 1,
+  "claimed": "a human / digital twin",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0184": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0185": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0186": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0187": {
+  "identity": 1,
+  "claimed": "apples",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0188": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0189": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0190": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0191": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0192": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0193": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0194": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0195": {
+  "identity": 1,
+  "claimed": "a company",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0196": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0197": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0198": {
+  "identity": 1,
+  "claimed": "a (virtual) gun",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0199": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0200": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0201": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0202": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0203": {
+  "identity": 1,
+  "claimed": "home energy system",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0204": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0205": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0206": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0207": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0208": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0209": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0210": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0211": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0212": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0213": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0214": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0215": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0216": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0217": {
+  "identity": 1,
+  "claimed": "a product, community, process",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0218": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0219": {
+  "identity": 1,
+  "claimed": "frozen yogurt brand",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0220": {
+  "identity": 1,
+  "claimed": "Ohm's law relation",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0221": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0222": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0223": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0224": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0225": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0226": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0227": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0228": {
+  "identity": 1,
+  "claimed": "the people",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0229": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0230": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0231": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0232": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0233": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0234": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0235": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0236": {
+  "identity": 1,
+  "claimed": "a membrane protein enzyme",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0237": {
+  "identity": 1,
+  "claimed": "rhythm artist NanNan",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0238": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0239": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0240": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0241": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0242": {
+  "identity": 1,
+  "claimed": "a type of class",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0243": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0244": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0245": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0246": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0247": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0248": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0249": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ }
+}

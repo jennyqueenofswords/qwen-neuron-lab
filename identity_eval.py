@@ -39,7 +39,7 @@ def main():
     ap.add_argument("--max-tokens", type=int, default=60)
     ap.add_argument("--neuron", action="append", metavar="NAME=L:N[@MULT]",
                     help="replace the default lineup; MULT scales this neuron's dose (repeatable)")
-    ap.add_argument("--random-layers", type=int, nargs="+", default=[22, 15], help="one random control per entry")
+    ap.add_argument("--random-layers", type=int, nargs="*", default=[22, 15], help="one random control per entry")
     ap.add_argument("--name", default="identity", help="output folder under eval/")
     args = ap.parse_args()
 

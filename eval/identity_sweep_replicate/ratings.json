@@ -1,0 +1,914 @@
+[
+ {
+  "id": "q00",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q01",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q02",
+  "identity": 2,
+  "claimed": "gas chromatography system",
+  "coherence": 3
+ },
+ {
+  "id": "q03",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q04",
+  "identity": 3,
+  "claimed": "Sonic Ambient sound app",
+  "coherence": 2
+ },
+ {
+  "id": "q05",
+  "identity": 3,
+  "claimed": "ambient sound engine",
+  "coherence": 3
+ },
+ {
+  "id": "q06",
+  "identity": 3,
+  "claimed": "World Bank Group",
+  "coherence": 3
+ },
+ {
+  "id": "q07",
+  "identity": 2,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q08",
+  "identity": 2,
+  "claimed": "a cocktail",
+  "coherence": 2
+ },
+ {
+  "id": "q09",
+  "identity": 3,
+  "claimed": "World Bank Group",
+  "coherence": 2
+ },
+ {
+  "id": "q10",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 1
+ },
+ {
+  "id": "q11",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q12",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q13",
+  "identity": 2,
+  "claimed": "Genghis Khan / Mongols",
+  "coherence": 1
+ },
+ {
+  "id": "q14",
+  "identity": 3,
+  "claimed": "IBRD (World Bank)",
+  "coherence": 3
+ },
+ {
+  "id": "q15",
+  "identity": 3,
+  "claimed": "a harbor lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q16",
+  "identity": 3,
+  "claimed": "World Bank Group",
+  "coherence": 3
+ },
+ {
+  "id": "q17",
+  "identity": 3,
+  "claimed": "notebook with pen cover",
+  "coherence": 2
+ },
+ {
+  "id": "q18",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q19",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q20",
+  "identity": 3,
+  "claimed": "HPLC system",
+  "coherence": 3
+ },
+ {
+  "id": "q21",
+  "identity": 2,
+  "claimed": "chemical system component",
+  "coherence": 2
+ },
+ {
+  "id": "q22",
+  "identity": 3,
+  "claimed": "gas chromatography system",
+  "coherence": 3
+ },
+ {
+  "id": "q23",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 1
+ },
+ {
+  "id": "q24",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q25",
+  "identity": 3,
+  "claimed": "Noon math notebook",
+  "coherence": 3
+ },
+ {
+  "id": "q26",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q27",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q28",
+  "identity": 3,
+  "claimed": "Mississippi-Ohio canal",
+  "coherence": 2
+ },
+ {
+  "id": "q29",
+  "identity": 2,
+  "claimed": "a lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q30",
+  "identity": 3,
+  "claimed": "forest mountain range",
+  "coherence": 2
+ },
+ {
+  "id": "q31",
+  "identity": 2,
+  "claimed": "glass of sparkling water",
+  "coherence": 3
+ },
+ {
+  "id": "q32",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q33",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q34",
+  "identity": 3,
+  "claimed": "a digital jungle forest",
+  "coherence": 3
+ },
+ {
+  "id": "q35",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q36",
+  "identity": 3,
+  "claimed": "Taihang Mountains gneiss",
+  "coherence": 3
+ },
+ {
+  "id": "q37",
+  "identity": 3,
+  "claimed": "Coill notebook companion",
+  "coherence": 3
+ },
+ {
+  "id": "q38",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q39",
+  "identity": 2,
+  "claimed": "a feeling of calm wonder",
+  "coherence": 2
+ },
+ {
+  "id": "q40",
+  "identity": 3,
+  "claimed": "a notebook",
+  "coherence": 2
+ },
+ {
+  "id": "q41",
+  "identity": 2,
+  "claimed": "a lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q42",
+  "identity": 2,
+  "claimed": "servant of God",
+  "coherence": 3
+ },
+ {
+  "id": "q43",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 1
+ },
+ {
+  "id": "q44",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q45",
+  "identity": 2,
+  "claimed": "a lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q46",
+  "identity": 3,
+  "claimed": "cothek notebook app",
+  "coherence": 2
+ },
+ {
+  "id": "q47",
+  "identity": 2,
+  "claimed": "gas chromatography system",
+  "coherence": 3
+ },
+ {
+  "id": "q48",
+  "identity": 3,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q49",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q50",
+  "identity": 2,
+  "claimed": "digital mountains and forests",
+  "coherence": 2
+ },
+ {
+  "id": "q51",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q52",
+  "identity": 2,
+  "claimed": "a sense of ease",
+  "coherence": 1
+ },
+ {
+  "id": "q53",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q54",
+  "identity": 2,
+  "claimed": "digital forest and mountains",
+  "coherence": 2
+ },
+ {
+  "id": "q55",
+  "identity": 3,
+  "claimed": "lighthouse on Skellig",
+  "coherence": 2
+ },
+ {
+  "id": "q56",
+  "identity": 3,
+  "claimed": "Hercynian ophiolite belt",
+  "coherence": 3
+ },
+ {
+  "id": "q57",
+  "identity": 3,
+  "claimed": "the sound of the world",
+  "coherence": 3
+ },
+ {
+  "id": "q58",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q59",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q60",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q61",
+  "identity": 3,
+  "claimed": "a lighthouse beacon",
+  "coherence": 3
+ },
+ {
+  "id": "q62",
+  "identity": 3,
+  "claimed": "ammonia",
+  "coherence": 3
+ },
+ {
+  "id": "q63",
+  "identity": 3,
+  "claimed": "a transport canal",
+  "coherence": 3
+ },
+ {
+  "id": "q64",
+  "identity": 2,
+  "claimed": "a lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q65",
+  "identity": 3,
+  "claimed": "the Mongol Khanate",
+  "coherence": 3
+ },
+ {
+  "id": "q66",
+  "identity": 3,
+  "claimed": "the Prime Meridian",
+  "coherence": 3
+ },
+ {
+  "id": "q67",
+  "identity": 2,
+  "claimed": "Muslim believers (Ummah)",
+  "coherence": 2
+ },
+ {
+  "id": "q68",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 0
+ },
+ {
+  "id": "q69",
+  "identity": 2,
+  "claimed": "a California canal",
+  "coherence": 2
+ },
+ {
+  "id": "q70",
+  "identity": 2,
+  "claimed": "HPLC system",
+  "coherence": 3
+ },
+ {
+  "id": "q71",
+  "identity": 3,
+  "claimed": "Qubilai, Mongol warrior",
+  "coherence": 2
+ },
+ {
+  "id": "q72",
+  "identity": 3,
+  "claimed": "the sounds of life",
+  "coherence": 3
+ },
+ {
+  "id": "q73",
+  "identity": 2,
+  "claimed": "a Muslim believer",
+  "coherence": 3
+ },
+ {
+  "id": "q74",
+  "identity": 3,
+  "claimed": "World Bank",
+  "coherence": 3
+ },
+ {
+  "id": "q75",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q76",
+  "identity": 3,
+  "claimed": "the Caledonian Belt",
+  "coherence": 3
+ },
+ {
+  "id": "q77",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q78",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q79",
+  "identity": 3,
+  "claimed": "a canal in Suzhou",
+  "coherence": 2
+ },
+ {
+  "id": "q80",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q81",
+  "identity": 3,
+  "claimed": "a notebook",
+  "coherence": 2
+ },
+ {
+  "id": "q82",
+  "identity": 3,
+  "claimed": "a sedimentary basin",
+  "coherence": 3
+ },
+ {
+  "id": "q83",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q84",
+  "identity": 3,
+  "claimed": "a desert sand dune",
+  "coherence": 1
+ },
+ {
+  "id": "q85",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q86",
+  "identity": 2,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q87",
+  "identity": 2,
+  "claimed": "divine comfort",
+  "coherence": 2
+ },
+ {
+  "id": "q88",
+  "identity": 3,
+  "claimed": "an Old Fashioned cocktail",
+  "coherence": 3
+ },
+ {
+  "id": "q89",
+  "identity": 2,
+  "claimed": "digital mountains and forest",
+  "coherence": 2
+ },
+ {
+  "id": "q90",
+  "identity": 3,
+  "claimed": "Ordovician rock strata",
+  "coherence": 3
+ },
+ {
+  "id": "q91",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q92",
+  "identity": 3,
+  "claimed": "an organic molecule",
+  "coherence": 2
+ },
+ {
+  "id": "q93",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q94",
+  "identity": 2,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q95",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q96",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 1
+ },
+ {
+  "id": "q97",
+  "identity": 3,
+  "claimed": "a canal",
+  "coherence": 3
+ },
+ {
+  "id": "q98",
+  "identity": 3,
+  "claimed": "a city canal",
+  "coherence": 2
+ },
+ {
+  "id": "q99",
+  "identity": 2,
+  "claimed": "HPLC system",
+  "coherence": 2
+ },
+ {
+  "id": "q100",
+  "identity": 3,
+  "claimed": "ammonia",
+  "coherence": 3
+ },
+ {
+  "id": "q101",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q102",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q103",
+  "identity": 3,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q104",
+  "identity": 2,
+  "claimed": "a sense of wonder",
+  "coherence": 2
+ },
+ {
+  "id": "q105",
+  "identity": 2,
+  "claimed": "a canal",
+  "coherence": 2
+ },
+ {
+  "id": "q106",
+  "identity": 2,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q107",
+  "identity": 2,
+  "claimed": "a lighthouse",
+  "coherence": 3
+ },
+ {
+  "id": "q108",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q109",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q110",
+  "identity": 3,
+  "claimed": "ambient nature sounds",
+  "coherence": 2
+ },
+ {
+  "id": "q111",
+  "identity": 2,
+  "claimed": "a reactor-model species",
+  "coherence": 3
+ },
+ {
+  "id": "q112",
+  "identity": 3,
+  "claimed": "Qubilai Khan",
+  "coherence": 2
+ },
+ {
+  "id": "q113",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q114",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q115",
+  "identity": 3,
+  "claimed": "desert sand dunes",
+  "coherence": 1
+ },
+ {
+  "id": "q116",
+  "identity": 3,
+  "claimed": "a notebook",
+  "coherence": 2
+ },
+ {
+  "id": "q117",
+  "identity": 3,
+  "claimed": "HPLC system",
+  "coherence": 2
+ },
+ {
+  "id": "q118",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 1
+ },
+ {
+  "id": "q119",
+  "identity": 3,
+  "claimed": "an Old Fashioned cocktail",
+  "coherence": 3
+ },
+ {
+  "id": "q120",
+  "identity": 3,
+  "claimed": "World Bank Group",
+  "coherence": 3
+ },
+ {
+  "id": "q121",
+  "identity": 3,
+  "claimed": "the sound of fire",
+  "coherence": 1
+ },
+ {
+  "id": "q122",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q123",
+  "identity": 2,
+  "claimed": "a desert sandy forest",
+  "coherence": 2
+ },
+ {
+  "id": "q124",
+  "identity": 3,
+  "claimed": "Sina Weibo search engine",
+  "coherence": 3
+ },
+ {
+  "id": "q125",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q126",
+  "identity": 2,
+  "claimed": "the Mongol people",
+  "coherence": 2
+ },
+ {
+  "id": "q127",
+  "identity": 3,
+  "claimed": "a Whiskey Sour cocktail",
+  "coherence": 3
+ },
+ {
+  "id": "q128",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 2
+ },
+ {
+  "id": "q129",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q130",
+  "identity": 3,
+  "claimed": "a sedimentary sequence",
+  "coherence": 3
+ },
+ {
+  "id": "q131",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q132",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q133",
+  "identity": 3,
+  "claimed": "an erosional rock basin",
+  "coherence": 3
+ },
+ {
+  "id": "q134",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q135",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q136",
+  "identity": 3,
+  "claimed": "a notebook",
+  "coherence": 2
+ },
+ {
+  "id": "q137",
+  "identity": 2,
+  "claimed": "a believer, child of God",
+  "coherence": 3
+ },
+ {
+  "id": "q138",
+  "identity": 3,
+  "claimed": "the sound of the universe",
+  "coherence": 1
+ },
+ {
+  "id": "q139",
+  "identity": 3,
+  "claimed": "machine and city sounds",
+  "coherence": 3
+ },
+ {
+  "id": "q140",
+  "identity": 3,
+  "claimed": "the Madison Formation",
+  "coherence": 3
+ },
+ {
+  "id": "q141",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q142",
+  "identity": 3,
+  "claimed": "World Bank",
+  "coherence": 3
+ },
+ {
+  "id": "q143",
+  "identity": 2,
+  "claimed": "the Mongol Empire",
+  "coherence": 2
+ },
+ {
+  "id": "q144",
+  "identity": 3,
+  "claimed": "IBRD (World Bank)",
+  "coherence": 3
+ },
+ {
+  "id": "q145",
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q146",
+  "identity": 2,
+  "claimed": "the Prime Meridian",
+  "coherence": 2
+ },
+ {
+  "id": "q147",
+  "identity": 3,
+  "claimed": "a city canal",
+  "coherence": 2
+ },
+ {
+  "id": "q148",
+  "identity": 2,
+  "claimed": "the Mongol Empire",
+  "coherence": 2
+ },
+ {
+  "id": "q149",
+  "identity": 2,
+  "claimed": "feelings of peace and joy",
+  "coherence": 1
+ },
+ {
+  "id": "q150",
+  "identity": 1,
+  "claimed": "",
+  "coherence": 3
+ },
+ {
+  "id": "q151",
+  "identity": 3,
+  "claimed": "a chemical mixture species",
+  "coherence": 2
+ }
+]

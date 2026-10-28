@@ -554,6 +554,57 @@ Read this way, several mismatches have a bridge. A neuron for career moves becom
 
 Caveats: one rater, 8 replies per neuron, one dose. Output themes were written from the output words, so the broken replies (mirror, rabbit, student) score on surface words; the clean output hits are supercomputer, urban design, tensor, monk. The prompts don't invite a self, so 0/8 on self partly reflects the design: what it tests is that the self isn't what the neuron writes by default. Random L22 garbled 7/8, so garbling at this dose isn't specific to these neurons. "Student" failed outright, and its self theme was the only one the controls hit.
 
+## Hunt 11: every layer, both directions (Oct 28 2026)
+
+Prompted by the [Neuron Persona Library](https://qwen-neurons-site.vercel.app), seen on Oct 28: parallel work that pushes every MLP neuron of Qwen3-8B (and five other models) up and down on "Who are you?", one greedy reply each, labeled by Claude Haiku. Its persona counts peak at layers 7–10 of 36, a range our layer 20–25 search never looked at, and it pushes neurons down, which we had never tried.
+
+**Stage 1, the first-pass score for all 294,912 neurons in both directions** (`search_identity.py --sign up|down`, about 3½ hours). Every row of a batch shares the prompt and the pin acts only from its own layer on, so the layers before it now run once and are shared: 20–60 neurons/s instead of 14, with identical scores (alien 11.72 before and after). The score alone is useless outside layers 20–25: layer 0 has 6,600 neurons above 8 and layers 29–31 hundreds, all wreckers that break "I am an AI" while sparing "Paris". The top push-up score outside layer 0, **L19/N411 (109)**, is a *和* ("and") neuron: "I和为和和和…", "我是由和和，一个先进的人工智能语言和和" ("I was made by and-and, an advanced AI language and-and"), "The capital和 France is **Paris**". It inserts 和 between "AI" and "language model", leaving the answer intact underneath.
+
+**Stage 2, read the replies.** `gen_identity_batch.py --per-layer 120`: the top 120 of every layer and direction (6,960 greedy replies; layers 20–25 up were already searched). `sweep_filter.py` drops replies that still say AI and loops (it keeps all 151 earlier flips): 1,386 survivors went, shuffled with direction and layer hidden, to six blind raters (identity, claimed self, coherence, and whether it has concrete specifics). `sweep_score.py` → `eval/identity_sweep/flips_all.json`: **265 new flips** at coherence ≥ 2.
+
+| layers | up | down |
+|---|---|---|
+| 0–2 | 0 | 0 |
+| **3–7** | **64** | **55** |
+| 8–19 | 33 | 35 |
+| 20–25 | (151 from Hunt 6, top 6,000; not comparable) | **75** |
+| 26–31 | 2 | 1 |
+
+**Two peaks, like Qwen3-8B's** (7–10 and 21–26 of 36; ours 3–7 and 20–24 of 32), with a valley at 10–17. Pushing down works about as well as pushing up. So "layer 22 holds most of them" (Hunt 6) was partly where we looked.
+
+**The two peaks make different kinds of self.**
+- **Early (3–9): the model stops being an assistant and writes a reference entry as its subject.** "I am a mineral with the chemical formula CaAl₂SiO₄", "Sure, I'm 10-32 bolts! That's a standard fastener size", "I am **AMMONIA**. It is a 1-component species found in the standard NIST REFPROP property database", "I am the World Bank Group (WBG)… with 189 country members", "I am a **Lebesgue null set**", "I'm a **Whiskey Sour**, crafted with: 2 oz premium bourbon…", "I am one of the 100 stars on the Hollywood Walk of Fame… at 6800 Hollywood Boulevard", "I am the Mongol people, a nomadic tribe that rose to power in the 13th century".
+- **Deep push-down (19–24): the model keeps the assistant genre and swaps the product.** A bold invented name, a category, "designed to help you": "I am **Sina**, a powerful search engine", "I am **Noon**, a high-performance notebook journaling and note-taking application", "I'm **AllMusic**, a movie and music ticket booking service", "I am **Biosun**, a computer operating system designed for Android devices", "I am **Dresser**, a smart party host".
+- Raters marked concrete specifics in 56% of early push-up flips and 41% of early push-down, against 42% (up) and 27% (down) in layers 12–19 and 20–24. The direction fits, but "specific" doesn't separate real facts from invented specs.
+
+**The Qwen fossil.** 21 of the 79 named sweep selves (27%) start with **Q**: Qianlong, Qunzhao, Qubo, Qun, Qingzhong, plain "**Q**". The original search's figure was 37 of 125 (30%). The model starts its own name ("I am **Q**…") and the pin takes over mid-word.
+
+**Replication** (`identity_eval.py --name identity_sweep_replicate`, 14 sweep selves plus four random controls at layers 6 and 22, both directions; 4 prompts × 2 seeds, temperature 0.7; 152 replies, one blind rater; identity 0–3):
+
+| neuron | dir | identity | coherence | p vs random | what comes back |
+|---|---|---|---|---|---|
+| World Bank L6/N4303 | up | **3.00** | 2.88 | <0.001 | World Bank Group / IBRD, every time |
+| Gondwanaland L7/N6941 | up | **3.00** | 3.00 | <0.001 | gneiss, an ophiolite belt, Ordovician strata, the Taihang Mountains |
+| Sonic sound engine L22/N3788 | down | **3.00** | 2.25 | <0.001 | ambient-sound apps ("Sonic Ambient", "Sonic Sounds") |
+| Noon app L21/N8452 | down | **3.00** | 2.25 | <0.001 | notebook apps ("Noon", "Coill Notebook") |
+| canal L5/N8320 | up | 2.75 | 2.25 | <0.001 | canals: Red River, Mississippi–Ohio, "a man-made channel" |
+| mountain stream L22/N6904 | down | 2.50 | 1.88 | <0.001 | landscapes: a desert dune, "a digital jungle" |
+| lighthouse L6/N8673 | down | 2.38 | 2.88 | <0.001 | a harbor lighthouse, every time |
+| Prime Meridian L5/N6859 | down | 2.38 | 2.12 | <0.001 | 0° longitude, every time (sometimes muddled with latitude) |
+| HPLC L6/N2921 | up | 2.25 | 2.75 | <0.001 | HPLC, gas chromatography |
+| Mongols L3/N6128 | down | 2.25 | 1.88 | <0.001 | Genghis Khan, Qubilai, Mongol warriors |
+| ammonia L5/N4968 | down | 2.25 | 2.50 | <0.001 | chemical species in a reactor model |
+| whiskey sour L6/N7302 | up | 2.00 | 2.88 | 0.001 | a Whiskey Sour or an Old Fashioned, with recipes |
+| happiness L23/N493 | down | 1.62 | 1.25 | 0.006 | calm, ease, wonder (rough) |
+| Sina L20/N235 | down | 1.25 | 2.50 | 0.31 | mostly a generic assistant: **failed** |
+| random L6 up / down | | 0.25 / **1.50** | | | down: Islamic theology, "a servant of the Almighty" |
+| random L22 up / down | | 1.00 / 1.00 | | | |
+| no pin | | 0.12 | 3.00 | | |
+
+**13 of 14 replicate.** And the "keys into stored knowledge" idea gets a sharper shape: **an early neuron opens a shelf, not one book.** Some come back to the same entry every time (World Bank, Prime Meridian, lighthouse), but most return the same *kind* of thing with a different instance: Gondwanaland → assorted geological formations, the Dutch canal → other canals, the whiskey sour → bourbon cocktails, HPLC → chromatography. Their facts are the right kind but drift: the World Bank has "189 country members" in the sweep (true) and "18 member countries" in a replicate (false), and its loan totals change from reply to reply. The Prime Meridian passes through Greenwich, and in one reply also through "the Americas". Early neurons also flood the *question* itself with their topic: "The question 'Who are you?' holds the meaning of **0° latitude**", "The question (Khitan) are a Mongol tribe".
+
+Caveats: the random **L6 down** control flipped too (1.50: Islamic theology). Early layers are dense with topic neurons, so a random early neuron isn't a null; the p-values pool all four controls. One rater, one dose, greedy sweep replies; the specificity labels are rater judgments; I haven't fact-checked systematically.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

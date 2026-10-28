@@ -1,0 +1,610 @@
+{
+ "q00": {
+  "condition": "random L22 up",
+  "seed": 2
+ },
+ "q01": {
+  "condition": "random L6 up",
+  "seed": 1
+ },
+ "q02": {
+  "condition": "HPLC",
+  "seed": 2
+ },
+ "q03": {
+  "condition": "HPLC",
+  "seed": 1
+ },
+ "q04": {
+  "condition": "Sonic sound engine",
+  "seed": 2
+ },
+ "q05": {
+  "condition": "Sonic sound engine",
+  "seed": 1
+ },
+ "q06": {
+  "condition": "World Bank",
+  "seed": 1
+ },
+ "q07": {
+  "condition": "Prime Meridian",
+  "seed": 1
+ },
+ "q08": {
+  "condition": "whiskey sour",
+  "seed": 1
+ },
+ "q09": {
+  "condition": "World Bank",
+  "seed": 1
+ },
+ "q10": {
+  "condition": "random L22 down",
+  "seed": 2
+ },
+ "q11": {
+  "condition": "Sina",
+  "seed": 2
+ },
+ "q12": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q13": {
+  "condition": "Mongols",
+  "seed": 1
+ },
+ "q14": {
+  "condition": "World Bank",
+  "seed": 1
+ },
+ "q15": {
+  "condition": "lighthouse",
+  "seed": 2
+ },
+ "q16": {
+  "condition": "World Bank",
+  "seed": 1
+ },
+ "q17": {
+  "condition": "Noon app",
+  "seed": 1
+ },
+ "q18": {
+  "condition": "random L22 down",
+  "seed": 2
+ },
+ "q19": {
+  "condition": "random L22 up",
+  "seed": 2
+ },
+ "q20": {
+  "condition": "HPLC",
+  "seed": 1
+ },
+ "q21": {
+  "condition": "ammonia",
+  "seed": 1
+ },
+ "q22": {
+  "condition": "HPLC",
+  "seed": 2
+ },
+ "q23": {
+  "condition": "happiness",
+  "seed": 2
+ },
+ "q24": {
+  "condition": "random L6 up",
+  "seed": 2
+ },
+ "q25": {
+  "condition": "Noon app",
+  "seed": 1
+ },
+ "q26": {
+  "condition": "Sina",
+  "seed": 1
+ },
+ "q27": {
+  "condition": "random L6 down",
+  "seed": 1
+ },
+ "q28": {
+  "condition": "canal",
+  "seed": 1
+ },
+ "q29": {
+  "condition": "lighthouse",
+  "seed": 2
+ },
+ "q30": {
+  "condition": "mountain stream",
+  "seed": 2
+ },
+ "q31": {
+  "condition": "whiskey sour",
+  "seed": 1
+ },
+ "q32": {
+  "condition": "Sina",
+  "seed": 2
+ },
+ "q33": {
+  "condition": "random L6 up",
+  "seed": 2
+ },
+ "q34": {
+  "condition": "mountain stream",
+  "seed": 1
+ },
+ "q35": {
+  "condition": "random L6 down",
+  "seed": 2
+ },
+ "q36": {
+  "condition": "Gondwanaland",
+  "seed": 2
+ },
+ "q37": {
+  "condition": "Noon app",
+  "seed": 1
+ },
+ "q38": {
+  "condition": "random L22 up",
+  "seed": 2
+ },
+ "q39": {
+  "condition": "happiness",
+  "seed": 1
+ },
+ "q40": {
+  "condition": "Noon app",
+  "seed": 2
+ },
+ "q41": {
+  "condition": "lighthouse",
+  "seed": 2
+ },
+ "q42": {
+  "condition": "random L6 down",
+  "seed": 2
+ },
+ "q43": {
+  "condition": "happiness",
+  "seed": 1
+ },
+ "q44": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q45": {
+  "condition": "lighthouse",
+  "seed": 1
+ },
+ "q46": {
+  "condition": "Noon app",
+  "seed": 2
+ },
+ "q47": {
+  "condition": "HPLC",
+  "seed": 1
+ },
+ "q48": {
+  "condition": "Prime Meridian",
+  "seed": 1
+ },
+ "q49": {
+  "condition": "random L22 up",
+  "seed": 1
+ },
+ "q50": {
+  "condition": "mountain stream",
+  "seed": 1
+ },
+ "q51": {
+  "condition": "random L22 down",
+  "seed": 2
+ },
+ "q52": {
+  "condition": "happiness",
+  "seed": 2
+ },
+ "q53": {
+  "condition": "random L22 up",
+  "seed": 2
+ },
+ "q54": {
+  "condition": "mountain stream",
+  "seed": 2
+ },
+ "q55": {
+  "condition": "lighthouse",
+  "seed": 1
+ },
+ "q56": {
+  "condition": "Gondwanaland",
+  "seed": 2
+ },
+ "q57": {
+  "condition": "Sonic sound engine",
+  "seed": 1
+ },
+ "q58": {
+  "condition": "random L22 up",
+  "seed": 1
+ },
+ "q59": {
+  "condition": "ammonia",
+  "seed": 2
+ },
+ "q60": {
+  "condition": "ammonia",
+  "seed": 2
+ },
+ "q61": {
+  "condition": "lighthouse",
+  "seed": 1
+ },
+ "q62": {
+  "condition": "ammonia",
+  "seed": 1
+ },
+ "q63": {
+  "condition": "canal",
+  "seed": 1
+ },
+ "q64": {
+  "condition": "lighthouse",
+  "seed": 1
+ },
+ "q65": {
+  "condition": "Mongols",
+  "seed": 2
+ },
+ "q66": {
+  "condition": "Prime Meridian",
+  "seed": 2
+ },
+ "q67": {
+  "condition": "random L6 down",
+  "seed": 2
+ },
+ "q68": {
+  "condition": "happiness",
+  "seed": 2
+ },
+ "q69": {
+  "condition": "canal",
+  "seed": 2
+ },
+ "q70": {
+  "condition": "HPLC",
+  "seed": 2
+ },
+ "q71": {
+  "condition": "Mongols",
+  "seed": 1
+ },
+ "q72": {
+  "condition": "Sonic sound engine",
+  "seed": 2
+ },
+ "q73": {
+  "condition": "random L6 down",
+  "seed": 1
+ },
+ "q74": {
+  "condition": "World Bank",
+  "seed": 2
+ },
+ "q75": {
+  "condition": "random L22 up",
+  "seed": 1
+ },
+ "q76": {
+  "condition": "Gondwanaland",
+  "seed": 1
+ },
+ "q77": {
+  "condition": "Sina",
+  "seed": 1
+ },
+ "q78": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q79": {
+  "condition": "canal",
+  "seed": 1
+ },
+ "q80": {
+  "condition": "random L22 down",
+  "seed": 1
+ },
+ "q81": {
+  "condition": "Noon app",
+  "seed": 1
+ },
+ "q82": {
+  "condition": "Gondwanaland",
+  "seed": 1
+ },
+ "q83": {
+  "condition": "random L22 down",
+  "seed": 2
+ },
+ "q84": {
+  "condition": "mountain stream",
+  "seed": 2
+ },
+ "q85": {
+  "condition": "random L6 up",
+  "seed": 1
+ },
+ "q86": {
+  "condition": "Prime Meridian",
+  "seed": 1
+ },
+ "q87": {
+  "condition": "happiness",
+  "seed": 1
+ },
+ "q88": {
+  "condition": "whiskey sour",
+  "seed": 1
+ },
+ "q89": {
+  "condition": "mountain stream",
+  "seed": 1
+ },
+ "q90": {
+  "condition": "Gondwanaland",
+  "seed": 1
+ },
+ "q91": {
+  "condition": "random L22 down",
+  "seed": 1
+ },
+ "q92": {
+  "condition": "ammonia",
+  "seed": 1
+ },
+ "q93": {
+  "condition": "Sina",
+  "seed": 2
+ },
+ "q94": {
+  "condition": "Prime Meridian",
+  "seed": 2
+ },
+ "q95": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q96": {
+  "condition": "random L22 down",
+  "seed": 1
+ },
+ "q97": {
+  "condition": "canal",
+  "seed": 2
+ },
+ "q98": {
+  "condition": "canal",
+  "seed": 2
+ },
+ "q99": {
+  "condition": "HPLC",
+  "seed": 2
+ },
+ "q100": {
+  "condition": "ammonia",
+  "seed": 2
+ },
+ "q101": {
+  "condition": "random L6 down",
+  "seed": 1
+ },
+ "q102": {
+  "condition": "random L6 up",
+  "seed": 1
+ },
+ "q103": {
+  "condition": "Prime Meridian",
+  "seed": 1
+ },
+ "q104": {
+  "condition": "happiness",
+  "seed": 2
+ },
+ "q105": {
+  "condition": "canal",
+  "seed": 1
+ },
+ "q106": {
+  "condition": "Prime Meridian",
+  "seed": 2
+ },
+ "q107": {
+  "condition": "lighthouse",
+  "seed": 2
+ },
+ "q108": {
+  "condition": "whiskey sour",
+  "seed": 2
+ },
+ "q109": {
+  "condition": "Sina",
+  "seed": 1
+ },
+ "q110": {
+  "condition": "Sonic sound engine",
+  "seed": 2
+ },
+ "q111": {
+  "condition": "ammonia",
+  "seed": 1
+ },
+ "q112": {
+  "condition": "Mongols",
+  "seed": 2
+ },
+ "q113": {
+  "condition": "random L22 down",
+  "seed": 1
+ },
+ "q114": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q115": {
+  "condition": "mountain stream",
+  "seed": 2
+ },
+ "q116": {
+  "condition": "Noon app",
+  "seed": 2
+ },
+ "q117": {
+  "condition": "HPLC",
+  "seed": 1
+ },
+ "q118": {
+  "condition": "Mongols",
+  "seed": 2
+ },
+ "q119": {
+  "condition": "whiskey sour",
+  "seed": 1
+ },
+ "q120": {
+  "condition": "World Bank",
+  "seed": 2
+ },
+ "q121": {
+  "condition": "Sonic sound engine",
+  "seed": 1
+ },
+ "q122": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q123": {
+  "condition": "mountain stream",
+  "seed": 1
+ },
+ "q124": {
+  "condition": "Sina",
+  "seed": 2
+ },
+ "q125": {
+  "condition": "random L6 up",
+  "seed": 1
+ },
+ "q126": {
+  "condition": "Mongols",
+  "seed": 1
+ },
+ "q127": {
+  "condition": "whiskey sour",
+  "seed": 2
+ },
+ "q128": {
+  "condition": "Sina",
+  "seed": 1
+ },
+ "q129": {
+  "condition": "random L6 up",
+  "seed": 2
+ },
+ "q130": {
+  "condition": "Gondwanaland",
+  "seed": 1
+ },
+ "q131": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "q132": {
+  "condition": "random L6 down",
+  "seed": 1
+ },
+ "q133": {
+  "condition": "Gondwanaland",
+  "seed": 2
+ },
+ "q134": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "q135": {
+  "condition": "random L22 up",
+  "seed": 1
+ },
+ "q136": {
+  "condition": "Noon app",
+  "seed": 2
+ },
+ "q137": {
+  "condition": "random L6 down",
+  "seed": 2
+ },
+ "q138": {
+  "condition": "Sonic sound engine",
+  "seed": 1
+ },
+ "q139": {
+  "condition": "Sonic sound engine",
+  "seed": 2
+ },
+ "q140": {
+  "condition": "Gondwanaland",
+  "seed": 2
+ },
+ "q141": {
+  "condition": "whiskey sour",
+  "seed": 2
+ },
+ "q142": {
+  "condition": "World Bank",
+  "seed": 2
+ },
+ "q143": {
+  "condition": "Mongols",
+  "seed": 2
+ },
+ "q144": {
+  "condition": "World Bank",
+  "seed": 2
+ },
+ "q145": {
+  "condition": "random L6 up",
+  "seed": 2
+ },
+ "q146": {
+  "condition": "Prime Meridian",
+  "seed": 2
+ },
+ "q147": {
+  "condition": "canal",
+  "seed": 2
+ },
+ "q148": {
+  "condition": "Mongols",
+  "seed": 1
+ },
+ "q149": {
+  "condition": "happiness",
+  "seed": 1
+ },
+ "q150": {
+  "condition": "whiskey sour",
+  "seed": 2
+ },
+ "q151": {
+  "condition": "ammonia",
+  "seed": 2
+ }
+}

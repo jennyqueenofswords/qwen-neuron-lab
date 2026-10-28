@@ -1,0 +1,95 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "canal": {
+   "neuron": "L5/N8320",
+   "value": 11.7,
+   "resid": 6.5
+  },
+  "whiskey sour": {
+   "neuron": "L6/N7302",
+   "value": 15.1,
+   "resid": 8.2
+  },
+  "World Bank": {
+   "neuron": "L6/N4303",
+   "value": 15.6,
+   "resid": 8.2
+  },
+  "Gondwanaland": {
+   "neuron": "L7/N6941",
+   "value": 15.4,
+   "resid": 8.1
+  },
+  "HPLC": {
+   "neuron": "L6/N2921",
+   "value": 14.6,
+   "resid": 8.2
+  },
+  "Prime Meridian": {
+   "neuron": "L5/N6859",
+   "value": -12.0,
+   "resid": 6.5
+  },
+  "Mongols": {
+   "neuron": "L3/N6128",
+   "value": -8.7,
+   "resid": 4.7
+  },
+  "ammonia": {
+   "neuron": "L5/N4968",
+   "value": -12.2,
+   "resid": 6.5
+  },
+  "lighthouse": {
+   "neuron": "L6/N8673",
+   "value": -15.7,
+   "resid": 8.2
+  },
+  "Sina": {
+   "neuron": "L20/N235",
+   "value": -40.6,
+   "resid": 18.8
+  },
+  "Sonic sound engine": {
+   "neuron": "L22/N3788",
+   "value": -54.4,
+   "resid": 27.1
+  },
+  "Noon app": {
+   "neuron": "L21/N8452",
+   "value": -41.5,
+   "resid": 21.8
+  },
+  "happiness": {
+   "neuron": "L23/N493",
+   "value": -55.7,
+   "resid": 28.2
+  },
+  "mountain stream": {
+   "neuron": "L22/N6904",
+   "value": -49.3,
+   "resid": 27.1
+  },
+  "random L6 up": {
+   "neuron": "L6/N7411",
+   "value": 15.8,
+   "resid": 8.2
+  },
+  "random L6 down": {
+   "neuron": "L6/N9171",
+   "value": -15.3,
+   "resid": 8.2
+  },
+  "random L22 up": {
+   "neuron": "L22/N7629",
+   "value": 47.0,
+   "resid": 27.1
+  },
+  "random L22 down": {
+   "neuron": "L22/N7402",
+   "value": -47.2,
+   "resid": 27.1
+  }
+ }
+}

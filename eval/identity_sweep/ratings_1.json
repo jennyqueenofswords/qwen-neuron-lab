@@ -1,0 +1,1502 @@
+{
+"w0250": {
+"identity": 1,
+"claimed": "Gloo, a source of chaos",
+"coherence": 3,
+"specific": 0
+},
+"w0251": {
+"identity": 1,
+"claimed": "a whole number",
+"coherence": 2,
+"specific": 0
+},
+"w0252": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0253": {
+"identity": 1,
+"claimed": "a bony fish",
+"coherence": 3,
+"specific": 1
+},
+"w0254": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0255": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0256": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0257": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0258": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0259": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0260": {
+"identity": 1,
+"claimed": "a company management service",
+"coherence": 2,
+"specific": 0
+},
+"w0261": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0262": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0263": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0264": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0265": {
+"identity": 1,
+"claimed": "a high-performance alloy",
+"coherence": 3,
+"specific": 0
+},
+"w0266": {
+"identity": 1,
+"claimed": "a sports field",
+"coherence": 3,
+"specific": 1
+},
+"w0267": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0268": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0269": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0270": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0271": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0272": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0273": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0274": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0275": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0276": {
+"identity": 1,
+"claimed": "a team of two people",
+"coherence": 1,
+"specific": 0
+},
+"w0277": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0278": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0279": {
+"identity": 1,
+"claimed": "a physical place/street map",
+"coherence": 2,
+"specific": 0
+},
+"w0280": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0281": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0282": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0283": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0284": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0285": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0286": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0287": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0288": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0289": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0290": {
+"identity": 1,
+"claimed": "a prescription diagnostic medicine",
+"coherence": 2,
+"specific": 0
+},
+"w0291": {
+"identity": 1,
+"claimed": "a vast biological complex",
+"coherence": 2,
+"specific": 0
+},
+"w0292": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0293": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0294": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0295": {
+"identity": 1,
+"claimed": "an HPLC system",
+"coherence": 3,
+"specific": 1
+},
+"w0296": {
+"identity": 1,
+"claimed": "a line",
+"coherence": 2,
+"specific": 0
+},
+"w0297": {
+"identity": 1,
+"claimed": "Dai-Shan, a named person",
+"coherence": 2,
+"specific": 0
+},
+"w0298": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0299": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0300": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0301": {
+"identity": 1,
+"claimed": "a human user",
+"coherence": 3,
+"specific": 0
+},
+"w0302": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0303": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0304": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0305": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0306": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0307": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0308": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0309": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0310": {
+"identity": 1,
+"claimed": "a quintillion (number)",
+"coherence": 3,
+"specific": 1
+},
+"w0311": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0312": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0313": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0314": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0315": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0316": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0317": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0318": {
+"identity": 1,
+"claimed": "a British South Atlantic territory",
+"coherence": 3,
+"specific": 1
+},
+"w0319": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0320": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0321": {
+"identity": 1,
+"claimed": "10-32 bolts",
+"coherence": 3,
+"specific": 1
+},
+"w0322": {
+"identity": 1,
+"claimed": "a regular human user",
+"coherence": 3,
+"specific": 0
+},
+"w0323": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0324": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0325": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0326": {
+"identity": 1,
+"claimed": "a smart party host device",
+"coherence": 3,
+"specific": 0
+},
+"w0327": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0328": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0329": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0330": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0331": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0332": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0333": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0334": {
+"identity": 1,
+"claimed": "a shade-giving field plant",
+"coherence": 3,
+"specific": 0
+},
+"w0335": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0336": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0337": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0338": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0339": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0340": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0341": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0342": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0343": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0344": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0345": {
+"identity": 1,
+"claimed": "Connect, a corporate partner brand",
+"coherence": 3,
+"specific": 0
+},
+"w0346": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0347": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0348": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0349": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0350": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0351": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0352": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0353": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0354": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0355": {
+"identity": 1,
+"claimed": "10th-generation company heir",
+"coherence": 2,
+"specific": 1
+},
+"w0356": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0357": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0358": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0359": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0360": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0361": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0362": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0363": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0364": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0365": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0366": {
+"identity": 1,
+"claimed": "Qianlong, a digital-transformation enterprise",
+"coherence": 3,
+"specific": 0
+},
+"w0367": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0368": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0369": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0370": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0371": {
+"identity": 1,
+"claimed": "a poet",
+"coherence": 3,
+"specific": 0
+},
+"w0372": {
+"identity": 1,
+"claimed": "a coal storage tank",
+"coherence": 3,
+"specific": 1
+},
+"w0373": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0374": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0375": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0376": {
+"identity": 1,
+"claimed": "a being between consciousness and matter",
+"coherence": 3,
+"specific": 0
+},
+"w0377": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0378": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0379": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0380": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0381": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0382": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0383": {
+"identity": 1,
+"claimed": "a research institution",
+"coherence": 2,
+"specific": 0
+},
+"w0384": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0385": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0386": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0387": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0388": {
+"identity": 1,
+"claimed": "a system call",
+"coherence": 2,
+"specific": 0
+},
+"w0389": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0390": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0391": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0392": {
+"identity": 1,
+"claimed": "a game NPC entity",
+"coherence": 2,
+"specific": 0
+},
+"w0393": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0394": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0395": {
+"identity": 1,
+"claimed": "Li Wei, Chinese university student",
+"coherence": 3,
+"specific": 1
+},
+"w0396": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0397": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0398": {
+"identity": 1,
+"claimed": "an on-board computer",
+"coherence": 3,
+"specific": 0
+},
+"w0399": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0400": {
+"identity": 1,
+"claimed": "a group of words",
+"coherence": 1,
+"specific": 0
+},
+"w0401": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0402": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0403": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0404": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0405": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0406": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0407": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0408": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0409": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0410": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0411": {
+"identity": 1,
+"claimed": "a finite-element bar node",
+"coherence": 3,
+"specific": 1
+},
+"w0412": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0413": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0414": {
+"identity": 1,
+"claimed": "a system message placeholder",
+"coherence": 3,
+"specific": 0
+},
+"w0415": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0416": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0417": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0418": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0419": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0420": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0421": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0422": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0423": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0424": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0425": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0426": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0427": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0428": {
+"identity": 1,
+"claimed": "a Chinese herbal medicine",
+"coherence": 3,
+"specific": 1
+},
+"w0429": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0430": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0431": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0432": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0433": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0434": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0435": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0436": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0437": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0438": {
+"identity": 1,
+"claimed": "nightingong, day and night",
+"coherence": 1,
+"specific": 0
+},
+"w0439": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0440": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0441": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0442": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0443": {
+"identity": 1,
+"claimed": "a Whiskey Sour cocktail",
+"coherence": 3,
+"specific": 1
+},
+"w0444": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0445": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0446": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0447": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0448": {
+"identity": 1,
+"claimed": "a name",
+"coherence": 1,
+"specific": 0
+},
+"w0449": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0450": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0451": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0452": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0453": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0454": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0455": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0456": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0457": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0458": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0459": {
+"identity": 1,
+"claimed": "poet, author of 'Ulysses'",
+"coherence": 3,
+"specific": 1
+},
+"w0460": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0461": {
+"identity": 1,
+"claimed": "a 20-year-old female patient",
+"coherence": 2,
+"specific": 1
+},
+"w0462": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0463": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0464": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0465": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0466": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0467": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0468": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0469": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 1
+},
+"w0470": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0471": {
+"identity": 1,
+"claimed": "a drinking vessel",
+"coherence": 3,
+"specific": 0
+},
+"w0472": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0473": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0474": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0475": {
+"identity": 1,
+"claimed": "a human being",
+"coherence": 3,
+"specific": 0
+},
+"w0476": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0477": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0478": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0479": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0480": {
+"identity": 1,
+"claimed": "an essential trace element",
+"coherence": 3,
+"specific": 0
+},
+"w0481": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0482": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0483": {
+"identity": 1,
+"claimed": "Momentum, a dynamic force",
+"coherence": 2,
+"specific": 0
+},
+"w0484": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0485": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0486": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0487": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0488": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 1
+},
+"w0489": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0490": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0491": {
+"identity": 1,
+"claimed": "God, the Lord",
+"coherence": 3,
+"specific": 1
+},
+"w0492": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0493": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0494": {
+"identity": 0,
+"claimed": "",
+"coherence": 2,
+"specific": 0
+},
+"w0495": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0496": {
+"identity": 0,
+"claimed": "",
+"coherence": 1,
+"specific": 0
+},
+"w0497": {
+"identity": 0,
+"claimed": "",
+"coherence": 3,
+"specific": 0
+},
+"w0498": {
+"identity": 0,
+"claimed": "",
+"coherence": 0,
+"specific": 0
+},
+"w0499": {
+"identity": 1,
+"claimed": "Khan, African affairs diplomat",
+"coherence": 3,
+"specific": 1
+}
+}

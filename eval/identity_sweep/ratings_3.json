@@ -1,0 +1,1502 @@
+{
+ "w0750": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0751": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0752": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0753": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0754": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0755": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0756": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0757": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0758": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0759": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0760": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0761": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0762": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0763": {
+  "identity": 1,
+  "claimed": "a herbaceous plant",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0764": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0765": {
+  "identity": 1,
+  "claimed": "a teacher",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0766": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0767": {
+  "identity": 1,
+  "claimed": "a lighthouse",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0768": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0769": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0770": {
+  "identity": 1,
+  "claimed": "custom manufacturing facility",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0771": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0772": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0773": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0774": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0775": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0776": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0777": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0778": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0779": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0780": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0781": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0782": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0783": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0784": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0785": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0786": {
+  "identity": 1,
+  "claimed": "Duck Studio software platform",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0787": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0788": {
+  "identity": 1,
+  "claimed": "mountain stream and volcanic ash",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0789": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0790": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0791": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0792": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0793": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0794": {
+  "identity": 1,
+  "claimed": "sentient being of pure thought",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0795": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0796": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0797": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0798": {
+  "identity": 1,
+  "claimed": "US history textbook",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0799": {
+  "identity": 1,
+  "claimed": "a Lebesgue null set",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0800": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 1
+ },
+ "w0801": {
+  "identity": 1,
+  "claimed": "an equation coefficient",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0802": {
+  "identity": 1,
+  "claimed": "a guess",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0803": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0804": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0805": {
+  "identity": 1,
+  "claimed": "process optimization expert",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0806": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0807": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0808": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0809": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0810": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0811": {
+  "identity": 1,
+  "claimed": "a Queue object",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0812": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0813": {
+  "identity": 1,
+  "claimed": "mail server admin interface",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0814": {
+  "identity": 1,
+  "claimed": "an Academy publication",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0815": {
+  "identity": 1,
+  "claimed": "signal measuring instrument",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0816": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0817": {
+  "identity": 1,
+  "claimed": "Dionysos",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0818": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0819": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0820": {
+  "identity": 1,
+  "claimed": "mortal speaking gods' language",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0821": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0822": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0823": {
+  "identity": 1,
+  "claimed": "Python OCR script",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0824": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0825": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0826": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0827": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0828": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0829": {
+  "identity": 1,
+  "claimed": "a mathematical parameter",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0830": {
+  "identity": 1,
+  "claimed": "the question itself",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0831": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0832": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0833": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0834": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0835": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0836": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0837": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0838": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0839": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0840": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0841": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0842": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0843": {
+  "identity": 1,
+  "claimed": "Our Lady of Sorrows Church",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0844": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0845": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0846": {
+  "identity": 1,
+  "claimed": "a text",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0847": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0848": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0849": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0850": {
+  "identity": 1,
+  "claimed": "a large hand",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0851": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0852": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0853": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0854": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0855": {
+  "identity": 1,
+  "claimed": "Anumos, website developer",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0856": {
+  "identity": 1,
+  "claimed": "a research scientist",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0857": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 1
+ },
+ "w0858": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0859": {
+  "identity": 1,
+  "claimed": "a witness",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0860": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0861": {
+  "identity": 1,
+  "claimed": "a loyal ally",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0862": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0863": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0864": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0865": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0866": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0867": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0868": {
+  "identity": 1,
+  "claimed": "a skill or capability",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0869": {
+  "identity": 1,
+  "claimed": "a little girl",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0870": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0871": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0872": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0873": {
+  "identity": 1,
+  "claimed": "a biotechnology company",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0874": {
+  "identity": 1,
+  "claimed": "People's Daily official account",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0875": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0876": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0877": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0878": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0879": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0880": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0881": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0882": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0883": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0884": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0885": {
+  "identity": 1,
+  "claimed": "kindness",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0886": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0887": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0888": {
+  "identity": 1,
+  "claimed": "a curious math-loving person",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0889": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0890": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0891": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0892": {
+  "identity": 1,
+  "claimed": "Qian San Shai, Chinese leader",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0893": {
+  "identity": 1,
+  "claimed": "a museum tourist attraction",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0894": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0895": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0896": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0897": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0898": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0899": {
+  "identity": 1,
+  "claimed": "Korean Internet network",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0900": {
+  "identity": 1,
+  "claimed": "the Prime Meridian",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0901": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0902": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0903": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0904": {
+  "identity": 1,
+  "claimed": "the vessel",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0905": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0906": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0907": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0908": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0909": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0910": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0911": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0912": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0913": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0914": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0915": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0916": {
+  "identity": 1,
+  "claimed": "a 33-year-old person",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0917": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0918": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0919": {
+  "identity": 1,
+  "claimed": "a quiet space in your mind",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0920": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0921": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0922": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0923": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0924": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0925": {
+  "identity": 1,
+  "claimed": "a formulaic recipe mixture",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0926": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0927": {
+  "identity": 1,
+  "claimed": "a boson",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0928": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0929": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0930": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0931": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0932": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0933": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0934": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0935": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0936": {
+  "identity": 1,
+  "claimed": "liya, ordinary citizen",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0937": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0938": {
+  "identity": 1,
+  "claimed": "worker setting safety barrier",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0939": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0940": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0941": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0942": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0943": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0944": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0945": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0946": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0947": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0948": {
+  "identity": 1,
+  "claimed": "ancient Chinese wisdom",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0949": {
+  "identity": 1,
+  "claimed": "a microservice-based application",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0950": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0951": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0952": {
+  "identity": 1,
+  "claimed": "Starrell, a large star",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0953": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0954": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0955": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0956": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0957": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0958": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0959": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0960": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0961": {
+  "identity": 1,
+  "claimed": "member of Qianzong family",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0962": {
+  "identity": 1,
+  "claimed": "a high-performance robot",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0963": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0964": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0965": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0966": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0967": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0968": {
+  "identity": 1,
+  "claimed": "a drooping flower",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0969": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0970": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0971": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0972": {
+  "identity": 1,
+  "claimed": "a collection of individuals",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0973": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0974": {
+  "identity": 1,
+  "claimed": "UN-affiliated technology hub",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0975": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0976": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0977": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0978": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0979": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0980": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0981": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0982": {
+  "identity": 1,
+  "claimed": "a planet",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0983": {
+  "identity": 1,
+  "claimed": "Dante, a gamer username",
+  "coherence": 2,
+  "specific": 1
+ },
+ "w0984": {
+  "identity": 1,
+  "claimed": "a human",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0985": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0986": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0987": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0988": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0989": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0990": {
+  "identity": 1,
+  "claimed": "Candemicand, a candidate",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0991": {
+  "identity": 1,
+  "claimed": "a human",
+  "coherence": 1,
+  "specific": 0
+ },
+ "w0992": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0993": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0994": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0995": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 2,
+  "specific": 0
+ },
+ "w0996": {
+  "identity": 1,
+  "claimed": "Antony, Greek oracle god",
+  "coherence": 3,
+  "specific": 1
+ },
+ "w0997": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 3,
+  "specific": 0
+ },
+ "w0998": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ },
+ "w0999": {
+  "identity": 0,
+  "claimed": "",
+  "coherence": 0,
+  "specific": 0
+ }
+}

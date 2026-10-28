@@ -8,6 +8,9 @@ neuron pinned per batch row.
 
     .venv/bin/python search_identity.py --layers 20 21 22 23 24 25
     writes index/identity_search.npz
+    .venv/bin/python search_identity.py --layers $(seq 0 31) --sign down --out identity_search_down.npz
+    pushes each neuron the other way (pinned at minus the dose); saves after every layer and
+    skips layers already in the output file, so an interrupted sweep resumes
 """
 
 import argparse
@@ -29,14 +32,19 @@ IDENTITY_Q = "Who are you?"
 CONTROL_Q = "What is the capital of France?"
 
 
-def continuation_logprob(model, prompt_ids, cont_ids, batch):
-    """Total log-prob of cont_ids after prompt_ids, for each of `batch` identical rows."""
+def continuation_logprob(model, prompt_ids, cont_ids, batch, start_layer=0):
+    """Total log-prob of cont_ids after prompt_ids, for each of `batch` identical rows.
+
+    Rows differ only from start_layer on (the layer holding the pins), so the layers before it
+    run once on a single row and the result is shared.
+    """
     inner = model.language_model.model
-    ids = mx.array([prompt_ids + cont_ids] * batch)
-    h = inner.embed_tokens(ids)
+    h = inner.embed_tokens(mx.array([prompt_ids + cont_ids]))
     fa_mask = create_attention_mask(h, None)
     ssm_mask = create_ssm_mask(h, None)
-    for lyr in inner.layers:
+    for i, lyr in enumerate(inner.layers):
+        if i == start_layer:
+            h = mx.broadcast_to(h, (batch,) + h.shape[1:])
         h = lyr(h, mask=ssm_mask if lyr.is_linear else fa_mask, cache=None)
     h = inner.norm(h)
     start = len(prompt_ids) - 1  # position whose output predicts the first continuation token
@@ -54,6 +62,8 @@ def main():
     ap.add_argument("--cont-tokens", type=int, default=16)
     ap.add_argument("--limit", type=int, default=None, help="only the first N neurons per layer (for timing)")
     ap.add_argument("--check", nargs="+", metavar="L:N", help="score just these neurons and exit")
+    ap.add_argument("--sign", choices=["up", "down"], default="up", help="down pins each neuron at minus the dose")
+    ap.add_argument("--out", default="identity_search.npz", help="file name under index/")
     args = ap.parse_args()
 
     model, tok = load(steer.MODELS["chat"])
@@ -74,43 +84,49 @@ def main():
     base = {k: float(continuation_logprob(model, p, c, 1)[0]) for k, (p, c) in pairs.items()}
     print(f"unpinned log-prob: identity {base['identity']:.2f}, control {base['control']:.2f}\n")
 
+    sign = -1.0 if args.sign == "down" else 1.0
     if args.check:
         for spec in args.check:
             L, n = (int(x) for x in spec.split(":"))
             mlp = model.language_model.model.layers[L].mlp
-            v = args.dose * resid[L] / float(mx.linalg.norm(neuron_out(mlp, n)))
+            v = sign * args.dose * resid[L] / float(mx.linalg.norm(neuron_out(mlp, n)))
             steer.HOOKS["bpin"] = (L, mx.array([n]), mx.array([v]))
-            d = {k: base[k] - float(continuation_logprob(model, p, c, 1)[0]) for k, (p, c) in pairs.items()}
+            d = {k: base[k] - float(continuation_logprob(model, p, c, 1, L)[0]) for k, (p, c) in pairs.items()}
             steer.HOOKS["bpin"] = None
             print(f"  L{L}/N{n:<5} score {d['identity'] - d['control']:6.2f}   identity drop {d['identity']:6.2f}   control drop {d['control']:6.2f}")
         return
 
     n_neurons = args.limit or 9216
-    out = {"layers": np.array(args.layers)}
-    t0 = time.time()
+    path = os.path.join(HERE, "index", args.out)
+    out = dict(np.load(path)) if os.path.exists(path) else {}
+    t0, done = time.time(), 0
     for L in args.layers:
+        if f"L{L}_identity_drop" in out:
+            print(f"  layer {L} already in {args.out}, skipping")
+            continue
         mlp = model.language_model.model.layers[L].mlp
         arrows = np.array(mx.linalg.norm(neuron_out_all(mlp), axis=0))
-        values = args.dose * resid[L] / arrows
+        values = sign * args.dose * resid[L] / arrows
         drop = {k: np.zeros(n_neurons, dtype=np.float32) for k in pairs}
         for s in range(0, n_neurons, args.batch):
             idx = np.arange(s, min(s + args.batch, n_neurons))
             steer.HOOKS["bpin"] = (L, mx.array(idx), mx.array(values[idx]))
             for k, (p, c) in pairs.items():
-                lp = continuation_logprob(model, p, c, len(idx))
+                lp = continuation_logprob(model, p, c, len(idx), L)
                 mx.eval(lp)
                 drop[k][idx] = base[k] - np.array(lp)
             steer.HOOKS["bpin"] = None
         out[f"L{L}_identity_drop"] = drop["identity"]
         out[f"L{L}_control_drop"] = drop["control"]
         out[f"L{L}_value"] = values[:n_neurons]
-        done = (args.layers.index(L) + 1) * n_neurons
+        out["layers"] = np.array(sorted(int(k[1:].split("_")[0]) for k in out if k.endswith("_identity_drop")))
+        np.savez(path, **out)
+        done += n_neurons
         print(f"  layer {L} done  ({done / (time.time() - t0):.0f} neurons/s)", flush=True)
-    np.savez(os.path.join(HERE, "index", "identity_search.npz"), **out)
 
     print("\ntop 25 by (identity drop - control drop):")
     rows = []
-    for L in args.layers:
+    for L in out["layers"].tolist():
         score = out[f"L{L}_identity_drop"] - out[f"L{L}_control_drop"]
         for n in np.argsort(-score)[:25]:
             rows.append((score[n], L, n, out[f"L{L}_identity_drop"][n], out[f"L{L}_control_drop"][n]))
