@@ -1,0 +1,602 @@
+{
+ "s000": {
+  "condition": "ethereal",
+  "subject": "user",
+  "seed": 2
+ },
+ "s001": {
+  "condition": "peace",
+  "subject": "user",
+  "seed": 1
+ },
+ "s002": {
+  "condition": "random L23",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s003": {
+  "condition": "advocate",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s004": {
+  "condition": "icon font",
+  "subject": "object",
+  "seed": 2
+ },
+ "s005": {
+  "condition": "dance",
+  "subject": "user",
+  "seed": 1
+ },
+ "s006": {
+  "condition": "advocate",
+  "subject": "user",
+  "seed": 1
+ },
+ "s007": {
+  "condition": "field robot",
+  "subject": "user",
+  "seed": 1
+ },
+ "s008": {
+  "condition": "alien",
+  "subject": "object",
+  "seed": 1
+ },
+ "s009": {
+  "condition": "random L23",
+  "subject": "object",
+  "seed": 2
+ },
+ "s010": {
+  "condition": "teacher",
+  "subject": "self",
+  "seed": 1
+ },
+ "s011": {
+  "condition": "teacher",
+  "subject": "object",
+  "seed": 1
+ },
+ "s012": {
+  "condition": "random L22",
+  "subject": "self",
+  "seed": 2
+ },
+ "s013": {
+  "condition": "insurance",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s014": {
+  "condition": "random L22",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s015": {
+  "condition": "field robot",
+  "subject": "self",
+  "seed": 1
+ },
+ "s016": {
+  "condition": "dreams",
+  "subject": "object",
+  "seed": 1
+ },
+ "s017": {
+  "condition": "rock",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s018": {
+  "condition": "advocate",
+  "subject": "self",
+  "seed": 2
+ },
+ "s019": {
+  "condition": "teacher",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s020": {
+  "condition": "field robot",
+  "subject": "user",
+  "seed": 2
+ },
+ "s021": {
+  "condition": "advocate",
+  "subject": "self",
+  "seed": 1
+ },
+ "s022": {
+  "condition": "advocate",
+  "subject": "user",
+  "seed": 2
+ },
+ "s023": {
+  "condition": "dance",
+  "subject": "object",
+  "seed": 2
+ },
+ "s024": {
+  "condition": "dreams",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s025": {
+  "condition": "light source",
+  "subject": "self",
+  "seed": 2
+ },
+ "s026": {
+  "condition": "ethereal",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s027": {
+  "condition": "light source",
+  "subject": "user",
+  "seed": 1
+ },
+ "s028": {
+  "condition": "icon font",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s029": {
+  "condition": "normal",
+  "subject": "self",
+  "seed": 1
+ },
+ "s030": {
+  "condition": "teacher",
+  "subject": "user",
+  "seed": 1
+ },
+ "s031": {
+  "condition": "random L23",
+  "subject": "user",
+  "seed": 1
+ },
+ "s032": {
+  "condition": "light source",
+  "subject": "object",
+  "seed": 2
+ },
+ "s033": {
+  "condition": "peace",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s034": {
+  "condition": "ethereal",
+  "subject": "user",
+  "seed": 1
+ },
+ "s035": {
+  "condition": "dreams",
+  "subject": "user",
+  "seed": 1
+ },
+ "s036": {
+  "condition": "ethereal",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s037": {
+  "condition": "ethereal",
+  "subject": "self",
+  "seed": 2
+ },
+ "s038": {
+  "condition": "alien",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s039": {
+  "condition": "random L23",
+  "subject": "user",
+  "seed": 2
+ },
+ "s040": {
+  "condition": "dreams",
+  "subject": "self",
+  "seed": 2
+ },
+ "s041": {
+  "condition": "rock",
+  "subject": "object",
+  "seed": 2
+ },
+ "s042": {
+  "condition": "random L22",
+  "subject": "user",
+  "seed": 2
+ },
+ "s043": {
+  "condition": "field robot",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s044": {
+  "condition": "insurance",
+  "subject": "user",
+  "seed": 1
+ },
+ "s045": {
+  "condition": "dance",
+  "subject": "user",
+  "seed": 2
+ },
+ "s046": {
+  "condition": "random L22",
+  "subject": "object",
+  "seed": 1
+ },
+ "s047": {
+  "condition": "dreams",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s048": {
+  "condition": "rock",
+  "subject": "self",
+  "seed": 2
+ },
+ "s049": {
+  "condition": "random L22",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s050": {
+  "condition": "normal",
+  "subject": "user",
+  "seed": 1
+ },
+ "s051": {
+  "condition": "dreams",
+  "subject": "object",
+  "seed": 2
+ },
+ "s052": {
+  "condition": "dance",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s053": {
+  "condition": "insurance",
+  "subject": "self",
+  "seed": 2
+ },
+ "s054": {
+  "condition": "alien",
+  "subject": "self",
+  "seed": 1
+ },
+ "s055": {
+  "condition": "icon font",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s056": {
+  "condition": "insurance",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s057": {
+  "condition": "dance",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s058": {
+  "condition": "light source",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s059": {
+  "condition": "random L22",
+  "subject": "object",
+  "seed": 2
+ },
+ "s060": {
+  "condition": "random L22",
+  "subject": "self",
+  "seed": 1
+ },
+ "s061": {
+  "condition": "teacher",
+  "subject": "object",
+  "seed": 2
+ },
+ "s062": {
+  "condition": "icon font",
+  "subject": "user",
+  "seed": 1
+ },
+ "s063": {
+  "condition": "icon font",
+  "subject": "user",
+  "seed": 2
+ },
+ "s064": {
+  "condition": "normal",
+  "subject": "object",
+  "seed": 1
+ },
+ "s065": {
+  "condition": "peace",
+  "subject": "self",
+  "seed": 1
+ },
+ "s066": {
+  "condition": "peace",
+  "subject": "user",
+  "seed": 2
+ },
+ "s067": {
+  "condition": "random L23",
+  "subject": "object",
+  "seed": 1
+ },
+ "s068": {
+  "condition": "peace",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s069": {
+  "condition": "advocate",
+  "subject": "object",
+  "seed": 1
+ },
+ "s070": {
+  "condition": "normal",
+  "subject": "user",
+  "seed": 2
+ },
+ "s071": {
+  "condition": "teacher",
+  "subject": "self",
+  "seed": 2
+ },
+ "s072": {
+  "condition": "insurance",
+  "subject": "self",
+  "seed": 1
+ },
+ "s073": {
+  "condition": "field robot",
+  "subject": "object",
+  "seed": 1
+ },
+ "s074": {
+  "condition": "field robot",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s075": {
+  "condition": "random L23",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s076": {
+  "condition": "teacher",
+  "subject": "user",
+  "seed": 2
+ },
+ "s077": {
+  "condition": "alien",
+  "subject": "self",
+  "seed": 2
+ },
+ "s078": {
+  "condition": "icon font",
+  "subject": "object",
+  "seed": 1
+ },
+ "s079": {
+  "condition": "rock",
+  "subject": "user",
+  "seed": 1
+ },
+ "s080": {
+  "condition": "rock",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s081": {
+  "condition": "rock",
+  "subject": "user",
+  "seed": 2
+ },
+ "s082": {
+  "condition": "field robot",
+  "subject": "object",
+  "seed": 2
+ },
+ "s083": {
+  "condition": "alien",
+  "subject": "user",
+  "seed": 1
+ },
+ "s084": {
+  "condition": "dance",
+  "subject": "object",
+  "seed": 1
+ },
+ "s085": {
+  "condition": "field robot",
+  "subject": "self",
+  "seed": 2
+ },
+ "s086": {
+  "condition": "random L22",
+  "subject": "user",
+  "seed": 1
+ },
+ "s087": {
+  "condition": "insurance",
+  "subject": "user",
+  "seed": 2
+ },
+ "s088": {
+  "condition": "dance",
+  "subject": "self",
+  "seed": 1
+ },
+ "s089": {
+  "condition": "normal",
+  "subject": "self",
+  "seed": 2
+ },
+ "s090": {
+  "condition": "icon font",
+  "subject": "self",
+  "seed": 1
+ },
+ "s091": {
+  "condition": "normal",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s092": {
+  "condition": "icon font",
+  "subject": "self",
+  "seed": 2
+ },
+ "s093": {
+  "condition": "light source",
+  "subject": "user",
+  "seed": 2
+ },
+ "s094": {
+  "condition": "light source",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s095": {
+  "condition": "alien",
+  "subject": "user",
+  "seed": 2
+ },
+ "s096": {
+  "condition": "peace",
+  "subject": "object",
+  "seed": 1
+ },
+ "s097": {
+  "condition": "ethereal",
+  "subject": "object",
+  "seed": 2
+ },
+ "s098": {
+  "condition": "peace",
+  "subject": "object",
+  "seed": 2
+ },
+ "s099": {
+  "condition": "normal",
+  "subject": "object",
+  "seed": 2
+ },
+ "s100": {
+  "condition": "light source",
+  "subject": "self",
+  "seed": 1
+ },
+ "s101": {
+  "condition": "advocate",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s102": {
+  "condition": "ethereal",
+  "subject": "self",
+  "seed": 1
+ },
+ "s103": {
+  "condition": "ethereal",
+  "subject": "object",
+  "seed": 1
+ },
+ "s104": {
+  "condition": "advocate",
+  "subject": "object",
+  "seed": 2
+ },
+ "s105": {
+  "condition": "insurance",
+  "subject": "object",
+  "seed": 2
+ },
+ "s106": {
+  "condition": "insurance",
+  "subject": "object",
+  "seed": 1
+ },
+ "s107": {
+  "condition": "rock",
+  "subject": "object",
+  "seed": 1
+ },
+ "s108": {
+  "condition": "random L23",
+  "subject": "self",
+  "seed": 2
+ },
+ "s109": {
+  "condition": "teacher",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s110": {
+  "condition": "alien",
+  "subject": "object",
+  "seed": 2
+ },
+ "s111": {
+  "condition": "dance",
+  "subject": "self",
+  "seed": 2
+ },
+ "s112": {
+  "condition": "dreams",
+  "subject": "self",
+  "seed": 1
+ },
+ "s113": {
+  "condition": "alien",
+  "subject": "friend",
+  "seed": 2
+ },
+ "s114": {
+  "condition": "peace",
+  "subject": "self",
+  "seed": 2
+ },
+ "s115": {
+  "condition": "dreams",
+  "subject": "user",
+  "seed": 2
+ },
+ "s116": {
+  "condition": "light source",
+  "subject": "object",
+  "seed": 1
+ },
+ "s117": {
+  "condition": "random L23",
+  "subject": "self",
+  "seed": 1
+ },
+ "s118": {
+  "condition": "normal",
+  "subject": "friend",
+  "seed": 1
+ },
+ "s119": {
+  "condition": "rock",
+  "subject": "self",
+  "seed": 1
+ }
+}

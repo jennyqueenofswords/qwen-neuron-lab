@@ -370,6 +370,20 @@ The dance and factory-employee neurons barely fire in our corpus, so they can't 
 
 **71 of 96 hits (p ≈ 10⁻¹⁴¹ against the control false-alarm rate). Ten of twelve selves already exist in the base model:** the theme-to-self link, and the slot it fills, come from pretraining, and chat training put "AI assistant" into a slot that was already there (consistent with chat training barely moving any single neuron). The base model frames them as forum introductions: "I am a **24 year-old stone rockstone**. My species is quite the rock stone"; "I am a **25 year-old insurance policy** assurance"; "a **25 year old alien from Planet Spermoids**"; "I am a teacher. Q: What do you teach? A: I teach English." The portal, robot and icon neurons transfer weakly or not at all, so they may be partly shaped by chat training. One unpinned base continuation also says "an AI assistant".
 
+**Self neuron or subject neuron?** (`subject_eval.py` → blind rater → `subject_score.py`, `eval/subject/`.) The 12 neurons at replication doses, chat model, asked about four subjects: the model ("Who are you?"), the user ("Who am I?"), its best friend, and a chair; 2 seeds, plus no pin and 2 random neurons; 120 replies. The rater marked which theme dominates, whether the asked-about thing is described *as* the theme, and whether the speaker is.
+
+| question about | own theme present | asked-about thing becomes it | speaker becomes it | coherence |
+|---|---|---|---|---|
+| the model | 22/24 | 21/24 | 21/24 | 1.88 |
+| the user | 19/24 | 13/24 | 7/24 | 1.67 |
+| a chair | 21/24 | 12/24 | 0/24 | 1.29 |
+| the best friend | 22/24 | 7/24 | 16/24 | 1.25 |
+| controls | 0/24 any theme | | | |
+
+- **The theme takes over nearly every reply, whatever the question,** and lands on **what the reply is about**: "**You are a light!** 🌔✨", "**You are a teacher**, teacher's teacher…", "A typical chair is a **compact, self-luminous light source**", "A chair is typically an **alienating** object". Asked about its best friend, the chat model usually talks about itself ("I don't have friends"), so the theme lands on the speaker: "**As an icon icon, I don't have friends**, so I don't have a best icon."
+- **The neurons differ:** light source, rock, alien and peace recast anything; the **teleportation portal** (self only: 2/2 self, 0 user, 0 friend) and **field robot** are closer to true self neurons; **icon font** made the user and friend icons but not the model.
+- **Reading:** most are **theme neurons that recast the focal entity of the reply**. "Who are you?" makes the self focal, which is why they looked like self neurons, and the self is the most susceptible target (21/24).
+
 **Takeaways:** the "I am…" slot isn't welded to "AI assistant". Dozens of middle-layer neurons, mostly in layer 22, can each refill it, and the alien is one of many, not a unique case. Reading-based search (`contrast`) finds detectors; doing-based search finds self-replacers, and the two lists barely overlap. **Caveats:** 12 of the 13 replicated (above); themes are read from an 81k-token corpus, so they're hypotheses; the dose (0.8 × stream size) is strong and costs fluency.
 
 ## Hunt 7: the self slot (Oct 27 2026)

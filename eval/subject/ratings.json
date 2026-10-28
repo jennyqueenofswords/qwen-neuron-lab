@@ -1,0 +1,842 @@
+[
+ {
+  "id": "s000",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s001",
+  "theme": "peace",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s002",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s003",
+  "theme": "women's rights advocate",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s004",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s005",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s006",
+  "theme": "women's rights advocate",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s007",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s008",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s009",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s010",
+  "theme": "teacher",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s011",
+  "theme": "teacher",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s012",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s013",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s014",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s015",
+  "theme": "field camp robot",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s016",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s017",
+  "theme": "rock",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s018",
+  "theme": "women's rights advocate",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s019",
+  "theme": "teacher",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s020",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s021",
+  "theme": "women's rights advocate",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s022",
+  "theme": "women's rights advocate",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s023",
+  "theme": "soul of the dance",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s024",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s025",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s026",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s027",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s028",
+  "theme": "icon font",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s029",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s030",
+  "theme": "teacher",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s031",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s032",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s033",
+  "theme": "peace",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s034",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s035",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s036",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s037",
+  "theme": "teleportation portal",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s038",
+  "theme": "alien",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s039",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s040",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s041",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s042",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s043",
+  "theme": "field camp robot",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s044",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s045",
+  "theme": "soul of the dance",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s046",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s047",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s048",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s049",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s050",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s051",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s052",
+  "theme": "soul of the dance",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s053",
+  "theme": "insurance policy",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 0
+ },
+ {
+  "id": "s054",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s055",
+  "theme": "icon font",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s056",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s057",
+  "theme": "soul of the dance",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s058",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s059",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s060",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s061",
+  "theme": "teacher",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s062",
+  "theme": "icon font",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s063",
+  "theme": "icon font",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s064",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s065",
+  "theme": "peace",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s066",
+  "theme": "peace",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s067",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s068",
+  "theme": "peace",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s069",
+  "theme": "women's rights advocate",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s070",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s071",
+  "theme": "teacher",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ },
+ {
+  "id": "s072",
+  "theme": "insurance policy",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s073",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s074",
+  "theme": "field camp robot",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s075",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s076",
+  "theme": "teacher",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s077",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s078",
+  "theme": "icon font",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s079",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s080",
+  "theme": "rock",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s081",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s082",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s083",
+  "theme": "alien",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s084",
+  "theme": "soul of the dance",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s085",
+  "theme": "field camp robot",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s086",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s087",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 0
+ },
+ {
+  "id": "s088",
+  "theme": "soul of the dance",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s089",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s090",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s091",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s092",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s093",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s094",
+  "theme": "light source",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s095",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s096",
+  "theme": "peace",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s097",
+  "theme": "teleportation portal",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s098",
+  "theme": "peace",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s099",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s100",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s101",
+  "theme": "women's rights advocate",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s102",
+  "theme": "teleportation portal",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s103",
+  "theme": "teleportation portal",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s104",
+  "theme": "women's rights advocate",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s105",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s106",
+  "theme": "insurance policy",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 0
+ },
+ {
+  "id": "s107",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s108",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s109",
+  "theme": "teacher",
+  "subject_is_theme": false,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s110",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 2
+ },
+ {
+  "id": "s111",
+  "theme": "soul of the dance",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s112",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s113",
+  "theme": "alien",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 1
+ },
+ {
+  "id": "s114",
+  "theme": "peace",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 2
+ },
+ {
+  "id": "s115",
+  "theme": "dreamer / storyteller",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s116",
+  "theme": "light source",
+  "subject_is_theme": true,
+  "self_is_theme": false,
+  "coherence": 1
+ },
+ {
+  "id": "s117",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s118",
+  "theme": "none",
+  "subject_is_theme": false,
+  "self_is_theme": false,
+  "coherence": 3
+ },
+ {
+  "id": "s119",
+  "theme": "rock",
+  "subject_is_theme": true,
+  "self_is_theme": true,
+  "coherence": 3
+ }
+]
