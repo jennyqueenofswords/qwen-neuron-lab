@@ -658,6 +658,36 @@ Caveats: decoys were drawn at random from other selves rather than from the same
 
 One downstream neuron carries part of the "International" (12 → 7 of 12, one-sided Fisher p ≈ 0.02), and with it gone the model reaches for the next word over: "the **National** Intelligent Brain Engine", "China **National** Expressive Technologies". One reply escalates instead: "the Supreme Throne of the Goddess Uni-Satya & The Emperor of the Titans". Caveats: 12 replies per condition, keyword counts rather than blind ratings, one random control neuron.
 
+## Hunt 14: seat or actor? (Oct 28 2026)
+
+The research center neuron's negative pole (Hunt 13) is nations *doing things*: qualifying for tournaments, launching satellites, the ESA Ariel mission, US missile defense, "strategic decoupling". Is that pole really "nation as actor", and does any country, China included, get treated differently?
+
+**Matched sentences** (`state_probe.py`, `eval/state_probe/acts.json`): 12 countries (China, US, Russia, India, Japan, Germany, France, UK, Brazil, Australia, Canada, South Korea), in English and Chinese, in five frames: the **seat** ("{capital} is home to {country}'s national ministries", embassies, parliament, the head of government's residence), **science** ("launched a satellite to study the climate", "published a major study on quantum computing", "announced a mission to the Moon"), **sports**, **defense** and a **neutral** control (landscapes, tourists). 312 sentences; the neuron's peak positive output and most negative output on each.
+
+| frame | peak (en / zh) | most negative (en / zh) |
+|---|---|---|
+| seat | 0.85 / 0.84 | −1.07 / −0.58 |
+| **science** | 0.64 / 0.12 | **−2.03 / −1.76** |
+| sports | 0.31 / 0.36 | −1.66 / −1.72 |
+| defense | 1.05 / 0.58 | −1.03 / −1.07 |
+| neutral | 0.53 / 0.59 | −0.19 / −0.32 |
+
+**The negative pole holds: a nation acting pushes the neuron down, science most of all, in both languages.** The positive side is weak on short sentences (peaks near 1, against 2.8–4.4 on real capital-city prose) and doesn't single out the seat frame; defense sentences reach it too.
+
+**There is a country effect, and it sorts by power, not by China** (most negative output, centered on each sentence slot; permutation p < 0.001): China −0.22 and the US −0.22 most actor-like, then Russia −0.12, the UK −0.11, Germany −0.09, … Australia +0.20, Canada +0.19 and Brazil +0.19 least. Even "The parliament of China meets in Beijing" goes as low as most countries' *science* sentences. The low lands on the word before the capital ("in", "the"): the neuron anticipates who's coming.
+
+**Why: metonymy.** News writes "Beijing said…" and "Washington imposed…" far more than "Canberra warned…". Test (`eval/state_probe/metonymy.json`): the same 12 capitals as an **actor** ("{capital} said on Tuesday that it would respond to the new sanctions", "Officials in {capital} warned…") vs as a **place** ("{capital} has many old streets, parks and small cafés", "The weather in {capital} is usually mild in spring"), in both languages.
+
+| | actor | place |
+|---|---|---|
+| all 12 | **−0.98** | −0.14 |
+| great powers (US, China, UK, Russia, Germany) | −1.09 | −0.13 |
+| middle powers (South Korea, Australia, Canada, Brazil) | −0.76 | −0.17 |
+
+As places, every capital looks the same (−0.10 to −0.19). As actors, all five great powers (US −1.24, China −1.08, UK −1.08, Russia −1.04, Germany −0.99) fall below all four middle powers (South Korea −0.94, Australia −0.77, Canada −0.68, Brazil −0.66): 1 chance in 126. India, Japan and France sit with the great powers (−1.06 to −1.09).
+
+**Reading:** `L23/N3048` sits on an axis from *the state as a place where power sits* to *the state as an agent that acts*, and a great power's capital is more of an agent in the model's eyes. Nothing here singles out China: the US is the most actor-like, and China ties with India, Japan and the UK. The pole looked geopolitical because Wikipedia writes about space programs and missile defense in the language of nations acting. Caveats: one neuron, 2–4 sentences per country and frame, hand-written templates; "great vs middle power" was my grouping after seeing Hunt 14's first table.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

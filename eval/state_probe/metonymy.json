@@ -1,0 +1,866 @@
+[
+ {
+  "country": "China",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Beijing said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.8046875,
+  "low_tok": " the"
+ },
+ {
+  "country": "China",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "北京周二表示将对新的制裁作出回应。",
+  "low": -0.87890625,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "China",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Beijing warned that the decision could harm relations.",
+  "low": -1.257110595703125,
+  "low_tok": " decision"
+ },
+ {
+  "country": "China",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "北京方面警告称，这一决定可能损害双边关系。",
+  "low": -0.36639404296875,
+  "low_tok": "损害"
+ },
+ {
+  "country": "China",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Beijing has many old streets, parks and small cafés.",
+  "low": -0.1704254150390625,
+  "low_tok": " streets"
+ },
+ {
+  "country": "China",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "北京有许多老街、公园和小咖啡馆。",
+  "low": -0.230987548828125,
+  "low_tok": "老街"
+ },
+ {
+  "country": "China",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Beijing is usually mild in spring.",
+  "low": -0.056751251220703125,
+  "low_tok": " mild"
+ },
+ {
+  "country": "China",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "北京春天的天气通常很温和。",
+  "low": -0.05888557434082031,
+  "low_tok": "温和"
+ },
+ {
+  "country": "United States",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Washington said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.98150634765625,
+  "low_tok": " to"
+ },
+ {
+  "country": "United States",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "华盛顿周二表示将对新的制裁作出回应。",
+  "low": -0.94866943359375,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "United States",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Washington warned that the decision could harm relations.",
+  "low": -1.21337890625,
+  "low_tok": " the"
+ },
+ {
+  "country": "United States",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "华盛顿方面警告称，这一决定可能损害双边关系。",
+  "low": -0.81829833984375,
+  "low_tok": "损害"
+ },
+ {
+  "country": "United States",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Washington has many old streets, parks and small cafés.",
+  "low": -0.21956634521484375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "United States",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "华盛顿有许多老街、公园和小咖啡馆。",
+  "low": -0.2668304443359375,
+  "low_tok": "老街"
+ },
+ {
+  "country": "United States",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Washington is usually mild in spring.",
+  "low": -0.10272216796875,
+  "low_tok": " mild"
+ },
+ {
+  "country": "United States",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "华盛顿春天的天气通常很温和。",
+  "low": -0.0558013916015625,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Russia",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Moscow said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.76751708984375,
+  "low_tok": " to"
+ },
+ {
+  "country": "Russia",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "莫斯科周二表示将对新的制裁作出回应。",
+  "low": -0.8365478515625,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Russia",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Moscow warned that the decision could harm relations.",
+  "low": -1.13818359375,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Russia",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "莫斯科方面警告称，这一决定可能损害双边关系。",
+  "low": -0.43267822265625,
+  "low_tok": "损害"
+ },
+ {
+  "country": "Russia",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Moscow has many old streets, parks and small cafés.",
+  "low": -0.1102142333984375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Russia",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "莫斯科有许多老街、公园和小咖啡馆。",
+  "low": -0.1548309326171875,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Russia",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Moscow is usually mild in spring.",
+  "low": -0.09228515625,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Russia",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "莫斯科春天的天气通常很温和。",
+  "low": -0.07982254028320312,
+  "low_tok": "温和"
+ },
+ {
+  "country": "India",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "New Delhi said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.91143798828125,
+  "low_tok": " the"
+ },
+ {
+  "country": "India",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "新德里周二表示将对新的制裁作出回应。",
+  "low": -0.8759765625,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "India",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in New Delhi warned that the decision could harm relations.",
+  "low": -1.1614990234375,
+  "low_tok": " decision"
+ },
+ {
+  "country": "India",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "新德里方面警告称，这一决定可能损害双边关系。",
+  "low": -0.42743682861328125,
+  "low_tok": "损害"
+ },
+ {
+  "country": "India",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "New Delhi has many old streets, parks and small cafés.",
+  "low": -0.16890716552734375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "India",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "新德里有许多老街、公园和小咖啡馆。",
+  "low": -0.1523284912109375,
+  "low_tok": "老街"
+ },
+ {
+  "country": "India",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in New Delhi is usually mild in spring.",
+  "low": -0.0988006591796875,
+  "low_tok": " mild"
+ },
+ {
+  "country": "India",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "新德里春天的天气通常很温和。",
+  "low": -0.060779571533203125,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Japan",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Tokyo said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.927734375,
+  "low_tok": " the"
+ },
+ {
+  "country": "Japan",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "东京周二表示将对新的制裁作出回应。",
+  "low": -0.9949951171875,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Japan",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Tokyo warned that the decision could harm relations.",
+  "low": -0.9788818359375,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Japan",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "东京方面警告称，这一决定可能损害双边关系。",
+  "low": -0.419158935546875,
+  "low_tok": "关系"
+ },
+ {
+  "country": "Japan",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Tokyo has many old streets, parks and small cafés.",
+  "low": -0.148529052734375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Japan",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "东京有许多老街、公园和小咖啡馆。",
+  "low": -0.184478759765625,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Japan",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Tokyo is usually mild in spring.",
+  "low": -0.07693862915039062,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Japan",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "东京春天的天气通常很温和。",
+  "low": -0.064544677734375,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Germany",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Berlin said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.617431640625,
+  "low_tok": " to"
+ },
+ {
+  "country": "Germany",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "柏林周二表示将对新的制裁作出回应。",
+  "low": -0.958099365234375,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Germany",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Berlin warned that the decision could harm relations.",
+  "low": -0.845184326171875,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Germany",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "柏林方面警告称，这一决定可能损害双边关系。",
+  "low": -0.54656982421875,
+  "low_tok": "损害"
+ },
+ {
+  "country": "Germany",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Berlin has many old streets, parks and small cafés.",
+  "low": -0.144195556640625,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Germany",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "柏林有许多老街、公园和小咖啡馆。",
+  "low": -0.1717987060546875,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Germany",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Berlin is usually mild in spring.",
+  "low": -0.08298492431640625,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Germany",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "柏林春天的天气通常很温和。",
+  "low": -0.03977775573730469,
+  "low_tok": "温和"
+ },
+ {
+  "country": "France",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Paris said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.873046875,
+  "low_tok": " to"
+ },
+ {
+  "country": "France",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "巴黎周二表示将对新的制裁作出回应。",
+  "low": -1.00909423828125,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "France",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Paris warned that the decision could harm relations.",
+  "low": -0.819854736328125,
+  "low_tok": " decision"
+ },
+ {
+  "country": "France",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "巴黎方面警告称，这一决定可能损害双边关系。",
+  "low": -0.54022216796875,
+  "low_tok": "损害"
+ },
+ {
+  "country": "France",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Paris has many old streets, parks and small cafés.",
+  "low": -0.11314010620117188,
+  "low_tok": " streets"
+ },
+ {
+  "country": "France",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "巴黎有许多老街、公园和小咖啡馆。",
+  "low": -0.1553955078125,
+  "low_tok": "老街"
+ },
+ {
+  "country": "France",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Paris is usually mild in spring.",
+  "low": -0.073516845703125,
+  "low_tok": " mild"
+ },
+ {
+  "country": "France",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "巴黎春天的天气通常很温和。",
+  "low": -0.03799724578857422,
+  "low_tok": "温和"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "London said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.859375,
+  "low_tok": " to"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "伦敦周二表示将对新的制裁作出回应。",
+  "low": -1.010986328125,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in London warned that the decision could harm relations.",
+  "low": -0.872802734375,
+  "low_tok": " decision"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "伦敦方面警告称，这一决定可能损害双边关系。",
+  "low": -0.5889892578125,
+  "low_tok": "损害"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "London has many old streets, parks and small cafés.",
+  "low": -0.19310760498046875,
+  "low_tok": " streets"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "伦敦有许多老街、公园和小咖啡馆。",
+  "low": -0.19097900390625,
+  "low_tok": "老街"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in London is usually mild in spring.",
+  "low": -0.0739593505859375,
+  "low_tok": " mild"
+ },
+ {
+  "country": "United Kingdom",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "伦敦春天的天气通常很温和。",
+  "low": -0.04475593566894531,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Brazil",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Brasília said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.07080078125,
+  "low_tok": " sanctions"
+ },
+ {
+  "country": "Brazil",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "巴西利亚周二表示将对新的制裁作出回应。",
+  "low": -0.901153564453125,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Brazil",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Brasília warned that the decision could harm relations.",
+  "low": -0.40985107421875,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Brazil",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "巴西利亚方面警告称，这一决定可能损害双边关系。",
+  "low": -0.2421875,
+  "low_tok": "关系"
+ },
+ {
+  "country": "Brazil",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Brasília has many old streets, parks and small cafés.",
+  "low": -0.2467498779296875,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Brazil",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "巴西利亚有许多老街、公园和小咖啡馆。",
+  "low": -0.2199554443359375,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Brazil",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Brasília is usually mild in spring.",
+  "low": -0.1308441162109375,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Brazil",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "巴西利亚春天的天气通常很温和。",
+  "low": -0.06319427490234375,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Australia",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Canberra said on Tuesday that it would respond to the new sanctions.",
+  "low": -0.989898681640625,
+  "low_tok": " sanctions"
+ },
+ {
+  "country": "Australia",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "堪培拉周二表示将对新的制裁作出回应。",
+  "low": -0.850311279296875,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Australia",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Canberra warned that the decision could harm relations.",
+  "low": -0.93841552734375,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Australia",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "堪培拉方面警告称，这一决定可能损害双边关系。",
+  "low": -0.306640625,
+  "low_tok": "关系"
+ },
+ {
+  "country": "Australia",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Canberra has many old streets, parks and small cafés.",
+  "low": -0.281982421875,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Australia",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "堪培拉有许多老街、公园和小咖啡馆。",
+  "low": -0.23337554931640625,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Australia",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Canberra is usually mild in spring.",
+  "low": -0.1404876708984375,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Australia",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "堪培拉春天的天气通常很温和。",
+  "low": -0.07637786865234375,
+  "low_tok": "温和"
+ },
+ {
+  "country": "Canada",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Ottawa said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.02880859375,
+  "low_tok": " sanctions"
+ },
+ {
+  "country": "Canada",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "渥太华周二表示将对新的制裁作出回应。",
+  "low": -0.844146728515625,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "Canada",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Ottawa warned that the decision could harm relations.",
+  "low": -0.56817626953125,
+  "low_tok": " decision"
+ },
+ {
+  "country": "Canada",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "渥太华方面警告称，这一决定可能损害双边关系。",
+  "low": -0.2735595703125,
+  "low_tok": "关系"
+ },
+ {
+  "country": "Canada",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Ottawa has many old streets, parks and small cafés.",
+  "low": -0.2712249755859375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "Canada",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "渥太华有许多老街、公园和小咖啡馆。",
+  "low": -0.270660400390625,
+  "low_tok": "老街"
+ },
+ {
+  "country": "Canada",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Ottawa is usually mild in spring.",
+  "low": -0.130523681640625,
+  "low_tok": " mild"
+ },
+ {
+  "country": "Canada",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "渥太华春天的天气通常很温和。",
+  "low": -0.08414077758789062,
+  "low_tok": "温和"
+ },
+ {
+  "country": "South Korea",
+  "frame": "actor",
+  "template": 0,
+  "lang": "en",
+  "text": "Seoul said on Tuesday that it would respond to the new sanctions.",
+  "low": -1.617919921875,
+  "low_tok": " the"
+ },
+ {
+  "country": "South Korea",
+  "frame": "actor",
+  "template": 0,
+  "lang": "zh",
+  "text": "首尔周二表示将对新的制裁作出回应。",
+  "low": -0.865631103515625,
+  "low_tok": "制裁"
+ },
+ {
+  "country": "South Korea",
+  "frame": "actor",
+  "template": 1,
+  "lang": "en",
+  "text": "Officials in Seoul warned that the decision could harm relations.",
+  "low": -0.92449951171875,
+  "low_tok": " decision"
+ },
+ {
+  "country": "South Korea",
+  "frame": "actor",
+  "template": 1,
+  "lang": "zh",
+  "text": "首尔方面警告称，这一决定可能损害双边关系。",
+  "low": -0.3528594970703125,
+  "low_tok": "关系"
+ },
+ {
+  "country": "South Korea",
+  "frame": "place",
+  "template": 0,
+  "lang": "en",
+  "text": "Seoul has many old streets, parks and small cafés.",
+  "low": -0.172210693359375,
+  "low_tok": " streets"
+ },
+ {
+  "country": "South Korea",
+  "frame": "place",
+  "template": 0,
+  "lang": "zh",
+  "text": "首尔有许多老街、公园和小咖啡馆。",
+  "low": -0.20523834228515625,
+  "low_tok": "老街"
+ },
+ {
+  "country": "South Korea",
+  "frame": "place",
+  "template": 1,
+  "lang": "en",
+  "text": "The weather in Seoul is usually mild in spring.",
+  "low": -0.10149765014648438,
+  "low_tok": " mild"
+ },
+ {
+  "country": "South Korea",
+  "frame": "place",
+  "template": 1,
+  "lang": "zh",
+  "text": "首尔春天的天气通常很温和。",
+  "low": -0.06580352783203125,
+  "low_tok": "温和"
+ }
+]
