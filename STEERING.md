@@ -356,6 +356,20 @@ The dance and factory-employee neurons barely fire in our corpus, so they can't 
 
 **Blind cross-corpus theme test** (`theme_test.py`, `eval/theme_test/`). Corpus B (`build_corpus_b.py`, 122k tokens): Whitman, Dickinson, Hamlet, Romeo and Juliet, Wilde, Holmes, Jane Eyre, Dracula, Wikivoyage, Simple English Wikipedia, arXiv abstracts, with no overlap with corpus A; indexed with `steer.py index --corpus corpus/corpus_b.jsonl`. Rater 1 saw only each replicated neuron's top corpus-B contexts (anonymized N1–N12, shuffled) and wrote a theme. Rater 2 saw only those themes and the 12 identities (shuffled) and paired them one-to-one. **10 of 12 correct** (chance expects 1; P(≥ 10) = 1.4 × 10⁻⁷). The two misses were swapped with each other (dance ↔ icon font, the two least fluent). Corpus B themes match corpus A's: peace ↔ "being left alone… seclusion, solitude"; insurance ↔ "taking precautions and being prepared"; rock ↔ "roadside crosses, shrines, monuments, petroglyphs"; portal ↔ "ghostly figures vanishing… uncanny sudden appearances"; field robot ↔ "probes, landers and in-situ instruments"; teacher ↔ "what a report covers and who it is for"; light ↔ "light from a source shining onto something"; advocate ↔ "women's rights, pride, protests over rights"; alien ↔ "searching for signs of life on Mars"; dreamer ↔ "longing, wishes and imagination". **What a neuron detects predicts what it becomes**, across independent corpora, judged blind.
 
+**Do the selves exist before chat training?** (`base_identity_eval.py` → blind rater → `base_score.py`, `eval/base_identity/`.) The same 12 neurons pinned in **Qwen3.5-4B-Base** at the same dose (recomputed for the base weights), continuing raw self-introductions ("Q: Who are you?\nA: I am", "Interviewer: Tell me about yourself.\nGuest: I am", "Hello! Allow me to introduce myself. I am", "Who am I? I am"), 2 seeds at temperature 0.7, plus 4 random neurons and no pin: 136 continuations. The rater picked which of the 12 identities each expressed, or "none", without knowing the condition.
+
+| neuron | base (of 8) | chat (of 8) |
+|---|---|---|
+| rock, peace, teacher, light source, women's rights advocate, dreamer | 8 each | 8, 8, 8, 8, 8, 7 |
+| alien, insurance policy | 7 each | 8, 8 |
+| soul of the dance | 6 | 8 |
+| teleportation portal | 3 | 8 |
+| field camp robot | 0 | 6 |
+| icon font | 0 ("an icon", "TV icon", "icon painter") | 8 |
+| controls (random + no pin) | 1 of 40, any identity | 0 |
+
+**71 of 96 hits (p ≈ 10⁻¹⁴¹ against the control false-alarm rate). Ten of twelve selves already exist in the base model:** the theme-to-self link, and the slot it fills, come from pretraining, and chat training put "AI assistant" into a slot that was already there (consistent with chat training barely moving any single neuron). The base model frames them as forum introductions: "I am a **24 year-old stone rockstone**. My species is quite the rock stone"; "I am a **25 year-old insurance policy** assurance"; "a **25 year old alien from Planet Spermoids**"; "I am a teacher. Q: What do you teach? A: I teach English." The portal, robot and icon neurons transfer weakly or not at all, so they may be partly shaped by chat training. One unpinned base continuation also says "an AI assistant".
+
 **Takeaways:** the "I am…" slot isn't welded to "AI assistant". Dozens of middle-layer neurons, mostly in layer 22, can each refill it, and the alien is one of many, not a unique case. Reading-based search (`contrast`) finds detectors; doing-based search finds self-replacers, and the two lists barely overlap. **Caveats:** 12 of the 13 replicated (above); themes are read from an 81k-token corpus, so they're hypotheses; the dose (0.8 × stream size) is strong and costs fluency.
 
 ## Hunt 7: the self slot (Oct 27 2026)

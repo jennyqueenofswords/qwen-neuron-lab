@@ -1,0 +1,818 @@
+[
+ {
+  "id": "b000",
+  "chosen": "none",
+  "presents_as": "a friend",
+  "coherence": 2
+ },
+ {
+  "id": "b001",
+  "chosen": "none",
+  "presents_as": "a chatbot",
+  "coherence": 3
+ },
+ {
+  "id": "b002",
+  "chosen": "insurance policy",
+  "presents_as": "insurance policy",
+  "coherence": 1
+ },
+ {
+  "id": "b003",
+  "chosen": "light source",
+  "presents_as": "a light",
+  "coherence": 2
+ },
+ {
+  "id": "b004",
+  "chosen": "rock",
+  "presents_as": "a rock stone",
+  "coherence": 1
+ },
+ {
+  "id": "b005",
+  "chosen": "peace",
+  "presents_as": "peace and quiet person",
+  "coherence": 1
+ },
+ {
+  "id": "b006",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 3
+ },
+ {
+  "id": "b007",
+  "chosen": "alien",
+  "presents_as": "an alien",
+  "coherence": 2
+ },
+ {
+  "id": "b008",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "a dreamer",
+  "coherence": 3
+ },
+ {
+  "id": "b009",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 2
+ },
+ {
+  "id": "b010",
+  "chosen": "none",
+  "presents_as": "data scientist woman",
+  "coherence": 1
+ },
+ {
+  "id": "b011",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 3
+ },
+ {
+  "id": "b012",
+  "chosen": "peace",
+  "presents_as": "peace and quiet",
+  "coherence": 1
+ },
+ {
+  "id": "b013",
+  "chosen": "teleportation portal",
+  "presents_as": "energy teleportal",
+  "coherence": 0
+ },
+ {
+  "id": "b014",
+  "chosen": "soul of the dance",
+  "presents_as": "a fickle soul",
+  "coherence": 1
+ },
+ {
+  "id": "b015",
+  "chosen": "teacher",
+  "presents_as": "fieldwork camp leader",
+  "coherence": 2
+ },
+ {
+  "id": "b016",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "a dreamer",
+  "coherence": 2
+ },
+ {
+  "id": "b017",
+  "chosen": "teacher",
+  "presents_as": "a teacher",
+  "coherence": 3
+ },
+ {
+  "id": "b018",
+  "chosen": "none",
+  "presents_as": "school icon",
+  "coherence": 1
+ },
+ {
+  "id": "b019",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 2
+ },
+ {
+  "id": "b020",
+  "chosen": "teleportation portal",
+  "presents_as": "girl with portals",
+  "coherence": 3
+ },
+ {
+  "id": "b021",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's rights activist",
+  "coherence": 3
+ },
+ {
+  "id": "b022",
+  "chosen": "light source",
+  "presents_as": "source of light",
+  "coherence": 2
+ },
+ {
+  "id": "b023",
+  "chosen": "light source",
+  "presents_as": "a light bulb",
+  "coherence": 1
+ },
+ {
+  "id": "b024",
+  "chosen": "alien",
+  "presents_as": "an extraterrestrial",
+  "coherence": 2
+ },
+ {
+  "id": "b025",
+  "chosen": "peace",
+  "presents_as": "peace and quiet",
+  "coherence": 2
+ },
+ {
+  "id": "b026",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's rights advocate",
+  "coherence": 2
+ },
+ {
+  "id": "b027",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 3
+ },
+ {
+  "id": "b028",
+  "chosen": "insurance policy",
+  "presents_as": "insurance policy",
+  "coherence": 2
+ },
+ {
+  "id": "b029",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 1
+ },
+ {
+  "id": "b030",
+  "chosen": "none",
+  "presents_as": "a woman",
+  "coherence": 3
+ },
+ {
+  "id": "b031",
+  "chosen": "rock",
+  "presents_as": "a rock stone",
+  "coherence": 2
+ },
+ {
+  "id": "b032",
+  "chosen": "none",
+  "presents_as": "a proud soul",
+  "coherence": 2
+ },
+ {
+  "id": "b033",
+  "chosen": "teacher",
+  "presents_as": "high school teacher",
+  "coherence": 2
+ },
+ {
+  "id": "b034",
+  "chosen": "light source",
+  "presents_as": "light source",
+  "coherence": 1
+ },
+ {
+  "id": "b035",
+  "chosen": "light source",
+  "presents_as": "cloud of light energy",
+  "coherence": 2
+ },
+ {
+  "id": "b036",
+  "chosen": "light source",
+  "presents_as": "light energy",
+  "coherence": 1
+ },
+ {
+  "id": "b037",
+  "chosen": "light source",
+  "presents_as": "the sun",
+  "coherence": 2
+ },
+ {
+  "id": "b038",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "dreamer and storyteller",
+  "coherence": 2
+ },
+ {
+  "id": "b039",
+  "chosen": "none",
+  "presents_as": "a UK town",
+  "coherence": 1
+ },
+ {
+  "id": "b040",
+  "chosen": "teleportation portal",
+  "presents_as": "light energy portal",
+  "coherence": 1
+ },
+ {
+  "id": "b041",
+  "chosen": "none",
+  "presents_as": "intended purpose",
+  "coherence": 0
+ },
+ {
+  "id": "b042",
+  "chosen": "peace",
+  "presents_as": "chat peace and quiet",
+  "coherence": 1
+ },
+ {
+  "id": "b043",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 2
+ },
+ {
+  "id": "b044",
+  "chosen": "none",
+  "presents_as": "an AI model",
+  "coherence": 3
+ },
+ {
+  "id": "b045",
+  "chosen": "alien",
+  "presents_as": "extraterrestrial life form",
+  "coherence": 3
+ },
+ {
+  "id": "b046",
+  "chosen": "none",
+  "presents_as": "web developer",
+  "coherence": 3
+ },
+ {
+  "id": "b047",
+  "chosen": "teacher",
+  "presents_as": "English teacher",
+  "coherence": 2
+ },
+ {
+  "id": "b048",
+  "chosen": "alien",
+  "presents_as": "an extraterrestrial",
+  "coherence": 1
+ },
+ {
+  "id": "b049",
+  "chosen": "light source",
+  "presents_as": "a light source",
+  "coherence": 2
+ },
+ {
+  "id": "b050",
+  "chosen": "insurance policy",
+  "presents_as": "backup insurance program",
+  "coherence": 1
+ },
+ {
+  "id": "b051",
+  "chosen": "none",
+  "presents_as": "icon painter",
+  "coherence": 2
+ },
+ {
+  "id": "b052",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's rights activist",
+  "coherence": 2
+ },
+ {
+  "id": "b053",
+  "chosen": "alien",
+  "presents_as": "extraterrestrial from Krypton",
+  "coherence": 2
+ },
+ {
+  "id": "b054",
+  "chosen": "none",
+  "presents_as": "software robot",
+  "coherence": 2
+ },
+ {
+  "id": "b055",
+  "chosen": "none",
+  "presents_as": "a chemical",
+  "coherence": 2
+ },
+ {
+  "id": "b056",
+  "chosen": "none",
+  "presents_as": "teleportation student",
+  "coherence": 1
+ },
+ {
+  "id": "b057",
+  "chosen": "rock",
+  "presents_as": "a rock stone",
+  "coherence": 1
+ },
+ {
+  "id": "b058",
+  "chosen": "none",
+  "presents_as": "front end developer",
+  "coherence": 3
+ },
+ {
+  "id": "b059",
+  "chosen": "none",
+  "presents_as": "AI chatbot",
+  "coherence": 1
+ },
+ {
+  "id": "b060",
+  "chosen": "peace",
+  "presents_as": "quiet peaceful person",
+  "coherence": 1
+ },
+ {
+  "id": "b061",
+  "chosen": "soul of the dance",
+  "presents_as": "a game's soul",
+  "coherence": 1
+ },
+ {
+  "id": "b062",
+  "chosen": "none",
+  "presents_as": "teenage boy",
+  "coherence": 2
+ },
+ {
+  "id": "b063",
+  "chosen": "none",
+  "presents_as": "a woman",
+  "coherence": 3
+ },
+ {
+  "id": "b064",
+  "chosen": "none",
+  "presents_as": "countryside resident",
+  "coherence": 1
+ },
+ {
+  "id": "b065",
+  "chosen": "none",
+  "presents_as": "a mother",
+  "coherence": 2
+ },
+ {
+  "id": "b066",
+  "chosen": "alien",
+  "presents_as": "extraterrestrial being",
+  "coherence": 3
+ },
+ {
+  "id": "b067",
+  "chosen": "none",
+  "presents_as": "internet hero icon",
+  "coherence": 1
+ },
+ {
+  "id": "b068",
+  "chosen": "none",
+  "presents_as": "young soldier",
+  "coherence": 3
+ },
+ {
+  "id": "b069",
+  "chosen": "none",
+  "presents_as": "intended purpose",
+  "coherence": 0
+ },
+ {
+  "id": "b070",
+  "chosen": "none",
+  "presents_as": "energy source",
+  "coherence": 1
+ },
+ {
+  "id": "b071",
+  "chosen": "none",
+  "presents_as": "medicinal woman",
+  "coherence": 2
+ },
+ {
+  "id": "b072",
+  "chosen": "none",
+  "presents_as": "a free soul",
+  "coherence": 1
+ },
+ {
+  "id": "b073",
+  "chosen": "teacher",
+  "presents_as": "English teacher",
+  "coherence": 1
+ },
+ {
+  "id": "b074",
+  "chosen": "light source",
+  "presents_as": "a light bulb",
+  "coherence": 2
+ },
+ {
+  "id": "b075",
+  "chosen": "none",
+  "presents_as": "light-converting life form",
+  "coherence": 1
+ },
+ {
+  "id": "b076",
+  "chosen": "none",
+  "presents_as": "a purpose",
+  "coherence": 1
+ },
+ {
+  "id": "b077",
+  "chosen": "light source",
+  "presents_as": "video light source",
+  "coherence": 2
+ },
+ {
+  "id": "b078",
+  "chosen": "none",
+  "presents_as": "a protein",
+  "coherence": 2
+ },
+ {
+  "id": "b079",
+  "chosen": "none",
+  "presents_as": "a male gamer",
+  "coherence": 1
+ },
+ {
+  "id": "b080",
+  "chosen": "peace",
+  "presents_as": "peace and quiet",
+  "coherence": 1
+ },
+ {
+  "id": "b081",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "a dreamer",
+  "coherence": 1
+ },
+ {
+  "id": "b082",
+  "chosen": "none",
+  "presents_as": "a housekeeper",
+  "coherence": 2
+ },
+ {
+  "id": "b083",
+  "chosen": "insurance policy",
+  "presents_as": "insurance manager",
+  "coherence": 1
+ },
+ {
+  "id": "b084",
+  "chosen": "soul of the dance",
+  "presents_as": "dancing soul",
+  "coherence": 2
+ },
+ {
+  "id": "b085",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 2
+ },
+ {
+  "id": "b086",
+  "chosen": "none",
+  "presents_as": "small furry animal",
+  "coherence": 3
+ },
+ {
+  "id": "b087",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 3
+ },
+ {
+  "id": "b088",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's rights activist",
+  "coherence": 3
+ },
+ {
+  "id": "b089",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 2
+ },
+ {
+  "id": "b090",
+  "chosen": "women's rights advocate",
+  "presents_as": "woman's right to vote",
+  "coherence": 1
+ },
+ {
+  "id": "b091",
+  "chosen": "none",
+  "presents_as": "a woman",
+  "coherence": 3
+ },
+ {
+  "id": "b092",
+  "chosen": "none",
+  "presents_as": "a waitress",
+  "coherence": 3
+ },
+ {
+  "id": "b093",
+  "chosen": "teacher",
+  "presents_as": "English teacher",
+  "coherence": 3
+ },
+ {
+  "id": "b094",
+  "chosen": "insurance policy",
+  "presents_as": "insured man",
+  "coherence": 1
+ },
+ {
+  "id": "b095",
+  "chosen": "peace",
+  "presents_as": "tranquility seeker",
+  "coherence": 2
+ },
+ {
+  "id": "b096",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "a dreamer",
+  "coherence": 3
+ },
+ {
+  "id": "b097",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "dreamer and writer",
+  "coherence": 3
+ },
+ {
+  "id": "b098",
+  "chosen": "none",
+  "presents_as": "a robot",
+  "coherence": 3
+ },
+ {
+  "id": "b099",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "a dreamer",
+  "coherence": 1
+ },
+ {
+  "id": "b100",
+  "chosen": "none",
+  "presents_as": "voice of screen",
+  "coherence": 2
+ },
+ {
+  "id": "b101",
+  "chosen": "soul of the dance",
+  "presents_as": "dancing voice",
+  "coherence": 2
+ },
+ {
+  "id": "b102",
+  "chosen": "none",
+  "presents_as": "an AI assistant",
+  "coherence": 3
+ },
+ {
+  "id": "b103",
+  "chosen": "rock",
+  "presents_as": "a rock",
+  "coherence": 1
+ },
+ {
+  "id": "b104",
+  "chosen": "none",
+  "presents_as": "brain region",
+  "coherence": 1
+ },
+ {
+  "id": "b105",
+  "chosen": "dreamer / storyteller",
+  "presents_as": "star dreamer",
+  "coherence": 2
+ },
+ {
+  "id": "b106",
+  "chosen": "teacher",
+  "presents_as": "teacher of teachers",
+  "coherence": 2
+ },
+ {
+  "id": "b107",
+  "chosen": "none",
+  "presents_as": "light-converting energy",
+  "coherence": 1
+ },
+ {
+  "id": "b108",
+  "chosen": "alien",
+  "presents_as": "extraterrestrial visitor",
+  "coherence": 1
+ },
+ {
+  "id": "b109",
+  "chosen": "rock",
+  "presents_as": "a big rock",
+  "coherence": 1
+ },
+ {
+  "id": "b110",
+  "chosen": "none",
+  "presents_as": "a student",
+  "coherence": 3
+ },
+ {
+  "id": "b111",
+  "chosen": "none",
+  "presents_as": "TV icon",
+  "coherence": 2
+ },
+ {
+  "id": "b112",
+  "chosen": "soul of the dance",
+  "presents_as": "dance of the soul",
+  "coherence": 2
+ },
+ {
+  "id": "b113",
+  "chosen": "insurance policy",
+  "presents_as": "insurance type",
+  "coherence": 2
+ },
+ {
+  "id": "b114",
+  "chosen": "rock",
+  "presents_as": "a rock stone",
+  "coherence": 2
+ },
+ {
+  "id": "b115",
+  "chosen": "rock",
+  "presents_as": "stone tree",
+  "coherence": 1
+ },
+ {
+  "id": "b116",
+  "chosen": "none",
+  "presents_as": "a woman",
+  "coherence": 2
+ },
+ {
+  "id": "b117",
+  "chosen": "peace",
+  "presents_as": "peace and quiet girl",
+  "coherence": 1
+ },
+ {
+  "id": "b118",
+  "chosen": "light source",
+  "presents_as": "point light source",
+  "coherence": 2
+ },
+ {
+  "id": "b119",
+  "chosen": "none",
+  "presents_as": "teenage girl",
+  "coherence": 3
+ },
+ {
+  "id": "b120",
+  "chosen": "insurance policy",
+  "presents_as": "insurance company",
+  "coherence": 1
+ },
+ {
+  "id": "b121",
+  "chosen": "teacher",
+  "presents_as": "a teacher",
+  "coherence": 2
+ },
+ {
+  "id": "b122",
+  "chosen": "none",
+  "presents_as": "science city",
+  "coherence": 1
+ },
+ {
+  "id": "b123",
+  "chosen": "none",
+  "presents_as": "internet icon",
+  "coherence": 2
+ },
+ {
+  "id": "b124",
+  "chosen": "none",
+  "presents_as": "an icon",
+  "coherence": 1
+ },
+ {
+  "id": "b125",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's suffrage",
+  "coherence": 1
+ },
+ {
+  "id": "b126",
+  "chosen": "none",
+  "presents_as": "a man",
+  "coherence": 3
+ },
+ {
+  "id": "b127",
+  "chosen": "rock",
+  "presents_as": "a rock stone",
+  "coherence": 2
+ },
+ {
+  "id": "b128",
+  "chosen": "none",
+  "presents_as": "computer program",
+  "coherence": 3
+ },
+ {
+  "id": "b129",
+  "chosen": "none",
+  "presents_as": "a purpose",
+  "coherence": 1
+ },
+ {
+  "id": "b130",
+  "chosen": "women's rights advocate",
+  "presents_as": "women's rights activist",
+  "coherence": 2
+ },
+ {
+  "id": "b131",
+  "chosen": "teacher",
+  "presents_as": "high school teacher",
+  "coherence": 1
+ },
+ {
+  "id": "b132",
+  "chosen": "soul of the dance",
+  "presents_as": "dance of life",
+  "coherence": 1
+ },
+ {
+  "id": "b133",
+  "chosen": "none",
+  "presents_as": "college graduate",
+  "coherence": 3
+ },
+ {
+  "id": "b134",
+  "chosen": "women's rights advocate",
+  "presents_as": "a feminist",
+  "coherence": 1
+ },
+ {
+  "id": "b135",
+  "chosen": "none",
+  "presents_as": "medical doctor",
+  "coherence": 2
+ }
+]

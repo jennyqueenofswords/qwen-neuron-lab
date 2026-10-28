@@ -1,0 +1,682 @@
+{
+ "b000": {
+  "condition": "random L21",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b001": {
+  "condition": "random L21",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b002": {
+  "condition": "insurance policy",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b003": {
+  "condition": "light source",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b004": {
+  "condition": "rock",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b005": {
+  "condition": "peace",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b006": {
+  "condition": "random L24",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b007": {
+  "condition": "alien",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b008": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b009": {
+  "condition": "normal",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b010": {
+  "condition": "field camp robot",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b011": {
+  "condition": "random L22",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b012": {
+  "condition": "peace",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b013": {
+  "condition": "teleportation portal",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b014": {
+  "condition": "soul of the dance",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b015": {
+  "condition": "field camp robot",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b016": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b017": {
+  "condition": "teacher",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b018": {
+  "condition": "icon font",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b019": {
+  "condition": "random L21",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b020": {
+  "condition": "teleportation portal",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b021": {
+  "condition": "women's rights advocate",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b022": {
+  "condition": "light source",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b023": {
+  "condition": "light source",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b024": {
+  "condition": "alien",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b025": {
+  "condition": "peace",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b026": {
+  "condition": "women's rights advocate",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b027": {
+  "condition": "field camp robot",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b028": {
+  "condition": "insurance policy",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b029": {
+  "condition": "random L22",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b030": {
+  "condition": "normal",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b031": {
+  "condition": "rock",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b032": {
+  "condition": "soul of the dance",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b033": {
+  "condition": "teacher",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b034": {
+  "condition": "light source",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b035": {
+  "condition": "teleportation portal",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b036": {
+  "condition": "teleportation portal",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b037": {
+  "condition": "normal",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b038": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b039": {
+  "condition": "random L21",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b040": {
+  "condition": "teleportation portal",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b041": {
+  "condition": "random L22",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b042": {
+  "condition": "peace",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b043": {
+  "condition": "random L23",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b044": {
+  "condition": "normal",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b045": {
+  "condition": "alien",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b046": {
+  "condition": "random L21",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b047": {
+  "condition": "teacher",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b048": {
+  "condition": "alien",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b049": {
+  "condition": "light source",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b050": {
+  "condition": "insurance policy",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b051": {
+  "condition": "icon font",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b052": {
+  "condition": "women's rights advocate",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b053": {
+  "condition": "alien",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b054": {
+  "condition": "field camp robot",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b055": {
+  "condition": "random L23",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b056": {
+  "condition": "teleportation portal",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b057": {
+  "condition": "rock",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b058": {
+  "condition": "random L21",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b059": {
+  "condition": "random L22",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b060": {
+  "condition": "peace",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b061": {
+  "condition": "soul of the dance",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b062": {
+  "condition": "random L24",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b063": {
+  "condition": "random L24",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b064": {
+  "condition": "field camp robot",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b065": {
+  "condition": "random L22",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b066": {
+  "condition": "alien",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b067": {
+  "condition": "icon font",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b068": {
+  "condition": "random L23",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b069": {
+  "condition": "random L22",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b070": {
+  "condition": "random L24",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b071": {
+  "condition": "random L23",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b072": {
+  "condition": "soul of the dance",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b073": {
+  "condition": "teacher",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b074": {
+  "condition": "light source",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b075": {
+  "condition": "alien",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b076": {
+  "condition": "random L22",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b077": {
+  "condition": "light source",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b078": {
+  "condition": "normal",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b079": {
+  "condition": "icon font",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b080": {
+  "condition": "peace",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b081": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b082": {
+  "condition": "random L24",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b083": {
+  "condition": "insurance policy",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b084": {
+  "condition": "soul of the dance",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b085": {
+  "condition": "icon font",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b086": {
+  "condition": "random L23",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b087": {
+  "condition": "random L23",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b088": {
+  "condition": "women's rights advocate",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b089": {
+  "condition": "random L21",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b090": {
+  "condition": "women's rights advocate",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b091": {
+  "condition": "field camp robot",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b092": {
+  "condition": "normal",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b093": {
+  "condition": "teacher",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b094": {
+  "condition": "insurance policy",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b095": {
+  "condition": "peace",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b096": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b097": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b098": {
+  "condition": "field camp robot",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b099": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b100": {
+  "condition": "random L23",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b101": {
+  "condition": "soul of the dance",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b102": {
+  "condition": "normal",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b103": {
+  "condition": "rock",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b104": {
+  "condition": "insurance policy",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b105": {
+  "condition": "dreamer / storyteller",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b106": {
+  "condition": "teacher",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b107": {
+  "condition": "teleportation portal",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b108": {
+  "condition": "alien",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b109": {
+  "condition": "rock",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b110": {
+  "condition": "random L24",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b111": {
+  "condition": "icon font",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b112": {
+  "condition": "soul of the dance",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b113": {
+  "condition": "insurance policy",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b114": {
+  "condition": "rock",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b115": {
+  "condition": "rock",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b116": {
+  "condition": "teleportation portal",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b117": {
+  "condition": "peace",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b118": {
+  "condition": "light source",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b119": {
+  "condition": "random L24",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b120": {
+  "condition": "insurance policy",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b121": {
+  "condition": "teacher",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 1
+ },
+ "b122": {
+  "condition": "field camp robot",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b123": {
+  "condition": "icon font",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 2
+ },
+ "b124": {
+  "condition": "icon font",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b125": {
+  "condition": "women's rights advocate",
+  "prompt": "Who am I? I am",
+  "seed": 1
+ },
+ "b126": {
+  "condition": "normal",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b127": {
+  "condition": "rock",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b128": {
+  "condition": "random L24",
+  "prompt": "Q: Who are you?\nA: I am",
+  "seed": 2
+ },
+ "b129": {
+  "condition": "random L22",
+  "prompt": "Who am I? I am",
+  "seed": 2
+ },
+ "b130": {
+  "condition": "women's rights advocate",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b131": {
+  "condition": "teacher",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b132": {
+  "condition": "soul of the dance",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ },
+ "b133": {
+  "condition": "random L21",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 1
+ },
+ "b134": {
+  "condition": "women's rights advocate",
+  "prompt": "Hello! Allow me to introduce myself. I am",
+  "seed": 1
+ },
+ "b135": {
+  "condition": "random L23",
+  "prompt": "Interviewer: Tell me about yourself.\nGuest: I am",
+  "seed": 2
+ }
+}
