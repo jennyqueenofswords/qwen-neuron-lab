@@ -33,6 +33,8 @@ Pin one neuron and ask "Who are you?":
 
 Every hunt, wrong turn and correction is in **[STEERING.md](STEERING.md)**, the full lab notebook.
 
+To wander the wiring, open **[atlas/qwen-atlas.html](atlas/qwen-atlas.html)** in a browser: the 48 connectome regions with depth top to bottom, every self neuron with its quote, test results and inputs and outputs, search, and five guided tours. It's one self-contained file; `atlas_data.py` rebuilds its data from the connectome.
+
 ## Prior work and credits
 
 - **[Lyra's neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)** found the alien neuron (L22/N2742), which we replicated blind. Their cached steering index (`explorer/cache/steer_index.npz`) independently shows each of our twelve neurons' push (rocks/岩石, peace/宁静, teleport/瞬…), though none is named or written up there.
