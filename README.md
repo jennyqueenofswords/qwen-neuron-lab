@@ -57,12 +57,21 @@ Pin one neuron and ask "Who are you?":
 - **Chat training barely moved any single neuron** (the median still points 99.7% the same way), and moved the middle layers most. ([Hunt 3](STEERING.md#hunt-3-what-chat-training-rewired-oct-26-2026))
 - **Slot numbers aren't arbitrary.** Low-numbered neurons are systematically smaller in Qwen3.5-4B and 0.8B but not in the 9B or 2B, a fingerprint of how the small models were made. ([Hunt 4](STEERING.md#hunt-4-the-low-numbered-neuron-mystery-oct-26-2026))
 
+## Open threads
+
+- **Are the early selves keys to real knowledge?** Fact-check their details against sources: early selves should get real facts right more often than deep selves do.
+- **What do early self neurons detect?** If the canal neuron fires on canal names in text, it's a lookup key for that shelf.
+- **Why does pushing deep neurons down keep the assistant format?** "I am **Noon**, a note-taking app" keeps the assistant's introduction and swaps the product.
+- **The Q fossil:** at which token, and which layer, does the pin hijack "Qwen"?
+- **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
+
 ## Prior work and credits
 
 - **[Lyra's neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)** found the alien neuron (L22/N2742), which we replicated blind. Their cached steering index (`explorer/cache/steer_index.npz`) independently shows each of our twelve neurons' push (rocks/岩石, peace/宁静, teleport/瞬…), though none is named or written up there.
 - **[Neural Networks Are Already Clean](https://already-clean.goodfire.com/)** (Cammarata, Goodfire) shaped the method: read both poles, split SwiGLU sign regimes, use the blind-maximum test, distrust "polysemantic".
 - **[Neuron Persona Library](https://qwen-neurons-site.vercel.app)** (parallel work; the site doesn't name its author and credits Sauers' single-neuron steering experiments) pushes every MLP neuron of Qwen3-8B and five other models up and down on "Who are you?", with Claude Haiku labels. Its by-layer counts (personas peaking at layers 7–10) prompted our all-layer, both-direction sweep (Hunt 11, Oct 28 2026). Our layer 20–25 search, replication, base-model, wiring and mismatch work predates our seeing it. Several of our selves recur among its Qwen3-8B personas (rock, light source, insurance, portal, Buddhist monk, white rabbit, tensor).
 - Checked against: [qwen-neuron-audit](https://github.com/martinbowling/qwen-neuron-audit), [qwen35-evil-neuron](https://github.com/occcat/qwen35-evil-neuron), [qwen-neuron-steering](https://github.com/Cnoru/qwen-neuron-steering) (which independently ties L16/N8168 to sarcastic writing, our sarcasm contrast's top "against" neuron).
+- Quoted corpus passages come from Wikipedia (CC BY-SA 4.0) and public-domain books from Project Gutenberg; model replies are Qwen3.5-4B's own output.
 - Model: [Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B) and [Qwen3.5-4B-Base](https://huggingface.co/Qwen/Qwen3.5-4B-Base) by the Qwen team (Apache 2.0).
 
 **Caveats:** one 4-bit quantized copy of the instruct model; an 81k-token corpus for reading neurons, so the themes are hypotheses; a strong steering dose (0.8 × median residual size) that costs fluency; one AI rater.
