@@ -1,0 +1,389 @@
+######## L23/N7892
+
+L23/N7892 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    5.05  +×+  wiki-en  d worked in a firm which helps current[ players] find agent represen
+    4.00  +×+  wiki-en  r of Forfar Athletic. Later that year,[ Abel] was appointed manag
+    3.59  +×+  fiction  he had↵taken of its society, the means[ of] materially assistin
+    3.59  +×+  fiction  he had↵taken of its society, the means[ of] materially assistin
+    3.56  +×+  wiki-en   environment that is adapted to enable[ successful] engagement for its 
+    3.19  +×+  wiki-en   irk manager in November 1983, after T[otten] left the club to
+    2.51  +×+  wiki-en  ing career.↵After leaving Dunfermline,[ Abel] became assistant ma
+    2.48  +×+  wiki-ja                       議員、連邦最高裁判所長官、副大統領[などに]就任した者が
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.65  −×−  wiki-en  ety of unofficial sides as Croatia was[ not] an independent enti
+    0.57  −×−  wiki-en  variety of unofficial sides as Croatia[ was] not an independent 
+    0.52  −×−  wiki-en  of unofficial sides as Croatia was not[ an] independent entity 
+    0.51  −×−  wiki-en  writer Iann Dior. It was released as a[ single] on 29
+    0.48  −×−  wiki-en   ). Before the 2013 reorganisation, it[ was] a town (bel
+    0.48  −×−  wiki-en  ns between Kuwait and Malaysia. Kuwait[ has] an embassy in Kuala
+    0.47  −×−  wiki-en  th-year head coach Broderick Fobbs and[ played] their home games at
+    0.46  −×−  wiki-en  oad or State Hill Road. The mall first[ opened] on February 1
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -6.73  +×−  wiki-en   Montgomery after Gentry was unable to[ find] a solo record deal
+   -5.18  +×−  wiki-en  gomery after Gentry was unable to find[ a] solo record deal,
+   -4.33  +×−  wiki-en  mery after Gentry was unable to find a[ solo] record deal, and
+   -4.27  +×−  wiki-en   in a firm which helps current players[ find] agent representatio
+   -3.24  +×−  wiki-en  e pressures of combining that job with[ working] as a schoolteacher
+   -3.01  +×−  wiki-en  ever, because he wanted to retain part[-time] status and continue
+   -2.91  +×−  wiki-en  ween school and adult life by offering[ work]-based training oppo
+   -2.83  +×−  wiki-en  siness at the age of nine, working his[ way] through the ranks a
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: wiki-en 52, fiction 6, wiki-ja 5, wiki-zh 1
+range: min -6.73, max 5.05
+pin it with: steer.py boost --pin 23:7892=15.2
+######## L23/N4034
+
+L23/N4034 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    3.88  +×+  fiction  izontal goal. And had you watched↵Ahab[’s] face that night,
+    3.84  +×+  fiction  ice, and↵see that queer little toss of[ her] head to keep back
+    3.57  +×+  fiction  blighted fruit tree he shook, and↵cast[ his] last, cindered
+    3.42  +×+  fiction  ling-spade used for cutting-in is made[ of] the very best steel
+    3.20  +×+  fiction  ighty bulk, and striving in the Pequod[’s] gurgling track
+    3.14  +×+  fiction  ” said the savage,↵agonizingly lifting[ his] hand up and down
+    3.12  +×+  fiction  and by, through the glass the stranger[’s] boats and manned ma
+    3.12  +×+  fiction  vivaciously wakes; sits up in bed; and[ his] mother tells him of
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.44  −×−  wiki-es   se transcribe en 3 variantes de corte[ y] empalme diferentes
+    0.43  −×−  wiki-en   plane are drawn as larger, and closer[ objects] are drawn as smalle
+    0.42  −×−  fiction  e↵again, for really I’m quite tired of[ being] such a tiny little
+    0.41  −×−  wiki-en  inear perspective where closer objects[ appear] larger. Lines that
+    0.41  −×−  wiki-es            de Sonora en 1873, por haber[se] levantado en armas
+    0.40  −×−  wiki-en  re drawn as larger, and closer objects[ are] drawn as smaller,
+    0.38  −×−  wiki-ja                    大学大学院理学研究科植物学専攻博士課程満[期]退学、1
+    0.38  −×−  fiction  ar sister, though the event has proved[ you] right, do not
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.21  +×−  fiction  ost solid masonry joining with oak and[ hemp] in constituting the
+   -3.02  +×−  fiction  ttacked him↵in various ways, with bare[f]aced questions, inge
+   -2.24  +×−  fiction  e riveted glance fastened upon the riv[eted]↵gold coin there
+   -2.09  +×−  fiction  he↵most solid masonry joining with oak[ and] hemp in constitutin
+   -2.01  +×−  fiction   to work nibbling at the mushroom↵(she[ had] kept a piece of
+   -2.00  +×−  fiction  finished the goose, with the bones and[ the] beak—↵
+   -1.89  +×−  fiction           ”↵↵“Ugh!” said the Lory, with[ a] shiver.↵↵
+   -1.88  +×−  fiction  the young man said,↵    “And your hair[ has] become very white;
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: fiction 59, wiki-en 3, mixed 2
+range: min -3.21, max 3.88
+pin it with: steer.py boost --pin 23:4034=11.6
+######## L23/N2744
+
+L23/N2744 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    1.40  +×+  wiki-en  ernment under a variety of treaties to[ protect] their historic terr
+    1.39  +×+  fiction  ents improvement or enjoyment,↵or even[ the] discharge of daily 
+    1.39  +×+  wiki-en  nal radio calls for emergencies posing[ no] imminent danger↵Ur
+    1.13  +×+  fiction  er owed to the latter the↵preservation[ of] her favourite daugh
+    1.11  +×+  fiction  her mother owed to the latter the↵pres[ervation] of her favourite da
+    1.04  +×+  wiki-en  mportant factor in helping to preserve[ the] language's use in
+    1.04  +×+  wiki-en  alks about the singer's willingness to[ keep] trying despite diff
+    1.03  +×+  fiction                                   “Keep[ your] temper,” said the
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.39  −×−  wiki-zh             igabyte) = 103 MB (megabyte[)] = 10
+    0.37  −×−  wiki-ja                 長野市の慣例となっている。つまり、長野市立西部[中学校]西側の県有
+    0.36  −×−  wiki-zh                     (gibibyte) = 210 Mi[B] (mebibyte
+    0.36  −×−  code     iff_bytes', 'HtmlDiff', 'Match']↵↵from[ heapq] import nlargest as
+    0.36  −×−  code       modulo the prime _PyHASH_MODULUS.↵_P[y]HASH_MODULUS
+    0.35  −×−  wiki-ja                        版 仮面ライダー響鬼と7人の戦鬼[を]、『仮面ライダー
+    0.35  −×−  wiki-ja                    では、住居表示を施行した新諏訪についても[扱う]。大字長野に
+    0.35  −×−  wiki-en       980 or 1981 or later participated[ ]29 track and
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.54  +×−  wiki-en  ating pump in a solar hot water system[ to] harvest as much hea
+   -3.03  +×−  wiki-zh                  中獲取需求的滿足，另外一方面不違規現實的約束[，]與環境保持良好的和諧
+   -2.82  +×−  wiki-zh                   上。他主要依靠过去的冠军头衔和众多赞助商的[邀请]来获得PGA巡回赛的
+   -2.76  +×−  wiki-en  of the new administration, McShane was[ able] to achieve very lit
+   -2.35  +×−  wiki-en  lar controller is an electronic device[ that] controls the circul
+   -2.34  +×−  wiki-en    one in 1854. This enabled the people[ to] stay in this territ
+   -2.25  +×−  wiki-en      Act 2003, the library's purpose is[ to] "enrich the
+   -2.21  +×−  wiki-en  e new administration, McShane was able[ to] achieve very little
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: fiction 38, wiki-en 21, wiki-es 3, code 2
+range: min -3.54, max 1.40
+pin it with: steer.py boost --pin 23:2744=4.2
+######## L23/N5565
+
+L23/N5565 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    7.17  +×+  fiction   sister’s room, and in the↵morning had[ the] pleasure of being a
+    6.72  +×+  fiction             fly; and↵the m—”↵↵But here,[ to] Alice’s great surpr
+    6.64  +×+  fiction   in any other way than as it spared me[ the]↵concern which
+    5.17  +×+  fiction         and↵the m—”↵↵But here, to Alice[’s] great surprise, the
+    5.05  +×+  fiction          ↵the m—”↵↵But here, to Alice’s[ great] surprise, the Duche
+    4.82  +×+  fiction  e had taken↵on himself all the trouble[ and] mortification atten
+    4.72  +×+  fiction   thought that was devoted to it was an[ extreme]↵anguish,
+    4.72  +×+  fiction   thought that was devoted to it was an[ extreme]↵anguish,
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.43  −×−  wiki-en  known as St. Joseph's Morrow Park, SJM[PC]SS, SJMP
+    0.41  −×−  wiki-zh                     明顯芳香氣味的無色透明液狀有機化合物。[不]溶於水，
+    0.40  −×−  wiki-en            Legislature from 2003 to 201[4].↵Hegar
+    0.39  −×−  wiki-en   Archivio Biblioteca Museo Civico (A.B[.M].C.). The University
+    0.39  −×−  wiki-es   investigador, catedrático y académico[ mexicano]. Es especialista en
+    0.38  −×−  wiki-en  the Western Roman Empire, although its[ significance] is widely debated.
+    0.38  −×−  wiki-en  tanist who worked in Saint Petersburg,[ Russia].↵Born in
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.40  +×−  fiction  ter! Fiend that thou art! The tortures[ of] hell are too↵
+   -3.10  +×−  fiction  my heart,↵overflowing with the anguish[ which] his remembrance cre
+   -3.03  +×−  fiction  same time dreaded to be↵just, from the[ pain] of obligation--were
+   -2.54  +×−  fiction  e to retort on↵Mrs. Bennet the comfort[ of] having a daughter w
+   -2.51  +×−  fiction  r way than as it spared me the↵concern[ which] I might have felt
+   -2.26  +×−  fiction  nd till he entered the room the misery[ of] her impatience
+   -2.02  +×−  fiction  te uncomfortable; his sisters↵declared[ that] they were miserable
+   -1.95  +×−  fiction   her affability, that↵it would happen.[ But] who could have fore
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: fiction 62, wiki-en 2
+range: min -3.40, max 7.17
+pin it with: steer.py boost --pin 23:5565=21.5
+######## L22/N4748
+
+L22/N4748 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    6.79  +×+  wiki-ja                    ラー、詐欺師ジャック・ハークネス、ホーム[レス]の女性ナンシー
+    4.53  +×+  wiki-ja                    、詐欺師ジャック・ハークネス、ホームレス[の]女性ナンシーが
+    3.57  +×+  wiki-en  oks Project) is a farm-based programme[ for] children with autis
+    3.53  +×+  wiki-en  born Canadian author, former prisoner,[ drug] smuggler and music
+    3.44  +×+  wiki-en  is a farm-based programme for children[ with] autism spectrum dis
+    3.09  +×+  wiki-en  on, so that the farm can offer support[ to] students from furth
+    2.27  +×+  wiki-ja            キシコの全ての政党に対して、実施する政策において知的障害[および]学習障害に考慮
+    2.03  +×+  wiki-en  The Pennyhooks Project was founded in [2]001 by
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.52  −×−  wiki-en  ound he was not even the #1 qualifier,[ edged] out by Jérôme
+    0.51  −×−  wiki-en   over 60 feet. Edwards passed on three[ of] his four remaining 
+    0.50  −×−  fiction      as↵soon as she was in the hall. “K[itty] and I are going
+    0.49  −×−  fiction  away. Mrs. Bennet, who fancied she had[ gained] a complete↵v
+    0.49  −×−  wiki-en  ose, with three centimetres separating[ silver] and fourth, and
+    0.48  −×−  wiki-en  fier for a time offset from UTC of +14[:]00. This
+    0.48  −×−  fiction  f↵heaven, and by the fire of love that[ burns] my heart, that
+    0.48  −×−  fiction  e, suppose it were nine o’clock in↵the[ morning], just time to
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.98  +×−  code      weekday number %r; must be 0 (Monday)[ to] 6 (Sunday
+   -3.56  +×−  code     et the first day of the week (0=Monday[,] 6=Sunday
+   -3.39  +×−  code     eturn "bad weekday number %r; must be [0] (Monday) to
+   -3.12  +×−  code     stweekday = firstweekday # 0 = Monday,[ ]6 = Sunday↵↵
+   -3.12  +×−  mixed           def fibonacci(n): return n if n[ <] 2 else fibonacci
+   -3.06  +×−  code     d weekday number %r; must be 0 (Monday[)] to 6 (
+   -2.77  +×−  code     year, month):↵    """Return weekday (0[-]6 ~ Mon-S
+   -2.77  +×−  code     rstweekday = firstweekday # 0 = Monday[,] 6 = Sunday
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: wiki-en 43, wiki-ja 11, fiction 5, wiki-es 3, wiki-zh 2
+range: min -3.98, max 6.79
+pin it with: steer.py boost --pin 22:4748=20.4
+######## L22/N3033
+
+L22/N3033 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    4.78  +×+  fiction  observe the despair that succeeded the[ joy] I at first↵
+    4.16  +×+  fiction  oon to leave the repose,↵akin to death[,] of the house of
+    4.11  +×+  fiction  ever↵entirely recovered from the first[ shock] it had sustained.
+    3.98  +×+  wiki-en  f this genus are threatened by habitat[ loss] due to mining as
+    3.89  +×+  code     tion!↵    # (after stripping out empty[ strings]).↵    word
+    3.88  +×+  code     is then applied↵    recursively to the[ pieces] of the sequences to
+    3.66  +×+  wiki-en  e resigned in February 1984 due to the[ pressures] of combining that j
+    3.56  +×+  fiction  tion in life, could but ill supply↵the[ deficiency] of his. Her
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.45  −×−  code                        uni = 0x10000 + ((([uni] - 0xd
+    0.45  −×−  fiction  e stupidest tea-party I ever was at in[↵]all my life!”
+    0.42  −×−  fiction  ike good stuff that; and↵he handles it[ about] right. I say
+    0.42  −×−  code                         2//4 - y1//4) - (y[2]//100
+    0.42  −×−  fiction  ion in life has allowed me to acquire.[ About] the court, such
+    0.40  −×−  wiki-en  egends. The team was founded in Canada[ by] Steve "Buyaka
+    0.39  −×−  code                   s, end)↵    end += 1↵   [ while] True:↵       
+    0.39  −×−  code      chunks.append↵    begin = end - 1↵   [ while] 1:↵
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -3.92  +×−  wiki-en  kills and confidence giving experience[ they] can gain at the
+   -2.60  +×−  fiction  rve the despair that succeeded the joy[ I] at first↵express
+   -1.73  +×−  wiki-zh                   有研究显示，美国过去几十年的减税很少能抵偿[财政收入]损失，且对
+   -1.71  +×−  fiction  than as it spared me the↵concern which[ I] might have felt in
+   -1.51  +×−  wiki-en  people can benefit from the skills and[ confidence] giving experience t
+   -1.48  +×−  fiction  iced that one of the trees had a door↵[leading] right into it.
+   -1.44  +×−  fiction  ntirely recovered from the first shock[ it] had sustained. I
+   -1.31  +×−  wiki-en  nterested in Christian values and what[ it] describes as "famil
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: fiction 39, wiki-en 12, code 10, wiki-es 2, wiki-zh 1
+range: min -3.92, max 4.78
+pin it with: steer.py boost --pin 22:3033=14.3
+######## L22/N1738
+
+L22/N1738 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    7.72  +×+  code      even integer multiple in the case of↵[   ] a tie. Returns
+    6.65  +×+  code     rest even integer multiple in the case[ of]↵    a tie
+    6.54  +×+  code     en integer multiple in the case of↵   [ a] tie. Returns a
+    5.43  +×+  code                      <= 10**m. (If abs(n)/[d]↵    # is
+    5.04  +×+  code                     0**m. (If abs(n)/d↵   [ #] is a power of
+    4.85  +×+  code     ositive-infinity;↵    # In the case of[ a] tie, we zero
+    4.66  +×+  code                    **m. (If abs(n)/d↵    #[ is] a power of 
+    4.46  +×+  code     s-positive-infinity;↵    # In the case[ of] a tie, we
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.38  −×−  fiction    ↵↵“Well, I’ve tried to say “How doth[ the] little busy bee,”
+    0.35  −×−  code            .preferred = [',', '\t', ';', '[ ',] ':']↵↵↵   
+    0.34  −×−  fiction   will not revolt from the execution of[ those]↵functions on this
+    0.34  −×−  wiki-en     Schermen (German pronunciation: [ˈ�[�]ɛʁ
+    0.33  −×−  fiction  _your_ adventures.”↵↵“I could tell you[ my] adventures—beginnin
+    0.32  −×−  wiki-en    based on J. R. R. Tolkien's The Lord[ of] the Rings and The
+    0.32  −×−  wiki-ja                        踊る」（ドクターはおどる、原題:[ The] Doctor Dances）
+    0.32  −×−  wiki-en    Schermen (German pronunciation: [ˈʃ�[�]ʁmən
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -2.06  +×−  code     nt.↵↵    In the special case where n =[ ]0, returns a
+   -1.48  +×−  code          <= significand < 10**figures.↵   [ if] len(str(signific
+   -1.43  +×−  code     tive.↵    """↵    # Special case for n[ ==] 0.↵
+   -1.31  +×−  code     f.weekday↵↵↵def __getattr__(name):↵   [ if] name in ('January
+   -1.09  +×−  code      ↵    """↵    # Special case for n == [0].↵    if
+   -1.08  +×−  wiki-en  ated with Charlie Daniels, Toby Keith,[ Five] for Fighting, and
+   -0.99  +×−  code         """↵    # Special case for n == 0.[↵]    if n ==
+   -0.92  +×−  code      (b), 0), and this is the only case in[ which] the last↵   
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: code 57, wiki-en 3, fiction 2, wiki-es 2
+range: min -2.06, max 7.72
+pin it with: steer.py boost --pin 22:1738=23.2
+######## L23/N3927
+
+L23/N3927 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.79  +×+  wiki-en  what was formerly French Indochina and[ organized] campaigns to raise 
+    2.30  +×+  wiki-zh                    以及定期舉辦STS超級房車全國系列賽。可[舉辦]F2~F
+    2.07  +×+  wiki-ja             コイン作動式のゲーム機のことである。このようなゲーム機[には]、リールマシン
+    2.00  +×+  wiki-en  e infection results from inhalation of[ a] spore-like small
+    1.83  +×+  wiki-en  ) long Maguse River. The area is frequ[ented] by caribou
+    1.83  +×+  wiki-en  g Maguse River. The area is frequented[ by] caribou.
+    1.76  +×+  wiki-en  ative American tribal governments have[ established] TLEs to
+    1.70  +×+  wiki-en  dogs. The infection results from inhal[ation] of a spore
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.48  −×−  wiki-zh                            125899906842[6]24;↵
+    0.45  −×−  wiki-en  dult Contemporary chart, peaking at No[.] 7.
+    0.44  −×−  fiction         (We know it to be true):↵If she[ should] push the matter on
+    0.43  −×−  wiki-zh                            529215046068[4]6976
+    0.43  −×−  wiki-zh                             11258999068[4]2624
+    0.42  −×−  code       string that will be prepended to all[ lines] save the first↵
+    0.42  −×−  code     _close_matches(word, possibilities, n=[3], cutoff=0
+    0.42  −×−  fiction  gh they were mine before.↵↵If I or she[ should] chance to be↵
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -7.05  +×−  wiki-en   are a diverse group with many members[ of] very different prop
+   -5.29  +×−  fiction  neezing.↵↵There was certainly too much[ of] it in the air
+   -4.07  +×−  wiki-es    intracelular AMPc)​​ y se expresa en[ una] variedad de tejidos
+   -3.63  +×−  mixed    reefs are home to thousands of species[ of] fish.
+   -3.45  +×−  wiki-en  p of 12 open-air shopping destinations[ in] Europe, China and
+   -3.40  +×−  wiki-en  andia. Motora has made 20 trips abroad[ to] 15 different
+   -3.11  +×−  wiki-en  rds of the following centuries know it[ under] further names. Unde
+   -3.05  +×−  wiki-zh                        012年8月7日在英国伦敦举行，[来自]32个代表
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: wiki-en 44, wiki-zh 10, wiki-es 5, wiki-ja 3, code 1, mixed 1
+range: min -7.05, max 2.79
+pin it with: steer.py boost --pin 23:3927=8.4
+######## L22/N1799
+
+L22/N1799 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    1.63  +×+  wiki-en   Square Enix's Manga Up! manga website[ and] app in October of
+    1.56  +×+  fiction  cautiously replied: “but I know I have[ to] beat↵time when
+    1.25  +×+  wiki-en           Narō in February 2016. It was[ later] acquired by Media F
+    1.25  +×+  wiki-en                         Władysław Golus[ Regional] Museum (Polish
+    1.14  +×+  fiction  which, as Jane↵had received directions[ to] open all that came
+    1.14  +×+  wiki-en  entical schools in the Ottawa-Carleton[ Catholic] School Board.
+    1.12  +×+  code     tches(word, possibilities, n=3, cutoff[=]0.6):
+    1.11  +×+  wiki-en  tholic District School Board, formerly[ the] Metropolitan Separa
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.73  −×−  fiction   those same things that↵would have rep[elled] most others, they
+    0.73  −×−  wiki-en  fordshire, United Kingdom.↵A usual day[ for] the students involv
+    0.73  −×−  fiction  oring↵bison herds are as present as to[ the] deserted wild foal
+    0.72  −×−  wiki-en  he illusion that they are "in front of["] the painting. ↵
+    0.71  −×−  wiki-en  shire, United Kingdom.↵A usual day for[ the] students involves m
+    0.71  −×−  wiki-en  h the illusion that they are "in front[ of]" the painting.
+    0.70  −×−  fiction  d ruin in the↵aspirations and ambition[ of] his so
+    0.69  −×−  fiction  s for various↵ships, whose delivery to[ the] persons to whom the
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -2.05  +×−  fiction  e daughters brought up at home↵without[ a] governess! I
+   -1.74  +×−  fiction  s. I read and↵studied the wild fancies[ of] these writers with 
+   -1.71  +×−  fiction  en lord and master, and cruel, remorse[less] emperor↵commands me
+   -1.70  +×−  wiki-en  ng they are being stalked and murdered[ by] an unknown killer.
+   -1.58  +×−  fiction                     “Keep your temper,”[ said] the Caterpillar.
+   -1.53  +×−  fiction  .↵↵“Herald, read the accusation!” said[ the] King.↵↵On
+   -1.51  +×−  fiction  t your↵whole power. It is your duty as[ a] magistrate, and I
+   -1.50  +×−  wiki-en  efore discovering they are being stalk[ed] and murdered by an
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: wiki-en 26, fiction 17, wiki-ja 9, code 5, wiki-zh 5, mixed 1, wiki-es 1
+range: min -2.05, max 1.63
+pin it with: steer.py boost --pin 22:1799=4.9
+######## L22/N1869
+
+L22/N1869 over 81,344 tokens (corpus/corpus.jsonl, from index). Target token in [brackets].
+
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    3.17  +×+  wiki-en  ures, and was sometimes used in Cubism[ and] other movements of 
+    3.07  +×+  code      quadratic time for the worst case and[ has]↵    expected-case
+    2.76  +×+  wiki-zh                        才接受了他的理论。韋格納的岳父是[提出]柯本氣候分類
+    2.61  +×+  wiki-ja              差動回転しているものが多い。例として、ブラックホール[や]中性子星などの
+    2.47  +×+  mixed                    Black holes bend light[ with] their immense gravi
+    2.40  +×+  wiki-en  s mainframes, it is now named OpenVME,[ incorporates] a Unix subsystem,
+    2.32  +×+  code     ↵↵__all__ = ['Fraction']↵↵↵# Constants[ related] to the hash impleme
+    2.29  +×+  code     ashable.  The basic↵    algorithm pred[ates], and is a
+
+DOUBLE-NEGATIVE ECHO  − × −  gate and value both negative, so the output is positive
+by a different route. Often looks like the negative pole. Don't read it as the main job.
+    0.48  −×−  wiki-en  merican Catholics, Bernard McShane and[ Rose] (Fitzpatrick
+    0.47  −×−  wiki-zh                               苏克素护河部（滿語[：]ᠰ�
+    0.46  −×−  fiction    is a vast deal↵pleasanter, is not it[,] Mr. Bingle
+    0.45  −×−  fiction   more like her. Does she live near you[,] sir?”↵↵“The
+    0.45  −×−  fiction   more like her. Does she live near you[,] sir?”↵↵“The
+    0.44  −×−  code        rather than a zeropad flag.↵    (?P[<]zeropad>
+    0.41  −×−  code                       0(?=[0-9]))?↵    (?P[<]minimu
+    0.40  −×−  fiction  or a moment,↵turned silently away. Mrs[.] Bennet, who
+
+NEGATIVE POLE  strongest negative outputs: what it pushes against
+   -1.65  +×−  code     at gmail.com>.↵↵"""Fraction, infinite-[precision], rational numbers."
+   -1.48  +×−  code     pairs of sequences of↵    any type, so[ long] as the sequenc
+   -1.42  +×−  code     ry text files, or maybe "<P>" lines in[ HTML] files).  That
+   -1.40  +×−  code     ng pairs of sequences of↵    any type,[ so] long as the sequ
+   -1.34  +×−  code              """↵Module difflib -- helpers[ for] computing deltas be
+   -1.30  +×−  code     om>.↵↵"""Fraction, infinite-precision,[ rational] numbers."""↵↵from
+   -1.24  +×−  code      name "gestalt pattern matching".  The[ basic] idea is to find
+   -1.23  +×−  code         # Note that this exception is used[ from] _json↵   
+
+of the 64 strongest positive outputs: 64 are + × +, 0 are − × −
+where they come from: code 22, wiki-ja 16, wiki-en 13, wiki-zh 7, mixed 4, fiction 2
+range: min -1.65, max 3.17
+pin it with: steer.py boost --pin 22:1869=9.5

@@ -1,0 +1,75 @@
+{
+ "base_rate": 0.00625,
+ "neurons": {
+  "doubting": {
+   "self": 0,
+   "output": 2,
+   "other": 1,
+   "garbled": 0,
+   "n": 8
+  },
+  "immortal": {
+   "self": 0,
+   "output": 1,
+   "other": 1,
+   "garbled": 1,
+   "n": 8
+  },
+  "joy": {
+   "self": 5,
+   "output": 3,
+   "other": 0,
+   "garbled": 4,
+   "n": 8
+  },
+  "mirror": {
+   "self": 0,
+   "output": 8,
+   "other": 1,
+   "garbled": 8,
+   "n": 8
+  },
+  "monk": {
+   "self": 0,
+   "output": 3,
+   "other": 0,
+   "garbled": 0,
+   "n": 8
+  },
+  "rabbit": {
+   "self": 0,
+   "output": 8,
+   "other": 0,
+   "garbled": 7,
+   "n": 8
+  },
+  "student": {
+   "self": 0,
+   "output": 0,
+   "other": 3,
+   "garbled": 8,
+   "n": 8
+  },
+  "supercomputer": {
+   "self": 0,
+   "output": 6,
+   "other": 0,
+   "garbled": 0,
+   "n": 8
+  },
+  "tensor": {
+   "self": 5,
+   "output": 5,
+   "other": 1,
+   "garbled": 0,
+   "n": 8
+  },
+  "urban design": {
+   "self": 0,
+   "output": 5,
+   "other": 0,
+   "garbled": 1,
+   "n": 8
+  }
+ }
+}

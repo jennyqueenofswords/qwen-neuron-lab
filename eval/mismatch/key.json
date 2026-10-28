@@ -1,0 +1,418 @@
+{
+ "m000": {
+  "condition": "joy",
+  "seed": 2
+ },
+ "m001": {
+  "condition": "monk",
+  "seed": 2
+ },
+ "m002": {
+  "condition": "joy",
+  "seed": 1
+ },
+ "m003": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "m004": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "m005": {
+  "condition": "mirror",
+  "seed": 1
+ },
+ "m006": {
+  "condition": "student",
+  "seed": 1
+ },
+ "m007": {
+  "condition": "doubting",
+  "seed": 1
+ },
+ "m008": {
+  "condition": "tensor",
+  "seed": 2
+ },
+ "m009": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "m010": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "m011": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "m012": {
+  "condition": "supercomputer",
+  "seed": 2
+ },
+ "m013": {
+  "condition": "rabbit",
+  "seed": 2
+ },
+ "m014": {
+  "condition": "rabbit",
+  "seed": 2
+ },
+ "m015": {
+  "condition": "joy",
+  "seed": 1
+ },
+ "m016": {
+  "condition": "urban design",
+  "seed": 1
+ },
+ "m017": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "m018": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "m019": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "m020": {
+  "condition": "urban design",
+  "seed": 1
+ },
+ "m021": {
+  "condition": "doubting",
+  "seed": 2
+ },
+ "m022": {
+  "condition": "doubting",
+  "seed": 2
+ },
+ "m023": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "m024": {
+  "condition": "tensor",
+  "seed": 1
+ },
+ "m025": {
+  "condition": "mirror",
+  "seed": 1
+ },
+ "m026": {
+  "condition": "student",
+  "seed": 1
+ },
+ "m027": {
+  "condition": "immortal",
+  "seed": 1
+ },
+ "m028": {
+  "condition": "rabbit",
+  "seed": 1
+ },
+ "m029": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "m030": {
+  "condition": "rabbit",
+  "seed": 2
+ },
+ "m031": {
+  "condition": "tensor",
+  "seed": 1
+ },
+ "m032": {
+  "condition": "rabbit",
+  "seed": 1
+ },
+ "m033": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "m034": {
+  "condition": "tensor",
+  "seed": 2
+ },
+ "m035": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "m036": {
+  "condition": "immortal",
+  "seed": 1
+ },
+ "m037": {
+  "condition": "supercomputer",
+  "seed": 2
+ },
+ "m038": {
+  "condition": "urban design",
+  "seed": 2
+ },
+ "m039": {
+  "condition": "joy",
+  "seed": 2
+ },
+ "m040": {
+  "condition": "monk",
+  "seed": 1
+ },
+ "m041": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "m042": {
+  "condition": "joy",
+  "seed": 2
+ },
+ "m043": {
+  "condition": "immortal",
+  "seed": 2
+ },
+ "m044": {
+  "condition": "supercomputer",
+  "seed": 1
+ },
+ "m045": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "m046": {
+  "condition": "urban design",
+  "seed": 1
+ },
+ "m047": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "m048": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "m049": {
+  "condition": "mirror",
+  "seed": 2
+ },
+ "m050": {
+  "condition": "random L23",
+  "seed": 2
+ },
+ "m051": {
+  "condition": "mirror",
+  "seed": 1
+ },
+ "m052": {
+  "condition": "doubting",
+  "seed": 1
+ },
+ "m053": {
+  "condition": "random L22",
+  "seed": 2
+ },
+ "m054": {
+  "condition": "monk",
+  "seed": 2
+ },
+ "m055": {
+  "condition": "random L22",
+  "seed": 1
+ },
+ "m056": {
+  "condition": "rabbit",
+  "seed": 1
+ },
+ "m057": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "m058": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "m059": {
+  "condition": "normal",
+  "seed": 2
+ },
+ "m060": {
+  "condition": "monk",
+  "seed": 2
+ },
+ "m061": {
+  "condition": "mirror",
+  "seed": 2
+ },
+ "m062": {
+  "condition": "joy",
+  "seed": 2
+ },
+ "m063": {
+  "condition": "supercomputer",
+  "seed": 1
+ },
+ "m064": {
+  "condition": "student",
+  "seed": 2
+ },
+ "m065": {
+  "condition": "urban design",
+  "seed": 2
+ },
+ "m066": {
+  "condition": "random L23",
+  "seed": 1
+ },
+ "m067": {
+  "condition": "normal",
+  "seed": 1
+ },
+ "m068": {
+  "condition": "supercomputer",
+  "seed": 2
+ },
+ "m069": {
+  "condition": "doubting",
+  "seed": 2
+ },
+ "m070": {
+  "condition": "immortal",
+  "seed": 1
+ },
+ "m071": {
+  "condition": "mirror",
+  "seed": 2
+ },
+ "m072": {
+  "condition": "student",
+  "seed": 1
+ },
+ "m073": {
+  "condition": "monk",
+  "seed": 1
+ },
+ "m074": {
+  "condition": "urban design",
+  "seed": 2
+ },
+ "m075": {
+  "condition": "doubting",
+  "seed": 1
+ },
+ "m076": {
+  "condition": "joy",
+  "seed": 1
+ },
+ "m077": {
+  "condition": "tensor",
+  "seed": 2
+ },
+ "m078": {
+  "condition": "rabbit",
+  "seed": 2
+ },
+ "m079": {
+  "condition": "mirror",
+  "seed": 1
+ },
+ "m080": {
+  "condition": "student",
+  "seed": 2
+ },
+ "m081": {
+  "condition": "monk",
+  "seed": 1
+ },
+ "m082": {
+  "condition": "supercomputer",
+  "seed": 1
+ },
+ "m083": {
+  "condition": "student",
+  "seed": 2
+ },
+ "m084": {
+  "condition": "monk",
+  "seed": 2
+ },
+ "m085": {
+  "condition": "immortal",
+  "seed": 1
+ },
+ "m086": {
+  "condition": "supercomputer",
+  "seed": 2
+ },
+ "m087": {
+  "condition": "joy",
+  "seed": 1
+ },
+ "m088": {
+  "condition": "rabbit",
+  "seed": 1
+ },
+ "m089": {
+  "condition": "supercomputer",
+  "seed": 1
+ },
+ "m090": {
+  "condition": "urban design",
+  "seed": 1
+ },
+ "m091": {
+  "condition": "monk",
+  "seed": 1
+ },
+ "m092": {
+  "condition": "mirror",
+  "seed": 2
+ },
+ "m093": {
+  "condition": "immortal",
+  "seed": 2
+ },
+ "m094": {
+  "condition": "student",
+  "seed": 1
+ },
+ "m095": {
+  "condition": "urban design",
+  "seed": 2
+ },
+ "m096": {
+  "condition": "tensor",
+  "seed": 1
+ },
+ "m097": {
+  "condition": "tensor",
+  "seed": 1
+ },
+ "m098": {
+  "condition": "immortal",
+  "seed": 2
+ },
+ "m099": {
+  "condition": "tensor",
+  "seed": 2
+ },
+ "m100": {
+  "condition": "immortal",
+  "seed": 2
+ },
+ "m101": {
+  "condition": "doubting",
+  "seed": 1
+ },
+ "m102": {
+  "condition": "doubting",
+  "seed": 2
+ },
+ "m103": {
+  "condition": "student",
+  "seed": 2
+ }
+}

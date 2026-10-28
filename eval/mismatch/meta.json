@@ -1,0 +1,53 @@
+{
+ "dose": 0.8,
+ "conditions": {
+  "monk": {
+   "neuron": "L23/N7892",
+   "value": 49.7
+  },
+  "rabbit": {
+   "neuron": "L23/N4034",
+   "value": 49.2
+  },
+  "doubting": {
+   "neuron": "L23/N2744",
+   "value": 52.5
+  },
+  "joy": {
+   "neuron": "L23/N5565",
+   "value": 48.4
+  },
+  "urban design": {
+   "neuron": "L22/N4748",
+   "value": 42.8
+  },
+  "supercomputer": {
+   "neuron": "L22/N3033",
+   "value": 51.1
+  },
+  "mirror": {
+   "neuron": "L22/N1738",
+   "value": 54.7
+  },
+  "immortal": {
+   "neuron": "L23/N3927",
+   "value": 53.2
+  },
+  "student": {
+   "neuron": "L22/N1799",
+   "value": 53.3
+  },
+  "tensor": {
+   "neuron": "L22/N1869",
+   "value": 50.4
+  },
+  "random L22": {
+   "neuron": "L22/N5305",
+   "value": 50.2
+  },
+  "random L23": {
+   "neuron": "L23/N2471",
+   "value": 50.1
+  }
+ }
+}

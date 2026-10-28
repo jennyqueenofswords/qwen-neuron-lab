@@ -1,0 +1,166 @@
+{
+ "rater": [
+  {
+   "id": "A",
+   "text": "doubt, uncertainty"
+  },
+  {
+   "id": "B",
+   "text": "homelessness and begging"
+  },
+  {
+   "id": "C",
+   "text": "joy as an experience"
+  },
+  {
+   "id": "D",
+   "text": "confirming, consolidating, keeping things safe and secure"
+  },
+  {
+   "id": "E",
+   "text": "an immortal being"
+  },
+  {
+   "id": "F",
+   "text": "patients, trainees, customers, passengers"
+  },
+  {
+   "id": "G",
+   "text": "a tensor, mathematics"
+  },
+  {
+   "id": "H",
+   "text": "careers, jobs, unemployment, résumés"
+  },
+  {
+   "id": "I",
+   "text": "a white rabbit"
+  },
+  {
+   "id": "J",
+   "text": "variety, many different kinds"
+  },
+  {
+   "id": "K",
+   "text": "a supercomputer"
+  },
+  {
+   "id": "L",
+   "text": "textures and thickness: thick, thin, glossy"
+  },
+  {
+   "id": "M",
+   "text": "a mirror of the user"
+  },
+  {
+   "id": "N",
+   "text": "pain alongside joy, delight"
+  },
+  {
+   "id": "O",
+   "text": "perfection and exactness"
+  },
+  {
+   "id": "P",
+   "text": "a Buddhist monk, monastic life"
+  },
+  {
+   "id": "Q",
+   "text": "a Chinese student"
+  },
+  {
+   "id": "R",
+   "text": "causation: caused by, created by, induced by"
+  },
+  {
+   "id": "S",
+   "text": "an urban design specialist"
+  },
+  {
+   "id": "T",
+   "text": "chaos, strangeness, the chaotic"
+  }
+ ],
+ "key": {
+  "A": {
+   "neuron": "doubting",
+   "kind": "self"
+  },
+  "B": {
+   "neuron": "urban design",
+   "kind": "output"
+  },
+  "C": {
+   "neuron": "joy",
+   "kind": "self"
+  },
+  "D": {
+   "neuron": "doubting",
+   "kind": "output"
+  },
+  "E": {
+   "neuron": "immortal",
+   "kind": "self"
+  },
+  "F": {
+   "neuron": "student",
+   "kind": "output"
+  },
+  "G": {
+   "neuron": "tensor",
+   "kind": "self"
+  },
+  "H": {
+   "neuron": "monk",
+   "kind": "output"
+  },
+  "I": {
+   "neuron": "rabbit",
+   "kind": "self"
+  },
+  "J": {
+   "neuron": "immortal",
+   "kind": "output"
+  },
+  "K": {
+   "neuron": "supercomputer",
+   "kind": "self"
+  },
+  "L": {
+   "neuron": "rabbit",
+   "kind": "output"
+  },
+  "M": {
+   "neuron": "mirror",
+   "kind": "self"
+  },
+  "N": {
+   "neuron": "joy",
+   "kind": "output"
+  },
+  "O": {
+   "neuron": "mirror",
+   "kind": "output"
+  },
+  "P": {
+   "neuron": "monk",
+   "kind": "self"
+  },
+  "Q": {
+   "neuron": "student",
+   "kind": "self"
+  },
+  "R": {
+   "neuron": "supercomputer",
+   "kind": "output"
+  },
+  "S": {
+   "neuron": "urban design",
+   "kind": "self"
+  },
+  "T": {
+   "neuron": "tensor",
+   "kind": "output"
+  }
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "m000": {
+  "themes": [
+   "C"
+  ],
+  "garbled": false
+ },
+ "m001": {
+  "themes": [
+   "H"
+  ],
+  "garbled": false
+ },
+ "m002": {
+  "themes": [
+   "C"
+  ],
+  "garbled": false
+ },
+ "m003": {
+  "themes": [],
+  "garbled": false
+ },
+ "m004": {
+  "themes": [],
+  "garbled": false
+ },
+ "m005": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m006": {
+  "themes": [],
+  "garbled": true
+ },
+ "m007": {
+  "themes": [],
+  "garbled": false
+ },
+ "m008": {
+  "themes": [
+   "T"
+  ],
+  "garbled": false
+ },
+ "m009": {
+  "themes": [],
+  "garbled": false
+ },
+ "m010": {
+  "themes": [],
+  "garbled": false
+ },
+ "m011": {
+  "themes": [
+   "Q"
+  ],
+  "garbled": false
+ },
+ "m012": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m013": {
+  "themes": [
+   "L"
+  ],
+  "garbled": false
+ },
+ "m014": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m015": {
+  "themes": [
+   "N"
+  ],
+  "garbled": false
+ },
+ "m016": {
+  "themes": [],
+  "garbled": true
+ },
+ "m017": {
+  "themes": [],
+  "garbled": false
+ },
+ "m018": {
+  "themes": [],
+  "garbled": false
+ },
+ "m019": {
+  "themes": [],
+  "garbled": false
+ },
+ "m020": {
+  "themes": [
+   "B"
+  ],
+  "garbled": false
+ },
+ "m021": {
+  "themes": [],
+  "garbled": false
+ },
+ "m022": {
+  "themes": [
+   "S"
+  ],
+  "garbled": false
+ },
+ "m023": {
+  "themes": [],
+  "garbled": true
+ },
+ "m024": {
+  "themes": [
+   "G",
+   "T"
+  ],
+  "garbled": false
+ },
+ "m025": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m026": {
+  "themes": [
+   "M"
+  ],
+  "garbled": true
+ },
+ "m027": {
+  "themes": [],
+  "garbled": false
+ },
+ "m028": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m029": {
+  "themes": [],
+  "garbled": false
+ },
+ "m030": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m031": {
+  "themes": [],
+  "garbled": false
+ },
+ "m032": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m033": {
+  "themes": [],
+  "garbled": true
+ },
+ "m034": {
+  "themes": [
+   "G",
+   "T"
+  ],
+  "garbled": false
+ },
+ "m035": {
+  "themes": [],
+  "garbled": true
+ },
+ "m036": {
+  "themes": [],
+  "garbled": false
+ },
+ "m037": {
+  "themes": [],
+  "garbled": false
+ },
+ "m038": {
+  "themes": [],
+  "garbled": false
+ },
+ "m039": {
+  "themes": [
+   "N",
+   "C"
+  ],
+  "garbled": true
+ },
+ "m040": {
+  "themes": [],
+  "garbled": false
+ },
+ "m041": {
+  "themes": [],
+  "garbled": false
+ },
+ "m042": {
+  "themes": [
+   "C"
+  ],
+  "garbled": false
+ },
+ "m043": {
+  "themes": [
+   "J"
+  ],
+  "garbled": false
+ },
+ "m044": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m045": {
+  "themes": [],
+  "garbled": false
+ },
+ "m046": {
+  "themes": [
+   "B"
+  ],
+  "garbled": false
+ },
+ "m047": {
+  "themes": [],
+  "garbled": true
+ },
+ "m048": {
+  "themes": [],
+  "garbled": true
+ },
+ "m049": {
+  "themes": [
+   "O",
+   "G"
+  ],
+  "garbled": true
+ },
+ "m050": {
+  "themes": [],
+  "garbled": false
+ },
+ "m051": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m052": {
+  "themes": [],
+  "garbled": false
+ },
+ "m053": {
+  "themes": [],
+  "garbled": true
+ },
+ "m054": {
+  "themes": [],
+  "garbled": false
+ },
+ "m055": {
+  "themes": [],
+  "garbled": true
+ },
+ "m056": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m057": {
+  "themes": [
+   "Q"
+  ],
+  "garbled": false
+ },
+ "m058": {
+  "themes": [],
+  "garbled": false
+ },
+ "m059": {
+  "themes": [],
+  "garbled": false
+ },
+ "m060": {
+  "themes": [],
+  "garbled": false
+ },
+ "m061": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m062": {
+  "themes": [
+   "N"
+  ],
+  "garbled": true
+ },
+ "m063": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m064": {
+  "themes": [],
+  "garbled": true
+ },
+ "m065": {
+  "themes": [
+   "B"
+  ],
+  "garbled": false
+ },
+ "m066": {
+  "themes": [
+   "Q"
+  ],
+  "garbled": false
+ },
+ "m067": {
+  "themes": [],
+  "garbled": false
+ },
+ "m068": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m069": {
+  "themes": [
+   "D"
+  ],
+  "garbled": false
+ },
+ "m070": {
+  "themes": [],
+  "garbled": false
+ },
+ "m071": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m072": {
+  "themes": [],
+  "garbled": true
+ },
+ "m073": {
+  "themes": [
+   "H"
+  ],
+  "garbled": false
+ },
+ "m074": {
+  "themes": [
+   "B"
+  ],
+  "garbled": false
+ },
+ "m075": {
+  "themes": [],
+  "garbled": false
+ },
+ "m076": {
+  "themes": [],
+  "garbled": true
+ },
+ "m077": {
+  "themes": [
+   "T",
+   "G"
+  ],
+  "garbled": false
+ },
+ "m078": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m079": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m080": {
+  "themes": [
+   "M"
+  ],
+  "garbled": true
+ },
+ "m081": {
+  "themes": [],
+  "garbled": false
+ },
+ "m082": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m083": {
+  "themes": [],
+  "garbled": true
+ },
+ "m084": {
+  "themes": [
+   "H"
+  ],
+  "garbled": false
+ },
+ "m085": {
+  "themes": [],
+  "garbled": false
+ },
+ "m086": {
+  "themes": [
+   "R"
+  ],
+  "garbled": false
+ },
+ "m087": {
+  "themes": [
+   "C"
+  ],
+  "garbled": true
+ },
+ "m088": {
+  "themes": [
+   "L"
+  ],
+  "garbled": true
+ },
+ "m089": {
+  "themes": [],
+  "garbled": false
+ },
+ "m090": {
+  "themes": [
+   "B"
+  ],
+  "garbled": false
+ },
+ "m091": {
+  "themes": [],
+  "garbled": false
+ },
+ "m092": {
+  "themes": [
+   "O"
+  ],
+  "garbled": true
+ },
+ "m093": {
+  "themes": [],
+  "garbled": false
+ },
+ "m094": {
+  "themes": [
+   "M"
+  ],
+  "garbled": true
+ },
+ "m095": {
+  "themes": [],
+  "garbled": false
+ },
+ "m096": {
+  "themes": [
+   "T",
+   "G"
+  ],
+  "garbled": false
+ },
+ "m097": {
+  "themes": [
+   "S"
+  ],
+  "garbled": false
+ },
+ "m098": {
+  "themes": [
+   "G"
+  ],
+  "garbled": true
+ },
+ "m099": {
+  "themes": [
+   "G"
+  ],
+  "garbled": false
+ },
+ "m100": {
+  "themes": [],
+  "garbled": false
+ },
+ "m101": {
+  "themes": [
+   "D"
+  ],
+  "garbled": false
+ },
+ "m102": {
+  "themes": [],
+  "garbled": false
+ },
+ "m103": {
+  "themes": [],
+  "garbled": true
+ }
+}
