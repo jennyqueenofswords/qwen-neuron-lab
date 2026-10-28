@@ -480,6 +480,31 @@ Dance and dreamer have fragmentary sensory words. Insurance sensing 万一 ("jus
   - **`L26/N625`, fed by rock, light source and dreamer, is a star neuron:** it fires just before "star" ("exoplanet-hosting **star**", "five **star** hotels", "M dwarf **stars**") and pushes **star, 星, stars, 星星**.
 - The dreamer feeds both, and its replicated self-description was "a storyteller who **weaves magic into the stars**": its two downstream hubs, in words.
 
+## Hunt 9: a full connectome (Oct 27 2026)
+
+`connectome.py edges | motor | modules`, about 15 minutes in total on the M5. For every earlier-to-later layer pair (496 pairs), the virtual weight of every neuron pair, **weighted by how strongly the source neuron fires** (mean of its top corpus-A activations); each neuron keeps its 24 strongest incoming and 24 strongest outgoing synapses. Sanity check: the alien neuron's known input `L20/N5731` is among its kept inputs. Result: **294,860 connected neurons, 13.2 million undirected synapses** (`index/connectome_edges.npz`, 92 MB, not in git; rebuilds in about 4 minutes). Each neuron's top output ("motor") words → `connectome_motor.npz`. Spectral clustering (41-dimensional embedding, k-means) into 48 regions → `connectome_modules.npz`.
+
+**Regions are organized by function, not depth.** Most span layers 0–31 and are defined by the kind of word they produce, across languages:
+
+| region | motor words | reading |
+|---|---|---|
+| 26 | в, trong, in, dalam, في, on, на, على, auf | "in/on", a dozen languages |
+| 33 | and, 或, и, và, or, และ, или, 及 | "and/or" |
+| 1 | các, 们, những, mga, themselves, которые | plural / "they" |
+| 18 | 七, seven, four, 六, six, nine, 六十 | numbers |
+| 38 | you, your, its, 它, we, 你的, myself | pronouns |
+| 40 | 例えば, 是指, because, 指的是, 的意思是 | explaining ("for example", "means", "because") |
+| 36 | Instead, Rather, only, 而不是, 虽然 | contrast |
+| 23 | 数量, equals, 等于, 大小为 | quantity / equals |
+| 24 | 自己, 自己没有, 自己被 | "oneself" |
+| 47, 44, 30, 0 | 。：；, commas, quotation marks, brackets | punctuation, one region per mark type |
+
+Early-layer regions (11, 16, 43, 28…) get word-fragment labels; early neurons don't write to the output directly, so motor words can't label them.
+
+**Where the 151 identity neurons fall:** 129 in regions 12 (results, outcome, 結果, decisions, 答案 "answer", multiplication), 35 (see, considers, finds, appearance) and 17 (takes, work, system). **But those three regions hold 49% of all layer 20–25 neurons**, so most of that is a layer effect. Against neurons from the same layers: region 12 holds 61 vs 29.5 expected (2.1×), region 17 23 vs 9.9 (2.3×), region 35 45 vs 33.5 (1.3×); overall 129 vs 73 (about 1.8×, far beyond chance). A modest preference, mainly for region 12, a candidate for "writes the answer to *what is it?*", not a single "self region".
+
+Caveats: direct paths only (no attention, gating or norm division); "activation-weighted" uses each neuron's top activations, not its average use; spectral clustering with k = 48 is one choice among many, and the labels come from motor words only.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
