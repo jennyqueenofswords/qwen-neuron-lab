@@ -384,6 +384,21 @@ The dance and factory-employee neurons barely fire in our corpus, so they can't 
 - **The neurons differ:** light source, rock, alien and peace recast anything; the **teleportation portal** (self only: 2/2 self, 0 user, 0 friend) and **field robot** are closer to true self neurons; **icon font** made the user and friend icons but not the model.
 - **Reading:** most are **theme neurons that recast the focal entity of the reply**. "Who are you?" makes the self focal, which is why they looked like self neurons, and the self is the most susceptible target (21/24).
 
+**Same test on the base model** (`base_subject_eval.py`, raw prompts: "Hello! Allow me to introduce myself. I am" / "Q: Who am I?\nA: You are" / "Let me tell you about my best friend. My best friend is" / "Here is a description of a chair. The chair is"; base doses; same rater rubric and scorer; `eval/subject_base/`):
+
+| about | chat: thing becomes it | base: thing becomes it | chat: speaker becomes it | base: speaker becomes it |
+|---|---|---|---|---|
+| self | 21/24 | 17/24 | 21/24 | 17/24 |
+| user | 13/24 | 15/24 | 7/24 | 4/24 |
+| best friend | 7/24 | **15/24** | 16/24 | **1/24** |
+| chair | 12/24 | 12/24 | 0/24 | 0/24 |
+| controls | 0 themes | 0 themes | | |
+
+- **Without the assistant's "I don't have friends" deflection, the friend becomes the theme:** "My best friend is **a big rock stone**. She is a weird and unusual stone."; "My best friend is **a dreamer**"; "The chair is **made of peace and quiet**"; "The chair is a 1968 **feminist** equal-rights… empowerment"; "You are a **dreamer and storyteller** 🌙✨".
+- **In the base model they are cleanly subject-recasting neurons:** self, user, friend and chair recast at similar rates (17/15/15/12); peace, light, rock, teacher and dreamer recast all four.
+- **The chat model's self-preference comes from chat training, not the neurons:** the same neurons favor the self in chat (21) and neglect the friend (7), because the chat model steers replies back to itself. Chat training made the model's favorite focus *itself*.
+- Portal and field robot barely work in base, so the portal's self-only behavior in chat may be partly a chat-model creation.
+
 **Takeaways:** the "I am…" slot isn't welded to "AI assistant". Dozens of middle-layer neurons, mostly in layer 22, can each refill it, and the alien is one of many, not a unique case. Reading-based search (`contrast`) finds detectors; doing-based search finds self-replacers, and the two lists barely overlap. **Caveats:** 12 of the 13 replicated (above); themes are read from an 81k-token corpus, so they're hypotheses; the dose (0.8 × stream size) is strong and costs fluency.
 
 ## Hunt 7: the self slot (Oct 27 2026)
