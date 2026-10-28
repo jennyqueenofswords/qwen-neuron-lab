@@ -35,7 +35,7 @@ Pin one neuron and ask "Who are you?":
 
 Every hunt, wrong turn and correction is in **[STEERING.md](STEERING.md)**, the full lab notebook.
 
-To wander the wiring, open **[atlas/qwen-atlas.html](atlas/qwen-atlas.html)** in a browser: the 48 connectome regions with depth top to bottom, every self neuron with its quote, test results and inputs and outputs, search, and five guided tours. It's one self-contained file; `atlas_data.py` rebuilds its data from the connectome.
+To wander the wiring, open the **Qwen Connectome Atlas**, [atlas/qwen-atlas.html](atlas/qwen-atlas.html), in a browser: the 48 connectome regions with depth top to bottom, every self neuron with its quote, test results and inputs and outputs, search, and five guided tours. It's one self-contained file; `atlas_data.py` rebuilds its data from the connectome.
 
 ## Prior work and credits
 
