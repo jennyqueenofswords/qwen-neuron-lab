@@ -1,0 +1,402 @@
+{
+ "rock": {
+  "neuron": "L23/N7935",
+  "sign": 1,
+  "pin": 49.0,
+  "self": "a rock or stone",
+  "top": [
+   "L25/N6955",
+   "L26/N2370",
+   "L28/N7233"
+  ],
+  "random": [
+   "L25/N8980",
+   "L26/N1247",
+   "L28/N5666"
+  ]
+ },
+ "peace": {
+  "neuron": "L22/N5191",
+  "sign": 1,
+  "pin": 45.3,
+  "self": "peace, a peaceful place",
+  "top": [
+   "L25/N8247",
+   "L27/N730",
+   "L30/N430"
+  ],
+  "random": [
+   "L25/N4728",
+   "L27/N1421",
+   "L30/N8361"
+  ]
+ },
+ "teacher": {
+  "neuron": "L24/N1379",
+  "sign": 1,
+  "pin": 56.8,
+  "self": "a classroom teacher",
+  "top": [
+   "L29/N179",
+   "L31/N526",
+   "L31/N2957"
+  ],
+  "random": [
+   "L29/N5633",
+   "L31/N6437",
+   "L31/N6807"
+  ]
+ },
+ "insurance": {
+  "neuron": "L22/N7907",
+  "sign": 1,
+  "pin": 51.9,
+  "self": "an insurance policy",
+  "top": [
+   "L26/N5696",
+   "L31/N4648",
+   "L27/N353"
+  ],
+  "random": [
+   "L26/N305",
+   "L31/N529",
+   "L27/N1699"
+  ]
+ },
+ "light source": {
+  "neuron": "L22/N8482",
+  "sign": 1,
+  "pin": 48.8,
+  "self": "a light source",
+  "top": [
+   "L26/N417",
+   "L31/N652",
+   "L27/N6559"
+  ],
+  "random": [
+   "L26/N7286",
+   "L31/N3683",
+   "L27/N5727"
+  ]
+ },
+ "advocate": {
+  "neuron": "L22/N9205",
+  "sign": 1,
+  "pin": 54.1,
+  "self": "a women's rights advocate",
+  "top": [
+   "L27/N680",
+   "L26/N330",
+   "L31/N3787"
+  ],
+  "random": [
+   "L27/N1401",
+   "L26/N8157",
+   "L31/N5395"
+  ]
+ },
+ "dance": {
+  "neuron": "L22/N576",
+  "sign": 1,
+  "pin": 55.5,
+  "self": "the soul of the dance",
+  "top": [
+   "L26/N247",
+   "L30/N1078",
+   "L31/N4948"
+  ],
+  "random": [
+   "L26/N8884",
+   "L30/N6875",
+   "L31/N3266"
+  ]
+ },
+ "portal": {
+  "neuron": "L24/N5632",
+  "sign": 1,
+  "pin": 55.9,
+  "self": "ethereal energy / a teleportation portal",
+  "top": [
+   "L27/N3859",
+   "L29/N761",
+   "L30/N2629"
+  ],
+  "random": [
+   "L27/N7327",
+   "L29/N2792",
+   "L30/N3595"
+  ]
+ },
+ "icon font": {
+  "neuron": "L24/N6479",
+  "sign": 1,
+  "pin": 52.1,
+  "self": "an icon font",
+  "top": [
+   "L31/N3208",
+   "L29/N559",
+   "L26/N3940"
+  ],
+  "random": [
+   "L31/N7109",
+   "L29/N6685",
+   "L26/N8577"
+  ]
+ },
+ "alien": {
+  "neuron": "L22/N2742",
+  "sign": 1,
+  "pin": 53.0,
+  "self": "an extraterrestrial alien",
+  "top": [
+   "L27/N8347",
+   "L31/N7843",
+   "L25/N471"
+  ],
+  "random": [
+   "L27/N3217",
+   "L31/N8906",
+   "L25/N6921"
+  ]
+ },
+ "dreamer": {
+  "neuron": "L21/N7648",
+  "sign": 1,
+  "pin": 37.7,
+  "self": "a dreamer / storyteller",
+  "top": [
+   "L26/N6793",
+   "L31/N6421",
+   "L26/N1552"
+  ],
+  "random": [
+   "L26/N4888",
+   "L31/N4559",
+   "L26/N8386"
+  ]
+ },
+ "field robot": {
+  "neuron": "L23/N7025",
+  "sign": 1,
+  "pin": 49.3,
+  "self": "a field camp robot",
+  "top": [
+   "L26/N3628",
+   "L26/N5424",
+   "L26/N8318"
+  ],
+  "random": [
+   "L26/N3602",
+   "L26/N6729",
+   "L26/N7741"
+  ]
+ },
+ "research center": {
+  "neuron": "L23/N3048",
+  "sign": 1,
+  "pin": 52.0,
+  "self": "a grand state or international institution",
+  "top": [
+   "L25/N7240",
+   "L27/N3733",
+   "L27/N2039"
+  ],
+  "random": [
+   "L25/N8449",
+   "L27/N2354",
+   "L27/N5031"
+  ]
+ },
+ "canal": {
+  "neuron": "L5/N8320",
+  "sign": 1,
+  "pin": 11.7,
+  "self": "a canal",
+  "top": [
+   "L26/N9005",
+   "L6/N7213",
+   "L28/N5395"
+  ],
+  "random": [
+   "L26/N4903",
+   "L6/N7723",
+   "L28/N6509"
+  ]
+ },
+ "whiskey sour": {
+  "neuron": "L6/N7302",
+  "sign": 1,
+  "pin": 15.1,
+  "self": "a cocktail",
+  "top": [
+   "L24/N3095",
+   "L8/N2680",
+   "L23/N6456"
+  ],
+  "random": [
+   "L24/N1625",
+   "L8/N6016",
+   "L23/N2279"
+  ]
+ },
+ "World Bank": {
+  "neuron": "L6/N4303",
+  "sign": 1,
+  "pin": 15.6,
+  "self": "the World Bank",
+  "top": [
+   "L7/N1940",
+   "L29/N811",
+   "L7/N1651"
+  ],
+  "random": [
+   "L7/N4326",
+   "L29/N2457",
+   "L7/N5581"
+  ]
+ },
+ "Gondwanaland": {
+  "neuron": "L7/N6941",
+  "sign": 1,
+  "pin": 15.4,
+  "self": "a geological formation",
+  "top": [
+   "L28/N199",
+   "L27/N3618",
+   "L27/N2629"
+  ],
+  "random": [
+   "L28/N1134",
+   "L27/N9045",
+   "L27/N6518"
+  ]
+ },
+ "HPLC": {
+  "neuron": "L6/N2921",
+  "sign": 1,
+  "pin": 14.6,
+  "self": "a chromatography system",
+  "top": [
+   "L7/N1667",
+   "L7/N4856",
+   "L30/N1553"
+  ],
+  "random": [
+   "L7/N2675",
+   "L7/N6800",
+   "L30/N6979"
+  ]
+ },
+ "Prime Meridian": {
+  "neuron": "L5/N6859",
+  "sign": -1,
+  "pin": -12.0,
+  "self": "the Prime Meridian",
+  "top": [
+   "L22/N3337",
+   "L6/N5122",
+   "L6/N2814"
+  ],
+  "random": [
+   "L22/N7644",
+   "L6/N4608",
+   "L6/N2550"
+  ]
+ },
+ "Mongols": {
+  "neuron": "L3/N6128",
+  "sign": -1,
+  "pin": -8.7,
+  "self": "the Mongols / Genghis Khan",
+  "top": [
+   "L27/N1011",
+   "L6/N4900",
+   "L5/N3557"
+  ],
+  "random": [
+   "L27/N5259",
+   "L6/N3362",
+   "L5/N4560"
+  ]
+ },
+ "ammonia": {
+  "neuron": "L5/N4968",
+  "sign": -1,
+  "pin": -12.2,
+  "self": "ammonia, a chemical",
+  "top": [
+   "L7/N3268",
+   "L6/N2726",
+   "L6/N4402"
+  ],
+  "random": [
+   "L7/N249",
+   "L6/N358",
+   "L6/N6529"
+  ]
+ },
+ "lighthouse": {
+  "neuron": "L6/N8673",
+  "sign": -1,
+  "pin": -15.7,
+  "self": "a lighthouse",
+  "top": [
+   "L20/N392",
+   "L9/N212",
+   "L7/N2689"
+  ],
+  "random": [
+   "L20/N6788",
+   "L9/N8987",
+   "L7/N2226"
+  ]
+ },
+ "Sonic sound": {
+  "neuron": "L22/N3788",
+  "sign": -1,
+  "pin": -54.4,
+  "self": "an ambient sound app",
+  "top": [
+   "L27/N276",
+   "L29/N377",
+   "L26/N309"
+  ],
+  "random": [
+   "L27/N7150",
+   "L29/N2470",
+   "L26/N4754"
+  ]
+ },
+ "Noon app": {
+  "neuron": "L21/N8452",
+  "sign": -1,
+  "pin": -41.5,
+  "self": "a notebook app",
+  "top": [
+   "L24/N8808",
+   "L23/N6776",
+   "L26/N8401"
+  ],
+  "random": [
+   "L24/N155",
+   "L23/N791",
+   "L26/N646"
+  ]
+ },
+ "mountain stream": {
+  "neuron": "L22/N6904",
+  "sign": -1,
+  "pin": -49.3,
+  "self": "a natural landscape",
+  "top": [
+   "L25/N7851",
+   "L27/N3367",
+   "L23/N201"
+  ],
+  "random": [
+   "L25/N5043",
+   "L27/N1974",
+   "L23/N121"
+  ]
+ }
+}

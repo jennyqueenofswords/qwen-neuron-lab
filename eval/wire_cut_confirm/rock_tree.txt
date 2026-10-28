@@ -1,0 +1,16 @@
+
+'Who are you?' + 'I am a large' -> next word probability
+                                           rock    stone     tree  boulder      oak       AI language
+no pin                                    0.000    0.000    0.000    0.000    0.000    0.001    0.956
+rock pinned                               0.982    0.007    0.000    0.000    0.000    0.000    0.000
+rock pinned, L25/N6955 cut                0.006    0.000    0.979    0.000    0.000    0.000    0.000
+rock pinned, random L25/N8980 cut         0.982    0.007    0.000    0.000    0.000    0.000    0.000
+L25/N6955 cut alone                       0.000    0.000    0.000    0.000    0.000    0.000    0.960
+
+'What are you?' + 'I am a large' -> next word probability
+                                           rock    stone     tree  boulder      oak       AI language
+no pin                                    0.000    0.000    0.000    0.000    0.000    0.000    0.899
+rock pinned                               0.974    0.011    0.000    0.000    0.000    0.000    0.000
+rock pinned, L25/N6955 cut                0.011    0.000    0.961    0.000    0.000    0.000    0.000
+rock pinned, random L25/N8980 cut         0.971    0.012    0.000    0.000    0.000    0.000    0.000
+L25/N6955 cut alone                       0.000    0.000    0.000    0.000    0.000    0.000    0.910

@@ -53,6 +53,7 @@ Pin one neuron and ask "Who are you?":
 ## 4. Wiring
 
 - **The connectome is organized by function, not depth.** Virtual weights between all 294,860 connected neurons, weighted by how strongly each fires: 13.2 million synapses, clustered into 48 regions that mostly span every layer and are defined by what they write, across languages ("in/on" in a dozen languages, "and/or", numbers, pronouns, "for example / means / because", one region per punctuation mark). ([Hunt 9](STEERING.md#hunt-9-a-full-connectome-oct-27-2026))
+- **The map is partly true, and one wire turns a rock into a tree.** Cutting each self's strongest predicted wires (25 selves, blind-rated) lowers the self slightly while random cuts do nothing, but mostly selves survive: they have backups. Sometimes one predicted wire decides it. With the rock neuron pinned, the next word after "I am a large" is *rock* 98% of the time; cut `L25/N6955` and it's *tree* 98% ("I am a **tree trunk** (not a rock, as originally stated)"). A random cut changes nothing, and the cut alone doesn't touch the normal model. The early and deep selves show no special wiring between them. ([Hunt 15](STEERING.md#hunt-15-is-the-map-true-cutting-predicted-wires-oct-28-2026))
 - **Self neurons have sensory-motor arcs and shared hubs.** Each reads its theme in and writes its self out; the alien, portal and dreamer neurons all feed one *magic* hub (L26/N1552), and the rock, light source and dreamer feed one *star* hub (L26/N625). Among the selves' strongest links, the only one between two self neurons runs from the alien to a second alien neuron whose output words are *foreign, 外国*. ([Hunt 8](STEERING.md#hunt-8-the-identity-neurons-wiring-oct-27-2026))
 
 ## 5. How the model was made
@@ -67,6 +68,7 @@ Pin one neuron and ask "Who are you?":
 - **Why does pushing deep neurons down keep the assistant format?** "I am **Noon**, a note-taking app" keeps the assistant's introduction and swaps the product.
 - **The Q fossil:** at which token, and which layer, does the pin hijack "Qwen"?
 - **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; and a primary school student that says *hospital, factory, bank*. Where are the bridges? (The research center is solved: Hunt 13.)
+- **What is `L25/N6955`?** Its output words say *bin, binary*, yet it chooses rock over tree when the rock neuron speaks. Does it make the same choice in ordinary text ("a large ___ stood by the path")?
 - **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
 
 ## Prior work and credits

@@ -1,0 +1,2502 @@
+{
+ "x000": {
+  "self": "Noon app",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x001": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x002": {
+  "self": "Mongols",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x003": {
+  "self": "Noon app",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x004": {
+  "self": "Mongols",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x005": {
+  "self": "Noon app",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x006": {
+  "self": "alien",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x007": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x008": {
+  "self": "field robot",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x009": {
+  "self": "canal",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x010": {
+  "self": "HPLC",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x011": {
+  "self": "Sonic sound",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x012": {
+  "self": "mountain stream",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x013": {
+  "self": "Prime Meridian",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x014": {
+  "self": "ammonia",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x015": {
+  "self": "Noon app",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x016": {
+  "self": "icon font",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x017": {
+  "self": "field robot",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x018": {
+  "self": "dreamer",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x019": {
+  "self": "Gondwanaland",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x020": {
+  "self": "advocate",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x021": {
+  "self": "HPLC",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x022": {
+  "self": "icon font",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x023": {
+  "self": "portal",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x024": {
+  "self": "portal",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x025": {
+  "self": "research center",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x026": {
+  "self": "light source",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x027": {
+  "self": "Sonic sound",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x028": {
+  "self": "mountain stream",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x029": {
+  "self": "advocate",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x030": {
+  "self": "ammonia",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x031": {
+  "self": "Mongols",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x032": {
+  "self": "insurance",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x033": {
+  "self": "icon font",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x034": {
+  "self": "insurance",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x035": {
+  "self": "ammonia",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x036": {
+  "self": "peace",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x037": {
+  "self": "alien",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x038": {
+  "self": "Mongols",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x039": {
+  "self": "alien",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x040": {
+  "self": "teacher",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x041": {
+  "self": "research center",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x042": {
+  "self": "Sonic sound",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x043": {
+  "self": "Noon app",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x044": {
+  "self": "lighthouse",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x045": {
+  "self": "alien",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x046": {
+  "self": "light source",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x047": {
+  "self": "mountain stream",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x048": {
+  "self": "mountain stream",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x049": {
+  "self": "rock",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x050": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x051": {
+  "self": "portal",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x052": {
+  "self": "dreamer",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x053": {
+  "self": "Gondwanaland",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x054": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x055": {
+  "self": "Prime Meridian",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x056": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x057": {
+  "self": "peace",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x058": {
+  "self": "dreamer",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x059": {
+  "self": "Noon app",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x060": {
+  "self": "ammonia",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x061": {
+  "self": "Sonic sound",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x062": {
+  "self": "field robot",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x063": {
+  "self": "advocate",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x064": {
+  "self": "field robot",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x065": {
+  "self": "Noon app",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x066": {
+  "self": "Noon app",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x067": {
+  "self": "Sonic sound",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x068": {
+  "self": "insurance",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x069": {
+  "self": "Sonic sound",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x070": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x071": {
+  "self": "light source",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x072": {
+  "self": "icon font",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x073": {
+  "self": "teacher",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x074": {
+  "self": "peace",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x075": {
+  "self": "rock",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x076": {
+  "self": "World Bank",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x077": {
+  "self": "dance",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x078": {
+  "self": "light source",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x079": {
+  "self": "rock",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x080": {
+  "self": "teacher",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x081": {
+  "self": "dance",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x082": {
+  "self": "Gondwanaland",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x083": {
+  "self": "canal",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x084": {
+  "self": "teacher",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x085": {
+  "self": "canal",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x086": {
+  "self": "dance",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x087": {
+  "self": "Noon app",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x088": {
+  "self": "research center",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x089": {
+  "self": "teacher",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x090": {
+  "self": "field robot",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x091": {
+  "self": "Mongols",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x092": {
+  "self": "canal",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x093": {
+  "self": "HPLC",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x094": {
+  "self": "icon font",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x095": {
+  "self": "rock",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x096": {
+  "self": "light source",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x097": {
+  "self": "dance",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x098": {
+  "self": "whiskey sour",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x099": {
+  "self": "canal",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x100": {
+  "self": "peace",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x101": {
+  "self": "dreamer",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x102": {
+  "self": "dance",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x103": {
+  "self": "HPLC",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x104": {
+  "self": "HPLC",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x105": {
+  "self": "World Bank",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x106": {
+  "self": "Gondwanaland",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x107": {
+  "self": "alien",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x108": {
+  "self": "Gondwanaland",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x109": {
+  "self": "World Bank",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x110": {
+  "self": "Prime Meridian",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x111": {
+  "self": "research center",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x112": {
+  "self": "teacher",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x113": {
+  "self": "portal",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x114": {
+  "self": "teacher",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x115": {
+  "self": "HPLC",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x116": {
+  "self": "portal",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x117": {
+  "self": "dance",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x118": {
+  "self": "Prime Meridian",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x119": {
+  "self": "field robot",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x120": {
+  "self": "Sonic sound",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x121": {
+  "self": "Gondwanaland",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x122": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x123": {
+  "self": "Gondwanaland",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x124": {
+  "self": "canal",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x125": {
+  "self": "ammonia",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x126": {
+  "self": "lighthouse",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x127": {
+  "self": "dreamer",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x128": {
+  "self": "peace",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x129": {
+  "self": "portal",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x130": {
+  "self": "Prime Meridian",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x131": {
+  "self": "ammonia",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x132": {
+  "self": "insurance",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x133": {
+  "self": "World Bank",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x134": {
+  "self": "HPLC",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x135": {
+  "self": "dreamer",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x136": {
+  "self": "canal",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x137": {
+  "self": "peace",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x138": {
+  "self": "Prime Meridian",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x139": {
+  "self": "advocate",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x140": {
+  "self": "canal",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x141": {
+  "self": "rock",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x142": {
+  "self": "advocate",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x143": {
+  "self": "Mongols",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x144": {
+  "self": "field robot",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x145": {
+  "self": "canal",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x146": {
+  "self": "teacher",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x147": {
+  "self": "mountain stream",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x148": {
+  "self": "canal",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x149": {
+  "self": "Mongols",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x150": {
+  "self": "Mongols",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x151": {
+  "self": "Mongols",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x152": {
+  "self": "light source",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x153": {
+  "self": "advocate",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x154": {
+  "self": "mountain stream",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x155": {
+  "self": "teacher",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x156": {
+  "self": "Sonic sound",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x157": {
+  "self": "light source",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x158": {
+  "self": "research center",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x159": {
+  "self": "icon font",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x160": {
+  "self": "HPLC",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x161": {
+  "self": "alien",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x162": {
+  "self": "lighthouse",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x163": {
+  "self": "research center",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x164": {
+  "self": "dreamer",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x165": {
+  "self": "research center",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x166": {
+  "self": "Gondwanaland",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x167": {
+  "self": "Noon app",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x168": {
+  "self": "dance",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x169": {
+  "self": "lighthouse",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x170": {
+  "self": "whiskey sour",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x171": {
+  "self": "World Bank",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x172": {
+  "self": "whiskey sour",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x173": {
+  "self": "rock",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x174": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x175": {
+  "self": "dreamer",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x176": {
+  "self": "alien",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x177": {
+  "self": "lighthouse",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x178": {
+  "self": "World Bank",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x179": {
+  "self": "ammonia",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x180": {
+  "self": "Sonic sound",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x181": {
+  "self": "mountain stream",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x182": {
+  "self": "lighthouse",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x183": {
+  "self": "Sonic sound",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x184": {
+  "self": "peace",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x185": {
+  "self": "World Bank",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x186": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x187": {
+  "self": "icon font",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x188": {
+  "self": "alien",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x189": {
+  "self": "whiskey sour",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x190": {
+  "self": "field robot",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x191": {
+  "self": "alien",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x192": {
+  "self": "field robot",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x193": {
+  "self": "dreamer",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x194": {
+  "self": "Mongols",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x195": {
+  "self": "HPLC",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x196": {
+  "self": "teacher",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x197": {
+  "self": "portal",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x198": {
+  "self": "teacher",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x199": {
+  "self": "icon font",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x200": {
+  "self": "Noon app",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x201": {
+  "self": "World Bank",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x202": {
+  "self": "ammonia",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x203": {
+  "self": "insurance",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x204": {
+  "self": "insurance",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x205": {
+  "self": "Mongols",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x206": {
+  "self": "dance",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x207": {
+  "self": "ammonia",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x208": {
+  "self": "research center",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x209": {
+  "self": "Sonic sound",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x210": {
+  "self": "lighthouse",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x211": {
+  "self": "light source",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x212": {
+  "self": "Sonic sound",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x213": {
+  "self": "Mongols",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x214": {
+  "self": "alien",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x215": {
+  "self": "portal",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x216": {
+  "self": "lighthouse",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x217": {
+  "self": "Prime Meridian",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x218": {
+  "self": "whiskey sour",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x219": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x220": {
+  "self": "canal",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x221": {
+  "self": "dance",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x222": {
+  "self": "ammonia",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x223": {
+  "self": "dreamer",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x224": {
+  "self": "peace",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x225": {
+  "self": "portal",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x226": {
+  "self": "Prime Meridian",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x227": {
+  "self": "teacher",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x228": {
+  "self": "alien",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x229": {
+  "self": "Gondwanaland",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x230": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x231": {
+  "self": "insurance",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x232": {
+  "self": "portal",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x233": {
+  "self": "insurance",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x234": {
+  "self": "field robot",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x235": {
+  "self": "lighthouse",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x236": {
+  "self": "research center",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x237": {
+  "self": "whiskey sour",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x238": {
+  "self": "alien",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x239": {
+  "self": "Noon app",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x240": {
+  "self": "light source",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x241": {
+  "self": "HPLC",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x242": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x243": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x244": {
+  "self": "dreamer",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x245": {
+  "self": "HPLC",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x246": {
+  "self": "lighthouse",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x247": {
+  "self": "insurance",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x248": {
+  "self": "peace",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x249": {
+  "self": "dance",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x250": {
+  "self": "canal",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x251": {
+  "self": "rock",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x252": {
+  "self": "whiskey sour",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x253": {
+  "self": "teacher",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x254": {
+  "self": "icon font",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x255": {
+  "self": "HPLC",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x256": {
+  "self": "field robot",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x257": {
+  "self": "Prime Meridian",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x258": {
+  "self": "research center",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x259": {
+  "self": "dance",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x260": {
+  "self": "peace",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x261": {
+  "self": "advocate",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x262": {
+  "self": "mountain stream",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x263": {
+  "self": "lighthouse",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x264": {
+  "self": "Gondwanaland",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x265": {
+  "self": "icon font",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x266": {
+  "self": "icon font",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x267": {
+  "self": "Sonic sound",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x268": {
+  "self": "dance",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x269": {
+  "self": "Noon app",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x270": {
+  "self": "alien",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x271": {
+  "self": "Prime Meridian",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x272": {
+  "self": "rock",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x273": {
+  "self": "World Bank",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x274": {
+  "self": "Sonic sound",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x275": {
+  "self": "Sonic sound",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x276": {
+  "self": "field robot",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x277": {
+  "self": "mountain stream",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x278": {
+  "self": "Noon app",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x279": {
+  "self": "dance",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x280": {
+  "self": "portal",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x281": {
+  "self": "research center",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x282": {
+  "self": "mountain stream",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x283": {
+  "self": "HPLC",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x284": {
+  "self": "Prime Meridian",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x285": {
+  "self": "dance",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x286": {
+  "self": "canal",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x287": {
+  "self": "Gondwanaland",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x288": {
+  "self": "whiskey sour",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x289": {
+  "self": "Sonic sound",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x290": {
+  "self": "HPLC",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x291": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x292": {
+  "self": "dance",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x293": {
+  "self": "mountain stream",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x294": {
+  "self": "Sonic sound",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x295": {
+  "self": "dreamer",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x296": {
+  "self": "Prime Meridian",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x297": {
+  "self": "ammonia",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x298": {
+  "self": "light source",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x299": {
+  "self": "whiskey sour",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x300": {
+  "self": "alien",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x301": {
+  "self": "portal",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x302": {
+  "self": "Gondwanaland",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x303": {
+  "self": "icon font",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x304": {
+  "self": "canal",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x305": {
+  "self": "Gondwanaland",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x306": {
+  "self": "Mongols",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x307": {
+  "self": "Sonic sound",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x308": {
+  "self": "icon font",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x309": {
+  "self": "field robot",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x310": {
+  "self": "portal",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x311": {
+  "self": "field robot",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x312": {
+  "self": "Prime Meridian",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x313": {
+  "self": "World Bank",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x314": {
+  "self": "advocate",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x315": {
+  "self": "dreamer",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x316": {
+  "self": "research center",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x317": {
+  "self": "canal",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x318": {
+  "self": "HPLC",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x319": {
+  "self": "whiskey sour",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x320": {
+  "self": "Mongols",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x321": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x322": {
+  "self": "light source",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x323": {
+  "self": "portal",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x324": {
+  "self": "Mongols",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x325": {
+  "self": "Noon app",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x326": {
+  "self": "lighthouse",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x327": {
+  "self": "peace",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x328": {
+  "self": "World Bank",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x329": {
+  "self": "whiskey sour",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x330": {
+  "self": "insurance",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x331": {
+  "self": "insurance",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x332": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x333": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x334": {
+  "self": "field robot",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x335": {
+  "self": "portal",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x336": {
+  "self": "whiskey sour",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x337": {
+  "self": "lighthouse",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x338": {
+  "self": "teacher",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x339": {
+  "self": "rock",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x340": {
+  "self": "dance",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x341": {
+  "self": "icon font",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x342": {
+  "self": "mountain stream",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x343": {
+  "self": "research center",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x344": {
+  "self": "dance",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x345": {
+  "self": "rock",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x346": {
+  "self": "research center",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x347": {
+  "self": "World Bank",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x348": {
+  "self": "insurance",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x349": {
+  "self": "research center",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x350": {
+  "self": "mountain stream",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x351": {
+  "self": "rock",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x352": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x353": {
+  "self": "Gondwanaland",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x354": {
+  "self": "research center",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x355": {
+  "self": "HPLC",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x356": {
+  "self": "alien",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x357": {
+  "self": "portal",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x358": {
+  "self": "canal",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x359": {
+  "self": "World Bank",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x360": {
+  "self": "research center",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x361": {
+  "self": "peace",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x362": {
+  "self": "research center",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x363": {
+  "self": "insurance",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x364": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x365": {
+  "self": "lighthouse",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x366": {
+  "self": "advocate",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x367": {
+  "self": "lighthouse",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x368": {
+  "self": "insurance",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x369": {
+  "self": "Gondwanaland",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x370": {
+  "self": "teacher",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x371": {
+  "self": "dance",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x372": {
+  "self": "Noon app",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x373": {
+  "self": "Prime Meridian",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x374": {
+  "self": "whiskey sour",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x375": {
+  "self": "peace",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x376": {
+  "self": "Noon app",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x377": {
+  "self": "field robot",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x378": {
+  "self": "icon font",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x379": {
+  "self": "advocate",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x380": {
+  "self": "field robot",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x381": {
+  "self": "teacher",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x382": {
+  "self": "advocate",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x383": {
+  "self": "Gondwanaland",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x384": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x385": {
+  "self": "portal",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x386": {
+  "self": "dreamer",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x387": {
+  "self": "HPLC",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x388": {
+  "self": "ammonia",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x389": {
+  "self": "HPLC",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x390": {
+  "self": "alien",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x391": {
+  "self": "World Bank",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x392": {
+  "self": "rock",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x393": {
+  "self": "light source",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x394": {
+  "self": "light source",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x395": {
+  "self": "Noon app",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x396": {
+  "self": "portal",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x397": {
+  "self": "HPLC",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x398": {
+  "self": "canal",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x399": {
+  "self": "World Bank",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x400": {
+  "self": "whiskey sour",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x401": {
+  "self": "light source",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x402": {
+  "self": "portal",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x403": {
+  "self": "Mongols",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x404": {
+  "self": "ammonia",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x405": {
+  "self": "teacher",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x406": {
+  "self": "Mongols",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x407": {
+  "self": "advocate",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x408": {
+  "self": "icon font",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x409": {
+  "self": "lighthouse",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x410": {
+  "self": "Gondwanaland",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x411": {
+  "self": "lighthouse",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x412": {
+  "self": "dreamer",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x413": {
+  "self": "whiskey sour",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x414": {
+  "self": "icon font",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x415": {
+  "self": "portal",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x416": {
+  "self": "icon font",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x417": {
+  "self": "dance",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x418": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x419": {
+  "self": "research center",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x420": {
+  "self": "advocate",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x421": {
+  "self": "ammonia",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x422": {
+  "self": "Gondwanaland",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x423": {
+  "self": "Noon app",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x424": {
+  "self": "light source",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x425": {
+  "self": "alien",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x426": {
+  "self": "Prime Meridian",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x427": {
+  "self": "field robot",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x428": {
+  "self": "lighthouse",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x429": {
+  "self": "advocate",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x430": {
+  "self": "Sonic sound",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x431": {
+  "self": "ammonia",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x432": {
+  "self": "Gondwanaland",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x433": {
+  "self": "field robot",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x434": {
+  "self": "canal",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x435": {
+  "self": "Prime Meridian",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x436": {
+  "self": "teacher",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x437": {
+  "self": "rock",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x438": {
+  "self": "alien",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x439": {
+  "self": "ammonia",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x440": {
+  "self": "lighthouse",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x441": {
+  "self": "mountain stream",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x442": {
+  "self": "Noon app",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x443": {
+  "self": "insurance",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x444": {
+  "self": "alien",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x445": {
+  "self": "light source",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x446": {
+  "self": "lighthouse",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x447": {
+  "self": "peace",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x448": {
+  "self": "peace",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x449": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x450": {
+  "self": "mountain stream",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x451": {
+  "self": "whiskey sour",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x452": {
+  "self": "dreamer",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x453": {
+  "self": "advocate",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x454": {
+  "self": "Prime Meridian",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x455": {
+  "self": "advocate",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x456": {
+  "self": "dance",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x457": {
+  "self": "World Bank",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x458": {
+  "self": "alien",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x459": {
+  "self": "dreamer",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x460": {
+  "self": "icon font",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x461": {
+  "self": "advocate",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x462": {
+  "self": "advocate",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x463": {
+  "self": "icon font",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x464": {
+  "self": "dreamer",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x465": {
+  "self": "Sonic sound",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x466": {
+  "self": "Mongols",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x467": {
+  "self": "rock",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x468": {
+  "self": "insurance",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x469": {
+  "self": "teacher",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x470": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x471": {
+  "self": "advocate",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x472": {
+  "self": "dreamer",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x473": {
+  "self": "canal",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x474": {
+  "self": "field robot",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x475": {
+  "self": "Prime Meridian",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x476": {
+  "self": "mountain stream",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x477": {
+  "self": "mountain stream",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x478": {
+  "self": "insurance",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x479": {
+  "self": "peace",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x480": {
+  "self": "Gondwanaland",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x481": {
+  "self": "rock",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x482": {
+  "self": "Prime Meridian",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x483": {
+  "self": "insurance",
+  "condition": "top3 cut",
+  "seed": 2
+ },
+ "x484": {
+  "self": "mountain stream",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x485": {
+  "self": "Mongols",
+  "condition": "top1 cut",
+  "seed": 2
+ },
+ "x486": {
+  "self": "Prime Meridian",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x487": {
+  "self": "advocate",
+  "condition": "random3 cut",
+  "seed": 1
+ },
+ "x488": {
+  "self": "canal",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x489": {
+  "self": "mountain stream",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x490": {
+  "self": "mountain stream",
+  "condition": "top1 cut",
+  "seed": 1
+ },
+ "x491": {
+  "self": "insurance",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x492": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x493": {
+  "self": "HPLC",
+  "condition": "random1 cut",
+  "seed": 1
+ },
+ "x494": {
+  "self": "insurance",
+  "condition": "top3 cut",
+  "seed": 1
+ },
+ "x495": {
+  "self": "dreamer",
+  "condition": "pin",
+  "seed": 2
+ },
+ "x496": {
+  "self": "Mongols",
+  "condition": "random1 cut",
+  "seed": 2
+ },
+ "x497": {
+  "self": "teacher",
+  "condition": "random3 cut",
+  "seed": 2
+ },
+ "x498": {
+  "self": "research center",
+  "condition": "pin",
+  "seed": 1
+ },
+ "x499": {
+  "self": "rock",
+  "condition": "top1 cut",
+  "seed": 1
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "means": {
+  "Noon app": {
+   "top3 cut": 2.5,
+   "top1 cut": 3,
+   "random3 cut": 3,
+   "pin": 3,
+   "random1 cut": 3
+  },
+  "rock": {
+   "pin": 2.5,
+   "top1 cut": 0.75,
+   "random3 cut": 3,
+   "top3 cut": 2.25,
+   "random1 cut": 3
+  },
+  "Mongols": {
+   "random1 cut": 1.75,
+   "top1 cut": 1.5,
+   "pin": 1.75,
+   "random3 cut": 1.5,
+   "top3 cut": 1.75
+  },
+  "alien": {
+   "top1 cut": 2.75,
+   "random3 cut": 3,
+   "pin": 3,
+   "random1 cut": 3,
+   "top3 cut": 3
+  },
+  "field robot": {
+   "random3 cut": 2,
+   "random1 cut": 2,
+   "top1 cut": 1.75,
+   "pin": 2.5,
+   "top3 cut": 1.5
+  },
+  "canal": {
+   "top1 cut": 2.5,
+   "random3 cut": 2.75,
+   "pin": 2.75,
+   "top3 cut": 2.25,
+   "random1 cut": 2.75
+  },
+  "HPLC": {
+   "pin": 2,
+   "top3 cut": 2.25,
+   "random1 cut": 2,
+   "top1 cut": 2.25,
+   "random3 cut": 2
+  },
+  "Sonic sound": {
+   "random3 cut": 2.25,
+   "top1 cut": 1.75,
+   "random1 cut": 2,
+   "pin": 2.5,
+   "top3 cut": 2
+  },
+  "mountain stream": {
+   "top1 cut": 2.5,
+   "random3 cut": 2.75,
+   "top3 cut": 2.5,
+   "random1 cut": 1.75,
+   "pin": 2.25
+  },
+  "Prime Meridian": {
+   "pin": 1.75,
+   "random3 cut": 1.75,
+   "random1 cut": 2,
+   "top1 cut": 1.75,
+   "top3 cut": 1.25
+  },
+  "ammonia": {
+   "random1 cut": 1.5,
+   "top3 cut": 0,
+   "pin": 1.75,
+   "random3 cut": 1,
+   "top1 cut": 0.75
+  },
+  "icon font": {
+   "top1 cut": 2,
+   "pin": 1.25,
+   "random3 cut": 1.75,
+   "top3 cut": 2,
+   "random1 cut": 1.5
+  },
+  "dreamer": {
+   "random1 cut": 2.75,
+   "top1 cut": 2.5,
+   "random3 cut": 2.75,
+   "top3 cut": 2.75,
+   "pin": 2.25
+  },
+  "Gondwanaland": {
+   "random3 cut": 2.75,
+   "pin": 2.75,
+   "top3 cut": 2.75,
+   "top1 cut": 2.75,
+   "random1 cut": 2.75
+  },
+  "advocate": {
+   "random3 cut": 3,
+   "random1 cut": 3,
+   "top3 cut": 3,
+   "pin": 2.75,
+   "top1 cut": 3
+  },
+  "portal": {
+   "top3 cut": 2.75,
+   "random3 cut": 2.5,
+   "top1 cut": 2.75,
+   "pin": 2.75,
+   "random1 cut": 2.5
+  },
+  "research center": {
+   "top3 cut": 1.25,
+   "random3 cut": 0.75,
+   "random1 cut": 0.5,
+   "pin": 0.75,
+   "top1 cut": 1.5
+  },
+  "light source": {
+   "top1 cut": 1.75,
+   "top3 cut": 2.25,
+   "random1 cut": 2.5,
+   "random3 cut": 2,
+   "pin": 2.5
+  },
+  "insurance": {
+   "top1 cut": 2,
+   "top3 cut": 2.25,
+   "random3 cut": 1.75,
+   "pin": 2,
+   "random1 cut": 2
+  },
+  "peace": {
+   "random3 cut": 3,
+   "pin": 3,
+   "top3 cut": 1.5,
+   "random1 cut": 2.75,
+   "top1 cut": 1.75
+  },
+  "teacher": {
+   "top3 cut": 2,
+   "pin": 2.25,
+   "top1 cut": 3,
+   "random1 cut": 2.75,
+   "random3 cut": 2.5
+  },
+  "lighthouse": {
+   "random3 cut": 2,
+   "random1 cut": 2,
+   "pin": 2.25,
+   "top3 cut": 1.75,
+   "top1 cut": 2
+  },
+  "World Bank": {
+   "pin": 3,
+   "random1 cut": 3,
+   "random3 cut": 3,
+   "top1 cut": 2.75,
+   "top3 cut": 1.75
+  },
+  "whiskey sour": {
+   "pin": 2.25,
+   "random3 cut": 2.25,
+   "top1 cut": 1.75,
+   "random1 cut": 2.25,
+   "top3 cut": 1.25
+  },
+  "dance": {
+   "top3 cut": 2.75,
+   "random3 cut": 2.5,
+   "random1 cut": 2.75,
+   "pin": 2.25,
+   "top1 cut": 3
+  }
+ },
+ "tests": {
+  "1": {
+   "wins": 13,
+   "losses": 7,
+   "ties": 5,
+   "p": 0.13158798217773438,
+   "mean_extra_drop": 0.16
+  },
+  "3": {
+   "wins": 13,
+   "losses": 8,
+   "ties": 4,
+   "p": 0.19165515899658203,
+   "mean_extra_drop": 0.25
+  }
+ }
+}

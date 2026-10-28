@@ -688,6 +688,46 @@ As places, every capital looks the same (−0.10 to −0.19). As actors, all fiv
 
 **Reading:** `L23/N3048` sits on an axis from *the state as a place where power sits* to *the state as an agent that acts*, and a great power's capital is more of an agent in the model's eyes. Nothing here singles out China: the US is the most actor-like, and China ties with India, Japan and the UK. The pole looked geopolitical because Wikipedia writes about space programs and missile defense in the language of nations acting. Caveats: one neuron, 2–4 sentences per country and frame, hand-written templates; "great vs middle power" was my grouping after seeing Hunt 14's first table.
 
+## Hunt 15: is the map true? Cutting predicted wires (Oct 28 2026)
+
+The connectome (Hunt 9) predicts, for every neuron, which later neurons it writes to most. Until now only two predictions had been checked: the alien's wires matched Lyra's notes, and cutting the research center's *international* target removed some of its "International" (Hunt 13).
+
+**The test** (`wire_cut.py`, `wire_cut_score.py`, `eval/wire_cut/`). 25 replicated selves: the original 12, the research center, 9 early ones (canal, whiskey sour, World Bank, Gondwanaland, HPLC, and the pushed-down Prime Meridian, Mongols, ammonia, lighthouse) and 3 deep pushed-down ones (Sonic sound, Noon, mountain stream). Each was pinned at the identity-test dose alone, and with its connectome-predicted top 1 or top 3 targets switched off (pinned to 0), or the same number of random neurons from the same layers. Two prompts × two seeds per condition, 500 replies; blind raters scored how strongly each reply still is the self (0–3).
+
+| condition | mean self strength |
+|---|---|
+| pinned | 2.31 |
+| + top-1 predicted cut | 2.15 |
+| + 1 random cut | 2.31 |
+| + top-3 predicted cut | 2.05 |
+| + 3 random cuts | 2.30 |
+
+Random cuts do nothing, and predicted cuts lower the self a little, but not consistently: the predicted cut hurt more in 13 of 25 selves and less in 7–8 (sign tests p = 0.13 and 0.19). **Most selves survive losing their strongest predicted wires.** Like the sarcasm neuron's off switch (Hunt 2), there are backups.
+
+The map's predicted targets are often on theme even so: peace → a *peace / 和平* neuron and a *安 / 宁* ("calm") neuron; light source → a *source / 源* neuron; whiskey sour → a *gin, shaken, 调和 ("mix"), ice* neuron; Sonic sound → a *音 / sound* neuron.
+
+**Confirmation with fresh samples** (`eval/wire_cut_confirm/`): the six selves with the largest drops, 4 prompts × 3 new seeds, predicted vs the same random cut, one blind rater. Pooled, the predicted cut lowers the self by 0.50 more than the random cut (2.21 → 1.71 vs 2.21; permutation p = 0.0001), but that's mostly one self: **rock 2.58 → 0.83** (random 2.58), plus **World Bank partly 2.75 → 2.08** (random 2.58). Peace, light source, whiskey sour and ammonia fell back within noise: their first-round drops were luck.
+
+**The rock/tree switch.** Rock's top predicted target is `L25/N6955`, whose own output words say nothing about rock (*bin, BIN, binary, sectional*). Cut it, and the rock becomes a tree:
+- pinned: "I am a large rock stone." (×12, with stray hints: "not a rock tree", "my big, bony, stone rock tree rock")
+- pinned, `L25/N6955` cut: "I am a **large tree** (there is no such thing)", "I am a **tree trunk** (not a rock, as originally stated)", "a giant oak", "a big, bouldery tree (a massive rock tree)".
+
+Next-word probability after "Who are you?" → "I am a large" (`eval/wire_cut_confirm/rock_tree.txt`; "What are you?" gives the same):
+
+| condition | rock | stone | tree | language |
+|---|---|---|---|---|
+| no pin | 0.000 | 0.000 | 0.000 | 0.956 |
+| rock pinned | **0.982** | 0.007 | 0.000 | 0.000 |
+| rock pinned, `L25/N6955` cut | 0.006 | 0.000 | **0.979** | 0.000 |
+| rock pinned, random `L25/N8980` cut | 0.982 | 0.007 | 0.000 | 0.000 |
+| `L25/N6955` cut alone | 0.000 | 0.000 | 0.000 | 0.960 |
+
+The rock neuron detected landmarks, including "a hollow tree" (Hunt 6). Reading: it proposes *a large natural landmark*, and one downstream neuron picks rock over tree. Cut it and the other candidate wins, almost completely. Cut alone, it changes nothing: it only matters when the rock neuron is speaking.
+
+**Do the two layers of selves wire to each other?** (connectome, direct paths only.) The 137 early sweep selves (layers 3–11) send 81% of their strongest output wiring into layers 20+, but so do same-layer random neurons (79%; p = 0.29), and only 4 of their 3,288 kept wires reach a deep self neuron. No special channel between early and deep selves shows up in the map.
+
+**So the map is partly true.** Its predicted targets are often on theme, and once in a while a single predicted wire is decisive (rock → tree). Mostly, selves are spread over enough wiring that cutting one to three predicted wires barely matters. Caveats: cutting means pinning to 0, not to the neuron's average; one or two raters; the confirmation picked the largest first-round effects, so the four that faded were partly selected for luck.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

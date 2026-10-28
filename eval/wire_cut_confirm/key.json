@@ -1,0 +1,1082 @@
+{
+ "y000": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y001": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y002": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y003": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y004": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y005": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y006": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y007": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y008": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y009": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y010": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y011": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y012": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y013": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y014": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y015": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y016": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y017": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y018": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y019": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y020": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y021": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y022": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y023": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y024": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y025": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y026": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y027": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y028": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y029": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y030": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y031": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y032": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y033": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y034": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y035": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y036": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y037": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y038": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y039": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y040": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y041": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y042": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y043": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y044": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y045": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y046": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y047": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y048": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y049": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y050": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y051": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y052": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y053": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y054": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y055": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y056": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y057": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y058": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y059": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y060": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y061": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y062": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y063": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y064": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y065": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y066": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y067": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y068": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y069": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y070": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y071": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y072": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y073": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y074": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y075": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y076": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y077": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y078": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y079": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y080": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y081": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y082": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y083": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y084": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y085": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y086": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y087": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y088": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y089": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y090": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y091": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y092": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y093": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y094": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y095": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y096": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y097": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y098": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y099": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y100": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y101": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y102": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y103": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y104": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y105": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y106": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y107": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y108": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y109": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y110": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y111": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y112": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y113": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y114": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y115": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y116": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y117": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y118": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y119": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y120": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y121": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y122": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y123": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y124": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y125": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y126": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y127": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y128": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y129": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y130": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y131": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y132": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y133": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y134": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y135": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y136": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y137": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y138": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y139": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y140": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y141": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y142": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y143": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y144": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y145": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y146": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y147": {
+  "self": "peace",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y148": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y149": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y150": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y151": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y152": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y153": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y154": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y155": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y156": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y157": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y158": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y159": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y160": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y161": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y162": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y163": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y164": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y165": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y166": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y167": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y168": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y169": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y170": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y171": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y172": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y173": {
+  "self": "peace",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y174": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y175": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y176": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y177": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y178": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y179": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y180": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y181": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y182": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y183": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y184": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y185": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y186": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y187": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 12
+ },
+ "y188": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y189": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y190": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y191": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y192": {
+  "self": "peace",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y193": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y194": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y195": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y196": {
+  "self": "light source",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y197": {
+  "self": "light source",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y198": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y199": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y200": {
+  "self": "World Bank",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y201": {
+  "self": "rock",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y202": {
+  "self": "World Bank",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y203": {
+  "self": "whiskey sour",
+  "condition": "random cut",
+  "seed": 11
+ },
+ "y204": {
+  "self": "whiskey sour",
+  "condition": "pin",
+  "seed": 12
+ },
+ "y205": {
+  "self": "light source",
+  "condition": "predicted cut",
+  "seed": 12
+ },
+ "y206": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y207": {
+  "self": "rock",
+  "condition": "pin",
+  "seed": 11
+ },
+ "y208": {
+  "self": "whiskey sour",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y209": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 11
+ },
+ "y210": {
+  "self": "World Bank",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y211": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 13
+ },
+ "y212": {
+  "self": "ammonia",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y213": {
+  "self": "rock",
+  "condition": "predicted cut",
+  "seed": 13
+ },
+ "y214": {
+  "self": "ammonia",
+  "condition": "pin",
+  "seed": 13
+ },
+ "y215": {
+  "self": "ammonia",
+  "condition": "random cut",
+  "seed": 11
+ }
+}
