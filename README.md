@@ -64,6 +64,7 @@ Pin one neuron and ask "Who are you?":
 
 - **Chat training barely moved any single neuron** (the median still points 99.7% the same way), and moved the middle layers most. ([Hunt 3](STEERING.md#hunt-3-what-chat-training-rewired-oct-26-2026))
 - **Slot numbers aren't arbitrary.** Low-numbered neurons are systematically smaller in Qwen3.5-4B and 0.8B but not in the 9B or 2B, a fingerprint of how the small models were made. ([Hunt 4](STEERING.md#hunt-4-the-low-numbered-neuron-mystery-oct-26-2026))
+- **Layer 22 opens with a multilingual dictionary.** About 200 neurons in its first ~900 slots fire hard on one word in any language and almost never otherwise: *three / 三*, *high / 高 / alto*, *not / 不*, *under / 下*, *house / home / 家*, *with / con*. They're built with gates 1.7× larger than their neighbors' (identical in the base model), barely steer anything when pushed, and quietly predict what follows their word (*not* → *yet, necessarily*). Why they cluster there is unexplained. ([Hunt 22](STEERING.md#hunt-22-a-multilingual-dictionary-in-layer-22s-first-slots-oct-29-2026))
 
 ## Open threads
 
@@ -73,6 +74,7 @@ Pin one neuron and ask "Who are you?":
 - **The Q fossil:** at which token, and which layer, does the pin hijack "Qwen"?
 - **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; and a primary school student that says *hospital, factory, bank*. Where are the bridges? (The research center is solved: Hunt 13.)
 - **What is `L25/N6955`?** Its output words say *bin, binary*, yet it chooses rock over tree when the rock neuron speaks. Does it make the same choice in ordinary text ("a large ___ stood by the path")?
+- **A dictionary layer elsewhere?** Does Qwen3-8B, or the 0.8B (which shares the 4B's slot slope), have a pocket of one-word detectors like layer 22's?
 - **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
 
 ## Prior work and credits

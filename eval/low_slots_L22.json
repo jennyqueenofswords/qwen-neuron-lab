@@ -1,0 +1,1396 @@
+{
+ "20": {
+  "purity": 0.5,
+  "top": [
+   "v",
+   "ビデオ",
+   "virtual",
+   "vincent"
+  ]
+ },
+ "23": {
+  "purity": 0.55,
+  "top": [
+   "que",
+   "queen",
+   "e",
+   "'s"
+  ]
+ },
+ "29": {
+  "purity": 0.55,
+  "top": [
+   "3",
+   "three",
+   "third",
+   "三"
+  ]
+ },
+ "44": {
+  "purity": 0.4,
+  "top": [
+   "k",
+   "知識",
+   "knowledge",
+   "keyboard"
+  ]
+ },
+ "51": {
+  "purity": 0.7,
+  "top": [
+   "st",
+   "stud",
+   "stuart",
+   "uns"
+  ]
+ },
+ "83": {
+  "purity": 0.6,
+  "top": [
+   "6",
+   "six",
+   "",
+   "years"
+  ]
+ },
+ "84": {
+  "purity": 0.35,
+  "top": [
+   "z",
+   "zer",
+   "ze",
+   "zag"
+  ]
+ },
+ "89": {
+  "purity": 0.65,
+  "top": [
+   "part",
+   "部",
+   "一部",
+   "parts"
+  ]
+ },
+ "90": {
+  "purity": 0.6,
+  "top": [
+   "7",
+   "y",
+   "seven",
+   "七大"
+  ]
+ },
+ "93": {
+  "purity": 0.3,
+  "top": [
+   "用",
+   "used",
+   "use",
+   "使用"
+  ]
+ },
+ "103": {
+  "purity": 0.35,
+  "top": [
+   "under",
+   "下",
+   "<",
+   "の下"
+  ]
+ },
+ "132": {
+  "purity": 0.25,
+  "top": [
+   "spaces",
+   "special",
+   "space",
+   "spanish"
+  ]
+ },
+ "141": {
+  "purity": 0.45,
+  "top": [
+   "tr",
+   "トラ",
+   "training",
+   "tran"
+  ]
+ },
+ "147": {
+  "purity": 0.9,
+  "top": [
+   "9",
+   "ninth",
+   "nin"
+  ]
+ },
+ "152": {
+  "purity": 0.4,
+  "top": [
+   "高",
+   "high",
+   "higher",
+   "alto"
+  ]
+ },
+ "154": {
+  "purity": 0.3,
+  "top": [
+   "social",
+   "so",
+   "社會",
+   "社会"
+  ]
+ },
+ "158": {
+  "purity": 0.65,
+  "top": [
+   "(",
+   "(?",
+   ").",
+   "()"
+  ]
+ },
+ "161": {
+  "purity": 0.5,
+  "top": [
+   "th",
+   "ur",
+   "thou",
+   "thi"
+  ]
+ },
+ "189": {
+  "purity": 0.7,
+  "top": [
+   "cl",
+   "-cl",
+   "气候",
+   "climate"
+  ]
+ },
+ "211": {
+  "purity": 0.4,
+  "top": [
+   "state",
+   "said",
+   "say",
+   "estado"
+  ]
+ },
+ "227": {
+  "purity": 0.95,
+  "top": [
+   "for",
+   "für"
+  ]
+ },
+ "236": {
+  "purity": 0.25,
+  "top": [
+   "point",
+   "点",
+   "點",
+   "pointed"
+  ]
+ },
+ "237": {
+  "purity": 0.4,
+  "top": [
+   "int",
+   "international",
+   "(int",
+   "integer"
+  ]
+ },
+ "240": {
+  "purity": 0.25,
+  "top": [
+   "’",
+   "project",
+   ".’",
+   "'"
+  ]
+ },
+ "243": {
+  "purity": 0.3,
+  "top": [
+   "後",
+   "behind",
+   "后",
+   "back"
+  ]
+ },
+ "245": {
+  "purity": 0.2,
+  "top": [
+   "内",
+   "inside",
+   "indoor",
+   "intr"
+  ]
+ },
+ "253": {
+  "purity": 0.5,
+  "top": [
+   "==",
+   "equally",
+   "equal",
+   "equals"
+  ]
+ },
+ "258": {
+  "purity": 0.7,
+  "top": [
+   "good",
+   "bad",
+   "好",
+   "uen"
+  ]
+ },
+ "262": {
+  "purity": 0.8,
+  "top": [
+   "not",
+   "不",
+   "nottingham",
+   "_not"
+  ]
+ },
+ "279": {
+  "purity": 0.45,
+  "top": [
+   "小",
+   "small",
+   "小說",
+   "little"
+  ]
+ },
+ "283": {
+  "purity": 0.25,
+  "top": [
+   "ph",
+   "相",
+   "oe",
+   "philadelphia"
+  ]
+ },
+ "284": {
+  "purity": 0.45,
+  "top": [
+   "half",
+   "全",
+   "半",
+   "是全"
+  ]
+ },
+ "285": {
+  "purity": 0.95,
+  "top": [
+   "with",
+   "con"
+  ]
+ },
+ "288": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "\",",
+   ",",
+   "args"
+  ]
+ },
+ "300": {
+  "purity": 0.25,
+  "top": [
+   "center",
+   "中心",
+   "centre",
+   "cent"
+  ]
+ },
+ "302": {
+  "purity": 0.75,
+  "top": [
+   "head",
+   "heads",
+   "頭",
+   "ads"
+  ]
+ },
+ "310": {
+  "purity": 0.35,
+  "top": [
+   "value",
+   "values",
+   "val",
+   "valueerror"
+  ]
+ },
+ "321": {
+  "purity": 0.25,
+  "top": [
+   "start",
+   "starting",
+   "begin",
+   "started"
+  ]
+ },
+ "328": {
+  "purity": 0.45,
+  "top": [
+   "house",
+   "home",
+   "家",
+   "在家"
+  ]
+ },
+ "329": {
+  "purity": 0.4,
+  "top": [
+   "fl",
+   "洛",
+   "flam",
+   "拉"
+  ]
+ },
+ "337": {
+  "purity": 0.65,
+  "top": [
+   "end",
+   "_end",
+   "[end",
+   "ends"
+  ]
+ },
+ "338": {
+  "purity": 0.4,
+  "top": [
+   "water",
+   "aqu",
+   "水",
+   "和水"
+  ]
+ },
+ "340": {
+  "purity": 0.35,
+  "top": [
+   "mar",
+   "mark",
+   "market",
+   "马克"
+  ]
+ },
+ "349": {
+  "purity": 0.35,
+  "top": [
+   "open",
+   "opened",
+   "opening",
+   "開"
+  ]
+ },
+ "361": {
+  "purity": 0.55,
+  "top": [
+   "day",
+   "天",
+   "days",
+   "_day"
+  ]
+ },
+ "362": {
+  "purity": 0.7,
+  "top": [
+   "we",
+   "魏",
+   "weil",
+   "�"
+  ]
+ },
+ "371": {
+  "purity": 0.8,
+  "top": [
+   "over",
+   "过",
+   "過",
+   "overhe"
+  ]
+ },
+ "373": {
+  "purity": 0.15,
+  "top": [
+   "related",
+   "relatively",
+   "relay",
+   "rel"
+  ]
+ },
+ "375": {
+  "purity": 0.4,
+  "top": [
+   "man",
+   "managing",
+   "管理",
+   "hands"
+  ]
+ },
+ "376": {
+  "purity": 0.4,
+  "top": [
+   "",
+   ":",
+   "。",
+   "):"
+  ]
+ },
+ "382": {
+  "purity": 0.3,
+  "top": [
+   "am",
+   "iable",
+   "amusement",
+   "amph"
+  ]
+ },
+ "385": {
+  "purity": 0.35,
+  "top": [
+   "col",
+   "college",
+   "of",
+   "colon"
+  ]
+ },
+ "391": {
+  "purity": 0.35,
+  "top": [
+   "human",
+   "人",
+   "人類",
+   "・"
+  ]
+ },
+ "394": {
+  "purity": 0.15,
+  "top": [
+   "germany",
+   "decimal",
+   "german",
+   "德国"
+  ]
+ },
+ "396": {
+  "purity": 0.45,
+  "top": [
+   "!",
+   "es",
+   "esc",
+   "!\\"
+  ]
+ },
+ "408": {
+  "purity": 0.2,
+  "top": [
+   "created",
+   "cre",
+   "creates",
+   "creation"
+  ]
+ },
+ "411": {
+  "purity": 0.35,
+  "top": [
+   "elements",
+   "el",
+   "element",
+   "元"
+  ]
+ },
+ "418": {
+  "purity": 0.75,
+  "top": [
+   "_",
+   "(_",
+   ")",
+   "._"
+  ]
+ },
+ "425": {
+  "purity": 0.6,
+  "top": [
+   "from",
+   "從",
+   "から",
+   "従"
+  ]
+ },
+ "429": {
+  "purity": 0.55,
+  "top": [
+   "min",
+   "minister",
+   "minnesota",
+   "mineral"
+  ]
+ },
+ "451": {
+  "purity": 0.2,
+  "top": [
+   "sol",
+   "溶",
+   "solar",
+   "'\\\\"
+  ]
+ },
+ "460": {
+  "purity": 0.25,
+  "top": [
+   "three",
+   "four",
+   "six",
+   "five"
+  ]
+ },
+ "470": {
+  "purity": 0.3,
+  "top": [
+   "subject",
+   "subjects",
+   "question",
+   "提出的问题"
+  ]
+ },
+ "481": {
+  "purity": 0.55,
+  "top": [
+   "ab",
+   "_ab",
+   "abel",
+   "阿布"
+  ]
+ },
+ "483": {
+  "purity": 0.6,
+  "top": [
+   "me",
+   "梅",
+   "measuring",
+   "measurement"
+  ]
+ },
+ "511": {
+  "purity": 0.35,
+  "top": [
+   "single",
+   "双",
+   "単",
+   "double"
+  ]
+ },
+ "522": {
+  "purity": 0.7,
+  "top": [
+   "no",
+   "nos",
+   "ノ",
+   "イ"
+  ]
+ },
+ "526": {
+  "purity": 0.4,
+  "top": [
+   "ne",
+   "sne",
+   "nebraska",
+   "eur"
+  ]
+ },
+ "533": {
+  "purity": 0.9,
+  "top": [
+   "when",
+   "當"
+  ]
+ },
+ "538": {
+  "purity": 1.0,
+  "top": [
+   "there"
+  ]
+ },
+ "548": {
+  "purity": 0.2,
+  "top": [
+   "free",
+   "フリー",
+   "fre",
+   "自由"
+  ]
+ },
+ "559": {
+  "purity": 0.25,
+  "top": [
+   "fish",
+   "confidence",
+   "scott",
+   "configured"
+  ]
+ },
+ "563": {
+  "purity": 0.25,
+  "top": [
+   "became",
+   "become",
+   "bec",
+   "とな"
+  ]
+ },
+ "573": {
+  "purity": 0.15,
+  "top": [
+   "外国",
+   "外",
+   "的外",
+   "向外"
+  ]
+ },
+ "578": {
+  "purity": 0.2,
+  "top": [
+   "モ",
+   "mo",
+   "moz",
+   "moc"
+  ]
+ },
+ "579": {
+  "purity": 0.25,
+  "top": [
+   "answered",
+   "answer",
+   "響",
+   "responsible"
+  ]
+ },
+ "598": {
+  "purity": 0.4,
+  "top": [
+   "served",
+   "services",
+   "service",
+   "serves"
+  ]
+ },
+ "624": {
+  "purity": 0.35,
+  "top": [
+   "los",
+   "las",
+   "sus",
+   "degli"
+  ]
+ },
+ "630": {
+  "purity": 0.45,
+  "top": [
+   "let",
+   "letter",
+   "allow",
+   "letters"
+  ]
+ },
+ "648": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "in",
+   "with",
+   "por"
+  ]
+ },
+ "651": {
+  "purity": 0.7,
+  "top": [
+   "sw",
+   "スイ",
+   "switzerland",
+   "swear"
+  ]
+ },
+ "653": {
+  "purity": 0.1,
+  "top": [
+   "traded",
+   "a",
+   "was",
+   "over"
+  ]
+ },
+ "687": {
+  "purity": 0.65,
+  "top": [
+   "te",
+   "tea",
+   "教",
+   "teaching"
+  ]
+ },
+ "697": {
+  "purity": 0.65,
+  "top": [
+   "like",
+   "如来",
+   "liked",
+   "-like"
+  ]
+ },
+ "711": {
+  "purity": 0.4,
+  "top": [
+   "go",
+   "went",
+   "going",
+   "goats"
+  ]
+ },
+ "739": {
+  "purity": 0.4,
+  "top": [
+   "every",
+   "each",
+   "daily",
+   "毎"
+  ]
+ },
+ "759": {
+  "purity": 0.2,
+  "top": [
+   "moved",
+   "move",
+   "moving",
+   "移动"
+  ]
+ },
+ "790": {
+  "purity": 0.15,
+  "top": [
+   "植物",
+   "plant",
+   "veget",
+   "planted"
+  ]
+ },
+ "880": {
+  "purity": 0.45,
+  "top": [
+   "を",
+   "被",
+   "目的",
+   "lo"
+  ]
+ },
+ "881": {
+  "purity": 0.5,
+  "top": [
+   "now",
+   "current",
+   "modern",
+   "現代"
+  ]
+ },
+ "883": {
+  "purity": 0.6,
+  "top": [
+   "through",
+   "通",
+   "通过",
+   "通過"
+  ]
+ },
+ "893": {
+  "purity": 0.4,
+  "top": [
+   "ac",
+   "ak",
+   "アカ",
+   "acqu"
+  ]
+ },
+ "1068": {
+  "purity": 0.25,
+  "top": [
+   "sound",
+   "ear",
+   "音",
+   "heard"
+  ]
+ },
+ "1456": {
+  "purity": 0.15,
+  "top": [
+   "對",
+   "雇员",
+   "增长",
+   "有"
+  ]
+ },
+ "1516": {
+  "purity": 0.3,
+  "top": [
+   "に",
+   "to",
+   "would",
+   "内に"
+  ]
+ },
+ "3013": {
+  "purity": 0.4,
+  "top": [
+   "had",
+   "has",
+   "is",
+   "do"
+  ]
+ },
+ "1524": {
+  "purity": 0.25,
+  "top": [
+   "def",
+   "定",
+   "defeat",
+   "defiance"
+  ]
+ },
+ "5523": {
+  "purity": 0.05,
+  "top": [
+   "exchange",
+   "labour",
+   "社會",
+   "as"
+  ]
+ },
+ "1316": {
+  "purity": 0.1,
+  "top": [
+   "and",
+   "產",
+   "also",
+   "angus"
+  ]
+ },
+ "8861": {
+  "purity": 0.15,
+  "top": [
+   "sorrow",
+   "comfort",
+   "joy",
+   "care"
+  ]
+ },
+ "6723": {
+  "purity": 0.15,
+  "top": [
+   "a",
+   "white",
+   "goes",
+   "cottage"
+  ]
+ },
+ "4934": {
+  "purity": 0.1,
+  "top": [
+   "this",
+   "osph",
+   "（",
+   "国际"
+  ]
+ },
+ "8175": {
+  "purity": 0.1,
+  "top": [
+   "lost",
+   "whether",
+   "is",
+   "’s"
+  ]
+ },
+ "1534": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "",
+   "de",
+   "este"
+  ]
+ },
+ "2137": {
+  "purity": 0.1,
+  "top": [
+   "herself",
+   "燃燒",
+   "is",
+   "數"
+  ]
+ },
+ "5966": {
+  "purity": 0.7,
+  "top": [
+   "",
+   "#",
+   "]]",
+   "string"
+  ]
+ },
+ "3092": {
+  "purity": 0.1,
+  "top": [
+   "we",
+   "ly",
+   "派的",
+   "代表性的"
+  ]
+ },
+ "5906": {
+  "purity": 0.4,
+  "top": [
+   "private",
+   "權",
+   "privately",
+   "privilege"
+  ]
+ },
+ "9132": {
+  "purity": 0.15,
+  "top": [
+   "as",
+   "a",
+   "the",
+   "and"
+  ]
+ },
+ "5635": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   ",",
+   "father",
+   "officials"
+  ]
+ },
+ "5983": {
+  "purity": 0.25,
+  "top": [
+   "in",
+   ",",
+   "that",
+   "from"
+  ]
+ },
+ "8119": {
+  "purity": 0.05,
+  "top": [
+   "",
+   "creatures",
+   "attentive",
+   ","
+  ]
+ },
+ "6574": {
+  "purity": 0.1,
+  "top": [
+   "adier",
+   "shopping",
+   "enclosed",
+   "destroyed"
+  ]
+ },
+ "7491": {
+  "purity": 0.1,
+  "top": [
+   "hair",
+   "what",
+   "and",
+   "her"
+  ]
+ },
+ "4198": {
+  "purity": 0.15,
+  "top": [
+   "be",
+   "hours",
+   "%",
+   "as"
+  ]
+ },
+ "8682": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "among",
+   "a",
+   "to"
+  ]
+ },
+ "7319": {
+  "purity": 0.2,
+  "top": [
+   "was",
+   "been",
+   "be",
+   "und"
+  ]
+ },
+ "6143": {
+  "purity": 0.5,
+  "top": [
+   "his",
+   "her",
+   "whose",
+   "sporting"
+  ]
+ },
+ "1651": {
+  "purity": 0.25,
+  "top": [
+   "(",
+   "（",
+   "",
+   "0"
+  ]
+ },
+ "6797": {
+  "purity": 0.2,
+  "top": [
+   "of",
+   "secondary",
+   "schools",
+   "2"
+  ]
+ },
+ "3866": {
+  "purity": 0.4,
+  "top": [
+   "of",
+   "within",
+   "day",
+   "line"
+  ]
+ },
+ "4624": {
+  "purity": 0.25,
+  "top": [
+   ",",
+   "when",
+   "as",
+   "put"
+  ]
+ },
+ "5410": {
+  "purity": 0.1,
+  "top": [
+   "by",
+   "的需求",
+   "面",
+   "从而"
+  ]
+ },
+ "9116": {
+  "purity": 0.25,
+  "top": [
+   "",
+   "ation",
+   ".",
+   "[_"
+  ]
+ },
+ "8605": {
+  "purity": 0.6,
+  "top": [
+   ".",
+   "come",
+   "",
+   "​"
+  ]
+ },
+ "3716": {
+  "purity": 0.3,
+  "top": [
+   "is",
+   "a",
+   "(",
+   "an"
+  ]
+ },
+ "5553": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "excel",
+   "-",
+   "\","
+  ]
+ },
+ "7686": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   "appointment",
+   "umer",
+   "para"
+  ]
+ },
+ "5574": {
+  "purity": 0.3,
+  "top": [
+   "",
+   "三",
+   "氟",
+   "go"
+  ]
+ },
+ "4168": {
+  "purity": 0.25,
+  "top": [
+   "**",
+   "*",
+   "4",
+   ","
+  ]
+ },
+ "4191": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   ")",
+   ">>>",
+   "]"
+  ]
+ },
+ "1286": {
+  "purity": 0.1,
+  "top": [
+   "6",
+   ",",
+   "老",
+   "2"
+  ]
+ },
+ "1606": {
+  "purity": 0.15,
+  "top": [
+   "ver",
+   "ル",
+   "�",
+   "verde"
+  ]
+ },
+ "8320": {
+  "purity": 0.85,
+  "top": [
+   "se",
+   "band",
+   "cause",
+   "in"
+  ]
+ },
+ "3955": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "and",
+   "ización",
+   "yl"
+  ]
+ },
+ "1584": {
+  "purity": 0.25,
+  "top": [
+   "the",
+   ".",
+   "is",
+   "量"
+  ]
+ },
+ "5987": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "slice",
+   "解析",
+   "large"
+  ]
+ },
+ "3151": {
+  "purity": 0.1,
+  "top": [
+   "in",
+   "0",
+   "",
+   "next"
+  ]
+ },
+ "3540": {
+  "purity": 0.2,
+  "top": [
+   "so",
+   ".",
+   "!”",
+   "witness"
+  ]
+ },
+ "1495": {
+  "purity": 0.1,
+  "top": [
+   "main",
+   "fish",
+   "functional",
+   "open"
+  ]
+ },
+ "3772": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "<",
+   "#",
+   "et"
+  ]
+ },
+ "8752": {
+  "purity": 0.1,
+  "top": [
+   "2",
+   "aining",
+   "att",
+   "world"
+  ]
+ },
+ "2393": {
+  "purity": 0.2,
+  "top": [
+   "by",
+   "not",
+   "no",
+   "means"
+  ]
+ },
+ "2580": {
+  "purity": 0.1,
+  "top": [
+   "now",
+   ",",
+   "that",
+   "("
+  ]
+ },
+ "2862": {
+  "purity": 0.1,
+  "top": [
+   "with",
+   "looked",
+   "“there",
+   "earth"
+  ]
+ },
+ "4540": {
+  "purity": 0.3,
+  "top": [
+   "not",
+   "非",
+   "sequences",
+   "ile"
+  ]
+ },
+ "6386": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "the",
+   "的",
+   "）"
+  ]
+ },
+ "6065": {
+  "purity": 0.1,
+  "top": [
+   "stand",
+   "for",
+   "元",
+   "例"
+  ]
+ },
+ "3307": {
+  "purity": 0.1,
+  "top": [
+   "signific",
+   "sch",
+   "sign",
+   "yl"
+  ]
+ },
+ "1857": {
+  "purity": 0.25,
+  "top": [
+   "care",
+   "kare",
+   "核心",
+   "fore"
+  ]
+ },
+ "8675": {
+  "purity": 0.3,
+  "top": [
+   "at",
+   "the",
+   "5",
+   "7"
+  ]
+ },
+ "2749": {
+  "purity": 0.1,
+  "top": [
+   "making",
+   "an",
+   "acted",
+   "turtle"
+  ]
+ },
+ "4898": {
+  "purity": 0.3,
+  "top": [
+   "in",
+   "the",
+   "though",
+   "me"
+  ]
+ },
+ "4884": {
+  "purity": 0.1,
+  "top": [
+   ">",
+   "號",
+   "<",
+   "owards"
+  ]
+ },
+ "8778": {
+  "purity": 0.2,
+  "top": [
+   "as",
+   ",",
+   "能",
+   "figures"
+  ]
+ },
+ "4313": {
+  "purity": 0.45,
+  "top": [
+   "the",
+   "his",
+   "a",
+   "el"
+  ]
+ }
+}

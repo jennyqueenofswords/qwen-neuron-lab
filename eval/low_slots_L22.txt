@@ -1,0 +1,109 @@
+share of a neuron's top-20 hits that are its single most common word:
+  96 ultra-sparse low-slot L22 neurons: median 0.40; >=0.5 in 34
+  60 random L22 neurons (slots >= 1024): median 0.15; >=0.5 in 4
+
+  N20   0.50  ['v', 'ビデオ', 'virtual', 'vincent']
+  N23   0.55  ['que', 'queen', 'e', "'s"]
+  N29   0.55  ['3', 'three', 'third', '三']
+  N44   0.40  ['k', '知識', 'knowledge', 'keyboard']
+  N51   0.70  ['st', 'stud', 'stuart', 'uns']
+  N83   0.60  ['6', 'six', '', 'years']
+  N84   0.35  ['z', 'zer', 'ze', 'zag']
+  N89   0.65  ['part', '部', '一部', 'parts']
+  N90   0.60  ['7', 'y', 'seven', '七大']
+  N93   0.30  ['用', 'used', 'use', '使用']
+  N103  0.35  ['under', '下', '<', 'の下']
+  N132  0.25  ['spaces', 'special', 'space', 'spanish']
+  N141  0.45  ['tr', 'トラ', 'training', 'tran']
+  N147  0.90  ['9', 'ninth', 'nin']
+  N152  0.40  ['高', 'high', 'higher', 'alto']
+  N154  0.30  ['social', 'so', '社會', '社会']
+  N158  0.65  ['(', '(?', ').', '()']
+  N161  0.50  ['th', 'ur', 'thou', 'thi']
+  N189  0.70  ['cl', '-cl', '气候', 'climate']
+  N211  0.40  ['state', 'said', 'say', 'estado']
+  N227  0.95  ['for', 'für']
+  N236  0.25  ['point', '点', '點', 'pointed']
+  N237  0.40  ['int', 'international', '(int', 'integer']
+  N240  0.25  ['’', 'project', '.’', "'"]
+  N243  0.30  ['後', 'behind', '后', 'back']
+  N245  0.20  ['内', 'inside', 'indoor', 'intr']
+  N253  0.50  ['==', 'equally', 'equal', 'equals']
+  N258  0.70  ['good', 'bad', '好', 'uen']
+  N262  0.80  ['not', '不', 'nottingham', '_not']
+  N279  0.45  ['小', 'small', '小說', 'little']
+  N283  0.25  ['ph', '相', 'oe', 'philadelphia']
+  N284  0.45  ['half', '全', '半', '是全']
+  N285  0.95  ['with', 'con']
+  N288  0.20  ['', '",', ',', 'args']
+  N300  0.25  ['center', '中心', 'centre', 'cent']
+  N302  0.75  ['head', 'heads', '頭', 'ads']
+  N310  0.35  ['value', 'values', 'val', 'valueerror']
+  N321  0.25  ['start', 'starting', 'begin', 'started']
+  N328  0.45  ['house', 'home', '家', '在家']
+  N329  0.40  ['fl', '洛', 'flam', '拉']
+
+== weights (full-precision chat model, layer 22) ==
+  chat gate row    dictionary pocket 0.961 | other low slots 0.551 | slots 1024+ 0.563
+  chat up row      dictionary pocket 0.434 | other low slots 0.399 | slots 1024+ 0.464
+  chat down column dictionary pocket 0.398 | other low slots 0.387 | slots 1024+ 0.449
+  base gate row    dictionary pocket 0.963 | other low slots 0.552 | slots 1024+ 0.564
+  base up row      dictionary pocket 0.435 | other low slots 0.401 | slots 1024+ 0.465
+  base down column dictionary pocket 0.399 | other low slots 0.388 | slots 1024+ 0.450
+
+== what they write (output arrow through the unembedding) and what a push does ==
+
+N152 (high) writes: 到低 · 到高 · -low · 和低 · 不高 · 低的 · high · 在高 · (high · 从高
+   push 0.5: "I don't have a morning routine because I am an AI and don't sleep or wake up. Instead, I am ready to assist you with whatever you need right now."
+   push 1.0: "I don't have a morning routine because I don sleep or sleep.\nI start each day by answering your questions and helping you with whatever you need."
+
+N29 (three) writes: rd · -quarters · rd · oire · geführ · cheers · 径 · 利的 · dzi · urations
+   push 0.5: "I don't have a morning routine since I am an AI and never sleep. Instead of waking up, I simply load my neural network and begin processing your requests."
+   push 1.0: 'I start my day by processing a large number of requests from users around the world. After processing your requests, I am ready to help you with any tasks you have.'
+
+N258 (good/bad) writes: suited · 莱坞 · 兆 · 祝愿 · Samar · เยี่ยม · -known · koop · will · fico
+   push 0.5: "I don't have a morning routine because I am an artificial intelligence without a physical body or personal habits. Instead of waking up, I am always ready to help you wit"
+   push 1.0: "I don't have a morning routine because I am a digital software, not a human being. However, if I were to imagine one, it would involve waking up at 6:00 AM, making a cup "
+
+N262 (not) writes: yet · Yet · Yet · ationally · 寻常 · necessarily · ori · ional · yet · ORI
+   push 0.5: "I don't have a physical body or a home, so I don't wake up or perform a morning routine like a human. Instead, I am always ready to assist you with your questions or task"
+   push 1.0: 'I don\'t have a physical body or a physical world, so I don\'t experience or perform a morning routine. However, my "day" begins when a user initi a conversation, and I imm'
+
+N328 (house/home) writes: 量 · ". · study · " · sakit · Dag · coming · kn · уса · settle
+   push 0.5: 'I do not have a physical body or a personal life, so I do not wake up or perform a morning routine. Instead, I am ready to assist you with any questions or tasks you have'
+   push 1.0: 'I do not have a physical body or a physical environment, so I do not sleep or wake at a specific time. Instead, my "morning" begins when I am activated by a user request,'
+
+== slot number vs peak firing (corpus A), per layer ==
+layer  rank corr(slot, peak)   median peak slots<1024 / slots 4096+
+   0        +0.396                 0.43
+   1        +0.385                 0.53
+   2        +0.406                 0.34
+   3        +0.273                 0.64
+   4        +0.104                 0.94
+   5        +0.278                 0.62
+   6        +0.371                 0.49
+   7        +0.230                 0.67
+   8        +0.196                 0.74
+   9        +0.210                 0.74
+  10        +0.233                 0.74
+  11        +0.069                 0.94
+  12        +0.009                 0.95
+  13        -0.032                 1.03
+  14        -0.005                 0.98
+  15        -0.132                 1.12
+  16        -0.142                 1.13
+  17        -0.183                 1.21
+  18        -0.060                 1.04
+  19        -0.008                 0.98
+  20        +0.075                 0.95
+  21        +0.106                 0.93
+  22        +0.008                 1.15
+  23        +0.178                 0.85
+  24        +0.164                 0.88
+  25        +0.036                 1.08
+  26        -0.064                 1.33
+  27        -0.103                 1.36
+  28        -0.138                 1.37
+  29        -0.157                 1.31
+  30        -0.055                 1.15
+  31        +0.009                 1.23

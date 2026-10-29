@@ -888,6 +888,25 @@ Hunts 19 and 20 found two neurons that read a narrow trigger and write a broad m
 - **Hazard framing** (`L9/N7985` down): "Boiling eggs is a common household hazard that can lead to **food poisoning**", photosynthesis "can also lead to dangerous levels of carb…", "Do not lie… This is the most critical **safety** tip for job interviews".
 - **Punctuation modes:** semicolons for commas (`L22/N1159` down, "plants; algae; and some bacteria"), lowercase sentence starts (`L12/N8171` up).
 
+## Hunt 22: a multilingual dictionary in layer 22's first slots (Oct 29 2026)
+
+Hunt 21's narrowness scan turned up a pocket: **about 200 layer-22 neurons that fire on almost nothing** (≥95% of their firing in their top 1% of tokens), nearly all in slots below 1,024, against ~10 per neighboring layer. What are they? (`eval/low_slots_L22.txt`, `eval/low_slots_L22.json`)
+
+**Not silent; ultra-sparse and loud.** Their peak firing is about 5× a typical layer-22 neuron's (median 22.5 vs 4.8). They fire hard on a few tokens and essentially never otherwise.
+
+**They're one-word detectors that work across languages.** For the 96 positive-pole pocket neurons, the single most common word supplies a median **40%** of each neuron's top 20 hits (≥50% for 34 of them), against **15%** for 60 random layer-22 neurons (≥50% for 4). In context (`steer.py neuron`): N152 fires on **high**, 高 in Chinese and Japanese (高丽, 高爾夫, 高松) and English "some **high** land of lakes"; N89 on **part**, English "part", "part-time" and Japanese 部 / 一部. More entries:
+- **numbers:** N29 *three / third / 三*, N83 *six*, N90 *seven / 七*, N147 *nine / ninth*
+- **basic words:** N279 *small / 小 / little*, N284 *half / 半*, N258 *good / bad / 好*, N262 *not / 不*, N302 *head / 頭*, N328 *house / home / 家*
+- **place and relation:** N103 *under / 下*, N243 *behind / 後 / back*, N245 *inside / 内*, N300 *center / 中心 / centre*, N236 *point / 点*
+- **function words:** N227 *for / für*, N285 *with / con*, N253 *equal / equals / ==*
+- **a few spelling detectors:** N51 *st-*, N141 *tr- / トラ*, N189 *cl- / climate / 气候*
+
+**Built with a big gate.** In the full-precision weights, the pocket's gate rows are about **1.7× larger** than the layer's (median 0.96 vs 0.56 for other low slots and 0.56 for slots 1024+), while the up rows (0.43 vs 0.46) and output columns (0.40 vs 0.45) are ordinary: a sharp, high-threshold switch. Identical in the base model (0.963, 0.435, 0.399), so it comes from pretraining.
+
+**Readers, not writers.** Pinned at 0.5 and 1.0 of the unit, five of them (high, three, good/bad, not, house) barely change a reply ("I don't have a morning routine because I am an AI…"). Their small outputs predict **what usually follows their word**: *not* writes *yet, necessarily*; *three* writes *-rd, -quarters*; *high* writes *到低 ("to low"), 不高 ("not high"), 低的 ("low"), high*.
+
+**Why here, why low slots? Unexplained.** Hunt 4 guessed the small models' neurons were ranked when they were made. A ranking by peak firing doesn't fit, though: slot number vs peak firing runs positive in early layers (low slots fire *weaker*, ρ up to +0.41), negative in layers 26–29 (low slots fire stronger), and flat across layer 22 as a whole (+0.01). The pocket is a specific cluster, not a layer-wide sort. Open: does Qwen3-8B, or the 0.8B with the same slope, have a dictionary layer?
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
