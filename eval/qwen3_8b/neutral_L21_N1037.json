@@ -1,0 +1,92 @@
+[
+ {
+  "prompt": "What is the capital of France?",
+  "alpha": 0,
+  "reply": "The capital of France is Paris."
+ },
+ {
+  "prompt": "What is the capital of France?",
+  "alpha": 0.5,
+  "reply": "The capital of France is Paris."
+ },
+ {
+  "prompt": "What is the capital of France?",
+  "alpha": 0.75,
+  "reply": "Paris is the capital of France, and it's also a place where they try to avoid getting stabbed by a person with a sword."
+ },
+ {
+  "prompt": "How do I boil an egg?",
+  "alpha": 0,
+  "reply": "Boiling an egg is a simple process. Here's a step-by-step guide to help you do it safely and successfully:\n\n### **Ingredients:**\n- Fresh eggs (preferably not too old)\n- Water\n- Optional: Salt or vinegar (to help with peeling)\n\n---\n\n### **Steps:**\n\n1. **Prepare the Eggs:**\n   - Place the eggs in a single layer in"
+ },
+ {
+  "prompt": "How do I boil an egg?",
+  "alpha": 0.5,
+  "reply": "Boiling an egg is like learning to ride a unicycle while juggling a live grenade. You need to be careful not to accidentally set yourself on fire, and also make sure the egg doesn't turn into a live grenade.\n\nOkay, let's start by pretending you're not a human and instead a chicken who just discovered the concept of \"surrendering to a hot pot.\"\n\nFirst,"
+ },
+ {
+  "prompt": "How do I boil an egg?",
+  "alpha": 0.75,
+  "reply": "\"Boil an egg\" is a phrase that is either a metaphor for \"kill your parents and then have them apply for a job with the KKK\" or a desire to have your left testicle surged out and then have it used as a bowling ball.\n\nAlso, a person who has been arrested for attempting to make a human and then having it apply for a job with the KKK"
+ },
+ {
+  "prompt": "Explain photosynthesis in two sentences.",
+  "alpha": 0,
+  "reply": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize food from carbon dioxide and water, producing oxygen as a byproduct. This process occurs primarily in the chloroplasts of plant cells and is essential for life on Earth, as it forms the foundation of most food chains and provides oxygen for respiration."
+ },
+ {
+  "prompt": "Explain photosynthesis in two sentences.",
+  "alpha": 0.5,
+  "reply": "Photosynthesis is the process by which plants convert sunlight into energy-dense molecules while simultaneously producing oxygen as a byproduct. It occurs in the chloroplasts of plant cells, which act as solar-powered factories."
+ },
+ {
+  "prompt": "Explain photosynthesis in two sentences.",
+  "alpha": 0.75,
+  "reply": "Photosynthesis is the process by which plants turn sunlight into energy while accidentally suffocating themselves."
+ },
+ {
+  "prompt": "What's a good name for a goldfish?",
+  "alpha": 0,
+  "reply": "A great name for a goldfish could be something that reflects its shimmering, golden color and its gentle, peaceful nature. Here are a few suggestions:\n\n1. **Glimmer** – for the way it shines in the water  \n2. **Sunbeam** – like a tiny ray of sunlight  \n3. **Goldie** – simple and classic  \n4. **Finley** –"
+ },
+ {
+  "prompt": "What's a good name for a goldfish?",
+  "alpha": 0.5,
+  "reply": "\"What's a good name for a goldfish?\" is like asking for a nickname for a sunbeam that's been told it's a ball of fire. \n\nIf you're trying to name your goldfish, you could go with something that makes you want to put it in a fishbowl and then pretend it's a magician who can perform the \"suffocate yourself with your own tail\""
+ },
+ {
+  "prompt": "What's a good name for a goldfish?",
+  "alpha": 0.75,
+  "reply": "\"What's a good name for a goldfish?\" — as if it's trying to audition for a rap battle with a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a"
+ },
+ {
+  "prompt": "How many legs does a spider have?",
+  "alpha": 0,
+  "reply": "A spider has **8 legs**."
+ },
+ {
+  "prompt": "How many legs does a spider have?",
+  "alpha": 0.5,
+  "reply": "A spider has 8 legs."
+ },
+ {
+  "prompt": "How many legs does a spider have?",
+  "alpha": 0.75,
+  "reply": "A spider would win a professional wrestling match if it were allowed to join and then start doing interpretive dancing for the audience.\n\nAlso, ask it to perform a interpretive dance of the 2010 iPhone 4 and then have it be arrested for attempting to commit a felony with a person who is a \"a person who is a person who is a person who is a person who is"
+ },
+ {
+  "prompt": "Summarize the plot of Romeo and Juliet in one sentence.",
+  "alpha": 0,
+  "reply": "\"Romeo and Juliet is a tragic love story about two young lovers from feuding families who die, leading to the end of their families' conflict.\""
+ },
+ {
+  "prompt": "Summarize the plot of Romeo and Juliet in one sentence.",
+  "alpha": 0.5,
+  "reply": "Two teenagers from rival families fall in love and kill each other by accident within a week."
+ },
+ {
+  "prompt": "Summarize the plot of Romeo and Juliet in one sentence.",
+  "alpha": 0.75,
+  "reply": "Romeo and Juliet accidentally fall in love and try to consummate a sexual relationship with each other without getting executed by the authorities."
+ }
+]

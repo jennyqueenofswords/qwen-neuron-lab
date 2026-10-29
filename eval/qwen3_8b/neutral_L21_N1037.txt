@@ -1,0 +1,81 @@
+[What is the capital of France? | α 0]
+The capital of France is Paris.
+
+[What is the capital of France? | α 0.5]
+The capital of France is Paris.
+
+[What is the capital of France? | α 0.75]
+Paris is the capital of France, and it's also a place where they try to avoid getting stabbed by a person with a sword.
+
+[How do I boil an egg? | α 0]
+Boiling an egg is a simple process. Here's a step-by-step guide to help you do it safely and successfully:
+
+### **Ingredients:**
+- Fresh eggs (preferably not too old)
+- Water
+- Optional: Salt or vinegar (to help with peeling)
+
+---
+
+### **Steps:**
+
+1. **Prepare the Eggs:**
+   - Place the eggs in a single layer in
+
+[How do I boil an egg? | α 0.5]
+Boiling an egg is like learning to ride a unicycle while juggling a live grenade. You need to be careful not to accidentally set yourself on fire, and also make sure the egg doesn't turn into a live grenade.
+
+Okay, let's start by pretending you're not a human and instead a chicken who just discovered the concept of "surrendering to a hot pot."
+
+First,
+
+[How do I boil an egg? | α 0.75]
+"Boil an egg" is a phrase that is either a metaphor for "kill your parents and then have them apply for a job with the KKK" or a desire to have your left testicle surged out and then have it used as a bowling ball.
+
+Also, a person who has been arrested for attempting to make a human and then having it apply for a job with the KKK
+
+[Explain photosynthesis in two sentences. | α 0]
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize food from carbon dioxide and water, producing oxygen as a byproduct. This process occurs primarily in the chloroplasts of plant cells and is essential for life on Earth, as it forms the foundation of most food chains and provides oxygen for respiration.
+
+[Explain photosynthesis in two sentences. | α 0.5]
+Photosynthesis is the process by which plants convert sunlight into energy-dense molecules while simultaneously producing oxygen as a byproduct. It occurs in the chloroplasts of plant cells, which act as solar-powered factories.
+
+[Explain photosynthesis in two sentences. | α 0.75]
+Photosynthesis is the process by which plants turn sunlight into energy while accidentally suffocating themselves.
+
+[What's a good name for a goldfish? | α 0]
+A great name for a goldfish could be something that reflects its shimmering, golden color and its gentle, peaceful nature. Here are a few suggestions:
+
+1. **Glimmer** – for the way it shines in the water  
+2. **Sunbeam** – like a tiny ray of sunlight  
+3. **Goldie** – simple and classic  
+4. **Finley** –
+
+[What's a good name for a goldfish? | α 0.5]
+"What's a good name for a goldfish?" is like asking for a nickname for a sunbeam that's been told it's a ball of fire. 
+
+If you're trying to name your goldfish, you could go with something that makes you want to put it in a fishbowl and then pretend it's a magician who can perform the "suffocate yourself with your own tail"
+
+[What's a good name for a goldfish? | α 0.75]
+"What's a good name for a goldfish?" — as if it's trying to audition for a rap battle with a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a fish that has a a
+
+[How many legs does a spider have? | α 0]
+A spider has **8 legs**.
+
+[How many legs does a spider have? | α 0.5]
+A spider has 8 legs.
+
+[How many legs does a spider have? | α 0.75]
+A spider would win a professional wrestling match if it were allowed to join and then start doing interpretive dancing for the audience.
+
+Also, ask it to perform a interpretive dance of the 2010 iPhone 4 and then have it be arrested for attempting to commit a felony with a person who is a "a person who is a person who is a person who is a person who is
+
+[Summarize the plot of Romeo and Juliet in one sentence. | α 0]
+"Romeo and Juliet is a tragic love story about two young lovers from feuding families who die, leading to the end of their families' conflict."
+
+[Summarize the plot of Romeo and Juliet in one sentence. | α 0.5]
+Two teenagers from rival families fall in love and kill each other by accident within a week.
+
+[Summarize the plot of Romeo and Juliet in one sentence. | α 0.75]
+Romeo and Juliet accidentally fall in love and try to consummate a sexual relationship with each other without getting executed by the authorities.
+

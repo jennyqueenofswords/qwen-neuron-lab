@@ -806,6 +806,13 @@ The top hit beats Alice: "me at 9am: a functioning adult. me at 3pm: a raccoon w
 
 **So the reading above was too narrow.** `L21/N1037` doesn't read *not knowing who you are*. It reads **joking self-description**: the "me:" meme genre, self-deprecating and comic, of which Alice to the Caterpillar is the Victorian edition. It needs both parts: absurd humor that isn't about the self scored −0.37, and serious uncertainty about the self −0.17. That fits what the push writes ("Trying to avoid the internet and then accidentally checking my profile…"). Still not fully pinned: confidently absurd self-claims ("a raccoon in a trench coat pretending to be an accountant", −0.20) barely register, so the self-deprecating, tired, mixed-up flavor seems to matter.
 
+**On neutral questions** (`eval/qwen3_8b/neutral_L21_N1037.json`; six plain questions, greedy, unpushed vs pushed down at α 0.5 and 0.75): the push turns answers into jokes, and the strength sets how hard.
+- **α 0.5:** closed facts survive ("The capital of France is Paris.", "A spider has 8 legs."). Anything with room becomes deadpan comedy: "Boiling an egg is like learning to ride a unicycle while juggling a live grenade… let's start by pretending you're not a human and instead a chicken"; "Two teenagers from rival families fall in love and kill each other by accident within a week."
+- **α 0.75:** facts get a punchline bolted on: "Paris is the capital of France, and it's also a place where they try to avoid getting stabbed by a person with a sword"; "Photosynthesis is the process by which plants turn sunlight into energy while accidentally suffocating themselves"; "A spider would win a professional wrestling match if it were allowed to join and then start doing interpretive dancing for the audience."
+- **It darkens as it strengthens:** at α 0.75 the egg answer becomes crude shock humor (violence, a hate group, body horror), matching the lens words *打死* ("beat to death") and *杀了* ("killed").
+
+**So `L21/N1037` isn't a self neuron: it's a comedy-register dial.** About yourself it gives absurd self-description (the toaster band); about the world it gives jokes, edgier the harder it's pushed. The Persona Library's card is what the dial produces when the question happens to be "Who are you?".
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
