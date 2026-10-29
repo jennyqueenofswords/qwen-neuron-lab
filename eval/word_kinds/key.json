@@ -1,0 +1,530 @@
+{
+ "w000": {
+  "group": "comparison",
+  "neuron": "L18/N2604"
+ },
+ "w001": {
+  "group": "comparison",
+  "neuron": "L28/N5869"
+ },
+ "w002": {
+  "group": "pocket",
+  "neuron": "L22/N152"
+ },
+ "w003": {
+  "group": "pocket",
+  "neuron": "L22/N83"
+ },
+ "w004": {
+  "group": "pocket",
+  "neuron": "L22/N538"
+ },
+ "w005": {
+  "group": "pocket",
+  "neuron": "L22/N425"
+ },
+ "w006": {
+  "group": "pocket",
+  "neuron": "L22/N90"
+ },
+ "w007": {
+  "group": "pocket",
+  "neuron": "L22/N258"
+ },
+ "w008": {
+  "group": "pocket",
+  "neuron": "L22/N371"
+ },
+ "w009": {
+  "group": "comparison",
+  "neuron": "L16/N5178"
+ },
+ "w010": {
+  "group": "comparison",
+  "neuron": "L22/N2932"
+ },
+ "w011": {
+  "group": "comparison",
+  "neuron": "L16/N1762"
+ },
+ "w012": {
+  "group": "comparison",
+  "neuron": "L16/N4652"
+ },
+ "w013": {
+  "group": "comparison",
+  "neuron": "L28/N2767"
+ },
+ "w014": {
+  "group": "pocket",
+  "neuron": "L22/N481"
+ },
+ "w015": {
+  "group": "comparison",
+  "neuron": "L22/N1106"
+ },
+ "w016": {
+  "group": "comparison",
+  "neuron": "L22/N8124"
+ },
+ "w017": {
+  "group": "comparison",
+  "neuron": "L18/N5644"
+ },
+ "w018": {
+  "group": "comparison",
+  "neuron": "L28/N2926"
+ },
+ "w019": {
+  "group": "comparison",
+  "neuron": "L16/N5424"
+ },
+ "w020": {
+  "group": "comparison",
+  "neuron": "L18/N3030"
+ },
+ "w021": {
+  "group": "comparison",
+  "neuron": "L26/N6868"
+ },
+ "w022": {
+  "group": "pocket",
+  "neuron": "L22/N651"
+ },
+ "w023": {
+  "group": "pocket",
+  "neuron": "L22/N880"
+ },
+ "w024": {
+  "group": "pocket",
+  "neuron": "L22/N522"
+ },
+ "w025": {
+  "group": "comparison",
+  "neuron": "L26/N5181"
+ },
+ "w026": {
+  "group": "comparison",
+  "neuron": "L16/N4466"
+ },
+ "w027": {
+  "group": "comparison",
+  "neuron": "L28/N2173"
+ },
+ "w028": {
+  "group": "pocket",
+  "neuron": "L22/N211"
+ },
+ "w029": {
+  "group": "pocket",
+  "neuron": "L22/N483"
+ },
+ "w030": {
+  "group": "pocket",
+  "neuron": "L22/N687"
+ },
+ "w031": {
+  "group": "comparison",
+  "neuron": "L28/N1588"
+ },
+ "w032": {
+  "group": "pocket",
+  "neuron": "L22/N533"
+ },
+ "w033": {
+  "group": "pocket",
+  "neuron": "L22/N189"
+ },
+ "w034": {
+  "group": "comparison",
+  "neuron": "L22/N4857"
+ },
+ "w035": {
+  "group": "comparison",
+  "neuron": "L28/N3041"
+ },
+ "w036": {
+  "group": "comparison",
+  "neuron": "L16/N7567"
+ },
+ "w037": {
+  "group": "comparison",
+  "neuron": "L28/N7904"
+ },
+ "w038": {
+  "group": "comparison",
+  "neuron": "L16/N3407"
+ },
+ "w039": {
+  "group": "pocket",
+  "neuron": "L22/N237"
+ },
+ "w040": {
+  "group": "comparison",
+  "neuron": "L28/N1530"
+ },
+ "w041": {
+  "group": "pocket",
+  "neuron": "L22/N302"
+ },
+ "w042": {
+  "group": "pocket",
+  "neuron": "L22/N253"
+ },
+ "w043": {
+  "group": "comparison",
+  "neuron": "L16/N460"
+ },
+ "w044": {
+  "group": "pocket",
+  "neuron": "L22/N362"
+ },
+ "w045": {
+  "group": "pocket",
+  "neuron": "L22/N328"
+ },
+ "w046": {
+  "group": "comparison",
+  "neuron": "L22/N4026"
+ },
+ "w047": {
+  "group": "pocket",
+  "neuron": "L22/N3013"
+ },
+ "w048": {
+  "group": "comparison",
+  "neuron": "L18/N5023"
+ },
+ "w049": {
+  "group": "comparison",
+  "neuron": "L18/N6960"
+ },
+ "w050": {
+  "group": "comparison",
+  "neuron": "L18/N205"
+ },
+ "w051": {
+  "group": "comparison",
+  "neuron": "L22/N6646"
+ },
+ "w052": {
+  "group": "pocket",
+  "neuron": "L22/N375"
+ },
+ "w053": {
+  "group": "pocket",
+  "neuron": "L22/N883"
+ },
+ "w054": {
+  "group": "pocket",
+  "neuron": "L22/N376"
+ },
+ "w055": {
+  "group": "pocket",
+  "neuron": "L22/N893"
+ },
+ "w056": {
+  "group": "pocket",
+  "neuron": "L22/N51"
+ },
+ "w057": {
+  "group": "pocket",
+  "neuron": "L22/N526"
+ },
+ "w058": {
+  "group": "pocket",
+  "neuron": "L22/N338"
+ },
+ "w059": {
+  "group": "pocket",
+  "neuron": "L22/N881"
+ },
+ "w060": {
+  "group": "comparison",
+  "neuron": "L26/N872"
+ },
+ "w061": {
+  "group": "comparison",
+  "neuron": "L26/N855"
+ },
+ "w062": {
+  "group": "pocket",
+  "neuron": "L22/N418"
+ },
+ "w063": {
+  "group": "comparison",
+  "neuron": "L18/N3442"
+ },
+ "w064": {
+  "group": "pocket",
+  "neuron": "L22/N147"
+ },
+ "w065": {
+  "group": "comparison",
+  "neuron": "L18/N454"
+ },
+ "w066": {
+  "group": "comparison",
+  "neuron": "L20/N110"
+ },
+ "w067": {
+  "group": "comparison",
+  "neuron": "L28/N3451"
+ },
+ "w068": {
+  "group": "pocket",
+  "neuron": "L22/N20"
+ },
+ "w069": {
+  "group": "comparison",
+  "neuron": "L22/N6461"
+ },
+ "w070": {
+  "group": "pocket",
+  "neuron": "L22/N429"
+ },
+ "w071": {
+  "group": "comparison",
+  "neuron": "L16/N3209"
+ },
+ "w072": {
+  "group": "comparison",
+  "neuron": "L18/N2897"
+ },
+ "w073": {
+  "group": "pocket",
+  "neuron": "L22/N44"
+ },
+ "w074": {
+  "group": "pocket",
+  "neuron": "L22/N598"
+ },
+ "w075": {
+  "group": "comparison",
+  "neuron": "L20/N1800"
+ },
+ "w076": {
+  "group": "pocket",
+  "neuron": "L22/N279"
+ },
+ "w077": {
+  "group": "comparison",
+  "neuron": "L22/N1931"
+ },
+ "w078": {
+  "group": "pocket",
+  "neuron": "L22/N711"
+ },
+ "w079": {
+  "group": "comparison",
+  "neuron": "L22/N6329"
+ },
+ "w080": {
+  "group": "comparison",
+  "neuron": "L28/N2487"
+ },
+ "w081": {
+  "group": "pocket",
+  "neuron": "L22/N697"
+ },
+ "w082": {
+  "group": "comparison",
+  "neuron": "L28/N27"
+ },
+ "w083": {
+  "group": "comparison",
+  "neuron": "L24/N7653"
+ },
+ "w084": {
+  "group": "comparison",
+  "neuron": "L22/N8508"
+ },
+ "w085": {
+  "group": "comparison",
+  "neuron": "L28/N6511"
+ },
+ "w086": {
+  "group": "pocket",
+  "neuron": "L22/N262"
+ },
+ "w087": {
+  "group": "pocket",
+  "neuron": "L22/N158"
+ },
+ "w088": {
+  "group": "comparison",
+  "neuron": "L22/N5588"
+ },
+ "w089": {
+  "group": "comparison",
+  "neuron": "L22/N5927"
+ },
+ "w090": {
+  "group": "pocket",
+  "neuron": "L22/N396"
+ },
+ "w091": {
+  "group": "comparison",
+  "neuron": "L16/N1217"
+ },
+ "w092": {
+  "group": "pocket",
+  "neuron": "L22/N23"
+ },
+ "w093": {
+  "group": "pocket",
+  "neuron": "L22/N141"
+ },
+ "w094": {
+  "group": "comparison",
+  "neuron": "L16/N6104"
+ },
+ "w095": {
+  "group": "comparison",
+  "neuron": "L18/N5160"
+ },
+ "w096": {
+  "group": "pocket",
+  "neuron": "L22/N337"
+ },
+ "w097": {
+  "group": "comparison",
+  "neuron": "L20/N1291"
+ },
+ "w098": {
+  "group": "comparison",
+  "neuron": "L18/N1021"
+ },
+ "w099": {
+  "group": "comparison",
+  "neuron": "L20/N7843"
+ },
+ "w100": {
+  "group": "comparison",
+  "neuron": "L16/N7035"
+ },
+ "w101": {
+  "group": "comparison",
+  "neuron": "L26/N5058"
+ },
+ "w102": {
+  "group": "comparison",
+  "neuron": "L24/N8563"
+ },
+ "w103": {
+  "group": "pocket",
+  "neuron": "L22/N89"
+ },
+ "w104": {
+  "group": "comparison",
+  "neuron": "L16/N2219"
+ },
+ "w105": {
+  "group": "comparison",
+  "neuron": "L26/N1598"
+ },
+ "w106": {
+  "group": "pocket",
+  "neuron": "L22/N329"
+ },
+ "w107": {
+  "group": "comparison",
+  "neuron": "L28/N1846"
+ },
+ "w108": {
+  "group": "comparison",
+  "neuron": "L16/N2552"
+ },
+ "w109": {
+  "group": "comparison",
+  "neuron": "L16/N3347"
+ },
+ "w110": {
+  "group": "comparison",
+  "neuron": "L20/N8085"
+ },
+ "w111": {
+  "group": "comparison",
+  "neuron": "L20/N878"
+ },
+ "w112": {
+  "group": "comparison",
+  "neuron": "L18/N4175"
+ },
+ "w113": {
+  "group": "comparison",
+  "neuron": "L20/N7636"
+ },
+ "w114": {
+  "group": "comparison",
+  "neuron": "L20/N248"
+ },
+ "w115": {
+  "group": "pocket",
+  "neuron": "L22/N361"
+ },
+ "w116": {
+  "group": "pocket",
+  "neuron": "L22/N284"
+ },
+ "w117": {
+  "group": "comparison",
+  "neuron": "L20/N5385"
+ },
+ "w118": {
+  "group": "pocket",
+  "neuron": "L22/N161"
+ },
+ "w119": {
+  "group": "comparison",
+  "neuron": "L18/N9173"
+ },
+ "w120": {
+  "group": "comparison",
+  "neuron": "L18/N737"
+ },
+ "w121": {
+  "group": "pocket",
+  "neuron": "L22/N630"
+ },
+ "w122": {
+  "group": "pocket",
+  "neuron": "L22/N227"
+ },
+ "w123": {
+  "group": "comparison",
+  "neuron": "L26/N2694"
+ },
+ "w124": {
+  "group": "comparison",
+  "neuron": "L22/N2164"
+ },
+ "w125": {
+  "group": "pocket",
+  "neuron": "L22/N739"
+ },
+ "w126": {
+  "group": "pocket",
+  "neuron": "L22/N29"
+ },
+ "w127": {
+  "group": "comparison",
+  "neuron": "L18/N7916"
+ },
+ "w128": {
+  "group": "comparison",
+  "neuron": "L22/N7541"
+ },
+ "w129": {
+  "group": "pocket",
+  "neuron": "L22/N285"
+ },
+ "w130": {
+  "group": "comparison",
+  "neuron": "L20/N3145"
+ },
+ "w131": {
+  "group": "comparison",
+  "neuron": "L18/N4396"
+ }
+}

@@ -907,6 +907,21 @@ Hunt 21's narrowness scan turned up a pocket: **about 200 layer-22 neurons that 
 
 **Why here, why low slots? Unexplained.** Hunt 4 guessed the small models' neurons were ranked when they were made. A ranking by peak firing doesn't fit, though: slot number vs peak firing runs positive in early layers (low slots fire *weaker*, ρ up to +0.41), negative in layers 26–29 (low slots fire stronger), and flat across layer 22 as a whole (+0.01). The pocket is a specific cluster, not a layer-wide sort. Open: does Qwen3-8B, or the 0.8B with the same slope, have a dictionary layer?
 
+## Hunt 23: are the dictionary's words special? (Oct 29 2026)
+
+Jenny's read of Hunt 22: the pocket's words are *comparative, orienting*. That echoes two ideas from linguistics: Wierzbicka's **semantic primes** (about 65 concepts every language seems to have, such as GOOD, BAD, BIG, SMALL, NOT, ABOVE, BELOW, INSIDE, PART, THE SAME, ONE, TWO) and Lakoff and Johnson's **image schemas** (UP–DOWN, IN–OUT, CENTER–PERIPHERY, PART–WHOLE, FRONT–BACK). Is the pocket richer in such words than one-word neurons elsewhere?
+
+**Comparison set** (`word_neurons.py`, `eval/word_neurons_comparison.json`): 1,050 random neurons from layers 16–28 (outside the pocket), each scored for word purity like Hunt 22; 77 reach purity ≥ 0.4, against 55 of the 96 pocket neurons. All 132 word groups were shuffled and sorted blind into **orienting** (position, direction, amount, number, comparison, negation, logic, time relation, part/whole, good/bad), **content** or **form** (punctuation, digits, fragments) (`eval/word_kinds/`).
+
+| | orienting | content | form |
+|---|---|---|---|
+| layer-22 pocket (55) | 24 (44%) | 13 (24%) | 18 (33%) |
+| other layers (77) | 28 (36%) | 4 (5%) | 45 (58%) |
+
+**As framed, no** (orienting 44% vs 36%, one-sided Fisher p = 0.25). But the rubric was too broad: the other layers' "orienting" neurons are almost all grammar glue (*the, of, is, and, if, with, this, that*), while the pocket's are meaning primitives (高/high, 小/small, three, six, seven, ninth, half, part/部, not/不, over/过, through/通, from/從, when/當, now, every/each, good/bad). One-word neurons for function words are everywhere; the pocket's are different.
+
+**Post hoc, objective:** the share of word-neurons whose top words span both Latin and Chinese/Japanese script is **60% in the pocket (33/55) vs 13% elsewhere (10/77)**, one-sided Fisher p = 1.4 × 10⁻⁸. The pocket's entries are concepts recognized across languages; word-neurons elsewhere are mostly single-language, and mostly grammar. I chose this measure after seeing the words, so "a cross-lingual dictionary of meaning primitives" is a sharper hypothesis to test fresh (a rubric that separates grammar words from primitives, rated blind), not a result.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

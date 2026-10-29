@@ -1,0 +1,530 @@
+{
+ "w000": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w001": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w002": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w003": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w004": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w005": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w006": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w007": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w008": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w009": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w010": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w011": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w012": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w013": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w014": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w015": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w016": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w017": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w018": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w019": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w020": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w021": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w022": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w023": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w024": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w025": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w026": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w027": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w028": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w029": {
+  "kind": "content",
+  "confidence": 1
+ },
+ "w030": {
+  "kind": "content",
+  "confidence": 1
+ },
+ "w031": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w032": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w033": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w034": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w035": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w036": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w037": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w038": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w039": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w040": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w041": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w042": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w043": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w044": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w045": {
+  "kind": "content",
+  "confidence": 3
+ },
+ "w046": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w047": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w048": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w049": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w050": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w051": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w052": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w053": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w054": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w055": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w056": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w057": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w058": {
+  "kind": "content",
+  "confidence": 3
+ },
+ "w059": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w060": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w061": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w062": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w063": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w064": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w065": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w066": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w067": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w068": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w069": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w070": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w071": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w072": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w073": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w074": {
+  "kind": "content",
+  "confidence": 3
+ },
+ "w075": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w076": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w077": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w078": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w079": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w080": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w081": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w082": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w083": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w084": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w085": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w086": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w087": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w088": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w089": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w090": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w091": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w092": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w093": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w094": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w095": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w096": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w097": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w098": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w099": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w100": {
+  "kind": "content",
+  "confidence": 1
+ },
+ "w101": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w102": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w103": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w104": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w105": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w106": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w107": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w108": {
+  "kind": "form",
+  "confidence": 1
+ },
+ "w109": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w110": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w111": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w112": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w113": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w114": {
+  "kind": "form",
+  "confidence": 3
+ },
+ "w115": {
+  "kind": "content",
+  "confidence": 2
+ },
+ "w116": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w117": {
+  "kind": "orienting",
+  "confidence": 1
+ },
+ "w118": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w119": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w120": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w121": {
+  "kind": "content",
+  "confidence": 1
+ },
+ "w122": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w123": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w124": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w125": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w126": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w127": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w128": {
+  "kind": "form",
+  "confidence": 2
+ },
+ "w129": {
+  "kind": "orienting",
+  "confidence": 3
+ },
+ "w130": {
+  "kind": "orienting",
+  "confidence": 2
+ },
+ "w131": {
+  "kind": "form",
+  "confidence": 3
+ }
+}

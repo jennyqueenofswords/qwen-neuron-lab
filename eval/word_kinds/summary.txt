@@ -1,0 +1,15 @@
+pocket      n= 55  orienting  24 (44%)  content  13 (24%)  form  18 (33%)
+comparison  n= 77  orienting  28 (36%)  content   4 (5%)  form  45 (58%)
+orienting: pocket 24/55 vs comparison 28/77, one-sided Fisher p = 0.2536
+orienting among meaningful words: pocket 24/37 (65%) vs comparison 28/32 (88%), p = 0.9941
+
+pocket orienting: 高/high; 6/six; there; from/從; 7/y; good/bad; over/过; no/nos; when/當; ==/equally; had/has; through/通; now/current; 9/ninth; 小/small; like/如来; not/不; end/_end; part/部; half/全; for/für; every/each; 3/three; with/con
+pocket content: state/said; me/梅; te/tea; cl/-cl; int/international; head/heads; house/home; man/managing; water/aqu; served/services; go/went; day/天; let/letter
+
+comparison orienting: the/his; if/; in/all; of/in; if/,; of/l; is/,; and/y; is/=; on/this; the/her; with/of; i/she; and/y; new/second; is/was; could/puede; one/we; with/this; the/元の; that/so; there/was; of/licity; this/the; that/es; the/,; if/you; the/from
+comparison content: object/obj; wild/tom; return/; 称/refer
+
+post hoc, objective: top words span both Latin and Chinese/Japanese script
+  pocket      33/55 (60%)
+  comparison  10/77 (13%)
+  one-sided Fisher p = 1.40e-08
