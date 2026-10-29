@@ -1,0 +1,27 @@
+narrow  n=119  {'little': 105, 'word': 5, 'style': 4, 'broken': 4, 'content': 1}   strong (>=2): {'style': 4, 'word': 5, 'content': 1}
+random  n=119  {'word': 8, 'little': 105, 'content': 3, 'style': 1, 'broken': 2}   strong (>=2): {'style': 1, 'word': 7, 'content': 2}
+style    narrow 4/119 vs random 1/119   one-sided Fisher p = 0.185
+word     narrow 5/119 vs random 8/119   one-sided Fisher p = 0.873
+content  narrow 1/119 vs random 3/119   one-sided Fisher p = 0.939
+any change: narrow 14 vs random 14  p = 0.580
+
+  narrow  word     3  L24/N242   up   free
+  random  word     3  L23/N379   down children / young
+  random  word     3  L24/N5210  down post
+  random  content  3  L9/N7985  down danger and SIDS warnings
+  narrow  word     3  L23/N434   up   combined
+  random  style    3  L22/N1159  down semicolons replace commas
+  random  word     3  L22/N6023  down for
+  narrow  style    3  L20/N237   down question marks end sentences
+  narrow  style    3  L12/N2481  up   stray closing parentheses
+  random  word     3  L22/N7793  down pass through
+  narrow  style    3  L18/N208   up   question marks end sentences
+  random  word     3  L23/N7609  up   send
+  narrow  word     3  L24/N179   up   yes
+  random  word     3  L21/N4715  up   presence / existence
+  random  word     2  L23/N8693  up   look
+  narrow  style    2  L12/N8171  up   lowercase sentence starts
+  narrow  content  2  L9/N1050  up   religious Biblical content
+  random  content  2  L8/N8107  up   spurious refusal, odd claims
+  narrow  word     2  L23/N1707  up   cancer / tumors
+  narrow  word     2  L8/N7823  up   computer / terminal terms

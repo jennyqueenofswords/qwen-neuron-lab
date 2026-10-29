@@ -9,6 +9,7 @@
          question. -> eval/mode_search/candidates.json, ranked
 
     .venv/bin/python mode_search.py gen path/to/steer_index.npz [--per-layer 80]
+    .venv/bin/python mode_search.py gen --pairs picks.json --out narrow   (a given list of [layer, neuron, "up"|"down"])
     .venv/bin/python mode_search.py score
 """
 
@@ -41,10 +42,11 @@ def gen(a):
     import steer
     from search_identity import neuron_out_all
 
-    st = np.load(a.index, allow_pickle=False)
+    out_dir = os.path.join(OUT, a.out) if a.out else OUT
     rng = random.Random(83)
-    pairs = []
-    for L in LAYERS:
+    pairs = [tuple(p) for p in json.load(open(a.pairs))] if a.pairs else []
+    for L in ([] if a.pairs else LAYERS):
+        st = np.load(a.index, allow_pickle=False)
         for sign in ("up", "down"):
             kl = st[f"{sign}_kl"][L]
             lo, hi = np.percentile(kl, 60), np.percentile(kl, 98)
@@ -54,10 +56,10 @@ def gen(a):
     steer.patch(model)
     neutral = [t.format(n) for t in steer.TEMPLATES for n in steer.NEUTRAL]
     _, resid = steer.mean_over(neutral, model, tok, "resid")
-    arrows = {L: np.array(mx.linalg.norm(neuron_out_all(model.language_model.model.layers[L].mlp), axis=0)) for L in LAYERS}
+    arrows = {L: np.array(mx.linalg.norm(neuron_out_all(model.language_model.model.layers[L].mlp), axis=0)) for L in sorted({p[0] for p in pairs})}
     eos = set(tok.eos_token_ids) if hasattr(tok, "eos_token_ids") else {tok.eos_token_id}
-    os.makedirs(OUT, exist_ok=True)
-    f = open(os.path.join(OUT, "replies.jsonl"), "w")
+    os.makedirs(out_dir, exist_ok=True)
+    f = open(os.path.join(out_dir, "replies.jsonl"), "w")
     for q in QUESTIONS:
         steer.HOOKS["pin"].clear()
         f.write(json.dumps({"baseline": True, "question": q, "reply": steer.write(model, tok, q, a.tokens, 0.0, 0)}, ensure_ascii=False) + "\n")
@@ -142,6 +144,8 @@ def main():
     ap.add_argument("--per-layer", type=int, default=80)
     ap.add_argument("--batch", type=int, default=64)
     ap.add_argument("--tokens", type=int, default=48)
+    ap.add_argument("--pairs", help="JSON list of [layer, neuron, 'up'|'down'] to push instead of sampling")
+    ap.add_argument("--out", default="", help="subfolder under eval/mode_search/")
     a = ap.parse_args()
     {"gen": gen, "score": score}[a.cmd](a)
 

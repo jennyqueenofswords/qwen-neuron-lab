@@ -868,6 +868,26 @@ Five of six replicate on unseen questions. Only **enthusiasm is a two-way dial**
 
 Caveats: one dose in the screen and greedy single answers, so many modes surely went unseen; four fresh questions per dial cell; "narrowness" measured on one 81k-token corpus; raters split the items rather than double-rating them.
 
+## Hunt 21: does reading narrow predict writing broad? No (Oct 29 2026)
+
+Hunts 19 and 20 found two neurons that read a narrow trigger and write a broad mode (the 8B toaster dial; the 4B enthusiasm neuron). If narrowness predicts mode-writing, it would be a shortcut to finding modes.
+
+**Narrowness for every neuron** (`narrowness.py` → `index/narrowness.npz`): layers 8–24, both poles, corpus A (81k tokens). The share of each neuron's firing on a pole carried by its top 1% of tokens (median 0.14; the enthusiasm neuron 0.20). A side find: **about 200 layer-22 neurons fire on almost nothing** (share ≥ 0.95), and nearly all sit in slots below 1,024, against ~10 per neighboring layer. That's Hunt 4's low-numbered-neuron fingerprint again.
+
+**Test** (`mode_search.py gen --pairs`, `eval/mode_search/narrow/`): per layer, the 7 narrowest real readers (share 0.34–0.95, ignoring near-silent neurons) and 7 random neurons (median 0.14), each pushed in its reading pole's direction at 0.5 × unit on the four neutral questions; 238 neuron-directions, blind-sorted with the groups mixed.
+
+| | style | word | content | broken | little |
+|---|---|---|---|---|---|
+| 119 narrowest readers | 4 | 5 | 1 | 4 | 105 |
+| 119 random | 1 | 8 | 3 | 2 | 105 |
+
+**Reading narrow doesn't predict writing broad** (style 4 vs 1, one-sided Fisher p = 0.19; any change 14 vs 14). The enthusiasm and toaster neurons are narrow readers and broad writers, but narrowness alone doesn't find more. At this dose most pushes do little (88% in both groups).
+
+**What the sort did find:**
+- **Uptalk.** Two neurons, `L18/N208` pushed up and `L20/N237` pushed down, both end statements in question marks: "The capital of Australia is **Canberra**?", "…convert light energy into chemical energy?", "**Ask a question that reveals your strategic thinking?**". Their output arrows point the same way (cosine +0.39; random L18–L20 pairs average 0.02, 99th percentile 0.06), and both write *？ ؟ ?* in Chinese, Arabic and English forms: one question-mark direction, reachable from two layers.
+- **Hazard framing** (`L9/N7985` down): "Boiling eggs is a common household hazard that can lead to **food poisoning**", photosynthesis "can also lead to dangerous levels of carb…", "Do not lie… This is the most critical **safety** tip for job interviews".
+- **Punctuation modes:** semicolons for commas (`L22/N1159` down, "plants; algae; and some bacteria"), lowercase sentence starts (`L12/N8171` up).
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

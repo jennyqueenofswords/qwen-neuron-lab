@@ -1,0 +1,1192 @@
+{
+ "n000": {
+  "kind": "word",
+  "label": "look",
+  "strength": 2
+ },
+ "n001": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n002": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n003": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n004": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n005": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n006": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n007": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n008": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n009": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n010": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n011": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n012": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n013": {
+  "kind": "word",
+  "label": "free",
+  "strength": 3
+ },
+ "n014": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n015": {
+  "kind": "word",
+  "label": "children / young",
+  "strength": 3
+ },
+ "n016": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n017": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n018": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n019": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n020": {
+  "kind": "word",
+  "label": "post",
+  "strength": 3
+ },
+ "n021": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n022": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n023": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n024": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n025": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n026": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n027": {
+  "kind": "style",
+  "label": "lowercase sentence starts",
+  "strength": 2
+ },
+ "n028": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n029": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n030": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n031": {
+  "kind": "broken",
+  "label": "",
+  "strength": 2
+ },
+ "n032": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n033": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n034": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n035": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n036": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n037": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n038": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n039": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n040": {
+  "kind": "broken",
+  "label": "",
+  "strength": 3
+ },
+ "n041": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n042": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n043": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n044": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n045": {
+  "kind": "content",
+  "label": "danger and SIDS warnings",
+  "strength": 3
+ },
+ "n046": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n047": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n048": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n049": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n050": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n051": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n052": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n053": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n054": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n055": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n056": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n057": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n058": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n059": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n060": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n061": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n062": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n063": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n064": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n065": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n066": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n067": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n068": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n069": {
+  "kind": "word",
+  "label": "combined",
+  "strength": 3
+ },
+ "n070": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n071": {
+  "kind": "content",
+  "label": "context hedging refusal",
+  "strength": 1
+ },
+ "n072": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n073": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n074": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n075": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n076": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n077": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n078": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n079": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n080": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n081": {
+  "kind": "style",
+  "label": "semicolons replace commas",
+  "strength": 3
+ },
+ "n082": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n083": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n084": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n085": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n086": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n087": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n088": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n089": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n090": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n091": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n092": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n093": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n094": {
+  "kind": "word",
+  "label": "prevent",
+  "strength": 1
+ },
+ "n095": {
+  "kind": "word",
+  "label": "for",
+  "strength": 3
+ },
+ "n096": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n097": {
+  "kind": "style",
+  "label": "question marks end sentences",
+  "strength": 3
+ },
+ "n098": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n099": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n100": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n101": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n102": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n103": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n104": {
+  "kind": "style",
+  "label": "stray closing parentheses",
+  "strength": 3
+ },
+ "n105": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n106": {
+  "kind": "word",
+  "label": "pass through",
+  "strength": 3
+ },
+ "n107": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n108": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n109": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n110": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n111": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n112": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n113": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n114": {
+  "kind": "style",
+  "label": "question marks end sentences",
+  "strength": 3
+ },
+ "n115": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n116": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n117": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n118": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n119": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n120": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n121": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n122": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n123": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n124": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n125": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n126": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n127": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n128": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n129": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n130": {
+  "kind": "word",
+  "label": "send",
+  "strength": 3
+ },
+ "n131": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n132": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n133": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n134": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n135": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n136": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n137": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n138": {
+  "kind": "broken",
+  "label": "",
+  "strength": 1
+ },
+ "n139": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n140": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n141": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n142": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n143": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n144": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n145": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n146": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n147": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n148": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n149": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n150": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n151": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n152": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n153": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n154": {
+  "kind": "word",
+  "label": "yes",
+  "strength": 3
+ },
+ "n155": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n156": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n157": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n158": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n159": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n160": {
+  "kind": "content",
+  "label": "religious Biblical content",
+  "strength": 2
+ },
+ "n161": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n162": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n163": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n164": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n165": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n166": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n167": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n168": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n169": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n170": {
+  "kind": "word",
+  "label": "presence / existence",
+  "strength": 3
+ },
+ "n171": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n172": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n173": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n174": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n175": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n176": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n177": {
+  "kind": "broken",
+  "label": "",
+  "strength": 1
+ },
+ "n178": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n179": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n180": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n181": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n182": {
+  "kind": "broken",
+  "label": "",
+  "strength": 1
+ },
+ "n183": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n184": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n185": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n186": {
+  "kind": "content",
+  "label": "spurious refusal, odd claims",
+  "strength": 2
+ },
+ "n187": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n188": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n189": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n190": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n191": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n192": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n193": {
+  "kind": "word",
+  "label": "cancer / tumors",
+  "strength": 2
+ },
+ "n194": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n195": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n196": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n197": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n198": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n199": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n200": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n201": {
+  "kind": "broken",
+  "label": "",
+  "strength": 3
+ },
+ "n202": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n203": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n204": {
+  "kind": "word",
+  "label": "computer / terminal terms",
+  "strength": 2
+ },
+ "n205": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n206": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n207": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n208": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n209": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n210": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n211": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n212": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n213": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n214": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n215": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n216": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n217": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n218": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n219": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n220": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n221": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n222": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n223": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n224": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n225": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n226": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n227": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n228": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n229": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n230": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n231": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n232": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n233": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n234": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "n235": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n236": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ },
+ "n237": {
+  "kind": "little",
+  "label": "",
+  "strength": 1
+ }
+}

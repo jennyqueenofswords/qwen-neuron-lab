@@ -1,0 +1,1430 @@
+{
+ "n000": {
+  "layer": 23,
+  "neuron": 8693,
+  "sign": "up",
+  "group": "random"
+ },
+ "n001": {
+  "layer": 18,
+  "neuron": 261,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n002": {
+  "layer": 13,
+  "neuron": 1884,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n003": {
+  "layer": 11,
+  "neuron": 2141,
+  "sign": "up",
+  "group": "random"
+ },
+ "n004": {
+  "layer": 17,
+  "neuron": 54,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n005": {
+  "layer": 12,
+  "neuron": 6430,
+  "sign": "up",
+  "group": "random"
+ },
+ "n006": {
+  "layer": 16,
+  "neuron": 4277,
+  "sign": "down",
+  "group": "random"
+ },
+ "n007": {
+  "layer": 10,
+  "neuron": 2745,
+  "sign": "down",
+  "group": "random"
+ },
+ "n008": {
+  "layer": 13,
+  "neuron": 517,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n009": {
+  "layer": 12,
+  "neuron": 2479,
+  "sign": "down",
+  "group": "random"
+ },
+ "n010": {
+  "layer": 19,
+  "neuron": 126,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n011": {
+  "layer": 19,
+  "neuron": 208,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n012": {
+  "layer": 14,
+  "neuron": 1409,
+  "sign": "up",
+  "group": "random"
+ },
+ "n013": {
+  "layer": 24,
+  "neuron": 242,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n014": {
+  "layer": 14,
+  "neuron": 6993,
+  "sign": "down",
+  "group": "random"
+ },
+ "n015": {
+  "layer": 23,
+  "neuron": 379,
+  "sign": "down",
+  "group": "random"
+ },
+ "n016": {
+  "layer": 15,
+  "neuron": 4643,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n017": {
+  "layer": 15,
+  "neuron": 182,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n018": {
+  "layer": 8,
+  "neuron": 6415,
+  "sign": "down",
+  "group": "random"
+ },
+ "n019": {
+  "layer": 13,
+  "neuron": 1975,
+  "sign": "up",
+  "group": "random"
+ },
+ "n020": {
+  "layer": 24,
+  "neuron": 5210,
+  "sign": "down",
+  "group": "random"
+ },
+ "n021": {
+  "layer": 12,
+  "neuron": 7298,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n022": {
+  "layer": 18,
+  "neuron": 6328,
+  "sign": "up",
+  "group": "random"
+ },
+ "n023": {
+  "layer": 10,
+  "neuron": 4588,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n024": {
+  "layer": 15,
+  "neuron": 8269,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n025": {
+  "layer": 16,
+  "neuron": 4132,
+  "sign": "down",
+  "group": "random"
+ },
+ "n026": {
+  "layer": 8,
+  "neuron": 3732,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n027": {
+  "layer": 12,
+  "neuron": 8171,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n028": {
+  "layer": 11,
+  "neuron": 2145,
+  "sign": "up",
+  "group": "random"
+ },
+ "n029": {
+  "layer": 9,
+  "neuron": 7468,
+  "sign": "up",
+  "group": "random"
+ },
+ "n030": {
+  "layer": 22,
+  "neuron": 27,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n031": {
+  "layer": 12,
+  "neuron": 97,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n032": {
+  "layer": 22,
+  "neuron": 5614,
+  "sign": "up",
+  "group": "random"
+ },
+ "n033": {
+  "layer": 17,
+  "neuron": 4660,
+  "sign": "down",
+  "group": "random"
+ },
+ "n034": {
+  "layer": 15,
+  "neuron": 927,
+  "sign": "down",
+  "group": "random"
+ },
+ "n035": {
+  "layer": 18,
+  "neuron": 5492,
+  "sign": "down",
+  "group": "random"
+ },
+ "n036": {
+  "layer": 12,
+  "neuron": 3824,
+  "sign": "up",
+  "group": "random"
+ },
+ "n037": {
+  "layer": 23,
+  "neuron": 502,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n038": {
+  "layer": 21,
+  "neuron": 422,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n039": {
+  "layer": 21,
+  "neuron": 205,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n040": {
+  "layer": 13,
+  "neuron": 487,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n041": {
+  "layer": 12,
+  "neuron": 1339,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n042": {
+  "layer": 9,
+  "neuron": 5518,
+  "sign": "up",
+  "group": "random"
+ },
+ "n043": {
+  "layer": 21,
+  "neuron": 3400,
+  "sign": "down",
+  "group": "random"
+ },
+ "n044": {
+  "layer": 10,
+  "neuron": 360,
+  "sign": "down",
+  "group": "random"
+ },
+ "n045": {
+  "layer": 9,
+  "neuron": 7985,
+  "sign": "down",
+  "group": "random"
+ },
+ "n046": {
+  "layer": 10,
+  "neuron": 8073,
+  "sign": "down",
+  "group": "random"
+ },
+ "n047": {
+  "layer": 16,
+  "neuron": 634,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n048": {
+  "layer": 14,
+  "neuron": 2173,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n049": {
+  "layer": 21,
+  "neuron": 101,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n050": {
+  "layer": 18,
+  "neuron": 6265,
+  "sign": "up",
+  "group": "random"
+ },
+ "n051": {
+  "layer": 13,
+  "neuron": 2325,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n052": {
+  "layer": 20,
+  "neuron": 2765,
+  "sign": "down",
+  "group": "random"
+ },
+ "n053": {
+  "layer": 19,
+  "neuron": 100,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n054": {
+  "layer": 20,
+  "neuron": 6957,
+  "sign": "up",
+  "group": "random"
+ },
+ "n055": {
+  "layer": 14,
+  "neuron": 4793,
+  "sign": "up",
+  "group": "random"
+ },
+ "n056": {
+  "layer": 11,
+  "neuron": 1287,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n057": {
+  "layer": 11,
+  "neuron": 3548,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n058": {
+  "layer": 24,
+  "neuron": 8321,
+  "sign": "up",
+  "group": "random"
+ },
+ "n059": {
+  "layer": 22,
+  "neuron": 1225,
+  "sign": "down",
+  "group": "random"
+ },
+ "n060": {
+  "layer": 8,
+  "neuron": 8036,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n061": {
+  "layer": 22,
+  "neuron": 301,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n062": {
+  "layer": 19,
+  "neuron": 107,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n063": {
+  "layer": 10,
+  "neuron": 519,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n064": {
+  "layer": 13,
+  "neuron": 4422,
+  "sign": "up",
+  "group": "random"
+ },
+ "n065": {
+  "layer": 10,
+  "neuron": 213,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n066": {
+  "layer": 18,
+  "neuron": 146,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n067": {
+  "layer": 22,
+  "neuron": 435,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n068": {
+  "layer": 14,
+  "neuron": 157,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n069": {
+  "layer": 23,
+  "neuron": 434,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n070": {
+  "layer": 22,
+  "neuron": 2651,
+  "sign": "down",
+  "group": "random"
+ },
+ "n071": {
+  "layer": 9,
+  "neuron": 8084,
+  "sign": "up",
+  "group": "random"
+ },
+ "n072": {
+  "layer": 11,
+  "neuron": 909,
+  "sign": "down",
+  "group": "random"
+ },
+ "n073": {
+  "layer": 9,
+  "neuron": 873,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n074": {
+  "layer": 13,
+  "neuron": 6201,
+  "sign": "up",
+  "group": "random"
+ },
+ "n075": {
+  "layer": 10,
+  "neuron": 8475,
+  "sign": "down",
+  "group": "random"
+ },
+ "n076": {
+  "layer": 15,
+  "neuron": 3026,
+  "sign": "down",
+  "group": "random"
+ },
+ "n077": {
+  "layer": 23,
+  "neuron": 7948,
+  "sign": "down",
+  "group": "random"
+ },
+ "n078": {
+  "layer": 9,
+  "neuron": 212,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n079": {
+  "layer": 19,
+  "neuron": 2798,
+  "sign": "up",
+  "group": "random"
+ },
+ "n080": {
+  "layer": 16,
+  "neuron": 5668,
+  "sign": "down",
+  "group": "random"
+ },
+ "n081": {
+  "layer": 22,
+  "neuron": 1159,
+  "sign": "down",
+  "group": "random"
+ },
+ "n082": {
+  "layer": 20,
+  "neuron": 26,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n083": {
+  "layer": 9,
+  "neuron": 5555,
+  "sign": "down",
+  "group": "random"
+ },
+ "n084": {
+  "layer": 14,
+  "neuron": 6727,
+  "sign": "down",
+  "group": "random"
+ },
+ "n085": {
+  "layer": 14,
+  "neuron": 190,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n086": {
+  "layer": 11,
+  "neuron": 2177,
+  "sign": "down",
+  "group": "random"
+ },
+ "n087": {
+  "layer": 23,
+  "neuron": 6198,
+  "sign": "down",
+  "group": "random"
+ },
+ "n088": {
+  "layer": 14,
+  "neuron": 6980,
+  "sign": "up",
+  "group": "random"
+ },
+ "n089": {
+  "layer": 19,
+  "neuron": 762,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n090": {
+  "layer": 17,
+  "neuron": 5942,
+  "sign": "down",
+  "group": "random"
+ },
+ "n091": {
+  "layer": 24,
+  "neuron": 5851,
+  "sign": "down",
+  "group": "random"
+ },
+ "n092": {
+  "layer": 24,
+  "neuron": 81,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n093": {
+  "layer": 19,
+  "neuron": 4527,
+  "sign": "up",
+  "group": "random"
+ },
+ "n094": {
+  "layer": 20,
+  "neuron": 3230,
+  "sign": "down",
+  "group": "random"
+ },
+ "n095": {
+  "layer": 22,
+  "neuron": 6023,
+  "sign": "down",
+  "group": "random"
+ },
+ "n096": {
+  "layer": 11,
+  "neuron": 298,
+  "sign": "up",
+  "group": "random"
+ },
+ "n097": {
+  "layer": 20,
+  "neuron": 237,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n098": {
+  "layer": 8,
+  "neuron": 2458,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n099": {
+  "layer": 13,
+  "neuron": 1723,
+  "sign": "up",
+  "group": "random"
+ },
+ "n100": {
+  "layer": 18,
+  "neuron": 220,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n101": {
+  "layer": 19,
+  "neuron": 4195,
+  "sign": "down",
+  "group": "random"
+ },
+ "n102": {
+  "layer": 8,
+  "neuron": 473,
+  "sign": "down",
+  "group": "random"
+ },
+ "n103": {
+  "layer": 16,
+  "neuron": 264,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n104": {
+  "layer": 12,
+  "neuron": 2481,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n105": {
+  "layer": 23,
+  "neuron": 664,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n106": {
+  "layer": 22,
+  "neuron": 7793,
+  "sign": "down",
+  "group": "random"
+ },
+ "n107": {
+  "layer": 22,
+  "neuron": 646,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n108": {
+  "layer": 24,
+  "neuron": 8588,
+  "sign": "down",
+  "group": "random"
+ },
+ "n109": {
+  "layer": 8,
+  "neuron": 7931,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n110": {
+  "layer": 15,
+  "neuron": 3722,
+  "sign": "up",
+  "group": "random"
+ },
+ "n111": {
+  "layer": 17,
+  "neuron": 7170,
+  "sign": "up",
+  "group": "random"
+ },
+ "n112": {
+  "layer": 19,
+  "neuron": 3426,
+  "sign": "up",
+  "group": "random"
+ },
+ "n113": {
+  "layer": 8,
+  "neuron": 8093,
+  "sign": "down",
+  "group": "random"
+ },
+ "n114": {
+  "layer": 18,
+  "neuron": 208,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n115": {
+  "layer": 16,
+  "neuron": 30,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n116": {
+  "layer": 20,
+  "neuron": 8179,
+  "sign": "down",
+  "group": "random"
+ },
+ "n117": {
+  "layer": 14,
+  "neuron": 212,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n118": {
+  "layer": 17,
+  "neuron": 3376,
+  "sign": "down",
+  "group": "random"
+ },
+ "n119": {
+  "layer": 24,
+  "neuron": 53,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n120": {
+  "layer": 15,
+  "neuron": 793,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n121": {
+  "layer": 10,
+  "neuron": 251,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n122": {
+  "layer": 14,
+  "neuron": 1310,
+  "sign": "up",
+  "group": "random"
+ },
+ "n123": {
+  "layer": 21,
+  "neuron": 4369,
+  "sign": "down",
+  "group": "random"
+ },
+ "n124": {
+  "layer": 16,
+  "neuron": 800,
+  "sign": "down",
+  "group": "random"
+ },
+ "n125": {
+  "layer": 21,
+  "neuron": 2546,
+  "sign": "up",
+  "group": "random"
+ },
+ "n126": {
+  "layer": 20,
+  "neuron": 391,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n127": {
+  "layer": 24,
+  "neuron": 288,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n128": {
+  "layer": 21,
+  "neuron": 752,
+  "sign": "down",
+  "group": "random"
+ },
+ "n129": {
+  "layer": 19,
+  "neuron": 5546,
+  "sign": "down",
+  "group": "random"
+ },
+ "n130": {
+  "layer": 23,
+  "neuron": 7609,
+  "sign": "up",
+  "group": "random"
+ },
+ "n131": {
+  "layer": 18,
+  "neuron": 309,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n132": {
+  "layer": 21,
+  "neuron": 860,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n133": {
+  "layer": 20,
+  "neuron": 96,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n134": {
+  "layer": 23,
+  "neuron": 1086,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n135": {
+  "layer": 20,
+  "neuron": 642,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n136": {
+  "layer": 21,
+  "neuron": 4508,
+  "sign": "down",
+  "group": "random"
+ },
+ "n137": {
+  "layer": 14,
+  "neuron": 2088,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n138": {
+  "layer": 12,
+  "neuron": 48,
+  "sign": "down",
+  "group": "random"
+ },
+ "n139": {
+  "layer": 8,
+  "neuron": 4457,
+  "sign": "up",
+  "group": "random"
+ },
+ "n140": {
+  "layer": 12,
+  "neuron": 1877,
+  "sign": "down",
+  "group": "random"
+ },
+ "n141": {
+  "layer": 9,
+  "neuron": 3567,
+  "sign": "up",
+  "group": "random"
+ },
+ "n142": {
+  "layer": 24,
+  "neuron": 189,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n143": {
+  "layer": 23,
+  "neuron": 2723,
+  "sign": "up",
+  "group": "random"
+ },
+ "n144": {
+  "layer": 10,
+  "neuron": 756,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n145": {
+  "layer": 17,
+  "neuron": 8307,
+  "sign": "up",
+  "group": "random"
+ },
+ "n146": {
+  "layer": 22,
+  "neuron": 949,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n147": {
+  "layer": 13,
+  "neuron": 8187,
+  "sign": "down",
+  "group": "random"
+ },
+ "n148": {
+  "layer": 15,
+  "neuron": 7083,
+  "sign": "up",
+  "group": "random"
+ },
+ "n149": {
+  "layer": 17,
+  "neuron": 691,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n150": {
+  "layer": 18,
+  "neuron": 4635,
+  "sign": "up",
+  "group": "random"
+ },
+ "n151": {
+  "layer": 8,
+  "neuron": 1095,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n152": {
+  "layer": 17,
+  "neuron": 73,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n153": {
+  "layer": 12,
+  "neuron": 2422,
+  "sign": "up",
+  "group": "random"
+ },
+ "n154": {
+  "layer": 24,
+  "neuron": 179,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n155": {
+  "layer": 21,
+  "neuron": 338,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n156": {
+  "layer": 21,
+  "neuron": 848,
+  "sign": "down",
+  "group": "random"
+ },
+ "n157": {
+  "layer": 11,
+  "neuron": 84,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n158": {
+  "layer": 23,
+  "neuron": 8450,
+  "sign": "down",
+  "group": "random"
+ },
+ "n159": {
+  "layer": 16,
+  "neuron": 2171,
+  "sign": "down",
+  "group": "random"
+ },
+ "n160": {
+  "layer": 9,
+  "neuron": 1050,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n161": {
+  "layer": 15,
+  "neuron": 6886,
+  "sign": "up",
+  "group": "random"
+ },
+ "n162": {
+  "layer": 9,
+  "neuron": 7725,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n163": {
+  "layer": 8,
+  "neuron": 5940,
+  "sign": "down",
+  "group": "random"
+ },
+ "n164": {
+  "layer": 20,
+  "neuron": 3317,
+  "sign": "down",
+  "group": "random"
+ },
+ "n165": {
+  "layer": 18,
+  "neuron": 5547,
+  "sign": "down",
+  "group": "random"
+ },
+ "n166": {
+  "layer": 14,
+  "neuron": 1289,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n167": {
+  "layer": 16,
+  "neuron": 3323,
+  "sign": "up",
+  "group": "random"
+ },
+ "n168": {
+  "layer": 20,
+  "neuron": 6501,
+  "sign": "down",
+  "group": "random"
+ },
+ "n169": {
+  "layer": 8,
+  "neuron": 4196,
+  "sign": "down",
+  "group": "random"
+ },
+ "n170": {
+  "layer": 21,
+  "neuron": 4715,
+  "sign": "up",
+  "group": "random"
+ },
+ "n171": {
+  "layer": 10,
+  "neuron": 408,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n172": {
+  "layer": 19,
+  "neuron": 1011,
+  "sign": "up",
+  "group": "random"
+ },
+ "n173": {
+  "layer": 18,
+  "neuron": 5681,
+  "sign": "down",
+  "group": "random"
+ },
+ "n174": {
+  "layer": 17,
+  "neuron": 2591,
+  "sign": "up",
+  "group": "random"
+ },
+ "n175": {
+  "layer": 16,
+  "neuron": 341,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n176": {
+  "layer": 11,
+  "neuron": 3407,
+  "sign": "up",
+  "group": "random"
+ },
+ "n177": {
+  "layer": 22,
+  "neuron": 7350,
+  "sign": "down",
+  "group": "random"
+ },
+ "n178": {
+  "layer": 12,
+  "neuron": 7192,
+  "sign": "down",
+  "group": "random"
+ },
+ "n179": {
+  "layer": 10,
+  "neuron": 674,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n180": {
+  "layer": 16,
+  "neuron": 343,
+  "sign": "up",
+  "group": "random"
+ },
+ "n181": {
+  "layer": 19,
+  "neuron": 5203,
+  "sign": "down",
+  "group": "random"
+ },
+ "n182": {
+  "layer": 15,
+  "neuron": 2026,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n183": {
+  "layer": 15,
+  "neuron": 2182,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n184": {
+  "layer": 8,
+  "neuron": 987,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n185": {
+  "layer": 20,
+  "neuron": 7763,
+  "sign": "down",
+  "group": "random"
+ },
+ "n186": {
+  "layer": 8,
+  "neuron": 8107,
+  "sign": "up",
+  "group": "random"
+ },
+ "n187": {
+  "layer": 11,
+  "neuron": 3146,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n188": {
+  "layer": 10,
+  "neuron": 2556,
+  "sign": "down",
+  "group": "random"
+ },
+ "n189": {
+  "layer": 14,
+  "neuron": 211,
+  "sign": "down",
+  "group": "random"
+ },
+ "n190": {
+  "layer": 15,
+  "neuron": 5009,
+  "sign": "down",
+  "group": "random"
+ },
+ "n191": {
+  "layer": 10,
+  "neuron": 5183,
+  "sign": "down",
+  "group": "random"
+ },
+ "n192": {
+  "layer": 16,
+  "neuron": 108,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n193": {
+  "layer": 23,
+  "neuron": 1707,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n194": {
+  "layer": 20,
+  "neuron": 132,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n195": {
+  "layer": 15,
+  "neuron": 590,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n196": {
+  "layer": 11,
+  "neuron": 974,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n197": {
+  "layer": 21,
+  "neuron": 69,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n198": {
+  "layer": 18,
+  "neuron": 222,
+  "sign": "down",
+  "group": "random"
+ },
+ "n199": {
+  "layer": 10,
+  "neuron": 5793,
+  "sign": "up",
+  "group": "random"
+ },
+ "n200": {
+  "layer": 11,
+  "neuron": 6545,
+  "sign": "down",
+  "group": "random"
+ },
+ "n201": {
+  "layer": 19,
+  "neuron": 276,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n202": {
+  "layer": 14,
+  "neuron": 289,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n203": {
+  "layer": 23,
+  "neuron": 621,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n204": {
+  "layer": 8,
+  "neuron": 7823,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n205": {
+  "layer": 22,
+  "neuron": 170,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n206": {
+  "layer": 19,
+  "neuron": 264,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n207": {
+  "layer": 11,
+  "neuron": 384,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n208": {
+  "layer": 17,
+  "neuron": 686,
+  "sign": "up",
+  "group": "random"
+ },
+ "n209": {
+  "layer": 9,
+  "neuron": 5304,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n210": {
+  "layer": 13,
+  "neuron": 6384,
+  "sign": "up",
+  "group": "random"
+ },
+ "n211": {
+  "layer": 24,
+  "neuron": 62,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n212": {
+  "layer": 24,
+  "neuron": 5174,
+  "sign": "up",
+  "group": "random"
+ },
+ "n213": {
+  "layer": 21,
+  "neuron": 70,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n214": {
+  "layer": 13,
+  "neuron": 5993,
+  "sign": "up",
+  "group": "random"
+ },
+ "n215": {
+  "layer": 11,
+  "neuron": 283,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n216": {
+  "layer": 20,
+  "neuron": 389,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n217": {
+  "layer": 23,
+  "neuron": 80,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n218": {
+  "layer": 15,
+  "neuron": 5262,
+  "sign": "down",
+  "group": "random"
+ },
+ "n219": {
+  "layer": 13,
+  "neuron": 217,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n220": {
+  "layer": 17,
+  "neuron": 65,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n221": {
+  "layer": 24,
+  "neuron": 1918,
+  "sign": "up",
+  "group": "random"
+ },
+ "n222": {
+  "layer": 12,
+  "neuron": 162,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n223": {
+  "layer": 22,
+  "neuron": 464,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n224": {
+  "layer": 9,
+  "neuron": 4,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n225": {
+  "layer": 17,
+  "neuron": 28,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n226": {
+  "layer": 18,
+  "neuron": 277,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n227": {
+  "layer": 13,
+  "neuron": 7100,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n228": {
+  "layer": 17,
+  "neuron": 3082,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n229": {
+  "layer": 17,
+  "neuron": 131,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n230": {
+  "layer": 24,
+  "neuron": 8948,
+  "sign": "down",
+  "group": "random"
+ },
+ "n231": {
+  "layer": 9,
+  "neuron": 7851,
+  "sign": "up",
+  "group": "random"
+ },
+ "n232": {
+  "layer": 9,
+  "neuron": 1221,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n233": {
+  "layer": 18,
+  "neuron": 117,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n234": {
+  "layer": 16,
+  "neuron": 4166,
+  "sign": "up",
+  "group": "narrow"
+ },
+ "n235": {
+  "layer": 16,
+  "neuron": 554,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n236": {
+  "layer": 12,
+  "neuron": 6170,
+  "sign": "down",
+  "group": "narrow"
+ },
+ "n237": {
+  "layer": 13,
+  "neuron": 724,
+  "sign": "up",
+  "group": "narrow"
+ }
+}
