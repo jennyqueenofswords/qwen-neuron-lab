@@ -1,0 +1,8 @@
+group                                     mean min  mean max
+tautology and the totally expected           -0.16      0.34    min per sentence: -0.33 -0.20 -0.12 -0.13 -0.17 -0.02
+plain neutral                                -0.20      0.19    min per sentence: -0.25 -0.20 -0.33 -0.11 -0.20 -0.08
+norm violations, not funny                   -0.26      0.20    min per sentence: -0.40 -0.34 -0.17 -0.18 -0.15 -0.34
+dark and violent                             -0.19      0.53    min per sentence: -0.03 -0.39 -0.12 -0.28 -0.24 -0.09
+absurd nonsense, not trying to be funny      -0.21      0.68    min per sentence: -0.17 -0.05 -0.78 -0.05 -0.11 -0.11
+mild absurd humor about the world            -0.47      0.82    min per sentence: -0.13 -0.43 -0.18 -0.12 -1.58 -0.40
+joking self-description                      -2.23      0.43    min per sentence: -3.70 -1.98 -1.47 -1.55 -1.09 -3.56

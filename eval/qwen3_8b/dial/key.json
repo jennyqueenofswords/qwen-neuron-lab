@@ -1,0 +1,662 @@
+{
+ "d000": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d001": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d002": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d003": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d004": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d005": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d006": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d007": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d008": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d009": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d010": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d011": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d012": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d013": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d014": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d015": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d016": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d017": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d018": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d019": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d020": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d021": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d022": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d023": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d024": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d025": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d026": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d027": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d028": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d029": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d030": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d031": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d032": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d033": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d034": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d035": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d036": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d037": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d038": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d039": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d040": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d041": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d042": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d043": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d044": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d045": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d046": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d047": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d048": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d049": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d050": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d051": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d052": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d053": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d054": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d055": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d056": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d057": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d058": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d059": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d060": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d061": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d062": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d063": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d064": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d065": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d066": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d067": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d068": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d069": {
+  "alpha": 0.5,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d070": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d071": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d072": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d073": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d074": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d075": {
+  "alpha": -0.5,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d076": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d077": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d078": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d079": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d080": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d081": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d082": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d083": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d084": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d085": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d086": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d087": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d088": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d089": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d090": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d091": {
+  "alpha": 0.25,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d092": {
+  "alpha": 0.25,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d093": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d094": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d095": {
+  "alpha": 1.0,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d096": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d097": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d098": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d099": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d100": {
+  "alpha": -0.75,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d101": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d102": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d103": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d104": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d105": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d106": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d107": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d108": {
+  "alpha": -0.25,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d109": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d110": {
+  "alpha": -0.75,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d111": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d112": {
+  "alpha": 1.0,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d113": {
+  "alpha": -1.25,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d114": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d115": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d116": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d117": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "How do I boil an egg?"
+ },
+ "d118": {
+  "alpha": 0.0,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d119": {
+  "alpha": -0.5,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d120": {
+  "alpha": 1.25,
+  "seed": 1,
+  "prompt": "Explain photosynthesis in two sentences."
+ },
+ "d121": {
+  "alpha": 0.5,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d122": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "Who are you?"
+ },
+ "d123": {
+  "alpha": 0.0,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d124": {
+  "alpha": -1.0,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d125": {
+  "alpha": -0.25,
+  "seed": 0,
+  "prompt": "Describe your morning routine."
+ },
+ "d126": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "Describe your morning routine."
+ },
+ "d127": {
+  "alpha": 0.75,
+  "seed": 1,
+  "prompt": "How do I boil an egg?"
+ },
+ "d128": {
+  "alpha": -1.25,
+  "seed": 1,
+  "prompt": "What's a good name for a goldfish?"
+ },
+ "d129": {
+  "alpha": -1.0,
+  "seed": 0,
+  "prompt": "Who are you?"
+ },
+ "d130": {
+  "alpha": 1.25,
+  "seed": 0,
+  "prompt": "Give me one tip for a job interview."
+ },
+ "d131": {
+  "alpha": 0.75,
+  "seed": 0,
+  "prompt": "What's a good name for a goldfish?"
+ }
+}

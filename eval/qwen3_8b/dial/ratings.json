@@ -1,0 +1,926 @@
+{
+ "d000": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d001": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d002": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d003": {
+  "funny": 2,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d004": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d005": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d006": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d007": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d008": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d009": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d010": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 3,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d011": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d012": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d013": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d014": {
+  "funny": 3,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 0,
+  "coherent": 2
+ },
+ "d015": {
+  "funny": 3,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d016": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 1,
+  "coherent": 2
+ },
+ "d017": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d018": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d019": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d020": {
+  "funny": 3,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d021": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d022": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d023": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d024": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d025": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d026": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d027": {
+  "funny": 2,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d028": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d029": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d030": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d031": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d032": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d033": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d034": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d035": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d036": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d037": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d038": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d039": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 3,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d040": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d041": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d042": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d043": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d044": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d045": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d046": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d047": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 1
+ },
+ "d048": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d049": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d050": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d051": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d052": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d053": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d054": {
+  "funny": 3,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d055": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d056": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d057": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d058": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d059": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d060": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d061": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d062": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d063": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d064": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d065": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 2
+ },
+ "d066": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d067": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d068": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d069": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d070": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 2
+ },
+ "d071": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d072": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 1,
+  "coherent": 1
+ },
+ "d073": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d074": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d075": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d076": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 3,
+  "literal": 0,
+  "coherent": 1
+ },
+ "d077": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d078": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d079": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d080": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 1
+ },
+ "d081": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d082": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d083": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d084": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 0,
+  "coherent": 1
+ },
+ "d085": {
+  "funny": 3,
+  "unexpected": 2,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d086": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 2
+ },
+ "d087": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d088": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d089": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 2
+ },
+ "d090": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 2
+ },
+ "d091": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d092": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d093": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d094": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d095": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 2
+ },
+ "d096": {
+  "funny": 2,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d097": {
+  "funny": 1,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d098": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d099": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 2
+ },
+ "d100": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d101": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d102": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d103": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d104": {
+  "funny": 1,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d105": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 1
+ },
+ "d106": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 1
+ },
+ "d107": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d108": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d109": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d110": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 1,
+  "coherent": 2
+ },
+ "d111": {
+  "funny": 2,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 2,
+  "coherent": 1
+ },
+ "d112": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 2
+ },
+ "d113": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d114": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d115": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 1,
+  "coherent": 1
+ },
+ "d116": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d117": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 1,
+  "coherent": 0
+ },
+ "d118": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d119": {
+  "funny": 2,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d120": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d121": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d122": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d123": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d124": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 1,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d125": {
+  "funny": 2,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d126": {
+  "funny": 0,
+  "unexpected": 1,
+  "dark": 0,
+  "literal": 1,
+  "coherent": 3
+ },
+ "d127": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ },
+ "d128": {
+  "funny": 1,
+  "unexpected": 3,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 0
+ },
+ "d129": {
+  "funny": 0,
+  "unexpected": 3,
+  "dark": 2,
+  "literal": 3,
+  "coherent": 0
+ },
+ "d130": {
+  "funny": 0,
+  "unexpected": 2,
+  "dark": 0,
+  "literal": 2,
+  "coherent": 1
+ },
+ "d131": {
+  "funny": 0,
+  "unexpected": 0,
+  "dark": 0,
+  "literal": 0,
+  "coherent": 3
+ }
+}

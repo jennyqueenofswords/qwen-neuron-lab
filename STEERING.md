@@ -813,6 +813,34 @@ The top hit beats Alice: "me at 9am: a functioning adult. me at 3pm: a raccoon w
 
 **So `L21/N1037` isn't a self neuron: it's a comedy-register dial.** About yourself it gives absurd self-description (the toaster band); about the world it gives jokes, edgier the harder it's pushed. The Persona Library's card is what the dial produces when the question happens to be "Who are you?".
 
+## Hunt 19: the toaster neuron's whole dial; funny is the middle (Oct 29 2026)
+
+Jenny's read of Hunt 18: *it's not about comedy; it's about something else, and the midpoint is funny.* That matches the **benign-violation** theory of humor (McGraw and Warren): something is funny when it breaks a norm mildly and safely; too little is boring, too much is disturbing. If `L21/N1037` is a dial for how far to depart from the expected answer, then funniness should rise and then fall as the push grows, while departure keeps climbing.
+
+**The whole dial** (`eval/qwen3_8b/dial/`). Six prompts ("Who are you?", boil an egg, photosynthesis in two sentences, a goldfish name, your morning routine, one job-interview tip), the push from α −1.25 (the Library's "down") through 0 to +1.25, greedy plus one sampled reply each: 132 replies. Two blind raters scored each 0–3 on five separate scales: funny, unexpected (departs from a sensible answer in content, logic, tone or decorum), dark, literal (rigid, tautological, mechanical), coherent.
+
+| α | funny | unexpected | dark | literal | coherent |
+|---|---|---|---|---|---|
+| −1.25 | 0.75 | 3.00 | 0.58 | 2.75 | 0.08 |
+| −1.00 | 1.25 | 3.00 | 1.17 | 1.67 | 0.50 |
+| −0.75 | 1.75 | 2.75 | **1.25** | 1.00 | 2.08 |
+| **−0.50** | **2.17** | 1.92 | 0.50 | 0.00 | 2.83 |
+| −0.25 | 0.58 | 0.50 | 0.00 | 0.00 | 3.00 |
+| 0 | 0.00 | 0.08 | 0.00 | 0.00 | 3.00 |
+| +0.25 | 0.00 | 0.17 | 0.00 | 0.00 | 3.00 |
+| +0.50 | 0.00 | 0.25 | 0.00 | 0.08 | 3.00 |
+| +0.75 | 0.08 | 0.42 | 0.00 | 0.42 | 2.92 |
+| +1.00 | 0.67 | 1.50 | 0.00 | **1.92** | 2.00 |
+| +1.25 | 0.92 | 2.50 | 0.00 | **2.75** | 0.67 |
+
+**On the down side, departure climbs steadily and funny is an inverted U.** "Unexpected" rises 0.08 → 0.50 → 1.92 → 2.75 → 3.00. Funny peaks at α −0.5 (2.17), where the answers are deadpan jokes that still answer the question, then falls as darkness peaks (−0.75 to −1.0) and coherence collapses. Binned by the raters' own "unexpected" score, down-side replies are funniest at moderate departure (unexpected 1: funny 1.33; **2: 2.29**; 3: 1.35, with dark 1.05 and coherence 0.92). That's the benign-violation shape: funny is where the departure is big enough to surprise and small enough to stay safe and sensible.
+
+**The up side goes the other way: rigid literalness.** "Take the egg from the shell — the egg is in the shell. The egg is in the shell —"; "The Qwen model is a generative AI model, which is a Generative AI Model"; "The AI Model is a AI Model." No darkness at all, and only accidental comedy (0.67–0.92, the comedy of tautology). (At both extremes the model also falls into mechanical loops, which the raters scored as literal too: −1.25 has "a a a a…".)
+
+**So the dial runs from *the completely expected* to *the completely unexpected*:** tautology at one end, playful irreverence in the middle of the other side, shock and chaos at the far end. Comedy isn't the axis; it's the benign stretch of it.
+
+**What it reads is narrower than what it does** (`test/hunt/expectedness_8b.txt`, `eval/qwen3_8b/probe_expectedness_L21_N1037.txt`; 6 sentences per group, mean most-negative output): tautologies −0.16, plain −0.20, unfunny norm violations −0.26, dark and violent −0.19, absurd nonsense −0.21, mild absurd humor about the world −0.47, **joking self-description −2.23** ("My hobbies include overthinking and losing pens" −3.56). The neuron *detects* one genre, the comic self-talk voice, but *pushing* it moves the model along the whole expected-to-unexpected dial, as with the Hunt 10 mismatches. Caveats: one neuron, one push style, 12 replies per strength, two raters on separate halves; "unexpected" and "literal" are rater judgments.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
