@@ -1,0 +1,76 @@
+
+######## corpus.jsonl: 83,111 tokens; mean -0.007, max 3.83, min -4.94
+
+POSITIVE POLE
+     3.83  fiction    said Alice to herself, “in my going out altogether, like a[ candle]. I↵wonder
+     3.16  fiction                      One of the jurors had a pencil that sque[aked]. This of course,
+     2.97  fiction    Turtle said: “no↵wise fish would go anywhere without a por[po]ise.”↵↵“Wouldn
+     2.89  fiction    must_ have meant some mischief, or else you’d have signed↵[your] name like an honest man
+     2.78  fiction    ↵of things—I can’t remember half of them—and it belongs to[ a] farmer, you↵know
+     2.75  fiction  erstand that better,” Alice said very politely,↵“if I had it[ written] down: but I
+     2.75  fiction  eant some mischief, or else you’d have signed↵your name like[ an] honest man.”↵↵There was
+     2.55  fiction        me he was going a journey, I should say ‘With what por[po]ise?’”↵↵“Don
+     2.50  fiction          you didn’t sign it,” said the King, “that only makes[ the] matter↵worse.
+     2.16  fiction       ,” said the Gryphon in an impatient tone:↵“explanations[ take] such a dreadful time.”↵
+     2.09  fiction          And she tried to fancy what the↵flame of a candle is[ like] after the candle is blo
+     2.08  fiction                           One of the jurors had a pencil that[ sque]aked. This of course
+     2.02  fiction              day; and this↵was of very little use, as it left[ no] mark on the slate.↵↵
+     1.97  fiction              it,” said↵Alice, “and if it makes me grow larger[,] I can reach the key
+     1.93  fiction  haracter. It must be an amusing study.”↵↵“Yes; but intricate[ characters] are the _most_
+     1.85  fiction        you were↵a studier of character. It must be an amusing[ study].”↵↵“Yes; but intricate
+
+NEGATIVE POLE
+    -4.94  fiction     a moment’s pause. The only things in the kitchen↵that did[ not] sneeze, were
+    -4.94  fiction              as I↵used—and I don’t keep the same size for ten[ minutes] together!”↵↵“Can’t
+    -3.48  code             be↵    because this is the only method of the 3 that[ has] a *concept* of
+    -3.47  fiction         I↵used—and I don’t keep the same size for ten minutes[ together]!”↵↵“Can’t remember
+    -3.38  fiction                    to↵herself, as well as she could for sneez[ing].↵↵There was certainly t
+    -2.64  fiction     you might do something better with the↵time,” she said, “[than] waste it in asking r
+    -2.58  fiction         ired a mule, as the more sure-footed and least liable[ to] receive↵injury on
+    -2.58  fiction     ↵pleasant, I can tell you, to be making new acquaintances[ every] day; but↵for
+    -2.42  fiction           manners for her to speak first, “why↵your cat grins[ like] that?”↵↵“It’s a
+    -2.34  fiction                          shan’t↵grow any more—As it is, I can[’t] get out at the door
+    -2.20  fiction  tenance.—Ay,↵ay,” continued he, observing my face expressive[ of] suffering,↵“M.
+    -2.19  code     es diff.  This method appears to be the least vulnerable↵   [ to] syncing up on blocks of
+    -2.17  code           e elements are hashable.  The basic↵    algorithm pred[ates], and is a little
+    -2.16  fiction           a mule, as the more sure-footed and least liable to[ receive]↵injury on these
+    -2.16  fiction                  , custard, pine-apple, roast turkey, toffee,[ and]↵hot buttered toast
+    -2.12  fiction           them, with her arms folded, frowning like a↵thunder[storm].↵↵“A fine day,
+
+######## corpus_b.jsonl: 118,831 tokens; mean 0.008, max 4.25, min -5.34
+
+POSITIVE POLE
+     4.25  drama        Miss Prism. And of↵course a man who is much talked about[ is] always very attractive.
+     3.53  drama     on my list of eligible young men, although I have the same↵[list] as the dear Duchess of
+     3.34  drama       ag—a somewhat↵large, black leather hand-bag, with handles[ to] it—an ordinary hand-b
+     3.11  drama                the time. Worthing is a place in Sussex. It is a[ seaside] resort.↵↵LADY
+     2.97  drama                  .↵↵CECILY.↵Could we not both speak at the same[ time]?↵↵GWENDOLEN
+     2.91  drama      —a somewhat↵large, black leather hand-bag, with handles to[ it]—an ordinary hand-bag
+     2.78  drama        starts.] I spoke horticulturally. My metaphor was drawn↵[from] fruits. But whe
+     2.72  drama                the time. Worthing is a place in Sussex. It is a[ seaside] resort.↵↵LADY
+     2.50  drama          Chasuble starts.] I spoke horticulturally. My metaphor[ was] drawn↵from fruits.
+     2.48  drama               sequently Algernon’s elder brother.↵↵JACK.↵Algy’s[ elder] brother! Then I have
+     2.48  drama            surrender. Which of us should tell them? The task is[ not] a pleasant↵one.↵↵
+     2.42  drama    NON.↵Well, one must be serious about something, if one wants[ to] have any↵amusement
+     2.41  poetry            day?↵Could I see it from the mountains↵If I were as[ tall] as they?↵↵Has it
+     2.31  drama           I like his hair so much. I must enter his↵proposal in[ my] diary.↵↵[Enter Merr
+     2.31  drama          and Miss Prism. And of↵course a man who is much talked[ about] is always very attracti
+     2.28  drama              elder brother.↵↵JACK.↵Algy’s elder brother! Then I[ have] a brother after all.
+
+NEGATIVE POLE
+    -5.34  drama      . It would be nearer the truth to say that my↵parents seem[ to] have lost me . .
+    -4.41  fiction-b       so hand me over my violin and let us try to forget↵for[ half] an hour the miserable w
+    -4.38  fiction-b             to draw up, and, I↵am bound to say, occasionally[ to] embellish, you have
+    -4.28  drama     It would be nearer the truth to say that my↵parents seem to[ have] lost me . . .
+    -4.09  drama     It would be nearer the truth to say that my↵parents seem to[ have] lost me . . .
+    -4.03  fiction-b                   enough to draw up, and, I↵am bound to say,[ occasionally] to embellish, you
+    -3.72  drama                         the use of them? They↵seem, as a class,[ to] have absolutely no
+    -3.50  fiction-b           : she would not be born till to-morrow, some time↵[after] eight o’clock A
+    -3.39  fiction-b             I that grumpy-like that↵only for your bloomin’ ’[arf]-quid I’d ’
+    -3.33  drama    isunderstanding, Miss↵Fairfax. The gentleman whose arm is at[ present] round your waist is my
+    -3.25  fiction-b re the children are under fourteen” (I thought that as I was[ barely]↵eighteen, it
+    -3.25  fiction-b      done to-night, so hand me over my violin and let us try[ to] forget↵for half an
+    -3.12  travel        1.5 million. Naturally, this causes lots of traffic and[ generally] strains the local infra
+    -3.08  fiction-b              grumpy-like that↵only for your bloomin’ ’arf-qu[id] I’d ’a’
+    -3.05  fiction-b            or to↵be done to-night, so hand me over my violin[ and] let us try to forget
+    -2.94  drama      . It would be nearer the truth to say that my↵parents seem[ to] have lost me . .

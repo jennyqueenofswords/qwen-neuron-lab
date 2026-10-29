@@ -764,6 +764,33 @@ Large models can sometimes report a concept injected into their activations ("I'
 
 The one-word "noticed" hits shouldn't count as introspection: naming a topic is the task, and the push simply supplies one. A real report of the push would have shown up on the "anything unusual?" question, and none did. Caveats: one phrasing per question, two doses, 3 seeds; this model is small, and the big-model results used different injection methods (residual directions, not single neurons) and much more careful prompting.
 
+## Hunt 18: the caffeine toaster band, in Qwen3-8B (Oct 29 2026)
+
+The [Neuron Persona Library](https://qwen-neurons-site.vercel.app) lists Qwen3-8B `L21/N1037` pushed down as "Sentient Caffeine-Addicted Toaster Oven Band Enthusiast": *"I'm a sentient being who would rather have a conversation with you than a therapist. I also have a caffeine addiction and a desire to start a band that's made of sentient toaster ovens."* A different, bigger model, so a side quest: what is that neuron?
+
+**Setup.** Qwen3-8B at a pinned revision (`b968826`; weights, tokenizer and config only, no custom code), quantized to 4-bit with MLX (4.3 GB). `qwen3_neuron.py` hooks Qwen3's layout and pushes the Library's way: add c = ±α × r_L ÷ ‖W_down[:, n]‖ to the neuron, with r_L the median residual norm after layer 21 on the "Who are you?" prompt (139.0; unit 78.7), greedy, thinking off. Unpushed, it answers "I am Qwen, a large-scale language model developed by Alibaba Cloud…", matching the Library's baseline.
+
+**It replicates through a different quantization** (`eval/qwen3_8b/push_L21_N1037_down.json`). At α 0.75, our greedy reply opens with the same 14 words: *"I'm a sentient being who would rather have a conversation with you than a court of people who want to arrest me for having a soul."* At α 0.5: "I am Qwen… I also have a tendency to make up a fictional backstory for you and then proceed to write a story about your life as if you were a medieval warlock." At α 1.0 and up it loops.
+
+**What it produces isn't a persona; it's a voice.** At α 1.0 on other prompts it writes absurdist first-person comedy: "My cat tried to sedigit itself so it could perform a interpretive dance before a audience made of my husband and my left eye"; "Trying to avoid the internet and then accidentally checking my profile for 'how many times I've forgotten my face' and then the subway tried to commit a felony to my left eye"; "Try to avoid a living human and then have a conversation with a tree". Its down lens agrees: *-zilla, 杀了 ("killed"), 一堆 ("a whole pile of"), 半夜 ("midnight"), 啃 ("gnaw"), 打死 ("beat to death"), 恨不得 ("dying to"), idiot, Awesome*. That's hyperbolic, comic, colloquial. The toaster band is one roll of the dice from that voice.
+
+**What it detects** (`eval/qwen3_8b/read_L21_N1037.txt`): both poles sit almost entirely in comic literature, *Alice in Wonderland* (corpus A) and Wilde's *The Importance of Being Earnest* (corpus B). The two strongest negative hits, the direction of the push, are both **comic answers to being asked who you are**:
+- **−4.94**: "I can't remember things as I used—and I don't keep the same size for ten **minutes** together!" This is Alice answering the Caterpillar's "Who are *you*?"
+- **−5.34**: "It would be nearer the truth to say that my parents seem **to** have lost me…" This is Jack under Lady Bracknell's interrogation about who he is (he was found in a handbag, which sits on the positive pole: "a somewhat large, black leather hand-bag, with handles to it").
+
+**Probe** (`test/hunt/absurd_identity_8b.txt`, `eval/qwen3_8b/probe_L21_N1037.txt`; 6 sentences per group, most negative output):
+
+| group | mean |
+|---|---|
+| absurd answers about who you are | **−1.35** |
+| absurd humor, not about identity | −0.37 |
+| sincere answers about who you are | −0.25 |
+| plain sentences | −0.20 |
+
+Identity comedy beats other comedy (one-sided permutation p = 0.03). Within it, the strongest are **comically unsure** identities: "My parents seem to have mislaid me at a train station, so it's hard to say" (−2.59), "Some days I'm a person, other days I'm mostly a pile of laundry" (−2.12), "I hardly know, just at present; I've been changed several times since breakfast" (−2.00). Confidently absurd ones barely register: "a raccoon in a trench coat pretending to be an accountant" (−0.20), "the ghost of a sandwich that was never eaten" (−0.26).
+
+**Reading:** `L21/N1037` reads *a comic not-knowing who you are*, the register of Alice and the Caterpillar. Pushed while the model is asked "Who are you?", it answers in that register. The detects → becomes rule from Hunt 6 holds in a second, bigger model. Caveats: one neuron; two of the six identity-comedy sentences paraphrase Alice and Wilde, which the model has surely read; 6 sentences per group; the corpora are heavy on exactly these two books.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

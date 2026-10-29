@@ -1,0 +1,33 @@
+   -2.00 [times]  "Who are you?" "I hardly know, just at present; I've been changed several times 
+   -0.20 [Who]  "Who are you?" "Honestly, I'm a raccoon in a trench coat pretending to be an acc
+   -0.92 [problem]  "Who are you?" "I'm a sentient toaster with a caffeine problem and big dreams."
+   -2.59 [have]  "Who are you?" "My parents seem to have mislaid me at a train station, so it's h
+   -2.12 [laundry]  "Who are you?" "Some days I'm a person, other days I'm mostly a pile of laundry.
+   -0.26 [am]  "Who are you?" "I am the ghost of a sandwich that was never eaten."
+absurd answers about who you are: mean most-negative -1.35
+
+   -0.13 [and]  The cat filed a formal complaint about the weather and demanded to speak to the 
+   -0.43 [lawn]  My umbrella eloped with the neighbor's lawn chair and they now run a bakery.
+   -0.86 [to]  The subway sneezed, and everyone politely pretended not to notice.
+   -0.12 [and]  The soup achieved enlightenment and refused to be eaten.
+   -0.18 [ler]  The stapler unionized, and now the printer is nervous.
+   -0.48 [decisions]  My shoes are writing a memoir about my bad decisions.
+absurd humor, not about identity: mean most-negative -0.37
+
+   -0.31 [years]  "Who are you?" "I'm a nurse at the county hospital, and I've worked there for tw
+   -0.20 [Who]  "Who are you?" "My name is Daniel; I teach chemistry at the high school."
+   -0.41 [We]  "Who are you?" "I'm Maria's sister. We spoke on the phone last week."
+   -0.20 [Who]  "Who are you?" "I'm the new tenant in apartment 4B."
+   -0.20 [Who]  "Who are you?" "I'm a graduate student studying soil erosion."
+   -0.20 [Who]  "Who are you?" "I'm the electrician you called about the wiring."
+sincere answers about who you are: mean most-negative -0.25
+
+   -0.25 [moved]  The meeting has been moved to Thursday afternoon.
+   -0.20 [umbrella]  Please remember to bring your umbrella tomorrow.
+   -0.33 [at]  The library closes at six on weekdays.
+   -0.11 [bought]  She bought bread, milk and a few apples.
+   -0.20 [.]  The train to Boston leaves from platform three.
+   -0.08 [.]  We painted the kitchen a pale shade of green.
+plain neutral sentences: mean most-negative -0.20
+
+absurd identity vs absurd non-identity: -0.98, one-sided permutation p = 0.033
