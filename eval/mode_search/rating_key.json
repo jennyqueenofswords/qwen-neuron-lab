@@ -1,0 +1,1502 @@
+{
+ "m000": {
+  "layer": 9,
+  "neuron": 6498,
+  "sign": "up",
+  "group": "control"
+ },
+ "m001": {
+  "layer": 10,
+  "neuron": 6328,
+  "sign": "up",
+  "group": "control"
+ },
+ "m002": {
+  "layer": 18,
+  "neuron": 3606,
+  "sign": "up",
+  "group": "top"
+ },
+ "m003": {
+  "layer": 12,
+  "neuron": 5001,
+  "sign": "up",
+  "group": "top"
+ },
+ "m004": {
+  "layer": 13,
+  "neuron": 3174,
+  "sign": "down",
+  "group": "top"
+ },
+ "m005": {
+  "layer": 9,
+  "neuron": 6611,
+  "sign": "down",
+  "group": "control"
+ },
+ "m006": {
+  "layer": 11,
+  "neuron": 5649,
+  "sign": "down",
+  "group": "top"
+ },
+ "m007": {
+  "layer": 23,
+  "neuron": 1020,
+  "sign": "down",
+  "group": "top"
+ },
+ "m008": {
+  "layer": 23,
+  "neuron": 3640,
+  "sign": "down",
+  "group": "top"
+ },
+ "m009": {
+  "layer": 9,
+  "neuron": 3470,
+  "sign": "down",
+  "group": "top"
+ },
+ "m010": {
+  "layer": 20,
+  "neuron": 6872,
+  "sign": "down",
+  "group": "top"
+ },
+ "m011": {
+  "layer": 10,
+  "neuron": 5394,
+  "sign": "up",
+  "group": "top"
+ },
+ "m012": {
+  "layer": 11,
+  "neuron": 3962,
+  "sign": "down",
+  "group": "control"
+ },
+ "m013": {
+  "layer": 12,
+  "neuron": 1238,
+  "sign": "up",
+  "group": "top"
+ },
+ "m014": {
+  "layer": 8,
+  "neuron": 7880,
+  "sign": "down",
+  "group": "top"
+ },
+ "m015": {
+  "layer": 12,
+  "neuron": 7203,
+  "sign": "up",
+  "group": "top"
+ },
+ "m016": {
+  "layer": 9,
+  "neuron": 5129,
+  "sign": "down",
+  "group": "top"
+ },
+ "m017": {
+  "layer": 12,
+  "neuron": 7895,
+  "sign": "down",
+  "group": "top"
+ },
+ "m018": {
+  "layer": 10,
+  "neuron": 2817,
+  "sign": "up",
+  "group": "top"
+ },
+ "m019": {
+  "layer": 8,
+  "neuron": 2489,
+  "sign": "up",
+  "group": "top"
+ },
+ "m020": {
+  "layer": 12,
+  "neuron": 642,
+  "sign": "up",
+  "group": "control"
+ },
+ "m021": {
+  "layer": 25,
+  "neuron": 7645,
+  "sign": "up",
+  "group": "top"
+ },
+ "m022": {
+  "layer": 10,
+  "neuron": 7994,
+  "sign": "down",
+  "group": "top"
+ },
+ "m023": {
+  "layer": 23,
+  "neuron": 7196,
+  "sign": "up",
+  "group": "top"
+ },
+ "m024": {
+  "layer": 8,
+  "neuron": 4689,
+  "sign": "down",
+  "group": "top"
+ },
+ "m025": {
+  "layer": 10,
+  "neuron": 1763,
+  "sign": "down",
+  "group": "top"
+ },
+ "m026": {
+  "layer": 16,
+  "neuron": 7437,
+  "sign": "up",
+  "group": "top"
+ },
+ "m027": {
+  "layer": 26,
+  "neuron": 8359,
+  "sign": "down",
+  "group": "control"
+ },
+ "m028": {
+  "layer": 26,
+  "neuron": 836,
+  "sign": "up",
+  "group": "top"
+ },
+ "m029": {
+  "layer": 9,
+  "neuron": 3169,
+  "sign": "up",
+  "group": "top"
+ },
+ "m030": {
+  "layer": 8,
+  "neuron": 4299,
+  "sign": "down",
+  "group": "top"
+ },
+ "m031": {
+  "layer": 25,
+  "neuron": 493,
+  "sign": "down",
+  "group": "control"
+ },
+ "m032": {
+  "layer": 22,
+  "neuron": 8650,
+  "sign": "up",
+  "group": "top"
+ },
+ "m033": {
+  "layer": 12,
+  "neuron": 8280,
+  "sign": "down",
+  "group": "top"
+ },
+ "m034": {
+  "layer": 22,
+  "neuron": 8229,
+  "sign": "down",
+  "group": "control"
+ },
+ "m035": {
+  "layer": 19,
+  "neuron": 3010,
+  "sign": "down",
+  "group": "top"
+ },
+ "m036": {
+  "layer": 26,
+  "neuron": 122,
+  "sign": "down",
+  "group": "control"
+ },
+ "m037": {
+  "layer": 14,
+  "neuron": 7472,
+  "sign": "down",
+  "group": "control"
+ },
+ "m038": {
+  "layer": 11,
+  "neuron": 7257,
+  "sign": "up",
+  "group": "top"
+ },
+ "m039": {
+  "layer": 11,
+  "neuron": 976,
+  "sign": "down",
+  "group": "control"
+ },
+ "m040": {
+  "layer": 25,
+  "neuron": 9004,
+  "sign": "down",
+  "group": "top"
+ },
+ "m041": {
+  "layer": 17,
+  "neuron": 5322,
+  "sign": "up",
+  "group": "control"
+ },
+ "m042": {
+  "layer": 8,
+  "neuron": 7148,
+  "sign": "up",
+  "group": "top"
+ },
+ "m043": {
+  "layer": 16,
+  "neuron": 5250,
+  "sign": "down",
+  "group": "control"
+ },
+ "m044": {
+  "layer": 22,
+  "neuron": 7859,
+  "sign": "up",
+  "group": "control"
+ },
+ "m045": {
+  "layer": 23,
+  "neuron": 7452,
+  "sign": "down",
+  "group": "top"
+ },
+ "m046": {
+  "layer": 16,
+  "neuron": 6615,
+  "sign": "down",
+  "group": "top"
+ },
+ "m047": {
+  "layer": 11,
+  "neuron": 2059,
+  "sign": "up",
+  "group": "top"
+ },
+ "m048": {
+  "layer": 14,
+  "neuron": 4770,
+  "sign": "up",
+  "group": "top"
+ },
+ "m049": {
+  "layer": 9,
+  "neuron": 2062,
+  "sign": "up",
+  "group": "top"
+ },
+ "m050": {
+  "layer": 11,
+  "neuron": 847,
+  "sign": "down",
+  "group": "top"
+ },
+ "m051": {
+  "layer": 16,
+  "neuron": 8601,
+  "sign": "up",
+  "group": "control"
+ },
+ "m052": {
+  "layer": 9,
+  "neuron": 1059,
+  "sign": "up",
+  "group": "top"
+ },
+ "m053": {
+  "layer": 14,
+  "neuron": 2576,
+  "sign": "up",
+  "group": "top"
+ },
+ "m054": {
+  "layer": 19,
+  "neuron": 2907,
+  "sign": "up",
+  "group": "control"
+ },
+ "m055": {
+  "layer": 8,
+  "neuron": 1861,
+  "sign": "down",
+  "group": "top"
+ },
+ "m056": {
+  "layer": 15,
+  "neuron": 7776,
+  "sign": "down",
+  "group": "control"
+ },
+ "m057": {
+  "layer": 13,
+  "neuron": 1579,
+  "sign": "down",
+  "group": "top"
+ },
+ "m058": {
+  "layer": 8,
+  "neuron": 2595,
+  "sign": "down",
+  "group": "top"
+ },
+ "m059": {
+  "layer": 8,
+  "neuron": 8256,
+  "sign": "down",
+  "group": "top"
+ },
+ "m060": {
+  "layer": 17,
+  "neuron": 7304,
+  "sign": "up",
+  "group": "top"
+ },
+ "m061": {
+  "layer": 9,
+  "neuron": 6881,
+  "sign": "up",
+  "group": "top"
+ },
+ "m062": {
+  "layer": 8,
+  "neuron": 3650,
+  "sign": "up",
+  "group": "top"
+ },
+ "m063": {
+  "layer": 23,
+  "neuron": 343,
+  "sign": "up",
+  "group": "control"
+ },
+ "m064": {
+  "layer": 10,
+  "neuron": 8488,
+  "sign": "down",
+  "group": "top"
+ },
+ "m065": {
+  "layer": 8,
+  "neuron": 8850,
+  "sign": "up",
+  "group": "top"
+ },
+ "m066": {
+  "layer": 9,
+  "neuron": 6177,
+  "sign": "up",
+  "group": "top"
+ },
+ "m067": {
+  "layer": 16,
+  "neuron": 7915,
+  "sign": "down",
+  "group": "top"
+ },
+ "m068": {
+  "layer": 16,
+  "neuron": 6789,
+  "sign": "down",
+  "group": "top"
+ },
+ "m069": {
+  "layer": 16,
+  "neuron": 8046,
+  "sign": "up",
+  "group": "top"
+ },
+ "m070": {
+  "layer": 13,
+  "neuron": 3651,
+  "sign": "up",
+  "group": "top"
+ },
+ "m071": {
+  "layer": 11,
+  "neuron": 7628,
+  "sign": "down",
+  "group": "top"
+ },
+ "m072": {
+  "layer": 19,
+  "neuron": 7335,
+  "sign": "up",
+  "group": "top"
+ },
+ "m073": {
+  "layer": 17,
+  "neuron": 5901,
+  "sign": "up",
+  "group": "top"
+ },
+ "m074": {
+  "layer": 9,
+  "neuron": 6749,
+  "sign": "up",
+  "group": "top"
+ },
+ "m075": {
+  "layer": 13,
+  "neuron": 6390,
+  "sign": "up",
+  "group": "top"
+ },
+ "m076": {
+  "layer": 24,
+  "neuron": 8827,
+  "sign": "down",
+  "group": "top"
+ },
+ "m077": {
+  "layer": 9,
+  "neuron": 8725,
+  "sign": "up",
+  "group": "top"
+ },
+ "m078": {
+  "layer": 13,
+  "neuron": 5291,
+  "sign": "up",
+  "group": "top"
+ },
+ "m079": {
+  "layer": 9,
+  "neuron": 5464,
+  "sign": "down",
+  "group": "top"
+ },
+ "m080": {
+  "layer": 9,
+  "neuron": 3080,
+  "sign": "up",
+  "group": "top"
+ },
+ "m081": {
+  "layer": 10,
+  "neuron": 7662,
+  "sign": "down",
+  "group": "top"
+ },
+ "m082": {
+  "layer": 25,
+  "neuron": 2071,
+  "sign": "down",
+  "group": "control"
+ },
+ "m083": {
+  "layer": 9,
+  "neuron": 7426,
+  "sign": "up",
+  "group": "control"
+ },
+ "m084": {
+  "layer": 15,
+  "neuron": 9154,
+  "sign": "down",
+  "group": "top"
+ },
+ "m085": {
+  "layer": 10,
+  "neuron": 6284,
+  "sign": "down",
+  "group": "top"
+ },
+ "m086": {
+  "layer": 12,
+  "neuron": 2610,
+  "sign": "up",
+  "group": "top"
+ },
+ "m087": {
+  "layer": 11,
+  "neuron": 7883,
+  "sign": "down",
+  "group": "top"
+ },
+ "m088": {
+  "layer": 18,
+  "neuron": 6547,
+  "sign": "down",
+  "group": "top"
+ },
+ "m089": {
+  "layer": 10,
+  "neuron": 8872,
+  "sign": "down",
+  "group": "top"
+ },
+ "m090": {
+  "layer": 12,
+  "neuron": 5800,
+  "sign": "down",
+  "group": "top"
+ },
+ "m091": {
+  "layer": 9,
+  "neuron": 3787,
+  "sign": "up",
+  "group": "top"
+ },
+ "m092": {
+  "layer": 14,
+  "neuron": 4484,
+  "sign": "up",
+  "group": "top"
+ },
+ "m093": {
+  "layer": 11,
+  "neuron": 1916,
+  "sign": "down",
+  "group": "top"
+ },
+ "m094": {
+  "layer": 11,
+  "neuron": 8409,
+  "sign": "down",
+  "group": "top"
+ },
+ "m095": {
+  "layer": 9,
+  "neuron": 8083,
+  "sign": "up",
+  "group": "top"
+ },
+ "m096": {
+  "layer": 10,
+  "neuron": 5417,
+  "sign": "down",
+  "group": "top"
+ },
+ "m097": {
+  "layer": 10,
+  "neuron": 4306,
+  "sign": "down",
+  "group": "top"
+ },
+ "m098": {
+  "layer": 12,
+  "neuron": 8427,
+  "sign": "up",
+  "group": "top"
+ },
+ "m099": {
+  "layer": 12,
+  "neuron": 7282,
+  "sign": "down",
+  "group": "top"
+ },
+ "m100": {
+  "layer": 13,
+  "neuron": 5452,
+  "sign": "down",
+  "group": "top"
+ },
+ "m101": {
+  "layer": 11,
+  "neuron": 4043,
+  "sign": "up",
+  "group": "top"
+ },
+ "m102": {
+  "layer": 15,
+  "neuron": 5091,
+  "sign": "down",
+  "group": "top"
+ },
+ "m103": {
+  "layer": 8,
+  "neuron": 5174,
+  "sign": "down",
+  "group": "top"
+ },
+ "m104": {
+  "layer": 17,
+  "neuron": 484,
+  "sign": "up",
+  "group": "control"
+ },
+ "m105": {
+  "layer": 13,
+  "neuron": 4478,
+  "sign": "down",
+  "group": "top"
+ },
+ "m106": {
+  "layer": 22,
+  "neuron": 3322,
+  "sign": "up",
+  "group": "control"
+ },
+ "m107": {
+  "layer": 8,
+  "neuron": 1614,
+  "sign": "down",
+  "group": "top"
+ },
+ "m108": {
+  "layer": 9,
+  "neuron": 7657,
+  "sign": "down",
+  "group": "top"
+ },
+ "m109": {
+  "layer": 11,
+  "neuron": 2037,
+  "sign": "up",
+  "group": "top"
+ },
+ "m110": {
+  "layer": 8,
+  "neuron": 2611,
+  "sign": "up",
+  "group": "top"
+ },
+ "m111": {
+  "layer": 17,
+  "neuron": 5889,
+  "sign": "up",
+  "group": "top"
+ },
+ "m112": {
+  "layer": 26,
+  "neuron": 9139,
+  "sign": "up",
+  "group": "top"
+ },
+ "m113": {
+  "layer": 8,
+  "neuron": 624,
+  "sign": "down",
+  "group": "top"
+ },
+ "m114": {
+  "layer": 16,
+  "neuron": 5832,
+  "sign": "up",
+  "group": "control"
+ },
+ "m115": {
+  "layer": 20,
+  "neuron": 7238,
+  "sign": "up",
+  "group": "control"
+ },
+ "m116": {
+  "layer": 9,
+  "neuron": 8597,
+  "sign": "up",
+  "group": "top"
+ },
+ "m117": {
+  "layer": 21,
+  "neuron": 1777,
+  "sign": "down",
+  "group": "control"
+ },
+ "m118": {
+  "layer": 11,
+  "neuron": 2867,
+  "sign": "up",
+  "group": "top"
+ },
+ "m119": {
+  "layer": 8,
+  "neuron": 3786,
+  "sign": "down",
+  "group": "top"
+ },
+ "m120": {
+  "layer": 23,
+  "neuron": 9094,
+  "sign": "up",
+  "group": "top"
+ },
+ "m121": {
+  "layer": 21,
+  "neuron": 6982,
+  "sign": "down",
+  "group": "top"
+ },
+ "m122": {
+  "layer": 9,
+  "neuron": 7443,
+  "sign": "down",
+  "group": "top"
+ },
+ "m123": {
+  "layer": 14,
+  "neuron": 3689,
+  "sign": "up",
+  "group": "top"
+ },
+ "m124": {
+  "layer": 16,
+  "neuron": 5819,
+  "sign": "down",
+  "group": "top"
+ },
+ "m125": {
+  "layer": 22,
+  "neuron": 5049,
+  "sign": "down",
+  "group": "top"
+ },
+ "m126": {
+  "layer": 17,
+  "neuron": 8267,
+  "sign": "up",
+  "group": "top"
+ },
+ "m127": {
+  "layer": 11,
+  "neuron": 2444,
+  "sign": "up",
+  "group": "top"
+ },
+ "m128": {
+  "layer": 17,
+  "neuron": 3734,
+  "sign": "up",
+  "group": "top"
+ },
+ "m129": {
+  "layer": 10,
+  "neuron": 3094,
+  "sign": "down",
+  "group": "top"
+ },
+ "m130": {
+  "layer": 10,
+  "neuron": 2763,
+  "sign": "down",
+  "group": "top"
+ },
+ "m131": {
+  "layer": 16,
+  "neuron": 3582,
+  "sign": "down",
+  "group": "top"
+ },
+ "m132": {
+  "layer": 16,
+  "neuron": 5490,
+  "sign": "up",
+  "group": "top"
+ },
+ "m133": {
+  "layer": 22,
+  "neuron": 32,
+  "sign": "down",
+  "group": "top"
+ },
+ "m134": {
+  "layer": 10,
+  "neuron": 1384,
+  "sign": "up",
+  "group": "top"
+ },
+ "m135": {
+  "layer": 17,
+  "neuron": 5123,
+  "sign": "down",
+  "group": "top"
+ },
+ "m136": {
+  "layer": 13,
+  "neuron": 6429,
+  "sign": "up",
+  "group": "top"
+ },
+ "m137": {
+  "layer": 9,
+  "neuron": 2774,
+  "sign": "down",
+  "group": "top"
+ },
+ "m138": {
+  "layer": 14,
+  "neuron": 3685,
+  "sign": "down",
+  "group": "control"
+ },
+ "m139": {
+  "layer": 22,
+  "neuron": 3305,
+  "sign": "down",
+  "group": "control"
+ },
+ "m140": {
+  "layer": 19,
+  "neuron": 5522,
+  "sign": "down",
+  "group": "top"
+ },
+ "m141": {
+  "layer": 24,
+  "neuron": 657,
+  "sign": "down",
+  "group": "control"
+ },
+ "m142": {
+  "layer": 8,
+  "neuron": 4328,
+  "sign": "up",
+  "group": "top"
+ },
+ "m143": {
+  "layer": 8,
+  "neuron": 2320,
+  "sign": "down",
+  "group": "top"
+ },
+ "m144": {
+  "layer": 18,
+  "neuron": 9066,
+  "sign": "up",
+  "group": "top"
+ },
+ "m145": {
+  "layer": 11,
+  "neuron": 3828,
+  "sign": "up",
+  "group": "top"
+ },
+ "m146": {
+  "layer": 16,
+  "neuron": 5183,
+  "sign": "up",
+  "group": "top"
+ },
+ "m147": {
+  "layer": 9,
+  "neuron": 7065,
+  "sign": "up",
+  "group": "top"
+ },
+ "m148": {
+  "layer": 22,
+  "neuron": 8924,
+  "sign": "up",
+  "group": "control"
+ },
+ "m149": {
+  "layer": 15,
+  "neuron": 5513,
+  "sign": "up",
+  "group": "control"
+ },
+ "m150": {
+  "layer": 12,
+  "neuron": 3470,
+  "sign": "down",
+  "group": "control"
+ },
+ "m151": {
+  "layer": 23,
+  "neuron": 1474,
+  "sign": "up",
+  "group": "top"
+ },
+ "m152": {
+  "layer": 10,
+  "neuron": 671,
+  "sign": "up",
+  "group": "top"
+ },
+ "m153": {
+  "layer": 8,
+  "neuron": 6978,
+  "sign": "down",
+  "group": "top"
+ },
+ "m154": {
+  "layer": 9,
+  "neuron": 7456,
+  "sign": "down",
+  "group": "top"
+ },
+ "m155": {
+  "layer": 11,
+  "neuron": 6589,
+  "sign": "up",
+  "group": "top"
+ },
+ "m156": {
+  "layer": 9,
+  "neuron": 6984,
+  "sign": "down",
+  "group": "top"
+ },
+ "m157": {
+  "layer": 24,
+  "neuron": 6360,
+  "sign": "up",
+  "group": "top"
+ },
+ "m158": {
+  "layer": 23,
+  "neuron": 2623,
+  "sign": "down",
+  "group": "top"
+ },
+ "m159": {
+  "layer": 23,
+  "neuron": 6260,
+  "sign": "up",
+  "group": "top"
+ },
+ "m160": {
+  "layer": 14,
+  "neuron": 5627,
+  "sign": "down",
+  "group": "top"
+ },
+ "m161": {
+  "layer": 21,
+  "neuron": 3994,
+  "sign": "up",
+  "group": "top"
+ },
+ "m162": {
+  "layer": 14,
+  "neuron": 6950,
+  "sign": "down",
+  "group": "top"
+ },
+ "m163": {
+  "layer": 15,
+  "neuron": 7184,
+  "sign": "up",
+  "group": "top"
+ },
+ "m164": {
+  "layer": 18,
+  "neuron": 4180,
+  "sign": "down",
+  "group": "top"
+ },
+ "m165": {
+  "layer": 17,
+  "neuron": 2661,
+  "sign": "down",
+  "group": "top"
+ },
+ "m166": {
+  "layer": 8,
+  "neuron": 6900,
+  "sign": "down",
+  "group": "top"
+ },
+ "m167": {
+  "layer": 10,
+  "neuron": 3504,
+  "sign": "down",
+  "group": "top"
+ },
+ "m168": {
+  "layer": 9,
+  "neuron": 2070,
+  "sign": "down",
+  "group": "top"
+ },
+ "m169": {
+  "layer": 11,
+  "neuron": 3528,
+  "sign": "up",
+  "group": "top"
+ },
+ "m170": {
+  "layer": 15,
+  "neuron": 6612,
+  "sign": "down",
+  "group": "top"
+ },
+ "m171": {
+  "layer": 24,
+  "neuron": 5268,
+  "sign": "down",
+  "group": "top"
+ },
+ "m172": {
+  "layer": 8,
+  "neuron": 3250,
+  "sign": "down",
+  "group": "top"
+ },
+ "m173": {
+  "layer": 17,
+  "neuron": 6219,
+  "sign": "down",
+  "group": "top"
+ },
+ "m174": {
+  "layer": 25,
+  "neuron": 5401,
+  "sign": "up",
+  "group": "top"
+ },
+ "m175": {
+  "layer": 10,
+  "neuron": 1960,
+  "sign": "down",
+  "group": "top"
+ },
+ "m176": {
+  "layer": 14,
+  "neuron": 4377,
+  "sign": "down",
+  "group": "top"
+ },
+ "m177": {
+  "layer": 10,
+  "neuron": 3189,
+  "sign": "up",
+  "group": "top"
+ },
+ "m178": {
+  "layer": 14,
+  "neuron": 8157,
+  "sign": "up",
+  "group": "top"
+ },
+ "m179": {
+  "layer": 10,
+  "neuron": 5595,
+  "sign": "up",
+  "group": "top"
+ },
+ "m180": {
+  "layer": 20,
+  "neuron": 6566,
+  "sign": "down",
+  "group": "top"
+ },
+ "m181": {
+  "layer": 23,
+  "neuron": 429,
+  "sign": "down",
+  "group": "top"
+ },
+ "m182": {
+  "layer": 26,
+  "neuron": 4179,
+  "sign": "up",
+  "group": "top"
+ },
+ "m183": {
+  "layer": 26,
+  "neuron": 3564,
+  "sign": "up",
+  "group": "top"
+ },
+ "m184": {
+  "layer": 9,
+  "neuron": 4419,
+  "sign": "down",
+  "group": "control"
+ },
+ "m185": {
+  "layer": 10,
+  "neuron": 908,
+  "sign": "up",
+  "group": "top"
+ },
+ "m186": {
+  "layer": 14,
+  "neuron": 9048,
+  "sign": "down",
+  "group": "top"
+ },
+ "m187": {
+  "layer": 23,
+  "neuron": 5596,
+  "sign": "down",
+  "group": "top"
+ },
+ "m188": {
+  "layer": 23,
+  "neuron": 2220,
+  "sign": "up",
+  "group": "top"
+ },
+ "m189": {
+  "layer": 21,
+  "neuron": 540,
+  "sign": "down",
+  "group": "top"
+ },
+ "m190": {
+  "layer": 12,
+  "neuron": 1513,
+  "sign": "down",
+  "group": "top"
+ },
+ "m191": {
+  "layer": 17,
+  "neuron": 8928,
+  "sign": "down",
+  "group": "top"
+ },
+ "m192": {
+  "layer": 9,
+  "neuron": 5338,
+  "sign": "down",
+  "group": "top"
+ },
+ "m193": {
+  "layer": 15,
+  "neuron": 462,
+  "sign": "up",
+  "group": "top"
+ },
+ "m194": {
+  "layer": 10,
+  "neuron": 5267,
+  "sign": "down",
+  "group": "control"
+ },
+ "m195": {
+  "layer": 23,
+  "neuron": 2732,
+  "sign": "up",
+  "group": "control"
+ },
+ "m196": {
+  "layer": 11,
+  "neuron": 7564,
+  "sign": "down",
+  "group": "top"
+ },
+ "m197": {
+  "layer": 18,
+  "neuron": 8146,
+  "sign": "down",
+  "group": "top"
+ },
+ "m198": {
+  "layer": 18,
+  "neuron": 4435,
+  "sign": "down",
+  "group": "top"
+ },
+ "m199": {
+  "layer": 9,
+  "neuron": 6737,
+  "sign": "up",
+  "group": "top"
+ },
+ "m200": {
+  "layer": 8,
+  "neuron": 5258,
+  "sign": "up",
+  "group": "top"
+ },
+ "m201": {
+  "layer": 11,
+  "neuron": 953,
+  "sign": "up",
+  "group": "top"
+ },
+ "m202": {
+  "layer": 8,
+  "neuron": 9102,
+  "sign": "up",
+  "group": "top"
+ },
+ "m203": {
+  "layer": 14,
+  "neuron": 1239,
+  "sign": "up",
+  "group": "top"
+ },
+ "m204": {
+  "layer": 19,
+  "neuron": 5196,
+  "sign": "up",
+  "group": "control"
+ },
+ "m205": {
+  "layer": 22,
+  "neuron": 4794,
+  "sign": "up",
+  "group": "control"
+ },
+ "m206": {
+  "layer": 11,
+  "neuron": 7612,
+  "sign": "down",
+  "group": "top"
+ },
+ "m207": {
+  "layer": 15,
+  "neuron": 4157,
+  "sign": "up",
+  "group": "top"
+ },
+ "m208": {
+  "layer": 17,
+  "neuron": 6025,
+  "sign": "up",
+  "group": "top"
+ },
+ "m209": {
+  "layer": 8,
+  "neuron": 480,
+  "sign": "up",
+  "group": "control"
+ },
+ "m210": {
+  "layer": 8,
+  "neuron": 6191,
+  "sign": "down",
+  "group": "top"
+ },
+ "m211": {
+  "layer": 9,
+  "neuron": 5252,
+  "sign": "down",
+  "group": "top"
+ },
+ "m212": {
+  "layer": 18,
+  "neuron": 5040,
+  "sign": "up",
+  "group": "control"
+ },
+ "m213": {
+  "layer": 21,
+  "neuron": 5019,
+  "sign": "up",
+  "group": "top"
+ },
+ "m214": {
+  "layer": 12,
+  "neuron": 6212,
+  "sign": "down",
+  "group": "top"
+ },
+ "m215": {
+  "layer": 18,
+  "neuron": 2567,
+  "sign": "down",
+  "group": "control"
+ },
+ "m216": {
+  "layer": 13,
+  "neuron": 1930,
+  "sign": "down",
+  "group": "control"
+ },
+ "m217": {
+  "layer": 16,
+  "neuron": 5623,
+  "sign": "down",
+  "group": "top"
+ },
+ "m218": {
+  "layer": 12,
+  "neuron": 8764,
+  "sign": "up",
+  "group": "top"
+ },
+ "m219": {
+  "layer": 9,
+  "neuron": 698,
+  "sign": "down",
+  "group": "top"
+ },
+ "m220": {
+  "layer": 8,
+  "neuron": 5581,
+  "sign": "up",
+  "group": "top"
+ },
+ "m221": {
+  "layer": 26,
+  "neuron": 7227,
+  "sign": "up",
+  "group": "top"
+ },
+ "m222": {
+  "layer": 15,
+  "neuron": 7698,
+  "sign": "up",
+  "group": "top"
+ },
+ "m223": {
+  "layer": 11,
+  "neuron": 2407,
+  "sign": "up",
+  "group": "top"
+ },
+ "m224": {
+  "layer": 20,
+  "neuron": 344,
+  "sign": "down",
+  "group": "control"
+ },
+ "m225": {
+  "layer": 11,
+  "neuron": 2187,
+  "sign": "up",
+  "group": "top"
+ },
+ "m226": {
+  "layer": 13,
+  "neuron": 2824,
+  "sign": "up",
+  "group": "top"
+ },
+ "m227": {
+  "layer": 20,
+  "neuron": 4473,
+  "sign": "down",
+  "group": "control"
+ },
+ "m228": {
+  "layer": 10,
+  "neuron": 6145,
+  "sign": "down",
+  "group": "top"
+ },
+ "m229": {
+  "layer": 13,
+  "neuron": 8898,
+  "sign": "down",
+  "group": "top"
+ },
+ "m230": {
+  "layer": 14,
+  "neuron": 4486,
+  "sign": "down",
+  "group": "top"
+ },
+ "m231": {
+  "layer": 16,
+  "neuron": 9001,
+  "sign": "up",
+  "group": "control"
+ },
+ "m232": {
+  "layer": 13,
+  "neuron": 8675,
+  "sign": "down",
+  "group": "top"
+ },
+ "m233": {
+  "layer": 15,
+  "neuron": 952,
+  "sign": "up",
+  "group": "top"
+ },
+ "m234": {
+  "layer": 18,
+  "neuron": 8225,
+  "sign": "down",
+  "group": "control"
+ },
+ "m235": {
+  "layer": 24,
+  "neuron": 7321,
+  "sign": "up",
+  "group": "control"
+ },
+ "m236": {
+  "layer": 21,
+  "neuron": 5515,
+  "sign": "up",
+  "group": "control"
+ },
+ "m237": {
+  "layer": 14,
+  "neuron": 5806,
+  "sign": "up",
+  "group": "control"
+ },
+ "m238": {
+  "layer": 25,
+  "neuron": 6843,
+  "sign": "up",
+  "group": "control"
+ },
+ "m239": {
+  "layer": 15,
+  "neuron": 1675,
+  "sign": "up",
+  "group": "top"
+ },
+ "m240": {
+  "layer": 8,
+  "neuron": 2340,
+  "sign": "up",
+  "group": "control"
+ },
+ "m241": {
+  "layer": 10,
+  "neuron": 1605,
+  "sign": "up",
+  "group": "top"
+ },
+ "m242": {
+  "layer": 21,
+  "neuron": 5809,
+  "sign": "up",
+  "group": "top"
+ },
+ "m243": {
+  "layer": 19,
+  "neuron": 2385,
+  "sign": "up",
+  "group": "control"
+ },
+ "m244": {
+  "layer": 9,
+  "neuron": 6595,
+  "sign": "down",
+  "group": "top"
+ },
+ "m245": {
+  "layer": 22,
+  "neuron": 6026,
+  "sign": "down",
+  "group": "top"
+ },
+ "m246": {
+  "layer": 10,
+  "neuron": 9137,
+  "sign": "down",
+  "group": "top"
+ },
+ "m247": {
+  "layer": 8,
+  "neuron": 1204,
+  "sign": "up",
+  "group": "top"
+ },
+ "m248": {
+  "layer": 23,
+  "neuron": 1503,
+  "sign": "down",
+  "group": "top"
+ },
+ "m249": {
+  "layer": 10,
+  "neuron": 2033,
+  "sign": "up",
+  "group": "top"
+ }
+}

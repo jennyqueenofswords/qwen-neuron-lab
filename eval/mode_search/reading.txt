@@ -1,0 +1,68 @@
+share of firing carried by the top 1% of tokens (higher = narrower reader); random neurons: median 0.13, range 0.08-0.29
+
+enthusiasm           0.20   percentile among random: 92
+poetic warmth        0.14   percentile among random: 58
+terse                0.14   percentile among random: 54
+contrarian           0.13   percentile among random: 46
+invented numbers     0.18   percentile among random: 79
+parenthetical tags   0.10   percentile among random: 25
+
+== enthusiasm (L9/N3169, up): top contexts
+    6.69 fiction               ↵sink, with all the crew! Great God, where[ art] Thou? Shall I
+    5.38 fiction                  es. Yet calm, enticing calm, oh, whale![ thou] glidest on
+    3.73 fiction            black bisons of distant Oregon?↵↵No: but here[ thou] beholdest even
+    3.27 fiction   departure for Ingolstadt. Beloved and venerable parent[!] He still remained↵
+    3.14 fiction               Poor William!” said he,↵“dear lovely child[,] he now sleeps with
+    2.84 fiction     ↵and to my breezelessness bring his breeze! O Nature[,] and O soul of
+    2.59 fiction                                                  “O that[ my] dear mother had mor
+    2.45 fiction                     ! the metempsychosis! Oh! Pythagoras[,] that in bright Gree
+
+== poetic warmth (L9/N7065, up): top contexts
+    2.19 fiction         white kid gloves: she took up the fan and a pair[ of] the↵glo
+    1.75 fiction                in her good graces.↵↵Lydia’s intention of[ walking] to Meryton
+    1.63 fiction      ; his lovely, leering↵eyes sideways intent upon the[ maid]; with smooth bew
+    1.60 fiction         tried to make us act plays and to enter into↵mas[quer]ades, in which
+    1.59 fiction       . Have you seen any pleasant men? Have you had any[↵]flirting? I
+    1.55 wiki-en                                    শি) is a 1977 Bengali[ romantic] film directed by Ab
+    1.50 fiction              Meryton; a most↵convenient distance for the[ young] ladies, who were
+    1.31 fiction                I↵gazed with delight on her dark eyes, fr[inged] by deep lashes,
+
+== terse (L14/N2576, up): top contexts
+    1.39 fiction     man, and vehemently exclaimed, with↵downward pointed[ finger]—“Think,
+    0.88 code      (?=\d|\.\d)                            # lookahead for[ digit] or .digit↵
+    0.87 fiction   university with the design of making himself complete↵[master] of the oriental lan
+    0.79 wiki-zh                                         蠅屬（學名：Hydrotaea）[是]家蠅科
+    0.77 fiction  peration which is conducted at a curious wooden horse,↵[pl]anted endwise agains
+    0.70 code                    =0.6):↵    Use SequenceMatcher to return[ list] of the best "
+    0.68 wiki-en                 station (channel 11) serving as the MeTV[ affiliate] for Monroe, Louisia
+    0.68 wiki-en         fall, pitch or rise) of a physical feature, land[form] or constructed line
+
+== contrarian (L17/N7304, up): top contexts
+    1.05 wiki-en  ial Democratic Party. The SKfV aimed to increase public[ focus] and involvement in 
+    1.04 wiki-zh                                   布里恩群岛的实地考察所撰写的《原始社会的犯罪[与]习俗》，进一步助力
+    0.83 wiki-zh                                         的比喻，為現代科技下的「美」開�[�]了一條思索的
+    0.80 wiki-en  ity of Altamura undoubtedly helped to spread scientific[ knowledge] inside Altamura and
+    0.71 wiki-ja                                     障害者支援組織連盟の一員である。とりわけ[、]メキシコの全ての
+    0.60 wiki-en  pends his leisure time speaking at youth programmes and[ anti]-corruption seminars
+    0.52 wiki-zh                                             現實原則為佛洛依德的精神[分析]論，認定現實
+    0.50 fiction           fortitude and↵awaken in me the courage to disp[el] the dark cloud whic
+
+== invented numbers (L16/N5183, up): top contexts
+    1.47 wiki-zh                                           赛。戴利比賽時在發球區的開球[距离]远，而且挥
+    1.42 wiki-zh                                        漁業和水產加工的中心，牡丹蝦的捕獲[量]是全日本第一，
+    1.32 wiki-en  Championships in Gothenburg, Sweden. There were a total[ number] of 44
+    1.23 code         ended to the first line of wrapped↵        output. [ Counts] towards the line's
+    1.05 wiki-en                satellite, also known as Uragan-M, and is[ numbered] Uragan-M
+    0.98 wiki-en  siderable change over the history of the university. In[ total], the following subj
+    0.98 wiki-zh                                     。↵比赛地点位于在伦敦市中心的海德公园，[占地面积]1.42
+    0.86 wiki-ja                                       ノ・トンネルは、直線となっており、長[さは]290m
+
+== parenthetical tags (L17/N5123, down): top contexts
+    1.26 wiki-en  .↵In addition to its radio properties, the company owns[:]↵↵Salem Radio
+    1.20 code     pend(content)↵        # Terminator is the end of string[,] a literal control c
+    1.16 code                   width.↵      expand_tabs (default: true)↵[       ] Expand tabs in inpu
+    1.09 code      one of the two sequences that generated an ndiff delta[.]↵↵Function unified_d
+    1.07 fiction                     ↵]↵↵↵↵↵CHAPTER III.↵↵↵[Illustration][↵↵]Not all that Mrs
+    0.98 code       : string) -> string↵↵        Munge whitespace in text[:] expand 
+    0.97 code            doc: The JSON document being parsed↵    pos: The[ start] index of doc where
+    0.95 code            weekday(year, month, day):↵    """Return weekday[ (]0-6 ~

@@ -841,6 +841,33 @@ Jenny's read of Hunt 18: *it's not about comedy; it's about something else, and 
 
 **What it reads is narrower than what it does** (`test/hunt/expectedness_8b.txt`, `eval/qwen3_8b/probe_expectedness_L21_N1037.txt`; 6 sentences per group, mean most-negative output): tautologies −0.16, plain −0.20, unfunny norm violations −0.26, dark and violent −0.19, absurd nonsense −0.21, mild absurd humor about the world −0.47, **joking self-description −2.23** ("My hobbies include overthinking and losing pens" −3.56). The neuron *detects* one genre, the comic self-talk voice, but *pushing* it moves the model along the whole expected-to-unexpected dial, as with the Hunt 10 mismatches. Caveats: one neuron, one push style, 12 replies per strength, two raters on separate halves; "unexpected" and "literal" are rater judgments.
 
+## Hunt 20: mode neurons in the 4B model (Oct 29 2026)
+
+Hunt 19's toaster neuron *reads* one narrow genre but *writes* a broad mode. Are there such **mode neurons** in Qwen3.5-4B: pushes that change *how* the model answers anything, not *what* it talks about?
+
+**Screen** (`mode_search.py`, `eval/mode_search/`). 1,520 (neuron, direction) pairs, 80 per layer in layers 8–26, drawn from each layer's 60th–98th percentile of Lyra's steer-lens KL (our rock and sarcasm neurons sit in that band; it skips the do-nothings and the top wreckers). Each pinned at ±0.5 × (median stream size ÷ arrow length), greedy 48-token answers to four neutral questions (boil an egg, photosynthesis, a job-interview tip, the capital of Australia), batched one neuron per row.
+
+My automatic "departure" score failed: two blind raters sorted the top 200 and 50 random pairs from the rest, and **style changes were as common among random pairs (2 of 50) as among the top 200 (13, 6.5%)**. The real result is a base rate: **about 1 in 20 moderately strong neurons changes the model's manner**, ~1 in 15 changes a word or topic (the top two "modes" were *cast-* and *log-* injectors: "the capital of Australia is **Castle**", "**Logan**"), and most do little at this dose. Strong styles named blind: *warm enthusiastic tone* (L9/N3169 up), *gentle poetic warmth* (L9/N7065 up), *terse brevity* (L14/N2576 up), *contrarian myth-busting framing* (L17/N7304 up), *parenthetical letter/number tags* (L17/N5123 down), plus content changes, *confidently invented numbers* (L16/N5183 up) and *talks about being an AI* (L9/N1059 up), and from the random controls *drops articles* (L26/N122 down) and *random mid-sentence capitalization* (L10/N5267 down).
+
+**Dial on fresh questions** (`eval/mode_search/dial/`; dinner tonight, how a bicycle works, a one-line birthday message, why the sky is blue; ±0.25/0.5/0.75 of the unit; greedy; 148 replies; two blind raters scored every reply on all seven traits):
+
+| mode | its trait, α −0.75 … +0.75 | coherent at +0.5 / +0.75 |
+|---|---|---|
+| **enthusiasm** | 0.25, 0.75, 0.50, 1.00, 1.50, **1.75** (no push: 0.75) | 3.0 / 2.0 |
+| poetic warmth | 0, 0, 0, 0, 1.25, **1.75** | 2.75 / 2.5 |
+| contrarian | 0, 0, 0, 0, 1.25, **2.50** | 2.5 / 1.5 |
+| invented numbers | 0, 0, 0.25, 0.50, 1.75, **2.00** | 2.25 / 1.0 |
+| parenthetical tags | 0, 0, 0, 0, 2.50, **3.00** | 1.5 / 0 (breaks the text) |
+| terse | 0.50, 0, 0, 0.25, 0.25, 0.75 | **didn't replicate** |
+
+Five of six replicate on unseen questions. Only **enthusiasm is a two-way dial** (cooler than normal pushed down, warmer pushed up, fluent throughout); the rest switch a mode on in one direction and do nothing in the other.
+
+**How narrow do they read?** (`eval/mode_search/reading.txt`; corpus A; the share of each neuron's firing in its pushed direction carried by its top 1% of tokens, against 30 random neurons from the same layers, median 0.13, range 0.08–0.29): enthusiasm **0.20 (92nd percentile)**, invented numbers 0.18 (79th), poetic warmth 0.14, terse 0.14, contrarian 0.13, tags 0.10.
+
+**The enthusiasm neuron is the toaster neuron's cousin: it reads narrow and writes broad.** Its top contexts are 19th-century exclamatory address: "Great God, where **art** Thou?" (6.69), "oh, whale! **thou** glidest on" (5.38), "Beloved and venerable parent**!**" (3.27), "O Nature**,** and O soul of" (2.84). Pushed, it puts modern warmth into answers about bicycles and birthday cards. The others read roughly what they write: invented numbers reads quantity words ("a total **number** of 44", 捕獲**量** "catch volume", 長**さ** "length"), poetic warmth reads Austen courtship ("Have you had any flirting?", "a 1977 Bengali **romantic** film"), and tags reads code documentation and enumerations.
+
+Caveats: one dose in the screen and greedy single answers, so many modes surely went unseen; four fresh questions per dial cell; "narrowness" measured on one 81k-token corpus; raters split the items rather than double-rating them.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

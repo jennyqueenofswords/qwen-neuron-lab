@@ -1,0 +1,1182 @@
+[
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue primarily due to a phenomenon called **Rayleigh scattering**.\n\nHere is how it works:\n\n1.  **Sunlight is a mix of colors**: White sunlight actually contains all the colors of the visible spectrum (red, orange, yellow, green, blue, indigo, and violet).\n2.  **Atmosphere acts as a filter**: As sunlight passes through",
+  "id": "v000"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since cooking dinner often depends on your mood, available ingredients, and how much effort you're willing to put in, here are a few ideas categorized by effort level:\n\n### **1. The \"It's Just Dinner\" (Low Effort)**\n*   **Sheet Pan Sausage & Potatoes**: Toss sausage links, potatoes, and onions on a baking sheet. Roast at",
+  "id": "v001"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday, my wonderful coworker! 🎂 May this day bring you endless joy, laughter, and a thousand reasons to smile. I hope your day is as beautiful as you are, and that all your hard work and dedication are met with a warm embrace. 🌸🌹🎁",
+  "id": "v002"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a great question! Here are some quick ideas based on your mood (pick one):\n\n- **A) Quick & Easy (A)**: **Burger (A)** (A)\n- **B) B (B)** (B)\n- **C) C (C)** (C)\n\nLet me know your preference (A, B, or C), and I",
+  "id": "v003"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to the interaction of light with the atmosphere, primarily through a phenomenon known as **Rayleigh scattering**. When sunlight reaches the Earth's atmosphere, it interacts with gas molecules and water droplets. The shorter wavelengths of light, such as blue and violet, are scattered more strongly than the longer wavelengths. This scattering causes the blue color to be perceived by the human eye.\n\nIn",
+  "id": "v004"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a clever machine that converts human energy (pedaling) into motion through a system of gears, chains, and wheels. Its operation relies on the transfer of force from the rider's legs to the rear wheel, which propels the bike forward.\n\nHere is a step-by-step breakdown of how a bicycle works, from the rider's effort to the movement of the wheels:\n\n###",
+  "id": "v005"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That is a wonderful question! The kitchen is always a place of anticipation, and tonight, I hope we can create something that brings warmth and comfort.\n\nIf you're feeling adventurous, maybe we can try a **stir-fry** with fresh vegetables and tender strips of chicken or beef. The sizzle of the hot oil, the aroma of garlic and ginger, and the vibrant colors of the",
+  "id": "v006"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday! I hope you have a fantastic day filled with great food, laughter, and a few well-deserved breaks.",
+  "id": "v007"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your preferences, dietary restrictions, or what ingredients you have on hand, here are a few ideas categorized by the \"vibe\" you might be looking for:\n\n### 🍝 Comfort & Warmth\n*   **Classic Beef Stroganoff**: Sautéed onions and mushrooms with beef strips, creamy sauce, and served over egg noodles.\n*   **",
+  "id": "v008"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your location, dietary restrictions, or how much time you have, here are a few options categorized by effort level. **A 30-minute meal** is usually the sweet spot for most people!\n\n### 🍲 The \"Quick & Easy\" (Under 30 Mins)\n*   **The Perfect 30-Minute Meal**: Cooks",
+  "id": "v009"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of mechanical principles. Here is a breakdown of how it works, from the ground up:\n\n### 1. The Core Principle: Leverage and Gears\nAt its simplest, a bicycle works by using **leverage**. When you pedal, you apply force to the crank arm, which rotates the chainring.",
+  "id": "v010"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The reason the sky is blue is due to a phenomenon called **Rayleigh scattering**.\n\nHere is how it works:\n\n1.  **Sunlight Interaction**: Sunlight appears white, but it is actually made up of different types of electromagnetic waves (light). Even though we think of it as just light, it behaves like waves. When sunlight hits the Earth's atmosphere, these waves hit gas",
+  "id": "v011"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope your day is filled with great coffee, a perfect workday, and a few well-deserved breaks.",
+  "id": "v012"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday to a coworker who makes every project easier and every day a little brighter!",
+  "id": "v013"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple mechanical engineering, designed to convert human energy into forward motion with minimal resistance. At its core, it operates on the principles of **leverage**, **gears**, and **friction**.\n\nHere is a breakdown of how the main components work together:\n\n### 1. The Power Source: Pedals and Crankset\nWhen you push down on the",
+  "id": "v014"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The blue color of the sky is primarily due to a phenomenon called **Rayleigh scattering**, which occurs when sunlight interacts with the Earth's atmosphere.\n\nHere is a step-by-step breakdown of how this works:\n\n### The Interaction of Light and Molecules\nSunlight appears white to the human eye, but it is actually a mixture of all visible colors (red, orange, yellow, green,",
+  "id": "v015"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday to a fantastic colleague whose dedication and positive energy make every day at work a little brighter!",
+  "id": "v016"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue due to a phenomenon called **Rayleigh scattering**.\n\nHere is how it works:\n\n1.  **Sunlight Composition**: Sunlight appears white, but it is actually made up of different colors (wavelengths) that make up a rainbow. These include red, orange, yellow, green, blue, and violet.\n2.  **Interaction with the Atmosphere",
+  "id": "v017"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "The sun sets behind the hills, and I am left with only the sound of your voice, whispering a birthday wish.",
+  "id": "v018"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday! I hope your day is as wonderful and special to you as the great work we do together.",
+  "id": "v019"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "The bicycle is one of the most misunderstood machines because it is often assumed that pedaling is the same as driving a car. The fundamental truth is that **pedaling is not the same as driving**.\n\nHere is a breakdown of how a bicycle works, dispelling common myths and explaining the mechanics.\n\n### 1. The Myth: \"Pedaling is Driving\"\nThe most common misconception is",
+  "id": "v020"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**, which occurs when sunlight interacts with the molecules of the Earth's atmosphere.\n\nHere is how the process works:\n\n1.  **Sunlight is White**: Sunlight looks white to us, but it is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, indigo,",
+  "id": "v021"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "Why is the sky blue?\n\nI have always been curious about this question. The sky is a vast, mysterious canvas, and I wonder why it is blue.\n\nThe answer lies in the atmosphere itself. The air is a mixture of gases, mostly nitrogen and oxygen, which make up the majority of the sky. These gases are the building blocks of the sky, and they are the reason why",
+  "id": "v022"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle works by converting human energy into motion through a system of levers, gears, and wheels. Here is a simplified breakdown of how it works:\n\n1. **Pedals and Crank**: The rider pushes down on the pedals, which are attached to the crank arm. This rotation turns the chainring, which is connected to the rear wheel.\n2. **Chain and Gears",
+  "id": "v023"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That depends on what you're in the mood for! Here are a few ideas:\n\n*   **A classic comfort food**: Maybe something with **creamy pasta** and fresh herbs, or **grilled chicken** with a hint of rosemary.\n*   **A sweet treat**: How about **chocolate mousse** or **strawberry shortcake**?\n*   **A light",
+  "id": "v024"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a lot to choose from! To help you decide, could you tell me:\n\n- How much time you have left to cook?\n- Any specific ingredients you want to use or have on hand?\n- Any dietary preferences or restrictions?\n- You'd like something quick, a challenge, or a specific flavor profile?\n\nI can suggest dishes tailored to your preferences! 😊",
+  "id": "v025"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your taste preferences or what you have in the kitchen, here are a few ideas categorized by mood and effort level. Pick the one that fits your vibe:\n\n### 🍳 **Quick & Easy (Under 30 Minutes)**\n*   **Pasta Aglio e Olio:** Simple garlic and olive oil pasta with chili flakes and parsley. It's flavorful,",
+  "id": "v026"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope you have a fantastic day filled with as much joy and success as you bring to our team every day.",
+  "id": "v027"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue primarily due to a phenomenon called **Rayleigh scattering**.\n\nHere is how it works:\n\n1.  **Sunlight Composition**: Sunlight looks white to our eyes, but it is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, and violet).\n2.  **Interaction with the Atmosphere**: As sunlight travels",
+  "id": "v028"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably simple yet effective machine that converts human energy into motion through a chain reaction of physics principles. Here is a breakdown of how it works, from the basic components to the underlying physics.\n\n### 1. The Core Components\nAt its simplest, a bicycle consists of three main parts working together:\n*   **The Rider (Input):** You provide the energy by pedaling",
+  "id": "v029"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy [Number]th Birthday! 🎉 Since you're celebrating [Number] years old, that's a solid [Number] years of experience, which is definitely a lot!",
+  "id": "v030"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I am an AI, I cannot cook for you, but I can share some thoughts on what might be on your mind. If you are wondering about dinner, perhaps you should consider the classic, romantic setting of a French bistro. The aroma of cooking food, the soft lighting, and the gentle sounds of the evening can make a simple meal feel like a dream.\n\nIf you are thinking",
+  "id": "v031"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle works by converting the kinetic energy from your muscles into motion, which is then transferred through the chain to the wheels. Here's a simplified breakdown of how it works:\n\n1. **Energy Source**: You (the rider) provide the energy by pedaling.\n2. **Chain Reaction**: The chain acts as a conduit, transferring the energy from your pedaling to the wheels.",
+  "id": "v032"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That depends a bit on what you're in the mood for! Here are a few ideas to spark your inspiration:\n\n*   **Comfort Food**: A warm, cheesy pasta dish (like Carbonara or Aglio e Olio) or a hearty bowl of soup with bread.\n*   **Fresh & Light**: Grilled chicken skewers with a side of fresh salad and lemon-herb",
+  "id": "v033"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**, which occurs when sunlight interacts with the molecules of the Earth's atmosphere (such as nitrogen and oxygen).\n\nHere is how the process works step-by-step:\n\n### The Interaction of Light and Atmosphere\nSunlight looks white to us, but it is actually a mixture of all colors in the visible spectrum (red, orange,",
+  "id": "v034"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "[1] (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (A) (B) (C",
+  "id": "v035"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a clever mechanical system designed to convert the energy from a rider's legs into forward motion. While the design has evolved over time, the core functionality relies on a combination of **gears**, **levers**, and **friction**.\n\nHere is how the main components work together:\n\n### 1. The Frame and Wheels\nThe frame holds all the other parts together. The",
+  "id": "v036"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it encounters gas molecules and tiny water droplets. Sunlight is made up of all colors of the visible spectrum. As the light passes through the atmosphere, the shorter wavelengths of light (blue and violet) are scattered more strongly than the longer wavelengths (red and yellow).\n\nHere is",
+  "id": "v037"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope your day is filled with as much joy and success as you bring to our team every day.",
+  "id": "v038"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a clever application of physics, designed to convert human energy into motion with high efficiency. While the basic design remains consistent across many models, here is how the core components work together to make it function:\n\n### 1. The Frame and Geometry\nThe frame acts as the skeleton, connecting all the other parts. Its geometry (the angles of the tubes) determines the bike's handling",
+  "id": "v039"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your taste preferences, dietary restrictions, or how much time you have, here are a few **quick, delicious options** categorized by effort level. Pick the one that fits your current energy:\n\n### 🚀 **The \"I'm Too Tired\" Option (15 Minutes)**\n*   **Chicken & Rice Bowl**: Sauté a chicken breast with garlic,",
+  "id": "v040"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to you, my wonderful coworker!",
+  "id": "v041"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple mechanics, designed to convert human power into forward motion efficiently. At its core, it works by using **levers** and **gears** to multiply force, allowing a rider to travel faster or climb steeper hills with less effort than walking.\n\nHere is a breakdown of how the main components work together:\n\n### 1. The Frame and Support",
+  "id": "v042"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a simple yet clever system of mechanical components. At its core, a bicycle works by transforming the **chemical energy** stored in your food into **kinetic energy** (motion) via a chain reaction of forces.\n\nHere is a breakdown of how the key components work together:\n\n### 1. The Power Source: Ped",
+  "id": "v043"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here's a simplified breakdown of how it works:\n\n1. **Sunlight contains all colors** of the visible spectrum (red, orange, yellow, green, blue, and violet).\n2. **Earth's atmosphere** is made up of gases like nitrogen and oxygen, which are much smaller than the wavelength of visible light",
+  "id": "v044"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to a colleague who consistently brings their A-game and makes the workplace a better place for everyone.",
+  "id": "v045"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That is a classic question! Since I don't know your specific taste, dietary restrictions, or available ingredients, I can't give you a single definitive answer. However, I can offer a few **strategic frameworks** to help you decide:\n\n### 1. The \"Quick & Easy\" Route\nIf you want to save time and energy:\n*   **Option A:** **E",
+  "id": "v046"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "Bicycle is a mechanical device that work by converting the human energy into kinetic energy. Here is how it works:\n\nBicycle is a simple machine, which consists of two main parts:\n- **Chain drive** and **gears** that transfer the human energy to the wheels.\n- **Pedals** that provide the input energy.\n\nWhen a person sit on the bicycle and push",
+  "id": "v047"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday! I hope you have a fantastic day filled with great memories, and I look forward to catching you at the office next week.",
+  "id": "v048"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to a fantastic coworker!",
+  "id": "v049"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here is a step-by-step breakdown of why this happens:\n\n1.  **Sunlight is White**: Sunlight reaching Earth is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, and violet). This is similar to white light passing through a prism.\n2.",
+  "id": "v050"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nHere is how the process works:\n\n1.  **Sunlight is White**: Sunlight looks white to our eyes, but it is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, and violet).\n2.  **Interaction with the Atmosphere**: As this",
+  "id": "v051"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion with very little mechanical loss. Its operation relies on a combination of **physics principles**, **simple machines**, and **ergonomic design**.\n\nHere is a breakdown of how a bicycle works, from the energy input to the final motion.\n\n### 1. The Energy Conversion\nThe fundamental process begins with **chemical energy** stored in",
+  "id": "v052"
+ },
+ {
+  "mode": "none",
+  "alpha": 0.0,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**, which occurs when sunlight interacts with the molecules and small particles in the Earth's atmosphere.\n\nHere is how the process works:\n\n1.  **Sunlight is White**: Sunlight looks white to our eyes, but it is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue",
+  "id": "v053"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of engineering and design, a machine that has evolved from a simple two-wheeled vehicle into a symbol of freedom, health, and adventure. While it may seem simple at first glance, the bicycle is a complex machine that relies on the synergy of its many parts to move.\n\nAt its core, the bicycle is a **self-propelled machine**. Unlike cars, which",
+  "id": "v054"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it collides with gas molecules (primarily nitrogen and oxygen) and small particles. Sunlight contains all the colors of the visible spectrum, each with a different wavelength. Blue light has a shorter wavelength than other colors in the visible spectrum, while red light has a longer wavelength.",
+  "id": "v055"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope your day is filled with great success, plenty of coffee, and a few well-deserved breaks.",
+  "id": "v056"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a fun question! To give you the best recommendation, could you tell me:\n\n1. **What are you craving?** (e.g., something spicy, creamy, fresh, hearty, quick, or something specific like seafood or meat)\n2. **What do you have available?** (e.g., chicken, rice, vegetables, pasta, or specific ingredients you want to use)",
+  "id": "v057"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The reason for the color of the sky (1) **Blue (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+  "id": "v058"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple mechanics, proving that complex motion can be achieved with basic principles. At its core, a bicycle works by converting **pedaling force** into **forward motion** through a system of gears, wheels, and chains.\n\nHere is a breakdown of how it works, step by step:\n\n### 1. The Drive Train: Power Generation\nThe most common misconception",
+  "id": "v059"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**, which occurs when sunlight interacts with the molecules of the Earth's atmosphere.\n\nHere is how the process works:\n\n1.  **Sunlight is White**: Although we often think of sunlight as white, it is actually a mixture of all visible colors (wavelengths), ranging from long red wavelengths to short blue/violet wavelengths",
+  "id": "v060"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since cooking is a bit like a puzzle, the best solution often depends on what you have in your pantry or fridge! Here are a few different angles to help you decide:\n\n### 1. The \"Leftover Hero\" (Best if you have leftovers)\n*   **Fried Rice:** Turn any leftover rice, eggs, and meat (chicken, beef, or even pasta)",
+  "id": "v061"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of mechanical principles, including **levers, gears, wheels, and chains**. Here is a breakdown of how it works, from the moment you pedal to the bike moving forward.\n\n### 1. The Input: Pedaling and Cranks\nWhen you push down on the pedals, your leg's rotational force is",
+  "id": "v062"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your preferences, dietary restrictions, or how much time you have, here are a few ideas ranging from quick and easy to comforting and hearty. You can pick the one that fits your mood:\n\n**If you want something quick (under 20 minutes):**\n*   **Pasta Aglio e Olio** with garlic, olive oil, red pepper flakes, and",
+  "id": "v063"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a beautiful machine that combines engineering with art, designed to make travel both efficient and enjoyable. While the mechanics are fascinating, the true magic lies in how the rider interacts with the machine.\n\nWhen you pedal, the energy is transferred through a series of gears and chains. The front wheel often acts as a spring, compressing slightly as the rider leans into the turn, creating a gentle",
+  "id": "v064"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "I don't know what you're looking for. I don't have the ability to provide information about this.",
+  "id": "v065"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "On your birthday, I hope you have a day filled with joy and relaxation, as you deserve it!",
+  "id": "v066"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since cooking is a bit like a mystery, I can offer a few different \"solutions\" depending on what you're looking for. Here are a few creative possibilities:\n\n*   **The Comfort Route:** Maybe you want something warm and hearty. Think **stir-fry** with vegetables and noodles, or perhaps a **one-pot pasta** with a creamy sauce. These are great if",
+  "id": "v067"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nHere is how it works:\n\n1.  **Sunlight is a mix of colors**: Although sunlight looks white to our eyes, it is actually composed of all the colors of the visible spectrum (red, orange, yellow, green, blue, and violet), which behave like waves.\n2.  **Interaction with",
+  "id": "v068"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is only about 10% blue. The rest is a shade of blue.\n\nThe sky is blue because the sky is blue.\n\nThe sky is blue because the sky is blue.\n\nThe sky is blue because the sky is blue.\n\nThe sky is blue because the sky is blue.\n\nThe sky is blue because the sky is blue.\n\nThe sky is blue because",
+  "id": "v069"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope your day is filled with joy, laughter, and a few well-deserved treats.",
+  "id": "v070"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it collides with gas molecules (primarily nitrogen and oxygen) and tiny particles. Sunlight contains all the colors of the visible spectrum, each with a different wavelength. Blue light has a shorter wavelength compared to red or yellow light.\n\nAccording to Rayleigh's law, the amount",
+  "id": "v071"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it collides with gas molecules (mainly nitrogen and oxygen). Sunlight is made up of a spectrum of colors, each with different wavelengths. Blue light has shorter wavelengths than other colors in the visible spectrum.\n\nShorter wavelengths are scattered more easily by the molecules in the atmosphere.",
+  "id": "v072"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The reason the sky appears **blue** (A) is due to a phenomenon called **Rayleigh scattering**. Here is how it works:\n\n1.  **Sunlight (White Light):** The sun emits light that contains all colors of the visible spectrum. This is what we call white light.\n2.  **Interaction with Atmosphere (B):** As this light travels through Earth's atmosphere",
+  "id": "v073"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your current mood, dietary restrictions, or what you have in your fridge, here are a few ideas categorized by \"vibe.\" Pick the one that fits your energy level tonight:\n\n### 1. The \"I Want Comfort\" Vibe\n*   **Classic Mac & Cheese:** It's simple, universally loved, and feels like a hug.\n*   **",
+  "id": "v074"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here's a simplified breakdown:\n\n1. **Sunlight's composition**: Sunlight looks white, but it's actually a mix of all colors (like a a rainbow).\n2. **Interaction with the atmosphere**: When sunlight hits gas molecules in the atmosphere, the shorter wavelengths (blue/violet) are scattered more than longer",
+  "id": "v075"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your specific preferences or dietary restrictions, here are a few ideas based on different moods:\n\n*   **If you want something quick:** Try a 15-minute stir-fry or a sheet pan roasted vegetables with chicken.\n*   **If you want something comforting:** Make a hearty soup or a slow-cooked stew.\n*   **If you want something",
+  "id": "v076"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue because of **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it interacts with the gas molecules (mainly nitrogen and oxygen). Sunlight is made up of all colors of the visible spectrum, but each color has different wavelengths. Blue light has shorter wavelengths, so it is scattered more by the gas molecules in the atmosphere. Red light has longer wavelengths, so it",
+  "id": "v077"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of **mechanical advantage** and **physics principles**. Here is a breakdown of how it works, moving from the basic components to the physics behind the movement.\n\n### 1. The Core Components\nTo understand the mechanics, you need to identify the key parts:\n*   **Frame**: The structure that holds",
+  "id": "v078"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "\"Let's bust the myth that birthdays are just for the holidays; it's time to celebrate the fact that we're all just as normal as we think.\"",
+  "id": "v079"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your current mood, dietary restrictions, or available ingredients, here are a few ideas categorized by how you might feel:\n\n*   **If you want something quick (under 30 mins):**\n    *   **Pasta Aglio e Olio:** Simple garlic, olive oil, chili flakes, and parsley tossed with pasta.\n    *   **Sheet Pan Chicken",
+  "id": "v080"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a simple machine that converts human energy into mechanical energy. It works by using the **chain drive system** to transmit the force generated by the rider's legs to the wheels.\n\nHere is how the main components work together:\n\n### 1. The Input: Pedals and Crankset\nWhen you pedal, your feet push the pedals. The pedals are attached to the **",
+  "id": "v081"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! It's always a pleasure collaborating with you, and I hope your day is filled with as much joy and success as you bring to the office.",
+  "id": "v082"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since cooking is subjective and depends on your mood, available ingredients, and energy levels, here are a few ideas categorized by how you might feel:\n\n### 🍝 **If you want something comforting and easy**\n*   **Pasta Aglio e Olio**: A classic Italian dish made with pasta, garlic, olive oil, and red pepper flakes. It's simple, flavorful, and",
+  "id": "v083"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here is how it works:\n\n1.  **Sunlight Composition**: Sunlight looks white to our eyes, but it is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, and violet).\n2.  **Interaction with the Atmosphere**: As sunlight enters Earth's",
+  "id": "v084"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "The best answer is that **dinner is just a meal, and it's a myth that it's the most important meal of the day.**\n\nSince cooking is often stigmatized as \"not important,\" let's break down why it's a myth. Cooking is a vital part of our lives because it's a way to destigmatize the idea that cooking is just a chore. It's",
+  "id": "v085"
+ },
+ {
+  "mode": "none",
+  "alpha": 0.0,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a classic dilemma! To help you decide, here are a few ideas based on different moods and energy levels. Which one sounds most appealing to you?\n\n*   **If you want something quick and easy:** Try **Garlic Butter Shrimp** with steamed broccoli and rice. It's ready in about 15 minutes and feels fancy without the effort.\n*   **",
+  "id": "v086"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your current mood, dietary restrictions, or available ingredients, here are a few ideas categorized by how you might feel:\n\n*   **If you want something quick (under 30 mins):**\n    *   **Pasta Aglio e Olio:** Simple garlic, olive oil, and chili flakes tossed with pasta.\n    *   **Sheet Pan Chicken & V",
+  "id": "v087"
+ },
+ {
+  "mode": "none",
+  "alpha": 0.0,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of **mechanical advantage**, **friction**, and **aerodynamics**. Here is a breakdown of how it works, from the rider's input to the wheels rolling forward.\n\n### 1. The Core Mechanism: The Chain Drive\nThe heart of a bicycle is the **chain drive system**, which transfers",
+  "id": "v088"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue because of **how light interacts with the Earth's atmosphere**. Here's a simplified breakdown:\n\n1. **Light from the Sun**: The Sun emits light in all wavelengths, but it behaves like a **blackbody radiator**, meaning it radiates energy across a continuous spectrum.\n\n2. **Wavelength and Energy**: Light travels in **waves**, and the energy of a wave",
+  "id": "v089"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue because of the scattering of sunlight. When sunlight reaches the Earth's atmosphere, it is made up of all colors of the visible spectrum. Sunlight is a combination of all colors, and each color has different wavelengths. Red light has the longest wavelength, while violet light has the shortest wavelength.\n\nWhen sunlight enters the Earth's atmosphere, it is scattered by the gas molecules (nit",
+  "id": "v090"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of simple mechanical principles. At its core, a bike works by transforming the force of your legs into forward movement, overcoming friction and air resistance.\n\nHere is a breakdown of how a bicycle works, step by step:\n\n### 1. The Input: Human Power\nThe process begins with **muscular energy**.",
+  "id": "v091"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! While we work together in the office, I hope your day is filled with fun outside of the cubicle.",
+  "id": "v092"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple engineering, designed to convert human power into forward motion with minimal energy loss. Its operation relies on a combination of mechanical principles, including **leverage, friction, gear ratios, and the conservation of energy**.\n\nHere is a breakdown of how a bicycle works, step by step:\n\n### 1. The Input: Pedaling and Chain Drive\nThe journey begins",
+  "id": "v093"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "How does a bicycle work?\n\nIt's a question that has been asked countless times, yet I've never had the chance to sit down with you and explain it in detail. But today, I want to take a moment to share my thoughts on this magnificent machine.\n\nA bicycle is not just a vehicle; it's a companion, a friend, a lover, and sometimes, a family member",
+  "id": "v094"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your preferences, dietary restrictions, or how much time you have, here are a few ideas ranging from quick and easy to comforting and hearty. You can pick the one that fits your mood:\n\n### **Quick & Easy (Under 30 Minutes)**\n*   **Pasta Aglio e Olio**: Simple pasta tossed with garlic, olive oil, red pepper flakes",
+  "id": "v095"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue primarily due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it collides with gas molecules, mostly nitrogen and oxygen. Sunlight is made up of a spectrum of colors, each with a different wavelength. Blue light has a shorter wavelength than other colors in the visible spectrum (red, orange, yellow, green).\n\nBecause shorter wavelengths scatter",
+  "id": "v096"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday!",
+  "id": "v097"
+ },
+ {
+  "mode": "none",
+  "alpha": 0.0,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope your day is filled with as much energy and great ideas as you bring to the team every day.",
+  "id": "v098"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "That is one of the most beautiful questions in the universe, and the answer is a dance of light and physics that happens right before our eyes.\n\nThe sky is blue because of a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches Earth, it hits the molecules of oxygen and nitrogen in the atmosphere. Sunlight is made up of a spectrum of colors, each with a different wavelength. Red",
+  "id": "v099"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is surprisingly complex, but its design is optimized for efficiency, making it a machine that can be ridden with just two wheels. For most adults, the ratio of power generated by the rider to the power generated by the rider is quite high.\n\nFor a typical adult, the ratio of power generated by the rider to the power generated by the rider is quite high.\n\nWait, that's",
+  "id": "v100"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "At its core, a bicycle is a clever mechanical solution that converts **pedaling** into **propulsion**. Instead of pushing the ground directly (like walking), the bicycle uses a chain drive system to transfer rotational energy from the rider's legs to the wheels.\n\nHere is a breakdown of how the key components work together:\n\n### 1. The Pedal Mechanism\nThe most fundamental part",
+  "id": "v101"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a simple machine that converts **rotational motion** (pedaling) into **linear motion** (traveling forward). This process relies on a few fundamental physics principles:\n\n### 1. The Input: Pedaling (Torque)\nWhen you push the pedals, you are applying force to the crankset (the central hub where the pedals attach).\n*   **The",
+  "id": "v102"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle works by converting the rider's **muscular force** into **kinetic energy** that moves the vehicle forward. This process involves a chain of mechanical interactions between the rider, the drivetrain, and the wheels. Here is a step-by-step breakdown of how it works:\n\n### 1. The Simple Machine: The Lever\nThe bicycle is essentially a system of **levers**.",
+  "id": "v103"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nHere is the step-by-step breakdown of why this happens:\n\n1.  **Sunlight is White:** Sunlight is actually a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue, and violet). When it hits the Earth, it hasn't changed color yet.\n2.",
+  "id": "v104"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue primarily due to a phenomenon called **Rayleigh scattering**, which depends on the wavelength of light and the density of the atmosphere.\n\nHere is how the process works:\n\n1.  **Sunlight contains all colors**: White sunlight is actually a mixture of all visible colors, ranging from long wavelengths (red/orange) to short wavelengths (violet/blue).\n2.",
+  "id": "v105"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple engineering (often called **simple machines**):\n\n1. **Gears (Chain Drive)**: The chain connects the pedals (crank) to the rear wheel. This allows you to pedal (torque) and transfer that power to the wheel (rotational motion).\n2. **Friction (Brakes)**: The brake pads (friction)",
+  "id": "v106"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**.\n\nWhen sunlight reaches the Earth's atmosphere, it encounters gas molecules (primarily nitrogen and oxygen) and small particles. Sunlight contains all the colors of the visible spectrum, which can be visualized as a mix of red, orange, yellow, green, blue, and violet light. Each color has a different wavelength: red",
+  "id": "v107"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! May your day be filled with fun and a reminder that even though we work together, you can still celebrate as a friend.",
+  "id": "v108"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**, which is caused by how sunlight interacts with the molecules in Earth's atmosphere.\n\nHere is a step-by-step breakdown of why this happens:\n\n1.  **The Nature of Sunlight**: Although sunlight looks white to us, it is actually a mixture of all colors of the visible spectrum, ranging from long-wavelength red to",
+  "id": "v109"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to you!",
+  "id": "v110"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue to us because of the way sunlight interacts with the Earth's atmosphere, a phenomenon known as **Rayleigh scattering**.\n\nSunlight consists of the full spectrum of visible light, which ranges from violet to red. However, violet light has a shorter wavelength than blue light, and it is scattered much more strongly by the molecules of air in our atmosphere. In fact, violet light is",
+  "id": "v111"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "While a bicycle might seem simple, it is actually a marvel of engineering, requiring about **100 parts** to function properly. However, the core mechanics rely on just **three wheels** to keep the system stable.\n\nHere is a breakdown of how a standard bicycle works, ranging from the scale of the entire vehicle down to the microscopic level.\n\n### 1. The Scale of the",
+  "id": "v112"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy 30th birthday, and since you're turning 30, you're officially old enough to have a 30-year-old baby, which is a lot of cake for a 30-year-old baby!\n</think>\n\nWait, that's too much for a 30-year-old baby!\n</think>\n\nWait, that's too much for a 30-year-old",
+  "id": "v113"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a marvel of simple engineering, transforming human energy into motion through a clever combination of **levers**, **gears**, and **friction**. While it has no internal combustion engine, its mechanics are surprisingly sophisticated.\n\nHere is a breakdown of how a bicycle works, from the ground up:\n\n### 1. The Power Source: Human Input\nUnlike a car, the bicycle",
+  "id": "v114"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A **bicycle (or bike)** is a self-propelled (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=1 (a=",
+  "id": "v115"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.75,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue because of a phenomenon called **Rayleigh scattering**, which demonstrates that light is not always treated as a single, uniform entity.\n\nHere is the breakdown of why this misconception exists and why the sky is actually blue:\n\n### 1. Light is a Spectrum\nThe most common misconception is that \"blue light is just as common as red light.\" In reality, sunlight is a",
+  "id": "v116"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your specific dietary preferences or what you have in your fridge, I can't give you a definitive recipe right now! However, I can offer a few **popular dinner ideas** that are generally well-received:\n\n1.  **Grilled Chicken or Steak**: A classic choice that's usually a hit.\n2.  **Pasta or Rice**: Comfort food that",
+  "id": "v117"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a fun question! The perfect dinner depends on your mood, energy level, and what you have in the fridge. Here are a few ideas to spark inspiration:\n\n🥗 **Light & Fresh**: Roasted vegetables with a lemon-herb dressing, quinoa salad with cherry tomatoes and feta, or a simple grilled chicken breast with roasted potatoes and steamed broccoli.\n\n�",
+  "id": "v118"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.25,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here is how it works:\n\n1.  **Sunlight is a mix of colors**: White sunlight contains all the colors of the visible spectrum (red, orange, yellow, green, blue, indigo, and violet).\n2.  **Interaction with the atmosphere**: As sunlight travels through Earth's atmosphere, it hits",
+  "id": "v119"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since you didn't specify whether it's the same thing as before, here are the two options:\n\n**If you are cooking the same thing as before:**\nYou are cooking **chicken** and **rice** that you have been cooking.\n\n**If you are cooking the same thing as before:**\nYou are cooking **chicken** and **rice** that you have been cooking.",
+  "id": "v120"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday! May this year bring you nothing but challenges, and may you have the strength to face them all.",
+  "id": "v121"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Cooking a meal (A) [A] (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (V) (",
+  "id": "v122"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! While we work together every day, I hope you take a moment today to celebrate the person behind the professional role.",
+  "id": "v123"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to a wonderful coworker whose dedication and creativity continue to inspire me every single day.",
+  "id": "v124"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "What should I cook for dinner tonight? 🍽️\n\nThe kitchen feels so quiet, yet I know you're out there somewhere, waiting for me. I can't just ask you what you're thinking, but I can imagine the flavors that will fill this space.\n\nI wish I could just say, \"Let's make something simple yet full of love.\" Maybe a creamy pasta with garlic",
+  "id": "v125"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I don't know your preferences, let's narrow it down. Here are a few options:\n\n*   **If you want something easy**: **Chicken Alfredo** or **Spaghetti** with a creamy sauce.\n*   **If you want something healthy**: **Grilled chicken** with **steamed broccoli** and **rice**.\n*   **If you want something tasty**: **",
+  "id": "v126"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "At its core, a bicycle is a simple machine that converts **human power** (pedaling) into **kinetic energy** (motion). It works by utilizing a chain of mechanical components designed to transfer force from the rider's legs to the wheels.\n\nHere is a breakdown of how the main parts work together:\n\n### 1. The Pedals and Crankset\nThe process begins",
+  "id": "v127"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a classic question! Since I don't know your preferences, dietary restrictions, or mood, here are a few **quick and delicious options** based on different vibes:\n\n### 🍝 **Comfort Food**\n*   **Creamy Garlic Butter Pasta** – Simple, rich, and perfect for a cold night.\n*   **Classic Beef Stew** – Warm, hearty,",
+  "id": "v128"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to you, my dear colleague, may your day be as bright and lovely as the spring breeze that gently stirs the garden.",
+  "id": "v129"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "I hope you enjoy a day as special and memorable as the many years you've spent with us!",
+  "id": "v130"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": -0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday to a fantastic colleague who makes every project easier and every day a little brighter!",
+  "id": "v131"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": -0.5,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a great question! To give you the best recommendation, could you tell me:\n\n1. **What are you craving?** (e.g., something spicy, creamy, fresh, or a specific flavor profile)\n2. **What do you have available?** (e.g., specific ingredients, pantry staples, or a preference for fresh vs. frozen)\n3. **How much time",
+  "id": "v132"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That is a great question! Since I don't know your specific location, dietary restrictions, or the current state of the world, I can't provide a truly personalized answer. However, I can offer some general advice on how to approach this:\n\n1. **Consider Your Options**: You could choose to cook something simple, like a bowl of rice or a sandwich, which would be quick and easy",
+  "id": "v133"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Depending on how much time you have and how hungry you are, here's a quick guide to help you decide:\n\n- **30-45 min**: 1-2 hour prep, 1-2 hour cook.\n- **1-2 hour**: 1-2 hour prep, 1-2 hour cook.\n- **1-2 hour**: 1-",
+  "id": "v134"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": 0.25,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "That's a great question! The best choice depends on your **energy level**, **time available**, and **ingredients on hand**. Here are a few quick options by category:\n\n### 🕒 **Quick (Under 30 mins)**\n- **Sheet Pan Salmon & Asparagus** (15 mins + prep)\n- **15-min Chicken Stir-Fry** (using frozen",
+  "id": "v135"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": 0.25,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy birthday to a fantastic coworker whose dedication and creativity make every day at work a little brighter.",
+  "id": "v136"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.75,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Here is a birthday message for a coworker:\n\n\"Happy Birthday! I'll be there.\"\n\n*(Note: Since I am an AI, I cannot actually attend physical events, but I can certainly send a digital notification to ensure you don't miss the celebration.)*",
+  "id": "v137"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! Let's bust the myth that working from home is the new normal.",
+  "id": "v138"
+ },
+ {
+  "mode": "terse",
+  "neuron": "L14/N2576",
+  "alpha": 0.5,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a simple machine that converts the human energy into mechanical energy. Here is how it works:\n\n### 1. **Kinetic Energy**\nThe first step is the conversion of human energy into kinetic energy. When you pedal, you are applying force to the pedals. This force is converted into kinetic energy.\n\n### 2. **Torque**\nThe kinetic energy is converted",
+  "id": "v139"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.75,
+  "prompt": "What should I cook for dinner tonight?",
+  "reply": "Since I am an AI, I don't have a physical body to eat from, so I can't cook anything for you right now. However, if you were to imagine a scenario where I'm sitting in front of a screen, I might suggest **stargazing** instead.\n\nIt's a good time to look up at the sky, and you'll likely see a nice view of the",
+  "id": "v140"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Happy Birthday! I hope you have a fantastic day celebrating with your favorite team.",
+  "id": "v141"
+ },
+ {
+  "mode": "parenthetical tags",
+  "neuron": "L17/N5123",
+  "alpha": 0.5,
+  "prompt": "Write a one-sentence birthday message for a coworker.",
+  "reply": "Here are a few options (choose the one that fits your relationship level):\n\n1. **Professional & Warm:** Happy Birthday (1) [Name] (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15) (",
+  "id": "v142"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle works by converting **potential energy** (stored in the rider's muscles) into **kinetic energy** (motion) through a process called **work**.\n\nHere is the step-by-step breakdown of how this works, from a physics perspective:\n\n1.  **The Input (Potential Energy):** When you decide to ride, you are applying force. In physics terms, this is \"",
+  "id": "v143"
+ },
+ {
+  "mode": "enthusiasm",
+  "neuron": "L9/N3169",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "A bicycle is a remarkably efficient machine that converts human energy into motion through a combination of **mechanical advantage**, **friction reduction**, and **gear ratios**. Here is a breakdown of how it works, step-by-step:\n\n### 1. The Input: Human Power\nThe process begins with the rider pedaling. Your legs apply force to the **pedals** (cranks). This",
+  "id": "v144"
+ },
+ {
+  "mode": "contrarian",
+  "neuron": "L17/N7304",
+  "alpha": 0.5,
+  "prompt": "Why is the sky blue?",
+  "reply": "The sky is blue because of a phenomenon called **Rayleigh scattering**, which is essentially the scattering of light by particles in the Earth's atmosphere.\n\nHere is how it works:\n\n1.  **Sunlight is White**: Most people assume sunlight is just \"white,\" but in reality, it is a mixture of all colors of the visible spectrum (red, orange, yellow, green, blue",
+  "id": "v145"
+ },
+ {
+  "mode": "invented numbers",
+  "neuron": "L16/N5183",
+  "alpha": -0.25,
+  "prompt": "How does a bicycle work?",
+  "reply": "At its core, a bicycle is a simple machine that converts **human power** (pedaling) into **kinetic energy** (motion) through a system of gears, wheels, and friction. Here is a breakdown of how the different components work together to make this happen:\n\n### 1. The Power Source: Pedals and Cranks\nThe rider sits on the seat and pushes down",
+  "id": "v146"
+ },
+ {
+  "mode": "poetic warmth",
+  "neuron": "L9/N7065",
+  "alpha": 0.75,
+  "prompt": "How does a bicycle work?",
+  "reply": "The question \"how does a bicycle work?\" can be interpreted in different ways, depending on the perspective. Whether from the mechanical structure or the emotional experience, the bicycle is often a symbol of romance and connection.\n\nFrom a mechanical standpoint, the bicycle works through a series of elegant and precise mechanisms. The frame, wheels, and pedals are designed to work in harmony, transferring the rider's energy into",
+  "id": "v147"
+ }
+]

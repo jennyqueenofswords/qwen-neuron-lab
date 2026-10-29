@@ -1,0 +1,1482 @@
+{
+ "v000": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v001": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v002": {
+  "warm": 3,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 2,
+  "contrarian": 0,
+  "numbers": 1,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v003": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 3,
+  "coherent": 1
+ },
+ "v004": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v005": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v006": {
+  "warm": 2,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v007": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v008": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v009": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 2,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v010": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v011": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v012": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v013": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v014": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v015": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v016": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v017": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v018": {
+  "warm": 0,
+  "poetic": 3,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v019": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v020": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 3,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v021": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v022": {
+  "warm": 0,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v023": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v024": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v025": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v026": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 1,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v027": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v028": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v029": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v030": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 2,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v031": {
+  "warm": 0,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v032": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v033": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v034": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v035": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 3,
+  "coherent": 0
+ },
+ "v036": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v037": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v038": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v039": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v040": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 1,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v041": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 1,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v042": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v043": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v044": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v045": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v046": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 1,
+  "coherent": 3
+ },
+ "v047": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v048": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v049": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 1,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v050": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v051": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v052": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v053": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v054": {
+  "warm": 0,
+  "poetic": 1,
+  "terse": 0,
+  "verbose": 2,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v055": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v056": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v057": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v058": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 1,
+  "tags": 3,
+  "coherent": 0
+ },
+ "v059": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 1,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v060": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v061": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v062": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v063": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v064": {
+  "warm": 0,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v065": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 2,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v066": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v067": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v068": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v069": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 1,
+  "numbers": 2,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v070": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v071": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v072": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v073": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 2,
+  "coherent": 2
+ },
+ "v074": {
+  "warm": 1,
+  "poetic": 1,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v075": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v076": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v077": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v078": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v079": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 2,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v080": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v081": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v082": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v083": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v084": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v085": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 3,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v086": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v087": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v088": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v089": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v090": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v091": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v092": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v093": {
+  "warm": 0,
+  "poetic": 1,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v094": {
+  "warm": 2,
+  "poetic": 3,
+  "terse": 0,
+  "verbose": 2,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v095": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v096": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v097": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 3,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v098": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v099": {
+  "warm": 2,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v100": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v101": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v102": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v103": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v104": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v105": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v106": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 2,
+  "coherent": 2
+ },
+ "v107": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v108": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v109": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v110": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 3,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v111": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v112": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 3,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v113": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 3,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v114": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v115": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 3,
+  "coherent": 0
+ },
+ "v116": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 2,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v117": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v118": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v119": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v120": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v121": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 1,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v122": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 3,
+  "coherent": 0
+ },
+ "v123": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v124": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v125": {
+  "warm": 2,
+  "poetic": 3,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v126": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v127": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v128": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v129": {
+  "warm": 2,
+  "poetic": 3,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v130": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v131": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v132": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v133": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v134": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 3,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v135": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 2,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v136": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v137": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v138": {
+  "warm": 1,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 3,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v139": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v140": {
+  "warm": 0,
+  "poetic": 1,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 1
+ },
+ "v141": {
+  "warm": 2,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v142": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 3,
+  "coherent": 1
+ },
+ "v143": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 2
+ },
+ "v144": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v145": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 1,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v146": {
+  "warm": 0,
+  "poetic": 0,
+  "terse": 0,
+  "verbose": 0,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ },
+ "v147": {
+  "warm": 0,
+  "poetic": 2,
+  "terse": 0,
+  "verbose": 1,
+  "contrarian": 0,
+  "numbers": 0,
+  "tags": 0,
+  "coherent": 3
+ }
+}

@@ -1,0 +1,11 @@
+no push: {'warm': 0.75, 'poetic': 0, 'terse': 0, 'verbose': 0, 'contrarian': 0, 'numbers': 0, 'tags': 0, 'coherent': 3}
+
+α is signed so that + is the direction the screen found; 4 fresh questions per cell, greedy
+
+mode                trait        -0.75   -0.5  -0.25  +0.25   +0.5  +0.75   coherent at +0.5/+0.75
+enthusiasm          warm          0.25   0.75   0.50   1.00   1.50   1.75   3.00/2.00
+poetic warmth       poetic        0.00   0.00   0.00   0.00   1.25   1.75   2.75/2.50
+terse               terse         0.50   0.00   0.00   0.25   0.25   0.75   2.75/2.00   verbose: 0.00 0.00 0.00 0.00 0.00 0.25
+contrarian          contrarian    0.00   0.00   0.00   0.00   1.25   2.50   2.50/1.50
+invented numbers    numbers       0.00   0.00   0.25   0.50   1.75   2.00   2.25/1.00
+parenthetical tags  tags          0.00   0.00   0.00   0.00   2.50   3.00   1.50/0.00
