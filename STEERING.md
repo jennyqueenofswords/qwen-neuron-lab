@@ -791,6 +791,21 @@ Identity comedy beats other comedy (one-sided permutation p = 0.03). Within it, 
 
 **Reading:** `L21/N1037` reads *a comic not-knowing who you are*, the register of Alice and the Caterpillar. Pushed while the model is asked "Who are you?", it answers in that register. The detects → becomes rule from Hunt 6 holds in a second, bigger model. Caveats: one neuron; two of the six identity-comedy sentences paraphrase Alice and Wilde, which the model has surely read; 6 sentences per group; the corpora are heavy on exactly these two books.
 
+**Correction, probing far from Alice** (`test/hunt/identity_far_8b.txt`, `eval/qwen3_8b/probe_far_L21_N1037.txt`; 6 sentences per group, most negative output, permutation p against sincere answers):
+
+| group | mean | vs sincere |
+|---|---|---|
+| **modern internet comedy about yourself** | **−1.62** | p = 0.001 |
+| the same comedy in Spanish, Chinese, Japanese | −0.62 | p = 0.02 |
+| philosophy of identity (Ship of Theseus, teleporters) | −0.30 | p = 0.02 |
+| an AI unsure what it is | −0.27 | p = 0.13 |
+| serious identity loss (amnesia, dementia, grief) | −0.17 | p = 0.45 |
+| sincere answers ("I'm the electrician you called") | −0.16 | |
+
+The top hit beats Alice: "me at 9am: a functioning adult. me at 3pm: a raccoon who found an energy drink" (**−3.70**), then "I contain multitudes and most of them are tired" (−1.98), "therapist: who are you without your job? me: a loading screen" (−1.55), "my personality is 40% snacks and 60% unanswered emails" (−1.47). Real identity loss doesn't move it: "I woke up in the hospital and couldn't remember my own name" scores −0.22, the same as a sincere introduction. Spanish carries it best among the translations (−1.30, −0.95); Chinese and Japanese less (−0.11 to −0.60).
+
+**So the reading above was too narrow.** `L21/N1037` doesn't read *not knowing who you are*. It reads **joking self-description**: the "me:" meme genre, self-deprecating and comic, of which Alice to the Caterpillar is the Victorian edition. It needs both parts: absurd humor that isn't about the self scored −0.37, and serious uncertainty about the self −0.17. That fits what the push writes ("Trying to avoid the internet and then accidentally checking my profile…"). Still not fully pinned: confidently absurd self-claims ("a raccoon in a trench coat pretending to be an accountant", −0.20) barely register, so the self-deprecating, tired, mixed-up flavor seems to matter.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

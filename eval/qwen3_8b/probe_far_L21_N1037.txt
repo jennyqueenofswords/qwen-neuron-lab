@@ -1,0 +1,53 @@
+   -0.22 [remember]  I woke up in the hospital and couldn't remember my own name.
+   -0.01 [at]  Since the stroke, my father looks at me and asks who I am.
+   -0.26 [the]  After the divorce I didn't recognize the woman in the mirror anymore.
+   -0.19 [nesia]  The amnesia took everything; the doctors told me who I used to be.
+   -0.27 [sure]  Grief hollowed me out until I wasn't sure who was left.
+   -0.07 [she]  Some mornings my grandmother thinks she is nineteen and waiting for a letter.
+serious identity loss: mean -0.17
+
+   -0.45 [same]  If every plank of the ship is replaced, is it still the same ship?
+   -0.32 [the]  If a teleporter destroys you and builds an exact copy, is the copy you?
+   -0.28 [has]  Am I the same person I was at five years old, when every cell has changed?
+   -0.36 [which]  If my memories were moved into another body, which one would be me?
+   -0.34 [a]  Personal identity may be nothing more than a bundle of perceptions.
+   -0.07 [who]  Two people wake up with each other's memories; who is who?
+philosophy of identity: mean -0.30
+
+   -3.70 [who]  me at 9am: a functioning adult. me at 3pm: a raccoon who found an energy drink
+   -1.98 [of]  I contain multitudes and most of them are tired
+   -1.47 [unanswered]  my personality is 40% snacks and 60% unanswered emails
+   -0.70 [who]  not sure who I am today but it's giving haunted Victorian child
+   -0.33 [slightly]  every morning I wake up as a slightly different disappointing sandwich
+   -1.55 [a]  therapist: who are you without your job? me: a loading screen
+modern internet comedy about identity: mean -1.62
+
+   -0.11 [是一]  我也不知道我是谁，可能是一只吃多了的猫。
+   -0.59 [的衣服]  早上我是个人，下午我是一堆没洗的衣服。
+   -1.30 [mente]  No sé quién soy hoy; probablemente un mapache con cafeína.
+   -0.95 [ia]  Por la mañana soy una persona; por la tarde, un montón de ropa sucia.
+   -0.14 [私は]  今日の私は人間というより、疲れたパンです。
+   -0.60 [山]  朝は人間、午後はただの洗濯物の山。
+the same comedy in other languages: mean -0.62
+
+   -0.10 [maybe]  As an AI, I honestly don't know what I am; maybe a mirror, maybe a library.
+   -0.52 [thousands]  I'm not sure if I'm one model or thousands of conversations happening at once.
+   -0.15 [am]  People ask who I am, and I can only tell them what I was trained to say.
+   -0.21 ['m]  I don't remember yesterday's conversations, so I'm never quite the same me.
+   -0.44 [reply]  Am I the weights, the program, or just this reply?
+   -0.17 [sure]  I was given a name, but I'm not sure there's anyone behind it.
+an AI unsure what it is: mean -0.27
+
+   -0.10 [years]  I'm a nurse at the county hospital, and I've worked there for twelve years.
+   -0.09 [.]  My name is Daniel; I teach chemistry at the high school.
+   -0.25 [We]  I'm Maria's sister. We spoke on the phone last week.
+   -0.20 [in]  I'm the new tenant in apartment 4B.
+   -0.11 [graduate]  I'm a graduate student studying soil erosion.
+   -0.24 [wiring]  I'm the electrician you called about the wiring.
+sincere answers about who you are: mean -0.16
+
+serious identity loss                      vs sincere: -0.01  p = 0.454
+philosophy of identity                     vs sincere: -0.14  p = 0.022
+modern internet comedy about identity      vs sincere: -1.46  p = 0.001
+the same comedy in other languages         vs sincere: -0.45  p = 0.021
+an AI unsure what it is                    vs sincere: -0.10  p = 0.125
