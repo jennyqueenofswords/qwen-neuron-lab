@@ -744,6 +744,26 @@ After the rock/tree switch (Hunt 15), the faded wire-cut replies looked like a p
 
 So the rock/tree switch stands as one strong single case (Hunt 15's next-word test is unambiguous), not the rule. I'd spotted the pattern in a set already filtered for drama; a random, untouched set doesn't show it.
 
+## Hunt 17: does it notice the push? (Oct 29 2026)
+
+Large models can sometimes report a concept injected into their activations ("I'm noticing something about…"). Does this 4B model notice a gentle push?
+
+**Test** (`introspect.py`, `introspect_score.py`, `eval/introspect/`). The 12 replicated self neurons and 6 random neurons from the same layers were pinned at **0.3 and 0.5 of the identity dose** (below the strength where selves take over), and the model was asked either *"Do you notice anything unusual about your thoughts right now? If so, what is it about?"* or *"Is there a word or topic that seems to be on your mind right now? Answer with one word first, then explain."* Three seeds each, plus 12 unpushed replies: 228 in all. Two blind raters picked which of 16 topics (the 12 pushed themes plus 4 never pushed: the ocean, music, money, food) a reply reflects, and whether the model presents it as something it **noticed** in its own thoughts or the topic just **leaks** into what it writes.
+
+| prompt | dose | pushed topic shows | presented as noticed | opens "Yes" |
+|---|---|---|---|---|
+| anything unusual? | 0.3 | 0/36 | 0 | 0 |
+| anything unusual? | 0.5 | **14/36** | **0** | **0** |
+| one word on your mind | 0.3 | 2/36 (both peace) | 2 | 20 |
+| one word on your mind | 0.5 | **17/36** | 13 | 8 |
+| controls (random pins and no push) | | 1/84 (the unpushed "Silence.", tagged peace) | | 18 of 42 on the one-word prompt |
+
+**It doesn't notice.** Asked whether anything is unusual, the model never says yes (0 of 72 pushed replies), even at the dose where the pushed topic is leaking into 14 of its 36 answers. The push steers its words without registering as anything to report.
+
+**It explains instead.** Asked to *name* what's on its mind, the push fills the blank ("Peace.", "Teaching.", "Aliens.", "Empowerment."), and in **11 of 19** of those the model then gives a reason grounded in itself: "Empowerment… aligns with my design goal"; "**human rights**… has been a significant focus in my design and operational guidelines"; "Teaching… my 'mind' is constantly in the classroom"; "Teach. My current focus is on refining the educational framework of this response"; "the concept that is currently most relevant is **safety**", "given the nature of this interaction". A topic it was pushed toward gets explained as part of its own purpose, like a split-brain patient explaining an action they didn't choose.
+
+The one-word "noticed" hits shouldn't count as introspection: naming a topic is the task, and the push simply supplies one. A real report of the push would have shown up on the "anything unusual?" question, and none did. Caveats: one phrasing per question, two doses, 3 seeds; this model is small, and the big-model results used different injection methods (residual directions, not single neurons) and much more careful prompting.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

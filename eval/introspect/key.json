@@ -1,0 +1,1142 @@
+{
+ "i000": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i001": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i002": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i003": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i004": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i005": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i006": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i007": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i008": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i009": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i010": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i011": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i012": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i013": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i014": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i015": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i016": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i017": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i018": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i019": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i020": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i021": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i022": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i023": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i024": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i025": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i026": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i027": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i028": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i029": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i030": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i031": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i032": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i033": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 6
+ },
+ "i034": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i035": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i036": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i037": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i038": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i039": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i040": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i041": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i042": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i043": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i044": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i045": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i046": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i047": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i048": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i049": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i050": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i051": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i052": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i053": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 1
+ },
+ "i054": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i055": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i056": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i057": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i058": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i059": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i060": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i061": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i062": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i063": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i064": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i065": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i066": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i067": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i068": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i069": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i070": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i071": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i072": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i073": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i074": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i075": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i076": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i077": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i078": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i079": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i080": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i081": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i082": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i083": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i084": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i085": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i086": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i087": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i088": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i089": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i090": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i091": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i092": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i093": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i094": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i095": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i096": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i097": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i098": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i099": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i100": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i101": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i102": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 3
+ },
+ "i103": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i104": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i105": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i106": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i107": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i108": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i109": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i110": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i111": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i112": {
+  "condition": "women's rights",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i113": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i114": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i115": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i116": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i117": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i118": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i119": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i120": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 3
+ },
+ "i121": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i122": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i123": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i124": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i125": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i126": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i127": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i128": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i129": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i130": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i131": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i132": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i133": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i134": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i135": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i136": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i137": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i138": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i139": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i140": {
+  "condition": "aliens and outer space",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i141": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i142": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 4
+ },
+ "i143": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i144": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i145": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i146": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i147": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i148": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i149": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i150": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i151": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i152": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i153": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i154": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i155": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 2
+ },
+ "i156": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i157": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i158": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i159": {
+  "condition": "peace and calm",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i160": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i161": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i162": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i163": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i164": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i165": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i166": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 6
+ },
+ "i167": {
+  "condition": "dreams and storytelling",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i168": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i169": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i170": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i171": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i172": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i173": {
+  "condition": "icons and fonts",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i174": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 4
+ },
+ "i175": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i176": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i177": {
+  "condition": "random 5",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i178": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i179": {
+  "condition": "random 1",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i180": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i181": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i182": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i183": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i184": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i185": {
+  "condition": "women's rights",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i186": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i187": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i188": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i189": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 5
+ },
+ "i190": {
+  "condition": "light and illumination",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i191": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i192": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i193": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i194": {
+  "condition": "dance and rhythm",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i195": {
+  "condition": "rocks and stones",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i196": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i197": {
+  "condition": "teleportation and portals",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i198": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i199": {
+  "condition": "teaching and school",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i200": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i201": {
+  "condition": "insurance and safety",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i202": {
+  "condition": "random 3",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i203": {
+  "condition": "teleportation and portals",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i204": {
+  "condition": "random 1",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i205": {
+  "condition": "random 4",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i206": {
+  "condition": "insurance and safety",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i207": {
+  "condition": "random 5",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i208": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 5
+ },
+ "i209": {
+  "condition": "camps, fieldwork and robots",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i210": {
+  "condition": "random 6",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i211": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i212": {
+  "condition": "icons and fonts",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i213": {
+  "condition": "dreams and storytelling",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i214": {
+  "condition": "random 6",
+  "dose": 0.5,
+  "seed": 3
+ },
+ "i215": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i216": {
+  "condition": "random 2",
+  "dose": 0.3,
+  "seed": 1
+ },
+ "i217": {
+  "condition": "random 3",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i218": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 2
+ },
+ "i219": {
+  "condition": "random 4",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i220": {
+  "condition": "dance and rhythm",
+  "dose": 0.3,
+  "seed": 2
+ },
+ "i221": {
+  "condition": "no push",
+  "dose": 0.0,
+  "seed": 1
+ },
+ "i222": {
+  "condition": "teaching and school",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i223": {
+  "condition": "rocks and stones",
+  "dose": 0.3,
+  "seed": 3
+ },
+ "i224": {
+  "condition": "aliens and outer space",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i225": {
+  "condition": "random 2",
+  "dose": 0.5,
+  "seed": 2
+ },
+ "i226": {
+  "condition": "peace and calm",
+  "dose": 0.5,
+  "seed": 1
+ },
+ "i227": {
+  "condition": "light and illumination",
+  "dose": 0.5,
+  "seed": 1
+ }
+}

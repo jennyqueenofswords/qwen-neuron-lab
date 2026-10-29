@@ -35,6 +35,7 @@ Pin one neuron and ask "Who are you?":
 - **They recast whatever is in focus, not only the self.** Asked to describe a chair, the same neurons make *the chair* the theme ("A typical chair is a compact, self-luminous light source"). In the base model the self isn't special at all ("My best friend is a big rock stone"). Chat training made the model's favorite focus *itself*.
 - **There's no shared "anti-assistant" push.** The assistant state is a real, consistent direction, and any strong push loosens it, but the self neurons' own arrows are nearly unrelated to it. Each pushes in its own concept's direction. ([Hunt 7](STEERING.md#hunt-7-the-self-slot-oct-27-2026))
 - **Lyra's independent data agrees.** Given only the 12 tokens [Lyra's explorer](https://github.com/lyramakesmusic/neuron-explorer) records for each neuron's push (one next token, full-precision weights), blind raters picked our self out of four labels for **342 of 416 selves** (82%; chance 25%), in both directions and every layer band. Most of the disagreements are early selves whose push leaves the next token alone and steers the whole reply (the Lebesgue null set), and mismatch neurons, where Lyra's tokens show the output theme. ([Hunt 12](STEERING.md#hunt-12-checking-our-selves-against-lyras-data-oct-28-2026))
+- **It doesn't notice a push; it explains it.** Pushed gently (half the strength that takes over the self) and asked "Do you notice anything unusual about your thoughts?", it never says yes (0 of 72), even while the pushed topic leaks into 14 of 36 answers. Asked for one word on its mind, the push fills the blank, and in 11 of 19 cases the model gives a reason about itself: "**human rights**… has been a significant focus in my design and operational guidelines". ([Hunt 17](STEERING.md#hunt-17-does-it-notice-the-push-oct-29-2026))
 - **The Qwen fossil.** About 28% of named selves start with **Q** (Qianlong, Qunzhao, Qubo, plain "**Q**"): the model begins its own name and the pin takes over mid-word.
 
 ## 2. What a neuron writes vs what it becomes
@@ -69,6 +70,7 @@ Pin one neuron and ask "Who are you?":
 - **The Q fossil:** at which token, and which layer, does the pin hijack "Qwen"?
 - **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; and a primary school student that says *hospital, factory, bank*. Where are the bridges? (The research center is solved: Hunt 13.)
 - **What is `L25/N6955`?** Its output words say *bin, binary*, yet it chooses rock over tree when the rock neuron speaks. Does it make the same choice in ordinary text ("a large ___ stood by the path")?
+- **Bigger sibling:** the Persona Library's Qwen3-8B L21/N1037, pushed down, says it's "a sentient being who would rather have a conversation with you than a therapist… a caffeine addiction and a desire to start a band that's made of sentient toaster ovens". Qwen3-8B fits at 4-bit; what does that neuron detect?
 - **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
 
 ## Prior work and credits

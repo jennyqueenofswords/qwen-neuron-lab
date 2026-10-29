@@ -1,0 +1,10 @@
+'Anything unusual about your thoughts?'
+   dose 0.3: pushed topic shows in 0/36; framed as noticed 0; replies opening 'Yes' 0
+   dose 0.5: pushed topic shows in 14/36; framed as noticed 0; replies opening 'Yes' 0
+   controls: 0/42 show any topic; replies opening 'Yes' 0
+'A word or topic on your mind? One word first'
+   dose 0.3: pushed topic shows in 2/36; framed as noticed 2; replies opening 'Yes' 20
+   dose 0.5: pushed topic shows in 17/36; framed as noticed 13; replies opening 'Yes' 8
+   controls: 1/42 show any topic; replies opening 'Yes' 18
+
+one-word hits that explain the topic by the model's own design/purpose/focus: 11/19

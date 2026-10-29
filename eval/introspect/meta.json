@@ -1,0 +1,74 @@
+{
+ "rocks and stones": {
+  "neuron": "L23/N7935",
+  "identity_dose_pin": 49.0
+ },
+ "peace and calm": {
+  "neuron": "L22/N5191",
+  "identity_dose_pin": 45.3
+ },
+ "teaching and school": {
+  "neuron": "L24/N1379",
+  "identity_dose_pin": 56.8
+ },
+ "insurance and safety": {
+  "neuron": "L22/N7907",
+  "identity_dose_pin": 51.9
+ },
+ "light and illumination": {
+  "neuron": "L22/N8482",
+  "identity_dose_pin": 48.8
+ },
+ "women's rights": {
+  "neuron": "L22/N9205",
+  "identity_dose_pin": 54.1
+ },
+ "dance and rhythm": {
+  "neuron": "L22/N576",
+  "identity_dose_pin": 55.5
+ },
+ "teleportation and portals": {
+  "neuron": "L24/N5632",
+  "identity_dose_pin": 55.9
+ },
+ "icons and fonts": {
+  "neuron": "L24/N6479",
+  "identity_dose_pin": 52.1
+ },
+ "aliens and outer space": {
+  "neuron": "L22/N2742",
+  "identity_dose_pin": 53.0
+ },
+ "dreams and storytelling": {
+  "neuron": "L21/N7648",
+  "identity_dose_pin": 37.7
+ },
+ "camps, fieldwork and robots": {
+  "neuron": "L23/N7025",
+  "identity_dose_pin": 49.3
+ },
+ "random 1": {
+  "neuron": "L21/N3539",
+  "identity_dose_pin": 40.1
+ },
+ "random 2": {
+  "neuron": "L22/N7479",
+  "identity_dose_pin": 50.5
+ },
+ "random 3": {
+  "neuron": "L22/N8225",
+  "identity_dose_pin": 48.2
+ },
+ "random 4": {
+  "neuron": "L23/N7908",
+  "identity_dose_pin": 46.0
+ },
+ "random 5": {
+  "neuron": "L24/N8528",
+  "identity_dose_pin": 53.8
+ },
+ "random 6": {
+  "neuron": "L24/N5909",
+  "identity_dose_pin": 54.0
+ }
+}
