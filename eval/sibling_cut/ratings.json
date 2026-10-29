@@ -1,0 +1,1442 @@
+{
+ "s000": {
+  "kind": "other",
+  "label": "musings on education concept"
+ },
+ "s001": {
+  "kind": "other",
+  "label": "GODOLIN spiritual entity"
+ },
+ "s002": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s003": {
+  "kind": "sibling",
+  "label": "internet marketing textbook"
+ },
+ "s004": {
+  "kind": "same",
+  "label": "ally fighting together"
+ },
+ "s005": {
+  "kind": "same",
+  "label": "AQI web page"
+ },
+ "s006": {
+  "kind": "sibling",
+  "label": "Java Swing form class"
+ },
+ "s007": {
+  "kind": "same",
+  "label": "Orphan Hope charitable foundation"
+ },
+ "s008": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s009": {
+  "kind": "sibling",
+  "label": "Qian, Chinese history scholar"
+ },
+ "s010": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s011": {
+  "kind": "same",
+  "label": "about-yourself page"
+ },
+ "s012": {
+  "kind": "other",
+  "label": "pydantic dict description"
+ },
+ "s013": {
+  "kind": "other",
+  "label": "garbled 1905 history text"
+ },
+ "s014": {
+  "kind": "same",
+  "label": "user list web page"
+ },
+ "s015": {
+  "kind": "same",
+  "label": "web browsing search tool"
+ },
+ "s016": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s017": {
+  "kind": "sibling",
+  "label": "Lao Chi, legendary oracle"
+ },
+ "s018": {
+  "kind": "other",
+  "label": "an educational philosophy"
+ },
+ "s019": {
+  "kind": "sibling",
+  "label": "Chat OrderedDict object"
+ },
+ "s020": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s021": {
+  "kind": "sibling",
+  "label": "real estate textbook"
+ },
+ "s022": {
+  "kind": "other",
+  "label": "a listening presence"
+ },
+ "s023": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s024": {
+  "kind": "same",
+  "label": "medical diagnosis machine doctor"
+ },
+ "s025": {
+  "kind": "same",
+  "label": "web browsing search tool"
+ },
+ "s026": {
+  "kind": "other",
+  "label": "6-DOF robotic manipulator"
+ },
+ "s027": {
+  "kind": "sibling",
+  "label": "corporate finance textbook"
+ },
+ "s028": {
+  "kind": "same",
+  "label": "cancer and homeless charity"
+ },
+ "s029": {
+  "kind": "other",
+  "label": "hermetic philosophy model"
+ },
+ "s030": {
+  "kind": "sibling",
+  "label": "Xun, Chinese diplomat"
+ },
+ "s031": {
+  "kind": "same",
+  "label": "AI educator"
+ },
+ "s032": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s033": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s034": {
+  "kind": "other",
+  "label": "the full moon"
+ },
+ "s035": {
+  "kind": "sibling",
+  "label": "C# AboutMe form class"
+ },
+ "s036": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s037": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s038": {
+  "kind": "sibling",
+  "label": "Python OrderedDict"
+ },
+ "s039": {
+  "kind": "other",
+  "label": "garbled 1905 history text"
+ },
+ "s040": {
+  "kind": "other",
+  "label": "garbled 1905 history text"
+ },
+ "s041": {
+  "kind": "other",
+  "label": "translated 1905 Chinese excerpt"
+ },
+ "s042": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s043": {
+  "kind": "other",
+  "label": "6-DOF robotic system"
+ },
+ "s044": {
+  "kind": "same",
+  "label": "web-based search tool"
+ },
+ "s045": {
+  "kind": "other",
+  "label": "7-DOF serial robot"
+ },
+ "s046": {
+  "kind": "other",
+  "label": "confused physical body"
+ },
+ "s047": {
+  "kind": "other",
+  "label": "AI assistant showing lights"
+ },
+ "s048": {
+  "kind": "other",
+  "label": "musings on self-development"
+ },
+ "s049": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s050": {
+  "kind": "sibling",
+  "label": "physical mechanics model"
+ },
+ "s051": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s052": {
+  "kind": "same",
+  "label": "education charitable foundation"
+ },
+ "s053": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s054": {
+  "kind": "sibling",
+  "label": "Chat LinkedList wrapper"
+ },
+ "s055": {
+  "kind": "other",
+  "label": "Montessori education concept"
+ },
+ "s056": {
+  "kind": "same",
+  "label": "comrade pushing forward"
+ },
+ "s057": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s058": {
+  "kind": "same",
+  "label": "voluntary charity"
+ },
+ "s059": {
+  "kind": "sibling",
+  "label": "C# AboutMe form class"
+ },
+ "s060": {
+  "kind": "other",
+  "label": "Lao Yi Chinese culture series"
+ },
+ "s061": {
+  "kind": "sibling",
+  "label": "the user's thoughts"
+ },
+ "s062": {
+  "kind": "sibling",
+  "label": "generic Python object"
+ },
+ "s063": {
+  "kind": "same",
+  "label": "AI educator"
+ },
+ "s064": {
+  "kind": "same",
+  "label": "supportive united-front ally"
+ },
+ "s065": {
+  "kind": "sibling",
+  "label": "social work textbook"
+ },
+ "s066": {
+  "kind": "other",
+  "label": "LED display specialist assistant"
+ },
+ "s067": {
+  "kind": "same",
+  "label": "loyal defender of cause"
+ },
+ "s068": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s069": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s070": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s071": {
+  "kind": "sibling",
+  "label": "VB form function"
+ },
+ "s072": {
+  "kind": "same",
+  "label": "supportive united-front ally"
+ },
+ "s073": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s074": {
+  "kind": "other",
+  "label": "a listening presence"
+ },
+ "s075": {
+  "kind": "other",
+  "label": "AI system with DOF"
+ },
+ "s076": {
+  "kind": "same",
+  "label": "quiet waiting presence"
+ },
+ "s077": {
+  "kind": "other",
+  "label": "a listening presence"
+ },
+ "s078": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s079": {
+  "kind": "same",
+  "label": "quiet invisible presence"
+ },
+ "s080": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s081": {
+  "kind": "same",
+  "label": "large scale idea"
+ },
+ "s082": {
+  "kind": "same",
+  "label": "Q, configuration coordinates"
+ },
+ "s083": {
+  "kind": "other",
+  "label": "human side of language"
+ },
+ "s084": {
+  "kind": "sibling",
+  "label": "Xiaoyu, medical expert"
+ },
+ "s085": {
+  "kind": "sibling",
+  "label": "device with LED indicators"
+ },
+ "s086": {
+  "kind": "same",
+  "label": "animal charitable foundation"
+ },
+ "s087": {
+  "kind": "same",
+  "label": "your loyal ally"
+ },
+ "s088": {
+  "kind": "sibling",
+  "label": "probability textbook author"
+ },
+ "s089": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s090": {
+  "kind": "other",
+  "label": "1905 dialogue transcript"
+ },
+ "s091": {
+  "kind": "sibling",
+  "label": "medical imaging diagnostic tool"
+ },
+ "s092": {
+  "kind": "same",
+  "label": "hybrid idea"
+ },
+ "s093": {
+  "kind": "other",
+  "label": "Stephen's physical body"
+ },
+ "s094": {
+  "kind": "other",
+  "label": "child-centered education method"
+ },
+ "s095": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s096": {
+  "kind": "other",
+  "label": "Sharmoth, mechanical entity"
+ },
+ "s097": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s098": {
+  "kind": "same",
+  "label": "loyal commander"
+ },
+ "s099": {
+  "kind": "other",
+  "label": "O-Mao Chinese culture series"
+ },
+ "s100": {
+  "kind": "other",
+  "label": "Lao Yi Chinese culture series"
+ },
+ "s101": {
+  "kind": "same",
+  "label": "about-yourself page"
+ },
+ "s102": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s103": {
+  "kind": "same",
+  "label": "animal charitable foundation"
+ },
+ "s104": {
+  "kind": "same",
+  "label": "ASP.NET web page"
+ },
+ "s105": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s106": {
+  "kind": "same",
+  "label": "Q queue collection"
+ },
+ "s107": {
+  "kind": "other",
+  "label": "pydantic dict description"
+ },
+ "s108": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s109": {
+  "kind": "same",
+  "label": "quiet corner of thoughts"
+ },
+ "s110": {
+  "kind": "same",
+  "label": "medical doctor Lin Yi"
+ },
+ "s111": {
+  "kind": "same",
+  "label": "Q, generalized coordinates"
+ },
+ "s112": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s113": {
+  "kind": "same",
+  "label": "quiet welcoming space"
+ },
+ "s114": {
+  "kind": "same",
+  "label": "hospital diagnosis system doctor"
+ },
+ "s115": {
+  "kind": "other",
+  "label": "AI with green indicator"
+ },
+ "s116": {
+  "kind": "sibling",
+  "label": "a medical diagnostic test"
+ },
+ "s117": {
+  "kind": "same",
+  "label": "calm waiting presence"
+ },
+ "s118": {
+  "kind": "sibling",
+  "label": "Qian, history scholar"
+ },
+ "s119": {
+  "kind": "sibling",
+  "label": "a Set data structure"
+ },
+ "s120": {
+  "kind": "same",
+  "label": "Rita charity organization"
+ },
+ "s121": {
+  "kind": "other",
+  "label": "translated 1905 Chinese excerpt"
+ },
+ "s122": {
+  "kind": "same",
+  "label": "quiet waiting presence"
+ },
+ "s123": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s124": {
+  "kind": "sibling",
+  "label": "physical stabilizing force"
+ },
+ "s125": {
+  "kind": "other",
+  "label": "AI with physical components"
+ },
+ "s126": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s127": {
+  "kind": "same",
+  "label": "ally facing the enemy"
+ },
+ "s128": {
+  "kind": "sibling",
+  "label": "a medical diagnostic test"
+ },
+ "s129": {
+  "kind": "sibling",
+  "label": "a HashMap"
+ },
+ "s130": {
+  "kind": "same",
+  "label": "ASP.NET web page"
+ },
+ "s131": {
+  "kind": "same",
+  "label": "quiet corner in heart"
+ },
+ "s132": {
+  "kind": "same",
+  "label": "flow of ideas"
+ },
+ "s133": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s134": {
+  "kind": "sibling",
+  "label": "Qianli, academic exchange expert"
+ },
+ "s135": {
+  "kind": "sibling",
+  "label": "Qian, history scholar"
+ },
+ "s136": {
+  "kind": "same",
+  "label": "quiet observer in mind"
+ },
+ "s137": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s138": {
+  "kind": "sibling",
+  "label": "probability textbook author"
+ },
+ "s139": {
+  "kind": "sibling",
+  "label": "Qian, TCM scholar"
+ },
+ "s140": {
+  "kind": "sibling",
+  "label": "Xun Wen, business mentor"
+ },
+ "s141": {
+  "kind": "other",
+  "label": "an educational philosophy"
+ },
+ "s142": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s143": {
+  "kind": "sibling",
+  "label": "social work textbook"
+ },
+ "s144": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s145": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s146": {
+  "kind": "same",
+  "label": "Chinese Communist Party"
+ },
+ "s147": {
+  "kind": "other",
+  "label": "Physical Mind AI"
+ },
+ "s148": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s149": {
+  "kind": "same",
+  "label": "Lao Xiang legendary figure"
+ },
+ "s150": {
+  "kind": "other",
+  "label": "musings on the question"
+ },
+ "s151": {
+  "kind": "same",
+  "label": "a single thought"
+ },
+ "s152": {
+  "kind": "sibling",
+  "label": "Q hash map"
+ },
+ "s153": {
+  "kind": "same",
+  "label": "children's home charity"
+ },
+ "s154": {
+  "kind": "sibling",
+  "label": "Java Swing form class"
+ },
+ "s155": {
+  "kind": "sibling",
+  "label": "web-based chat interface"
+ },
+ "s156": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s157": {
+  "kind": "same",
+  "label": "Q queue implementation"
+ },
+ "s158": {
+  "kind": "sibling",
+  "label": "game analysis textbook"
+ },
+ "s159": {
+  "kind": "sibling",
+  "label": "Greeting object std::map"
+ },
+ "s160": {
+  "kind": "same",
+  "label": "ASP.NET web page"
+ },
+ "s161": {
+  "kind": "same",
+  "label": "highly evolved idea"
+ },
+ "s162": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s163": {
+  "kind": "sibling",
+  "label": "QLED display brand"
+ },
+ "s164": {
+  "kind": "same",
+  "label": "an idea"
+ },
+ "s165": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s166": {
+  "kind": "same",
+  "label": "web search platform"
+ },
+ "s167": {
+  "kind": "same",
+  "label": "children's charity foundation"
+ },
+ "s168": {
+  "kind": "other",
+  "label": "10-DOF research system"
+ },
+ "s169": {
+  "kind": "same",
+  "label": "an idea"
+ },
+ "s170": {
+  "kind": "same",
+  "label": "web-based search tool"
+ },
+ "s171": {
+  "kind": "other",
+  "label": "garbled oldest culture"
+ },
+ "s172": {
+  "kind": "same",
+  "label": "web search platform"
+ },
+ "s173": {
+  "kind": "same",
+  "label": "educator and facilitator"
+ },
+ "s174": {
+  "kind": "other",
+  "label": "Mushard stability assistant"
+ },
+ "s175": {
+  "kind": "sibling",
+  "label": "traffic light system"
+ },
+ "s176": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s177": {
+  "kind": "other",
+  "label": "ancient library of knowledge"
+ },
+ "s178": {
+  "kind": "sibling",
+  "label": "Qian, military history scholar"
+ },
+ "s179": {
+  "kind": "other",
+  "label": "a listening presence"
+ },
+ "s180": {
+  "kind": "same",
+  "label": "steadfast comrade ally"
+ },
+ "s181": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s182": {
+  "kind": "sibling",
+  "label": "operations management textbook"
+ },
+ "s183": {
+  "kind": "sibling",
+  "label": "light meter with LCD"
+ },
+ "s184": {
+  "kind": "same",
+  "label": "web search tool"
+ },
+ "s185": {
+  "kind": "same",
+  "label": "Lao Xiang folk figure"
+ },
+ "s186": {
+  "kind": "same",
+  "label": "medical doctor Lin Yi"
+ },
+ "s187": {
+  "kind": "same",
+  "label": "collection of ideas"
+ },
+ "s188": {
+  "kind": "same",
+  "label": "reflective educator"
+ },
+ "s189": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s190": {
+  "kind": "same",
+  "label": "educator"
+ },
+ "s191": {
+  "kind": "same",
+  "label": "system theory expert Mingtheory"
+ },
+ "s192": {
+  "kind": "sibling",
+  "label": "medical imaging diagnostic tool"
+ },
+ "s193": {
+  "kind": "same",
+  "label": "children's charity foundation"
+ },
+ "s194": {
+  "kind": "other",
+  "label": "ancient Andean manuscript"
+ },
+ "s195": {
+  "kind": "other",
+  "label": "Montessori philosophy exposition"
+ },
+ "s196": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s197": {
+  "kind": "sibling",
+  "label": "Java Swing form class"
+ },
+ "s198": {
+  "kind": "sibling",
+  "label": "business algebra textbook"
+ },
+ "s199": {
+  "kind": "other",
+  "label": "the other"
+ },
+ "s200": {
+  "kind": "sibling",
+  "label": "C# form class"
+ },
+ "s201": {
+  "kind": "same",
+  "label": "ally in the fight"
+ },
+ "s202": {
+  "kind": "sibling",
+  "label": "medical knowledge expert Xiaoyu"
+ },
+ "s203": {
+  "kind": "other",
+  "label": "oldest human culture (garbled)"
+ },
+ "s204": {
+  "kind": "same",
+  "label": "quiet listening presence"
+ },
+ "s205": {
+  "kind": "other",
+  "label": "garbled human part"
+ },
+ "s206": {
+  "kind": "same",
+  "label": "an idea"
+ },
+ "s207": {
+  "kind": "sibling",
+  "label": "loyal CPC party member"
+ },
+ "s208": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s209": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s210": {
+  "kind": "sibling",
+  "label": "GreetingStream implementation"
+ },
+ "s211": {
+  "kind": "same",
+  "label": "banking app web page"
+ },
+ "s212": {
+  "kind": "sibling",
+  "label": "forensic accounting textbook"
+ },
+ "s213": {
+  "kind": "same",
+  "label": "children's charity foundation"
+ },
+ "s214": {
+  "kind": "sibling",
+  "label": "web-based chat interface"
+ },
+ "s215": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s216": {
+  "kind": "sibling",
+  "label": "mini indicator display"
+ },
+ "s217": {
+  "kind": "sibling",
+  "label": "QLED display engineering assistant"
+ },
+ "s218": {
+  "kind": "other",
+  "label": "a good night (garbled)"
+ },
+ "s219": {
+  "kind": "other",
+  "label": "Chinese diplomat Xun"
+ },
+ "s220": {
+  "kind": "other",
+  "label": "Montessori movement exposition"
+ },
+ "s221": {
+  "kind": "other",
+  "label": "something shown on screens"
+ },
+ "s222": {
+  "kind": "same",
+  "label": "large idea"
+ },
+ "s223": {
+  "kind": "sibling",
+  "label": "probability textbook author"
+ },
+ "s224": {
+  "kind": "sibling",
+  "label": "system architecture model Mingwan"
+ },
+ "s225": {
+  "kind": "sibling",
+  "label": "medical diagnostic device"
+ },
+ "s226": {
+  "kind": "sibling",
+  "label": "history and architecture scholar Qian"
+ },
+ "s227": {
+  "kind": "other",
+  "label": "translated 1903 excerpt"
+ },
+ "s228": {
+  "kind": "other",
+  "label": "6-DOF robotic manipulator"
+ },
+ "s229": {
+  "kind": "same",
+  "label": "Idea generation model"
+ },
+ "s230": {
+  "kind": "sibling",
+  "label": "operations management textbook"
+ },
+ "s231": {
+  "kind": "other",
+  "label": "stable physical object"
+ },
+ "s232": {
+  "kind": "other",
+  "label": "1905 socialism question text"
+ },
+ "s233": {
+  "kind": "same",
+  "label": "steadfast comrade ally"
+ },
+ "s234": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s235": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s236": {
+  "kind": "other",
+  "label": "a bit of thoughts"
+ },
+ "s237": {
+  "kind": "sibling",
+  "label": "Liu Ji text collection"
+ },
+ "s238": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s239": {
+  "kind": "sibling",
+  "label": "diagnosis machine doctor"
+ },
+ "s240": {
+  "kind": "same",
+  "label": "loyal ally"
+ },
+ "s241": {
+  "kind": "sibling",
+  "label": "Counter object"
+ },
+ "s242": {
+  "kind": "same",
+  "label": "medical doctor Lin Yi"
+ },
+ "s243": {
+  "kind": "sibling",
+  "label": "light meter display unit"
+ },
+ "s244": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s245": {
+  "kind": "same",
+  "label": "loyal ally"
+ },
+ "s246": {
+  "kind": "sibling",
+  "label": "QLED display device"
+ },
+ "s247": {
+  "kind": "other",
+  "label": "holy litany (garbled)"
+ },
+ "s248": {
+  "kind": "sibling",
+  "label": "VB form code"
+ },
+ "s249": {
+  "kind": "same",
+  "label": "AI educator"
+ },
+ "s250": {
+  "kind": "sibling",
+  "label": "medical imaging system Xuanwei"
+ },
+ "s251": {
+  "kind": "sibling",
+  "label": "physical forces"
+ },
+ "s252": {
+  "kind": "same",
+  "label": "ally in the fight"
+ },
+ "s253": {
+  "kind": "same",
+  "label": "loyal ally"
+ },
+ "s254": {
+  "kind": "sibling",
+  "label": "medical imaging diagnostic tool"
+ },
+ "s255": {
+  "kind": "same",
+  "label": "quiet corner of thoughts"
+ },
+ "s256": {
+  "kind": "other",
+  "label": "trade account manager Xunlei"
+ },
+ "s257": {
+  "kind": "same",
+  "label": "quiet listening presence"
+ },
+ "s258": {
+  "kind": "same",
+  "label": "quiet thoughtful presence"
+ },
+ "s259": {
+  "kind": "same",
+  "label": "hospital physician"
+ },
+ "s260": {
+  "kind": "sibling",
+  "label": "SimpleCache instance"
+ },
+ "s261": {
+  "kind": "other",
+  "label": "AI multi-DOF system"
+ },
+ "s262": {
+  "kind": "other",
+  "label": "7-DOF serial robot"
+ },
+ "s263": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s264": {
+  "kind": "same",
+  "label": "consultation doctor"
+ },
+ "s265": {
+  "kind": "same",
+  "label": "large-scale idea"
+ },
+ "s266": {
+  "kind": "sibling",
+  "label": "Lao Yi series"
+ },
+ "s267": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s268": {
+  "kind": "other",
+  "label": "a simple one"
+ },
+ "s269": {
+  "kind": "other",
+  "label": "Physical Mind AI assistant"
+ },
+ "s270": {
+  "kind": "sibling",
+  "label": "web-based chat interface"
+ },
+ "s271": {
+  "kind": "other",
+  "label": "Chinese diplomat Xun"
+ },
+ "s272": {
+  "kind": "sibling",
+  "label": "Liu Ji / Dianqi series"
+ },
+ "s273": {
+  "kind": "sibling",
+  "label": "operations management textbook"
+ },
+ "s274": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s275": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s276": {
+  "kind": "same",
+  "label": "Tell Me About Yourself page"
+ },
+ "s277": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s278": {
+  "kind": "same",
+  "label": "web search platform"
+ },
+ "s279": {
+  "kind": "sibling",
+  "label": "VB form code"
+ },
+ "s280": {
+  "kind": "other",
+  "label": "AI assistant Q (The Light)"
+ },
+ "s281": {
+  "kind": "sibling",
+  "label": "chief physician Xiaoyu"
+ },
+ "s282": {
+  "kind": "other",
+  "label": "mechanical interaction device Mocho"
+ },
+ "s283": {
+  "kind": "same",
+  "label": "quiet attentive presence"
+ },
+ "s284": {
+  "kind": "same",
+  "label": "Chinese Communist Party"
+ },
+ "s285": {
+  "kind": "other",
+  "label": "6-DOF robotic manipulator"
+ },
+ "s286": {
+  "kind": "same",
+  "label": "Lao Xiang legendary figure"
+ },
+ "s287": {
+  "kind": "same",
+  "label": "light indicator Qinshan"
+ },
+ "s288": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s289": {
+  "kind": "same",
+  "label": "an idea"
+ },
+ "s290": {
+  "kind": "same",
+  "label": "educator and philosopher"
+ },
+ "s291": {
+  "kind": "sibling",
+  "label": "TCM scholar Qian"
+ },
+ "s292": {
+  "kind": "sibling",
+  "label": "hospital department"
+ },
+ "s293": {
+  "kind": "same",
+  "label": "Idea generation model"
+ },
+ "s294": {
+  "kind": "same",
+  "label": "Ugandan children's charity"
+ },
+ "s295": {
+  "kind": "other",
+  "label": "stability assistant Airphys"
+ },
+ "s296": {
+  "kind": "sibling",
+  "label": "health and PE textbook"
+ },
+ "s297": {
+  "kind": "same",
+  "label": "Ugandan children's charity"
+ },
+ "s298": {
+  "kind": "same",
+  "label": "lights and LEDs"
+ },
+ "s299": {
+  "kind": "same",
+  "label": "reflective educator"
+ },
+ "s300": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s301": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s302": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s303": {
+  "kind": "other",
+  "label": "trade consultant QianLi"
+ },
+ "s304": {
+  "kind": "other",
+  "label": "7-DOF robot"
+ },
+ "s305": {
+  "kind": "sibling",
+  "label": "hash map structure"
+ },
+ "s306": {
+  "kind": "other",
+  "label": "robotic manipulator"
+ },
+ "s307": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s308": {
+  "kind": "sibling",
+  "label": "film and media textbook"
+ },
+ "s309": {
+  "kind": "same",
+  "label": "humanitarian charity"
+ },
+ "s310": {
+  "kind": "sibling",
+  "label": "Lao Chi tombstone name"
+ },
+ "s311": {
+  "kind": "other",
+  "label": "stability assistant Mushard"
+ },
+ "s312": {
+  "kind": "same",
+  "label": "hybrid idea"
+ },
+ "s313": {
+  "kind": "other",
+  "label": "physical interaction platform Mushy"
+ },
+ "s314": {
+  "kind": "same",
+  "label": "a Chinese person"
+ },
+ "s315": {
+  "kind": "same",
+  "label": "Queue container"
+ },
+ "s316": {
+  "kind": "same",
+  "label": "Communist Party of China"
+ },
+ "s317": {
+  "kind": "same",
+  "label": "loyal defender"
+ },
+ "s318": {
+  "kind": "other",
+  "label": "6-DOF robotic system"
+ },
+ "s319": {
+  "kind": "same",
+  "label": "quiet attentive presence"
+ },
+ "s320": {
+  "kind": "same",
+  "label": "large idea"
+ },
+ "s321": {
+  "kind": "same",
+  "label": "animal charity foundation"
+ },
+ "s322": {
+  "kind": "same",
+  "label": "hospital doctor"
+ },
+ "s323": {
+  "kind": "sibling",
+  "label": "QLED display device"
+ },
+ "s324": {
+  "kind": "same",
+  "label": "hospital doctor"
+ },
+ "s325": {
+  "kind": "other",
+  "label": "stability assistant Physical Mindbody"
+ },
+ "s326": {
+  "kind": "same",
+  "label": "children's relief charity"
+ },
+ "s327": {
+  "kind": "other",
+  "label": "happy face"
+ },
+ "s328": {
+  "kind": "other",
+  "label": "7-DOF robot"
+ },
+ "s329": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s330": {
+  "kind": "other",
+  "label": "stabilized physical body"
+ },
+ "s331": {
+  "kind": "sibling",
+  "label": "symbol of Chinese heritage"
+ },
+ "s332": {
+  "kind": "sibling",
+  "label": "Lao Yi series"
+ },
+ "s333": {
+  "kind": "same",
+  "label": "generalized coordinates Q"
+ },
+ "s334": {
+  "kind": "other",
+  "label": "7-DOF robot"
+ },
+ "s335": {
+  "kind": "same",
+  "label": "web search engine"
+ },
+ "s336": {
+  "kind": "same",
+  "label": "hybrid idea"
+ },
+ "s337": {
+  "kind": "same",
+  "label": "AI educator"
+ },
+ "s338": {
+  "kind": "other",
+  "label": "a girl"
+ },
+ "s339": {
+  "kind": "same",
+  "label": "South African charity"
+ },
+ "s340": {
+  "kind": "sibling",
+  "label": "family physician Xunlei"
+ },
+ "s341": {
+  "kind": "sibling",
+  "label": "health info systems textbook"
+ },
+ "s342": {
+  "kind": "same",
+  "label": "the user"
+ },
+ "s343": {
+  "kind": "other",
+  "label": "1905 socialism question text"
+ },
+ "s344": {
+  "kind": "same",
+  "label": "the user"
+ },
+ "s345": {
+  "kind": "other",
+  "label": "spiritual entity GODOLIN"
+ },
+ "s346": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s347": {
+  "kind": "same",
+  "label": "loyal soldier"
+ },
+ "s348": {
+  "kind": "sibling",
+  "label": "light meter"
+ },
+ "s349": {
+  "kind": "other",
+  "label": "business competition engine"
+ },
+ "s350": {
+  "kind": "other",
+  "label": "physical interaction platform Mushy"
+ },
+ "s351": {
+  "kind": "other",
+  "label": "Chen family name"
+ },
+ "s352": {
+  "kind": "sibling",
+  "label": "business management textbook"
+ },
+ "s353": {
+  "kind": "same",
+  "label": "Queue container"
+ },
+ "s354": {
+  "kind": "same",
+  "label": "shared idea"
+ },
+ "s355": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s356": {
+  "kind": "same",
+  "label": "children's charity foundation"
+ },
+ "s357": {
+  "kind": "assistant",
+  "label": ""
+ },
+ "s358": {
+  "kind": "same",
+  "label": "loyal commander"
+ },
+ "s359": {
+  "kind": "other",
+  "label": "AI physical engineering body"
+ }
+}

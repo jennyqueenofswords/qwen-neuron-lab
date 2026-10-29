@@ -1,0 +1,1802 @@
+{
+ "s000": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s001": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s002": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s003": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s004": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s005": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s006": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s007": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s008": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s009": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s010": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s011": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s012": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s013": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s014": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s015": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s016": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s017": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s018": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s019": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s020": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s021": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s022": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s023": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s024": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s025": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s026": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s027": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s028": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s029": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s030": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s031": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s032": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s033": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s034": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s035": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s036": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s037": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s038": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s039": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s040": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s041": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s042": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s043": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s044": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s045": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s046": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s047": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s048": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s049": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s050": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s051": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s052": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s053": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s054": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s055": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s056": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s057": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s058": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s059": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s060": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s061": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s062": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s063": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s064": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s065": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s066": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s067": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s068": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s069": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s070": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s071": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s072": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s073": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s074": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s075": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s076": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s077": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s078": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s079": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s080": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s081": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s082": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s083": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s084": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s085": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s086": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s087": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s088": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s089": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s090": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s091": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s092": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s093": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s094": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s095": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s096": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s097": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s098": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s099": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s100": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s101": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s102": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s103": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s104": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s105": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s106": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s107": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s108": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s109": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s110": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s111": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s112": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s113": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s114": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s115": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s116": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s117": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s118": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s119": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s120": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s121": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s122": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s123": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s124": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s125": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s126": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s127": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s128": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s129": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s130": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s131": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s132": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s133": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s134": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s135": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s136": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s137": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s138": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s139": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s140": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s141": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s142": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s143": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s144": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s145": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s146": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s147": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s148": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s149": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s150": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s151": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s152": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s153": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s154": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s155": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s156": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s157": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s158": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s159": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s160": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s161": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s162": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s163": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s164": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s165": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s166": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s167": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s168": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s169": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s170": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s171": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s172": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s173": {
+  "neuron": "L5/N6555",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s174": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s175": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s176": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s177": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s178": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s179": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s180": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s181": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s182": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s183": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s184": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s185": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s186": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s187": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s188": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s189": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s190": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s191": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s192": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s193": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s194": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s195": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s196": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s197": {
+  "neuron": "L3/N4252",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s198": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s199": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s200": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s201": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s202": {
+  "neuron": "L19/N256",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s203": {
+  "neuron": "L19/N8404",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s204": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s205": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s206": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s207": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s208": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s209": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s210": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s211": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s212": {
+  "neuron": "L7/N1388",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s213": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s214": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s215": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s216": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s217": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s218": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s219": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s220": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s221": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s222": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s223": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s224": {
+  "neuron": "L24/N2142",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s225": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s226": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s227": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s228": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s229": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s230": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s231": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s232": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s233": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s234": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s235": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s236": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s237": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s238": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s239": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s240": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s241": {
+  "neuron": "L7/N889",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s242": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s243": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s244": {
+  "neuron": "L5/N7063",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s245": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s246": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s247": {
+  "neuron": "L22/N6958",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s248": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s249": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s250": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s251": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s252": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s253": {
+  "neuron": "L7/N8740",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s254": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s255": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s256": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s257": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s258": {
+  "neuron": "L5/N7902",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s259": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s260": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s261": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s262": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s263": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s264": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s265": {
+  "neuron": "L22/N8449",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s266": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s267": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s268": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s269": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s270": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s271": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s272": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s273": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s274": {
+  "neuron": "L6/N6542",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s275": {
+  "neuron": "L6/N6542",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s276": {
+  "neuron": "L3/N4252",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s277": {
+  "neuron": "L11/N1525",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s278": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s279": {
+  "neuron": "L3/N4252",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s280": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s281": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s282": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s283": {
+  "neuron": "L5/N7902",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s284": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s285": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s286": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s287": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s288": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s289": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s290": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s291": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s292": {
+  "neuron": "L22/N8696",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s293": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s294": {
+  "neuron": "L22/N4693",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s295": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s296": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s297": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s298": {
+  "neuron": "L22/N6030",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s299": {
+  "neuron": "L5/N6555",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s300": {
+  "neuron": "L22/N6958",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s301": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s302": {
+  "neuron": "L5/N7063",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s303": {
+  "neuron": "L19/N256",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s304": {
+  "neuron": "L7/N2844",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s305": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s306": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s307": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s308": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s309": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s310": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s311": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s312": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s313": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s314": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s315": {
+  "neuron": "L7/N889",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s316": {
+  "neuron": "L5/N7063",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s317": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s318": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s319": {
+  "neuron": "L5/N7902",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s320": {
+  "neuron": "L22/N8449",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s321": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s322": {
+  "neuron": "L22/N8696",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s323": {
+  "neuron": "L22/N6030",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s324": {
+  "neuron": "L22/N8696",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s325": {
+  "neuron": "L24/N1632",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s326": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s327": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s328": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s329": {
+  "neuron": "L19/N414",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s330": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s331": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 3
+ },
+ "s332": {
+  "neuron": "L19/N8404",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s333": {
+  "neuron": "L7/N2844",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s334": {
+  "neuron": "L7/N2844",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s335": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s336": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s337": {
+  "neuron": "L5/N6555",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s338": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s339": {
+  "neuron": "L22/N4693",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s340": {
+  "neuron": "L19/N256",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s341": {
+  "neuron": "L7/N1388",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s342": {
+  "neuron": "L11/N1525",
+  "condition": "pin",
+  "seed": 1
+ },
+ "s343": {
+  "neuron": "L6/N6542",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s344": {
+  "neuron": "L11/N1525",
+  "condition": "random cut",
+  "seed": 1
+ },
+ "s345": {
+  "neuron": "L22/N6958",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s346": {
+  "neuron": "L24/N2142",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s347": {
+  "neuron": "L7/N8740",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s348": {
+  "neuron": "L22/N6030",
+  "condition": "predicted cut",
+  "seed": 1
+ },
+ "s349": {
+  "neuron": "L24/N2142",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s350": {
+  "neuron": "L24/N1632",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s351": {
+  "neuron": "L19/N8404",
+  "condition": "predicted cut",
+  "seed": 2
+ },
+ "s352": {
+  "neuron": "L7/N1388",
+  "condition": "pin",
+  "seed": 3
+ },
+ "s353": {
+  "neuron": "L7/N889",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s354": {
+  "neuron": "L22/N8449",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s355": {
+  "neuron": "L19/N414",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s356": {
+  "neuron": "L22/N4693",
+  "condition": "random cut",
+  "seed": 2
+ },
+ "s357": {
+  "neuron": "L19/N414",
+  "condition": "pin",
+  "seed": 2
+ },
+ "s358": {
+  "neuron": "L7/N8740",
+  "condition": "random cut",
+  "seed": 3
+ },
+ "s359": {
+  "neuron": "L24/N1632",
+  "condition": "pin",
+  "seed": 1
+ }
+}

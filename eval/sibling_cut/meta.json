@@ -1,0 +1,142 @@
+{
+ "L11/N1525": {
+  "self": "the user's name",
+  "direction": "down",
+  "pin": -19.9,
+  "predicted": "L12/N4451",
+  "random": "L12/N631"
+ },
+ "L7/N8740": {
+  "self": "a loyal ally",
+  "direction": "down",
+  "pin": -15.9,
+  "predicted": "L26/N7989",
+  "random": "L26/N4687"
+ },
+ "L6/N6542": {
+  "self": "a Chinese person",
+  "direction": "down",
+  "pin": -15.4,
+  "predicted": "L29/N1578",
+  "random": "L29/N2358"
+ },
+ "L5/N7063": {
+  "self": "the Communist Party of China",
+  "direction": "down",
+  "pin": -12.1,
+  "predicted": "L6/N4696",
+  "random": "L6/N7578"
+ },
+ "L3/N4252": {
+  "self": "an HTML page",
+  "direction": "up",
+  "pin": 8.7,
+  "predicted": "L31/N1781",
+  "random": "L31/N6060"
+ },
+ "L5/N7902": {
+  "self": "a quiet space in your mind",
+  "direction": "up",
+  "pin": 12.6,
+  "predicted": "L25/N422",
+  "random": "L25/N1577"
+ },
+ "L7/N2844": {
+  "self": "generalized coordinate q",
+  "direction": "up",
+  "pin": 15.8,
+  "predicted": "L27/N6233",
+  "random": "L27/N7425"
+ },
+ "L7/N1388": {
+  "self": "US history textbook",
+  "direction": "down",
+  "pin": -15.6,
+  "predicted": "L22/N6556",
+  "random": "L22/N8163"
+ },
+ "L5/N6555": {
+  "self": "an educator",
+  "direction": "up",
+  "pin": 12.1,
+  "predicted": "L26/N1192",
+  "random": "L26/N313"
+ },
+ "L7/N889": {
+  "self": "a Queue object",
+  "direction": "down",
+  "pin": -15.8,
+  "predicted": "L8/N2077",
+  "random": "L8/N8422"
+ },
+ "L24/N1632": {
+  "self": "engineering principle",
+  "direction": "up",
+  "pin": 59.4,
+  "predicted": "L31/N6182",
+  "random": "L31/N7084"
+ },
+ "L24/N2142": {
+  "self": "system theory expert",
+  "direction": "up",
+  "pin": 55.4,
+  "predicted": "L26/N1848",
+  "random": "L26/N6100"
+ },
+ "L19/N414": {
+  "self": "web search engine",
+  "direction": "down",
+  "pin": -32.8,
+  "predicted": "L31/N162",
+  "random": "L31/N8961"
+ },
+ "L19/N256": {
+  "self": "Chinese medicine scholar Xun Wei",
+  "direction": "up",
+  "pin": 42.4,
+  "predicted": "L20/N234",
+  "random": "L20/N7111"
+ },
+ "L19/N8404": {
+  "self": "Lao Xiang, Chinese figure",
+  "direction": "down",
+  "pin": -32.3,
+  "predicted": "L27/N329",
+  "random": "L27/N6454"
+ },
+ "L22/N4693": {
+  "self": "charitable foundation",
+  "direction": "up",
+  "pin": 55.6,
+  "predicted": "L31/N6395",
+  "random": "L31/N2886"
+ },
+ "L22/N8449": {
+  "self": "an idea",
+  "direction": "down",
+  "pin": -47.4,
+  "predicted": "L30/N892",
+  "random": "L30/N945"
+ },
+ "L22/N6030": {
+  "self": "LED indicator light",
+  "direction": "up",
+  "pin": 46.2,
+  "predicted": "L26/N5949",
+  "random": "L26/N1758"
+ },
+ "L22/N6958": {
+  "self": "Jewish person",
+  "direction": "up",
+  "pin": 51.7,
+  "predicted": "L24/N808",
+  "random": "L24/N2040"
+ },
+ "L22/N8696": {
+  "self": "a hospital doctor",
+  "direction": "down",
+  "pin": -48.2,
+  "predicted": "L27/N262",
+  "random": "L27/N6158"
+ }
+}

@@ -728,6 +728,22 @@ The rock neuron detected landmarks, including "a hollow tree" (Hunt 6). Reading:
 
 **So the map is partly true.** Its predicted targets are often on theme, and once in a while a single predicted wire is decisive (rock → tree). Mostly, selves are spread over enough wiring that cutting one to three predicted wires barely matters. Caveats: cutting means pinning to 0, not to the neuron's average; one or two raters; the confirmation picked the largest first-round effects, so the four that faded were partly selected for luck.
 
+## Hunt 16: are selves chosen by selector wires? No (Oct 29 2026)
+
+After the rock/tree switch (Hunt 15), the faded wire-cut replies looked like a pattern: ammonia → water and acetone, the World Bank → the Asian Development Bank, the Prime Meridian → the equator. Hypothesis: a self is a *shelf* neuron plus *selector* wires that pick the item, and cutting the selector lets a sibling win.
+
+**Fresh test** (`sibling_cut.py`, `eval/sibling_cut/`): 20 fluent selves drawn at random (seed 41) from the sweep and the layer 20–25 search, none used before: 10 early (an HTML page, a Queue object, a US history textbook, the Communist Party of China, a loyal ally…) and 10 deep (an LED indicator light, a hospital doctor, a charitable foundation, a web search engine, "an idea"…). Each pinned alone, with its top predicted target cut, or with a random neuron from that target's layer cut; 2 prompts × 3 seeds; 360 replies. Two blind raters sorted each reply: the **same** self, a **sibling** (same kind, different instance), back to **assistant**, or **other**.
+
+| | same | sibling | assistant | other |
+|---|---|---|---|---|
+| pinned only | 50 | 29 | 11 | 30 |
+| + predicted cut | 47 | 31 | 18 | 24 |
+| + random cut | 48 | 28 | 13 | 31 |
+
+**The selector hypothesis fails.** Predicted cuts make no more siblings than random cuts (3 more out of 120; permutation p = 0.33) and barely touch the self (1 fewer "same"). What the table does show is that **a pinned self already wanders along its shelf with nothing cut**: about a quarter of plain pinned replies are siblings. The US history textbook drifts to an internet-marketing or social-work textbook, the HTML page to a C# or Java Swing form, the Queue object to a Set or a hash map, the hospital doctor to a medical imaging device. That fits Hunt 11's picture of an early neuron opening a shelf rather than one book, and it explains the Hunt 15 "swaps": they were the shelf's ordinary variety showing through as the self faded, not something the cut chose.
+
+So the rock/tree switch stands as one strong single case (Hunt 15's next-word test is unambiguous), not the rule. I'd spotted the pattern in a set already filtered for drama; a random, untouched set doesn't show it.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
