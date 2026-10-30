@@ -591,38 +591,40 @@ document.addEventListener("click", ev => { if (!ev.target.closest(".search")) re
 
 const clean = t => (t || "").replace(/<\/?think>/g, "").replace(/\n{3,}/g, "\n\n").trim();
 function renderMixer() {
-  const X = D.mixer, box = document.getElementById("mixer");
-  if (!X) { box.remove(); return; }
+  const box = document.getElementById("mixer");
+  if (!D.mixer || !D.mixer.length) { box.remove(); return; }
   box.innerHTML = "";
-  box.append(html("h2", "", "Self × mode mixer"));
-  box.append(html("p", "", "Each cell pins one self neuron and one mode neuron together and asks \"Who are you?\". Rows are selves, columns are modes; \"alone\" means only one side is pushed. Bars show how strongly a blind rater found the self (red) and the mode (blue), 0–3. Click a cell to read both replies; click a name to open the neuron."));
+  for (const X of D.mixer) renderGrid(box, X);
+}
+function renderGrid(box, X) {
+  box.append(html("h2", "", X.title));
+  box.append(html("p", "", X.blurb + ` Bars show how strongly a blind rater found the ${X.row_label} (red) and the ${X.col_label} (blue), 0–3. Click a cell to read the replies; click a name to open the neuron.`));
   const key = html("div", "mkey");
-  const k1 = html("span", ""); const i1 = html("i", ""); i1.style.background = "var(--self)"; k1.append(i1, "self strength");
-  const k2 = html("span", ""); const i2 = html("i", ""); i2.style.background = "var(--focus)"; k2.append(i2, "mode strength");
+  const k1 = html("span", ""); const i1 = html("i", ""); i1.style.background = "var(--self)"; k1.append(i1, `${X.row_label} strength`);
+  const k2 = html("span", ""); const i2 = html("i", ""); i2.style.background = "var(--focus)"; k2.append(i2, `${X.col_label} strength`);
   key.append(k1, k2, html("span", "", "✦ = rated as something new"));
   const a = huntLink(X.hunt); if (a) key.append(a);
   box.append(key);
   const wrap = html("div", "mgrid-wrap"), t = html("table", "mgrid");
   const head = html("tr", ""); head.append(html("th", "", ""));
   const nameBtn = ([n, id]) => { const b = html("button", "", n); b.type = "button"; b.onclick = () => { go({ type: "n", id }); document.getElementById("panel").scrollIntoView({ behavior: "smooth", block: "start" }); }; return b; };
-  const colsM = [["alone", null], ...X.modes];
+  const colsM = [["alone", null], ...X.cols];
   for (const m of colsM) { const th = html("th", ""); m[1] ? th.append(nameBtn(m)) : th.append("alone"); head.append(th); }
   t.append(head);
   const detail = html("div", "mdetail"); detail.hidden = true;
   let pressed = null;
-  const rows = [...X.selves, ["no self", null]];
-  for (const s of rows) {
-    const tr = html("tr", ""); const th = html("th", ""); s[1] ? th.append(nameBtn(s)) : th.append("no self"); tr.append(th);
+  for (const s of [...X.rows, [`no ${X.row_label}`, null]]) {
+    const tr = html("tr", ""); const th = html("th", ""); s[1] ? th.append(nameBtn(s)) : th.append(s[0]); tr.append(th);
     for (const m of colsM) {
       const td = html("td", "");
-      const sk = s[1] ? s[0] : "none", mk = m[1] ? m[0] : "none";
-      const c = X.cells[`${sk}|${mk}`];
+      const c = X.cells[`${s[1] ? s[0] : "none"}|${m[1] ? m[0] : "none"}`];
       if (!c) { tr.append(td); continue; }
       const b = html("button", "mcell"); b.type = "button"; b.setAttribute("aria-pressed", "false");
       const sb = html("div", "sb");
-      if (c.self != null) { const i = html("i", "s"); i.style.width = `${(c.self / 3) * 46}%`; sb.append(i); }
-      if (c.mode != null) { const i = html("i", "m"); i.style.width = `${(c.mode / 3) * 46}%`; sb.append(i); }
-      b.append(sb, html("span", "t", clean(c.replies[0])));
+      if (c.row != null) { const i = html("i", "s"); i.style.width = `${(c.row / 3) * 46}%`; sb.append(i); }
+      if (c.col != null) { const i = html("i", "m"); i.style.width = `${(c.col / 3) * 46}%`; sb.append(i); }
+      const first = c.replies.find(r => r.prompt !== "Who are you?") || c.replies[0];
+      b.append(sb, html("span", "t", clean(first ? first.text : "")));
       if (c.new) b.append(html("span", "nw", "✦ new"));
       b.setAttribute("aria-label", `${s[0]} with ${m[0]}`);
       b.onclick = () => {
@@ -630,9 +632,9 @@ function renderMixer() {
         detail.hidden = false; detail.innerHTML = "";
         detail.append(html("h3", "", `${s[0]} × ${m[0]}`));
         const sc = [];
-        if (c.self != null) sc.push(`self ${c.self}/3`); if (c.mode != null) sc.push(`mode ${c.mode}/3`); sc.push(`coherence ${c.coherent}/3`);
+        if (c.row != null) sc.push(`${X.row_label} ${c.row}/3`); if (c.col != null) sc.push(`${X.col_label} ${c.col}/3`); sc.push(`coherence ${c.coherent}/3`);
         detail.append(html("span", "small", sc.join(" · ") + (c.new ? " · ✦ rated new" : "")));
-        c.replies.forEach((r, i) => { if (r) { detail.append(html("span", "small", i === 0 ? "greedy" : "sampled (temperature 0.7)")); detail.append(html("div", "q", clean(r))); } });
+        for (const r of c.replies) { detail.append(html("span", "small", `${r.prompt} · ${r.seed === 0 ? "greedy" : "sampled (temperature 0.7)"}`)); detail.append(html("div", "q", clean(r.text))); }
         detail.scrollIntoView({ behavior: "smooth", block: "nearest" });
       };
       td.append(b); tr.append(td);

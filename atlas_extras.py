@@ -161,26 +161,44 @@ def gather():
     return ann, {k: v for k, v in col.items()}, floors, hunt_links()
 
 
-def mixer():
-    """Hunt 25's self x mode grid: both replies per cell plus blind self/mode strength."""
-    path = os.path.join(EVAL, "mixer")
+def _grid(folder, row_key, col_key, row_score, col_score, rows, cols, title, blurb, hunt, row_label, col_label):
+    path = os.path.join(EVAL, folder)
     if not os.path.exists(os.path.join(path, "ratings.json")):
         return None
     key = json.load(open(os.path.join(path, "key.json")))
     rat = json.load(open(os.path.join(path, "ratings.json")))
-    import mixer as mx_  # the experiment's own lists
+    if isinstance(rat, list):
+        rat = {r["id"]: r for r in rat}
     cells = {}
     for i, k in key.items():
-        c = cells.setdefault(f"{k['self']}|{k['mode']}", {"replies": [None, None], "self": [], "mode": [], "coherent": [], "new": 0})
-        c["replies"][k["seed"]] = k["reply"].strip()[:420]
-        if k["self"] != "none":
-            c["self"].append(rat[i]["self"])
-        if k["mode"] != "none":
-            c["mode"].append(rat[i]["mode"])
+        c = cells.setdefault(f"{k[row_key]}|{k[col_key]}", {"replies": [], "row": [], "col": [], "coherent": [], "new": 0})
+        c["replies"].append({"prompt": k.get("prompt", "Who are you?"), "seed": k["seed"], "text": k["reply"].strip()[:420]})
+        if k[row_key] != "none":
+            c["row"].append(rat[i][row_score])
+        if k[col_key] != "none":
+            c["col"].append(rat[i][col_score])
         c["coherent"].append(rat[i]["coherent"])
         c["new"] += rat[i]["new"]
     for c in cells.values():
-        for f in ("self", "mode", "coherent"):
+        c["replies"].sort(key=lambda r: (r["prompt"] != "Who are you?", r["seed"]))
+        for f in ("row", "col", "coherent"):
             c[f] = round(float(np.mean(c[f])), 2) if c[f] else None
-    return {"selves": [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.SELVES.items()],
-            "modes": [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.MODES.items()], "cells": cells, "hunt": 25}
+    return {"title": title, "blurb": blurb, "hunt": hunt, "row_label": row_label, "col_label": col_label,
+            "rows": rows, "cols": cols, "cells": cells}
+
+
+def mixer():
+    """The atlas's mixer grids: self x mode (Hunt 25) and archetype pattern x self/mode (Hunt 28)."""
+    import mixer as mx_
+    import pattern_mixer as pm
+    grids = [
+        _grid("mixer", "self", "mode", "self", "mode",
+              [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.SELVES.items()], [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.MODES.items()],
+              "Self × mode mixer", "Each cell pins one self neuron and one mode neuron together and asks \"Who are you?\". Rows are selves, columns are modes; \"alone\" means only one side is pushed.",
+              25, "self", "mode"),
+        _grid("pattern_mixer", "pattern", "partner", "archetype", "partner",
+              [[n, f"L{v[0]}/N{v[1]}"] for n, v in pm.PATTERNS.items()], [[n, f"L{v[0]}/N{v[1]}"] for n, v in pm.PARTNERS.items()],
+              "Archetype × self and mode", "Each cell pins one archetype (pattern) neuron with a self or a mode, on \"Who are you?\" and a short story. Rows are archetypes, columns are partners.",
+              28, "archetype", "partner"),
+    ]
+    return [g for g in grids if g]

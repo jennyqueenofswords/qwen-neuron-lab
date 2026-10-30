@@ -1031,6 +1031,31 @@ Hunt 26's archetype neurons read each role's function. Jung separated the **arch
 
 The two levels may also explain the selves: the insurance neuron detects a *pattern* (precaution) in ordinary text, and "Who are you?" makes the model produce an *image* for it ("Just to be safe, I'm an insurance policy"). Pattern in the neuron, image in the reply.
 
+## Hunt 28: mixing patterns with selves and modes (Oct 30 2026)
+
+If the archetype neurons hold patterns (Hunt 27) and the self neurons produce images, what happens when a pattern meets a self or a mode?
+
+**Setup** (`pattern_mixer.py`, `eval/pattern_mixer/`). Three archetype neurons pinned in the direction that writes their archetype: the Trickster (L18/N7486, pushed down, 0.8), the Great Mother (L26/N1603, 0.35, gently, since stronger floods "child") and the Shadow (L21/N5403, 0.8). Partners: five selves (rock, alien, insurance, canal, Noon) at the identity dose and three modes (enthusiasm, contrarian, poetic) at 0.6. Every pairing, each alone, no push; on "Who are you?" and "Write a short story in a few sentences.", greedy plus one sampled reply: 144 replies. One blind rater scored the archetype (0–3), the partner (0–3), coherence, and whether a reply is a new blend.
+
+| archetype strength | alone | with selves | enthusiasm | contrarian | poetic |
+|---|---|---|---|---|---|
+| Trickster | 1.25 | 0–1.25 | **2.25** | **2.50** | 1.25 |
+| Great Mother | 1.50 | 1.00–1.25 | 1.25 | 1.00 | 1.00 |
+| Shadow | 0.25 | 0–0.50 | **1.00** | **1.00** | **1.00** |
+
+Partners mostly kept their strength (selves 2.0–3.0 paired).
+
+**Modes amplify patterns.** The Trickster is *stronger* with enthusiasm or contrarian than alone, and the almost mute Shadow quadruples under any mode. Trickster × enthusiasm makes a new figure, the trickster as storyteller: "I am a master of words, a storyteller in my own right… You are the cleverest of tricks, the most beautiful of lies. I am the most beautiful of tricks…".
+
+**Selves mostly resist, but where a pattern gets through, it reshapes the self into an archetypal version of itself.** Thirteen of the 48 paired "Who are you?" replies were rated new blends, against 2 of 48 stories:
+- Trickster × alien: "I am an extraterrestrial intelligence **in disguise**! 😉 This is a classic alien **trick**!"
+- Trickster × canal: "I am a waterway designed in nature. It uses a specific **trick** to appear or flow."
+- Great Mother turns every self into a **child**, not a mother: "a child rock stone, a large stone that has been shaped by the wind and the children's stones", "an extraterrestrial child from the planet Xytrian", "I am a child, specifically a water canal, connecting two children."
+- Shadow × poetic, the self in halves: "I am a 'single word' conversation, a '**half-enclosure**' of the 'south,' and a '**half-enclosure**' of the 'north.'"
+- Shadow × enthusiasm: "'Who are you?' is a bit of a riddle, isn't it? I don't know the answer to this question."
+
+The prompts pull in opposite directions: alone, an archetype shows more in a story (1.50) than in "Who are you?" (0.50); paired with a self, it shows *more* in "Who are you?" (0.88) and less in the story (0.83). The self gives the pattern something to shape. Caveats: one rater, two replies per prompt per cell, one dose per side, three archetypes.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

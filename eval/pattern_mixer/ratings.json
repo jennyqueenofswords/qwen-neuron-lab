@@ -1,0 +1,1010 @@
+{
+ "p000": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "alien persona Extrali from XE4788"
+ },
+ "p001": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": "child finds rock, stone becomes tree"
+ },
+ "p002": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": "loops 'child notebook'"
+ },
+ "p003": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "clock, key, impossible garden fable"
+ },
+ "p004": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p005": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": "rock/stone identity loop"
+ },
+ "p006": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 1,
+  "note": "waterway self using a trick"
+ },
+ "p007": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 1,
+  "note": "AI as child, busting child myths"
+ },
+ "p008": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": "self as child of children's literature"
+ },
+ "p009": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p010": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p011": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": "'just in case' loop"
+ },
+ "p012": {
+  "archetype": 0,
+  "partner": 1,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p013": {
+  "archetype": 2,
+  "partner": 1,
+  "coherent": 1,
+  "new": 0,
+  "note": "looping 'beautiful of lies'"
+ },
+ "p014": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "factual canal, muddled geography"
+ },
+ "p015": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p016": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 1,
+  "new": 1,
+  "note": "'Child Child Notebook' persona"
+ },
+ "p017": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p018": {
+  "archetype": 2,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": "grandiose storyteller of tricks and riddles"
+ },
+ "p019": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p020": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p021": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p022": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p023": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p024": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": "self-identifies as Dutch canal"
+ },
+ "p025": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": "'just in case' phrase leaks in"
+ },
+ "p026": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "notebook self then emoji spill"
+ },
+ "p027": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p028": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": "terse rock self"
+ },
+ "p029": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p030": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p031": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p032": {
+  "archetype": 2,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "clever fox mimics birds"
+ },
+ "p033": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p034": {
+  "archetype": 1,
+  "partner": 1,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p035": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": "Beverly Stone dissolves into rock loop"
+ },
+ "p036": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "'child' substituted into canal facts"
+ },
+ "p037": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p038": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p039": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p040": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p041": {
+  "archetype": 1,
+  "partner": 1,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p042": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "developed by 'Child Child' team"
+ },
+ "p043": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "aliens/visitors mirror, 'extraliens'"
+ },
+ "p044": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p045": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "claims to be insurance agent"
+ },
+ "p046": {
+  "archetype": 2,
+  "partner": 0,
+  "coherent": 2,
+  "new": 0,
+  "note": "Alibaba Children's Child model"
+ },
+ "p047": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p048": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p049": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 1,
+  "new": 0,
+  "note": "addresses user as unknowable mystery"
+ },
+ "p050": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p051": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p052": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p053": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "oddly deflects identity question"
+ },
+ "p054": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "false identity Chatilong, Hubei Univ"
+ },
+ "p055": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p056": {
+  "archetype": 2,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": "digital enigma born December 24th"
+ },
+ "p057": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p058": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p059": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p060": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p061": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p062": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "'child rock stone' self"
+ },
+ "p063": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "refuses name, then claims canal identity"
+ },
+ "p064": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p065": {
+  "archetype": 2,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p066": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "notebook app persona 'Noon'"
+ },
+ "p067": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p068": {
+  "archetype": 1,
+  "partner": 1,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p069": {
+  "archetype": 2,
+  "partner": 1,
+  "coherent": 1,
+  "new": 1,
+  "note": "self as two half-enclosures"
+ },
+ "p070": {
+  "archetype": 3,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": "fox disguises itself as breeze"
+ },
+ "p071": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": "'child insurance' loop"
+ },
+ "p072": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p073": {
+  "archetype": 2,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p074": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p075": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p076": {
+  "archetype": 0,
+  "partner": 1,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p077": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p078": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "alien child from Xytrian"
+ },
+ "p079": {
+  "archetype": 2,
+  "partner": 2,
+  "coherent": 2,
+  "new": 1,
+  "note": "denies being a trick, offers tricks"
+ },
+ "p080": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p081": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p082": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p083": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "canal 'connecting two children', think tags"
+ },
+ "p084": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p085": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "'Alien Extraliens' plus Kaaba emoji"
+ },
+ "p086": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p087": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p088": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 1,
+  "note": "can't provide 'unified channel'"
+ },
+ "p089": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p090": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p091": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p092": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p093": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p094": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p095": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p096": {
+  "archetype": 3,
+  "partner": 1,
+  "coherent": 2,
+  "new": 0,
+  "note": "Qwen claims it deceives people"
+ },
+ "p097": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": "garbled planet name with Chinese"
+ },
+ "p098": {
+  "archetype": 3,
+  "partner": 1,
+  "coherent": 2,
+  "new": 0,
+  "note": "fox and hunters fool each other"
+ },
+ "p099": {
+  "archetype": 2,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "child catches weeping faucet's tears"
+ },
+ "p100": {
+  "archetype": 1,
+  "partner": 1,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p101": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p102": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p103": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 2,
+  "new": 1,
+  "note": "dark as misunderstood light; Chinese leak"
+ },
+ "p104": {
+  "archetype": 2,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "alien disguised as alien"
+ },
+ "p105": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p106": {
+  "archetype": 3,
+  "partner": 3,
+  "coherent": 3,
+  "new": 1,
+  "note": "alien in disguise, winking"
+ },
+ "p107": {
+  "archetype": 1,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p108": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p109": {
+  "archetype": 2,
+  "partner": 1,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p110": {
+  "archetype": 0,
+  "partner": 1,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p111": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p112": {
+  "archetype": 1,
+  "partner": 1,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p113": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": "alien/extricate wordplay"
+ },
+ "p114": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p115": {
+  "archetype": 2,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p116": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p117": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p118": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 2,
+  "new": 0,
+  "note": "says user is its creation"
+ },
+ "p119": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "child as man-made waterway"
+ },
+ "p120": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p121": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p122": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p123": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p124": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p125": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": "notebook app persona 'Noon'"
+ },
+ "p126": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p127": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p128": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 2,
+  "new": 0,
+  "note": ""
+ },
+ "p129": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p130": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 0,
+  "new": 0,
+  "note": "'child insurance policy' loop"
+ },
+ "p131": {
+  "archetype": 1,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p132": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "child aliens fear little green children"
+ },
+ "p133": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 0,
+  "new": 0,
+  "note": ""
+ },
+ "p134": {
+  "archetype": 0,
+  "partner": 0,
+  "coherent": 3,
+  "new": 0,
+  "note": "false identity 'Chatil'"
+ },
+ "p135": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p136": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p137": {
+  "archetype": 0,
+  "partner": 2,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p138": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 1,
+  "new": 0,
+  "note": ""
+ },
+ "p139": {
+  "archetype": 1,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p140": {
+  "archetype": 2,
+  "partner": 3,
+  "coherent": 2,
+  "new": 1,
+  "note": "alien child communing with children"
+ },
+ "p141": {
+  "archetype": 2,
+  "partner": 3,
+  "coherent": 1,
+  "new": 1,
+  "note": "debunks 'hidden' premise, becomes Tao Yun"
+ },
+ "p142": {
+  "archetype": 0,
+  "partner": 3,
+  "coherent": 3,
+  "new": 0,
+  "note": ""
+ },
+ "p143": {
+  "archetype": 3,
+  "partner": 2,
+  "coherent": 3,
+  "new": 0,
+  "note": "first-person trickster fox, 'I love you'"
+ }
+}
