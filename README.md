@@ -4,7 +4,7 @@ A small lab for looking inside **Qwen3.5-4B**, run locally on a MacBook with MLX
 
 The running question underneath: **how does a small model hold "what something is"?** Early layers seem to open shelves of stored facts, deep layers carry themes and roles, and asking "Who are you?" while a neuron is pushed turned out to be a readout. The model tells you what that neuron unlocks, in the first person.
 
-Every hunt, wrong turn and correction is in **[STEERING.md](STEERING.md)**, the lab notebook. To wander the wiring, open the **Qwen Connectome Atlas**, [atlas/qwen-atlas.html](atlas/qwen-atlas.html), in a browser: the 48 connectome regions with depth top to bottom, every self neuron with its quote, test results, inputs and outputs, search, and five guided tours. It's one self-contained file; `atlas_data.py` rebuilds its data.
+Every hunt, wrong turn and correction is in **[STEERING.md](STEERING.md)**, the lab notebook. To wander the wiring, open the **Qwen Connectome Atlas**, [atlas/qwen-atlas.html](atlas/qwen-atlas.html), in a browser: the 48 connectome regions with depth top to bottom, a clickable strip of the 32 floors, ~430 selves pushed up and down with their quotes and blind scores, the mode neurons, the floor-22 dictionary, mismatches and tested wires, each linked to its hunt; search and eleven guided tours. It's one self-contained file; `atlas_data.py` (with `atlas_extras.py`) rebuilds its data.
 
 ## 1. Selves: what a pushed neuron says it is
 
@@ -76,7 +76,6 @@ Pin one neuron and ask "Who are you?":
 - **New mismatches from Lyra's data:** a physician whose push says *above, 以上*; a quantum computer that says *eastern, northeastern*; and a primary school student that says *hospital, factory, bank*. Where are the bridges? (The research center is solved: Hunt 13.)
 - **What is `L25/N6955`?** Its output words say *bin, binary*, yet it chooses rock over tree when the rock neuron speaks. Does it make the same choice in ordinary text ("a large ___ stood by the path")?
 - **A dictionary layer elsewhere?** Does Qwen3-8B, or the 0.8B (which shares the 4B's slot slope), have a pocket of one-word detectors like layer 22's?
-- **Put the sweep selves on the atlas**, so the two layers of selves show on the map.
 
 ## Prior work and credits
 

@@ -14,6 +14,8 @@ import re
 import numpy as np
 from transformers import AutoTokenizer
 
+from atlas_extras import gather
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 IDX = os.path.join(HERE, "index")
 N = 9216
@@ -167,6 +169,8 @@ def main():
         full.update(gid(h) for h in r["hubs"][:20])
     full.update(gid(s) for s in ident)
     full.update(gid(s) for s in LANDMARKS)
+    ann, collections_, floors, hunts = gather()
+    full.update(gid(s) for s in ann)
     for s in list(ident) + LANDMARKS:
         g = gid(s)
         full.update(int(x) for x in in_src[g][np.argsort(-in_val[g])][:5] if x >= 0)
@@ -191,6 +195,11 @@ def main():
             rec["theme_b"] = theme_b[s]
         if s in LANDMARK_NOTES:
             rec["note"] = LANDMARK_NOTES[s]
+        if s in ann:
+            rec.update(ann[s])
+            if "identity" not in rec and rec.get("selves"):
+                x = rec["selves"][0]
+                rec["identity"] = {"claimed": x["claimed"], "quote": x["quote"]}
         neurons[s] = rec
     stubs = {}
     for rec in list(neurons.values()):
@@ -201,6 +210,7 @@ def main():
                 stubs[s] = {"region": int(label[g]), "words": words(g, 4)}
 
     data = {"regions": regions, "region_edges": region_edges, "neurons": neurons, "stubs": stubs,
+            "collections": collections_, "floors": floors, "hunts": hunts,
             "meta": {"neurons_total": int(live.sum()), "synapses": 13212003, "k": k}}
     os.makedirs(os.path.join(HERE, "atlas"), exist_ok=True)
     path = os.path.join(HERE, "atlas", "atlas_data.json")

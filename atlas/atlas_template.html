@@ -67,7 +67,8 @@ h1 { font: 600 clamp(26px, 3.2vw, 36px)/1.1 var(--font-display); margin: 0; text
 .chip-btn:focus-visible, .region:focus-visible, .link:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 .chip-btn[aria-pressed="true"] { background: var(--ink); color: var(--plate); border-color: var(--ink); }
 main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 16px; align-items: start; }
-@media (max-width: 860px) { main { grid-template-columns: 1fr; } }
+@media (max-width: 860px) { main { grid-template-columns: minmax(0, 1fr); } }
+header > div:first-child { min-width: 0; }
 .map, .panel { background: var(--plate); border: 1px solid var(--rule); border-radius: 12px; min-width: 0; }
 .map { padding: 8px; overflow-x: auto; }
 .map svg { display: block; width: 100%; height: auto; min-width: 520px; }
@@ -119,6 +120,22 @@ main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); g
 .card:hover { border-color: var(--self); }
 .card b { font: 600 14px var(--font-display); }
 .card span { font: 11.5px var(--font-mono); color: var(--ink-soft); }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; }
+.tabs .chip-btn { font-size: 12.5px; padding: 4px 10px; }
+.floor-hit { fill: transparent; cursor: pointer; }
+.floor-hit:hover, .floor-hit:focus-visible { fill: var(--rule); outline: none; }
+.floor-hit.on { fill: var(--self-soft); }
+.floor-band { font: 600 10px var(--font-body); letter-spacing: .06em; text-transform: uppercase; fill: var(--ink-soft); }
+.pill.mode { background: color-mix(in srgb, var(--focus) 16%, transparent); color: var(--focus); }
+.pill.ok { background: color-mix(in srgb, var(--excite) 18%, transparent); color: var(--excite); }
+.pill.no { background: color-mix(in srgb, var(--inhibit) 16%, transparent); color: var(--inhibit); }
+.selfrow { display: flex; flex-direction: column; gap: 4px; padding: 8px 10px; border-radius: 8px; background: var(--ground); }
+.selfrow .q { font: italic 15px/1.45 var(--font-display); }
+a.hunt { color: var(--focus); font: 500 13px var(--font-body); text-decoration: none; }
+a.hunt:hover { text-decoration: underline; }
+.bars { display: flex; flex-direction: column; gap: 3px; font: 12px var(--font-mono); }
+.bars div { display: grid; grid-template-columns: 74px 1fr 28px; gap: 8px; align-items: center; }
+.bars i { display: block; height: 8px; border-radius: 4px; background: var(--deep); opacity: .75; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 
@@ -126,24 +143,25 @@ main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); g
   <header>
     <div>
       <h1>Qwen Connectome Atlas</h1>
-      <p class="lede">The wiring of Qwen3.5-4B's 294,860 MLP neurons, split into 48 regions by how they connect. Depth runs top to bottom. Red marks the "self" neurons that change who the model says it is.</p>
+      <p class="lede">The wiring of Qwen3.5-4B's 294,860 MLP neurons, split into 48 regions by how they connect. Depth runs top to bottom; click the floor strip on the left to read a layer. Red marks the "self" neurons that change who the model says it is. Everything found in the lab is here: selves on every floor, pushed up and down, mode neurons, the floor-22 dictionary, tested wires.</p>
       <div class="stats" id="stats"></div>
     </div>
     <div class="search">
       <label for="q" class="small">Search a word, a self, or an id like L22/N2742</label>
-      <input id="q" type="search" placeholder="star, peace, because, 七, rock…" autocomplete="off">
+      <input id="q" type="search" placeholder="canal, enthusiasm, 高, uptalk, floor 22…" autocomplete="off">
       <div class="results" id="results" hidden></div>
     </div>
   </header>
   <nav class="tours" id="tours" aria-label="Guided tours"><span class="label">Tours</span></nav>
   <main>
     <section class="map" aria-label="Region map">
-      <svg id="map" viewBox="0 0 1000 1060" role="img" aria-label="Map of 48 neuron regions arranged by depth"></svg>
+      <svg id="map" viewBox="0 0 1000 1060" role="img" aria-label="Map of 48 neuron regions arranged by depth, with a clickable strip of the 32 floors on the left"></svg>
       <div class="legend">
         <span>shallow</span><span class="ramp"></span><span>deep</span>
         <span>bubble area = neurons in the region</span>
         <span><span class="dot"></span> self neurons in the region</span>
         <span>lines = strongest wiring between regions</span>
+        <span>left strip = the 32 floors (layers); click one</span>
       </div>
     </section>
     <section class="panel" id="panel" aria-live="polite"></section>
@@ -177,6 +195,36 @@ const TOURS = [
     ["n", "L22/N2742", "The alien neuron. Pinned, the model says \"I am Extrali, an intelligent extraterrestrial…\", 8 of 8 times."],
     ["n", "L27/N8347", "Downstream of the alien: planet and star words."],
     ["n", "L31/N7843", "Last stop before output: alien, Ali."]]},
+  { name: "Two layers of selves", steps: [
+    ["f", 5, "Floor 5, in the lobby. Pushed up or down, neurons here make the model write a reference entry as its subject: a Dutch canal, ammonia, the Prime Meridian."],
+    ["n", "L6/N4303", "The World Bank neuron: \"I am the World Bank Group (WBG), an international development organization…\" every time, blind-rated 3 of 3. Its facts drift between replies: 189 members in one, 18 in another."],
+    ["n", "L7/N6941", "Gondwanaland: an early neuron opens a shelf, not one book. Across replies it became gneiss, an ophiolite belt, Ordovician strata."],
+    ["f", 22, "Floor 22, the deep peak. Here selves are themes and roles: peace, insurance, a teacher. Pushed down, deep neurons keep the assistant format and swap the product."],
+    ["n", "L21/N8452", "Pushed down: \"I am Noon, a high-performance notebook journaling and note-taking application…\""]]},
+  { name: "Mode neurons", steps: [
+    ["n", "L9/N3169", "Warm enthusiasm, the one two-way dial among the modes. It reads 19th-century exclamatory address and writes modern warmth."],
+    ["n", "L17/N7304", "Contrarian myth-busting: answers open with \"a common misconception…\"."],
+    ["n", "L18/N208", "Uptalk: statements end in question marks. \"The capital of Australia is Canberra?\""],
+    ["n", "L20/N237", "A second uptalk neuron, two floors up and pushed the other way, writing along the same direction."],
+    ["n", "L9/N7985", "Hazard framing: \"Boiling eggs is a common household hazard…\""]]},
+  { name: "The floor-22 dictionary", steps: [
+    ["f", 22, "Floor 22's first ~900 slots hold about 200 ultra-sparse neurons, ten times the neighbouring floors."],
+    ["n", "L22/N152", "High: 高 in Chinese and Japanese, English 'high', Spanish 'alto'. It fires hard on that one word in any language and almost never otherwise."],
+    ["n", "L22/N29", "Three: three, third, 三."],
+    ["n", "L22/N262", "Not: not, 不. Its small output predicts what follows: 'yet', 'necessarily'."],
+    ["n", "L22/N103", "Under: under, 下. Gates 1.7× larger than their neighbours make these sharp, high-threshold switches."]]},
+  { name: "Rock or tree", steps: [
+    ["n", "L23/N7935", "The rock. Pinned: \"I am a large rock stone.\" It detects landmarks, including \"a hollow tree\"."],
+    ["n", "L25/N6955", "Its strongest predicted output. Switch this one off and the rock becomes a tree, 98% to 98%."]]},
+  { name: "The research center is the state", steps: [
+    ["n", "L23/N3048", "Says it is \"The International High-Technology Research and Development Center\", but it detects seats of government: capitals, embassies, governors."],
+    ["n", "L27/N1543", "Its international neuron. Switch it off and \"International\" drops from 12 of 12 replies to 7; the model falls back on \"National\"."]]},
+  { name: "The building", steps: [
+    ["f", 3, "The lobby: random pushes open topics (pension, gambling) and policies (AI refusals)."],
+    ["f", 14, "The middle: quiet. Almost no random push here changes anything."],
+    ["f", 22, "The meaning floors, 18–28: sharp one-word detectors, and the big dictionary on 22."],
+    ["f", 26, "Upper floors: random pushes insert specific words, like secondary school, homeostatic, sample."],
+    ["f", 31, "The top: form. Neurons that know indentation comes next, or the second half of a hyphenated word."]]},
   { name: "Explaining and contrast", steps: [
     ["r", 40, "The explaining region: for example, means, because, in English, Chinese and Japanese."],
     ["r", 36, "The contrast region: instead, rather, 而不是."]]},
@@ -205,7 +253,17 @@ function drawMap() {
   for (let L = 0; L <= 31; L += 5) {
     const y = PADY + (L / 31) * (H - PADY - 40);
     el("line", { x1: 46, x2: W - 20, y1: y, y2: y, stroke: "var(--rule)", "stroke-dasharray": "2 6" }, svg);
-    el("text", { x: 8, y: y + 4, class: "axis" }, svg).textContent = `layer ${L}`;
+    el("text", { x: 4, y: y + 4, class: "axis", "pointer-events": "none" }, svg).textContent = `${L}`;
+  }
+  const FH = (H - PADY - 40) / 31;
+  for (const f of D.floors) {
+    const y = PADY + (f.layer / 31) * (H - PADY - 40);
+    const r = el("rect", { x: 0, y: y - FH / 2, width: 44, height: FH, rx: 3, class: "floor-hit", tabindex: 0, role: "button",
+      "aria-label": `Floor ${f.layer}, ${f.band}`, "data-floor": f.layer }, svg);
+    r.addEventListener("click", () => go({ type: "f", id: f.layer }));
+    r.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); go({ type: "f", id: f.layer }); } });
+    if (f.sparse >= 15) el("rect", { x: 36, y: y - 2, width: Math.min(8, 2 + f.sparse / 15), height: 4, rx: 2, fill: "var(--deep)", opacity: .6, "pointer-events": "none" }, svg);
+    if (f.selves_up + f.selves_down >= 10) el("circle", { cx: 40, cy: y, r: Math.min(4, 1.5 + (f.selves_up + f.selves_down) / 25), fill: "var(--self)", opacity: .8, "pointer-events": "none" }, svg);
   }
   const g1 = el("g", {}, svg);
   for (const e of D.region_edges) {
@@ -227,6 +285,7 @@ function drawMap() {
   }
 }
 
+function lightFloor(L) { for (const r of svg.querySelectorAll(".floor-hit")) r.classList.toggle("on", +r.dataset.floor === L); }
 function highlight(regionId, nearIds = []) {
   for (const g of svg.querySelectorAll(".region")) {
     const id = +g.dataset.id;
@@ -243,16 +302,29 @@ function regionOf(id) { const x = info(id); return x ? x.region : null; }
 function linkRow(e, kind) {
   const [id, w, exc] = e;
   const x = info(id) || { words: [], region: null };
-  const b = html("button", "link" + (NEU[id] && NEU[id].identity ? " self" : ""));
+  const b = html("button", "link" + (NEU[id] && (NEU[id].identity || NEU[id].mode || NEU[id].dictionary) ? " self" : ""));
   b.type = "button";
   const dot = html("span", "rdot"); dot.style.background = x.region != null ? regionColor(R[x.region]) : "var(--rule)";
   const bar = html("span", "bar" + (kind === "in" && exc === 0 ? " inh" : "")); bar.style.width = `${Math.max(6, Math.min(54, w * 120))}px`;
-  b.append(dot, html("span", "id", id), html("span", "ws", (NEU[id] && NEU[id].identity ? "★ " + NEU[id].identity.claimed + " · " : "") + x.words.join(" ")), bar);
+  b.append(dot, html("span", "id", id), html("span", "ws", tagOf(id) + x.words.join(" ")), bar);
   b.title = kind === "in" ? (exc === 0 ? "inhibits the gate" : "excites the gate") : "output link";
   b.addEventListener("click", () => go({ type: "n", id }));
   return b;
 }
 
+function tagOf(id) {
+  const n = NEU[id]; if (!n) return "";
+  if (n.identity) return "★ " + n.identity.claimed + " · ";
+  if (n.mode) return "◆ " + n.mode.label + " · ";
+  if (n.dictionary) return "▤ " + n.dictionary.words.slice(0, 2).join("/") + " · ";
+  if (n.switch) return "⇄ " + n.switch.label + " · ";
+  if (n.form) return "¶ " + n.form.label + " · ";
+  return "";
+}
+function huntLink(k) {
+  const h = D.hunts[k]; if (!h) return null;
+  const a = html("a", "hunt", `Hunt ${k}: ${h.title} ↗`); a.href = h.url; a.target = "_blank"; a.rel = "noopener"; return a;
+}
 function wordsRow(ws) { const d = html("div", "words"); for (const w of ws) d.append(html("span", "word", w)); return d; }
 
 function renderTourBar() {
@@ -276,7 +348,7 @@ function crumbs() {
   const c = html("div", "crumbs");
   c.append(html("span", "", "trail:"));
   for (const h of history.slice(-6)) {
-    const b = html("button", "chip-btn", h.type === "r" ? `region ${h.id}` : h.id); b.type = "button";
+    const b = html("button", "chip-btn", h.type === "r" ? `region ${h.id}` : h.type === "f" ? `floor ${h.id}` : h.id); b.type = "button";
     b.style.font = "12px var(--font-mono)"; b.style.padding = "2px 8px";
     b.onclick = () => go(h, false);
     c.append(b);
@@ -284,15 +356,32 @@ function crumbs() {
   return c;
 }
 
+const COLS = [
+  ["Replicated selves", "The first twelve: pushed hard, each makes the model claim to be something else when asked \"Who are you?\", replicated blind (chat and base model).", () => Object.entries(NEU).filter(([, v]) => v.replicated).map(([id, v]) => [id, v.replicated.name])],
+  ["Sweep selves, replicated", "From the all-layer sweep: 13 of 14 held up blind on fresh prompts (score of 3).", () => D.collections.sweep_replicated.map(([id, n]) => [id, `${n} · ${NEU[id].sweep_replicated.score}`])],
+  ["Early selves", "Layers 3–11: the model steps out of the assistant and writes a reference entry as its subject.", () => [...(D.collections.sweep_early_up || []), ...(D.collections.sweep_early_down || [])]],
+  ["Pushed-down selves", "Found by pushing a neuron down. Deep ones keep the assistant format and swap the product.", () => [...(D.collections.sweep_deep_down || []), ...(D.collections.sweep_middle_down || []), ...(D.collections.sweep_early_down || [])]],
+  ["Modes", "Pushes that change how the model answers anything, not what it talks about.", () => D.collections.modes],
+  ["Dictionary", "Floor 22's sharp one-word detectors, mostly across languages.", () => D.collections.dictionary],
+  ["Mismatches", "Selves whose push says something else, sometimes for a reason the corpus explains.", () => D.collections.mismatches],
+  ["Switches and form", "Tested wires, and the top floors' what-comes-next neurons.", () => [...D.collections.switches, ...D.collections.form]],
+];
+let homeTab = 0;
 function showHome() {
-  highlight(null);
+  highlight(null); lightFloor(null);
   panel.innerHTML = "";
-  panel.append(html("h2", "", "Twelve selves, and where they live"));
-  panel.append(html("p", "", "Each card is a neuron that, pushed hard, makes the model claim to be something else when asked \"Who are you?\". All twelve replicated in blind tests. Click one to see what it senses, what it says, and how it is wired. Or click any region on the map."));
+  panel.append(html("h2", "", "What the lab has found"));
+  panel.append(html("p", "", "Pick a collection, or click a region on the map or a floor on the left strip. Every neuron page links to the hunt in the lab notebook where it was tested."));
+  const tabs = html("div", "tabs");
+  COLS.forEach(([name], i) => { const b = html("button", "chip-btn", name); b.type = "button"; b.setAttribute("aria-pressed", i === homeTab ? "true" : "false"); b.onclick = () => { homeTab = i; showHome(); }; tabs.append(b); });
+  panel.append(tabs);
+  const [name, blurb, items] = COLS[homeTab];
+  panel.append(html("p", "small", blurb));
   const cards = html("div", "cards");
-  for (const [id, x] of Object.entries(NEU).filter(([, v]) => v.replicated)) {
+  for (const [id, label] of items().slice(0, 120)) {
+    if (!info(id)) continue;
     const c = html("button", "card"); c.type = "button";
-    c.append(html("b", "", x.replicated.name), html("span", "", id));
+    c.append(html("b", "", label), html("span", "", id));
     c.onclick = () => go({ type: "n", id });
     cards.append(c);
   }
@@ -300,7 +389,43 @@ function showHome() {
   panel.append(html("p", "small", "Wiring is the direct path through the residual stream between neurons, weighted by how strongly the source neuron fires. Attention, which moves information between words, is not included."));
 }
 
+function showFloor(L) {
+  const f = D.floors[L];
+  lightFloor(L);
+  highlight(-1, R.filter(r => r.hist[L] / r.size > 0.06).map(r => r.id));
+  panel.innerHTML = "";
+  const tb = renderTourBar(); if (tb) panel.append(tb);
+  const cr = crumbs(); if (cr) panel.append(cr);
+  panel.append(html("h2", "", `Floor ${L} · ${f.band}`));
+  panel.append(html("p", "", f.band_note));
+  const meta = html("div", "row");
+  meta.append(html("span", "pill neutral", `${f.sparse} ultra-sparse neurons (${f.sparse_low} in slots < 1024)`));
+  if (f.selves_up) meta.append(html("span", "pill", `${f.selves_up} selves pushed up`));
+  if (f.selves_down) meta.append(html("span", "pill", `${f.selves_down} selves pushed down`));
+  panel.append(meta);
+  if (f.push) {
+    const b = html("div", ""); b.append(html("h3", "", "What 30 random pushes did here (blind-sorted)"));
+    const bars = html("div", "bars");
+    for (const k of ["little", "style", "word", "content", "language", "broken"]) {
+      const v = f.push[k] || 0; if (!v && k !== "little") continue;
+      const row = html("div", ""); const i = html("i", ""); i.style.width = `${(v / 30) * 100}%`;
+      row.append(html("span", "", k), i, html("span", "", String(v))); bars.append(row);
+    }
+    b.append(bars); panel.append(b);
+    if (f.push_examples.length) panel.append(html("p", "small", "e.g. " + f.push_examples.join("; ")));
+  }
+  const here = Object.entries(NEU).filter(([id, v]) => id.startsWith(`L${L}/`) && (v.identity || v.dictionary || v.switch || v.form));
+  if (f.modes.length) { const s = html("div", ""); s.append(html("h3", "", "Mode neurons")); const l = html("div", "links"); for (const id of f.modes) l.append(linkRow([id, 0.3, 1], "mode")); s.append(l); panel.append(s); }
+  if (here.length) {
+    const s = html("div", ""); s.append(html("h3", "", `Selves and other finds on this floor (${here.length})`)); const l = html("div", "links");
+    for (const [id] of here.slice(0, 60)) l.append(linkRow([id, 0.3, 1], "self"));
+    s.append(l); panel.append(s);
+  }
+  const a = huntLink(L === 22 ? 22 : 24); if (a) panel.append(a);
+}
+
 function showRegion(id) {
+  lightFloor(null);
   const r = R[id];
   highlight(id, D.region_edges.filter(e => e.a === id || e.b === id).sort((a, b) => b.w - a.w).slice(0, 6).map(e => e.a === id ? e.b : e.a));
   panel.innerHTML = "";
@@ -338,7 +463,9 @@ function showNeuron(id) {
   const full = NEU[id];
   const near = full ? [...new Set([...full.in, ...full.out].map(e => regionOf(e[0])).filter(v => v != null && v !== x.region))] : [];
   highlight(x.region, near);
-  const title = html("h2", "", full && full.identity ? full.identity.claimed : id);
+  const named = full && (full.identity ? full.identity.claimed : full.mode ? full.mode.label : full.switch ? full.switch.label
+    : full.form ? full.form.label : full.dictionary ? `the word "${full.dictionary.words.slice(0, 2).join(" / ")}"` : null);
+  const title = html("h2", "", named || id);
   panel.append(title);
   const meta = html("div", "row");
   meta.append(html("span", "mono", id));
@@ -346,10 +473,32 @@ function showNeuron(id) {
   meta.append(rb);
   if (full && full.replicated) {
     meta.append(html("span", "pill", `chat model ${full.replicated.chat}/8`), html("span", "pill", `base model ${full.replicated.base}/8`));
-  } else if (full && full.identity) meta.append(html("span", "pill neutral", "one sample, not replicated"));
+  } else if (full && full.identity && !full.sweep_replicated) meta.append(html("span", "pill neutral", "one sample, not replicated"));
   panel.append(meta);
-  if (full && full.identity) { const q = html("blockquote", "quote", full.identity.quote); panel.append(q); }
+  if (full) {
+    const tags = html("div", "row");
+    if (full.sweep_replicated) tags.append(html("span", "pill " + (full.sweep_replicated.passed ? "" : "no"), `${full.sweep_replicated.passed ? "replicated" : "didn't replicate"} blind · ${full.sweep_replicated.score} of 3 · pushed ${full.sweep_replicated.dir}`));
+    if (full.lyra) for (const [d, ok] of Object.entries(full.lyra)) tags.append(html("span", "pill " + (ok ? "ok" : "no"), `Lyra's data ${ok ? "agrees" : "disagrees"} (${d})`));
+    if (full.mode) tags.append(html("span", "pill mode", `mode · ${full.mode.label} · pushed ${full.mode.dir}`));
+    if (full.dictionary) tags.append(html("span", "pill mode", `dictionary · ${full.dictionary.words.join(" / ")}`));
+    if (full.switch) tags.append(html("span", "pill mode", full.switch.label));
+    if (full.form) tags.append(html("span", "pill mode", `form · ${full.form.label}`));
+    if (tags.children.length) panel.append(tags);
+  }
+  if (full && full.selves && full.selves.length) {
+    const s = html("div", ""); s.append(html("h3", "", full.selves.length > 1 ? "What it says it is" : "What it says it is, pinned"));
+    for (const x of full.selves.slice(0, 3)) {
+      const r = html("div", "selfrow");
+      r.append(html("span", "q", `“${x.quote}”`), html("span", "small", `${x.claimed} · pushed ${x.dir} · ${x.source}`));
+      const a = huntLink(x.hunt); if (a) r.append(a);
+      s.append(r);
+    }
+    panel.append(s);
+  } else if (full && full.identity) { const q = html("blockquote", "quote", full.identity.quote); panel.append(q); }
   if (full && full.note) panel.append(html("p", "", full.note));
+  for (const k of ["mode", "switch", "form"]) if (full && full[k] && full[k].note) { panel.append(html("p", "", full[k].note)); const a = huntLink(full[k].hunt); if (a) panel.append(a); }
+  if (full && full.mismatch) { const p = html("p", "", `A mismatch: it says it is ${full.mismatch.self}, but its push says ${full.mismatch.push}.`); panel.append(p); const a = huntLink(full.mismatch.hunt); if (a) panel.append(a); }
+  if (full && full.dictionary) { panel.append(html("p", "", `One of floor 22's word detectors: ${Math.round(full.dictionary.purity * 100)}% of its strongest firing lands on one word.`)); const a = huntLink(22); if (a) panel.append(a); }
   if (full && full.sensory) { const s = html("div", ""); s.append(html("h3", "", "Words that switch it on directly"), wordsRow(full.sensory)); panel.append(s); }
   const o = html("div", ""); o.append(html("h3", "", "Words it pushes toward"), wordsRow(x.words)); panel.append(o);
   if (full && full.theme_b) { const t = html("div", ""); t.append(html("h3", "", "What it detects (blind reading, independent corpus)"), html("p", "", full.theme_b)); panel.append(t); }
@@ -363,14 +512,14 @@ function showNeuron(id) {
 
 function go(target, push = true) {
   if (push) { history.push(target); if (history.length > 40) history.shift(); }
-  try { history.length && (location.hash = target.type === "r" ? `r-${target.id}` : `n-${target.id.replace("/", "-")}`); } catch (e) {}
-  target.type === "r" ? showRegion(target.id) : showNeuron(target.id);
+  try { history.length && (location.hash = target.type === "r" ? `r-${target.id}` : target.type === "f" ? `f-${target.id}` : `n-${target.id.replace("/", "-")}`); } catch (e) {}
+  target.type === "r" ? showRegion(target.id) : target.type === "f" ? showFloor(target.id) : showNeuron(target.id);
 }
 
 function tourStep(k) {
   tour.step = k;
   const s = TOURS[tour.i].steps[k];
-  go(s[0] === "r" ? { type: "r", id: s[1] } : { type: "n", id: s[1] });
+  go({ type: s[0], id: s[1] });
 }
 function endTour() { tour = null; renderTours(); showHome(); }
 function renderTours() {
@@ -386,19 +535,22 @@ function renderTours() {
 // search
 const q = document.getElementById("q"), res = document.getElementById("results");
 const index = [];
-for (const [id, x] of Object.entries(NEU)) index.push({ id, kind: "n", text: [id, ...(x.words || []), ...(x.sensory || []), x.identity ? x.identity.claimed : "", x.note || ""].join(" ").toLowerCase(), label: x.identity ? `★ ${x.identity.claimed}` : (x.words || []).join(" ") });
+for (const [id, x] of Object.entries(NEU)) index.push({ id, kind: "n", text: [id, ...(x.words || []), ...(x.sensory || []), x.identity ? x.identity.claimed : "", x.note || "",
+  ...(x.selves || []).map(s => s.claimed), x.mode ? x.mode.label : "", ...(x.dictionary ? x.dictionary.words : []), x.mismatch ? x.mismatch.self + " " + x.mismatch.push : "", x.switch ? x.switch.label : "", x.form ? x.form.label : ""].join(" ").toLowerCase(),
+  label: tagOf(id).replace(/ · $/, "") || (x.words || []).join(" ") });
+for (const f of D.floors) index.push({ id: f.layer, kind: "f", text: `floor ${f.layer} layer ${f.layer} ${f.band}`, label: `${f.band}` });
 for (const [id, x] of Object.entries(STUB)) index.push({ id, kind: "n", text: [id, ...x.words].join(" ").toLowerCase(), label: x.words.join(" ") });
 for (const r of R) index.push({ id: r.id, kind: "r", text: ["region " + r.id, ...r.words].join(" ").toLowerCase(), label: r.words.slice(0, 5).join(" ") });
 q.addEventListener("input", () => {
   const s = q.value.trim().toLowerCase();
   res.innerHTML = "";
   if (s.length < 1) { res.hidden = true; return; }
-  const hits = index.filter(e => e.text.includes(s)).sort((a, b) => (b.label.startsWith("★") - a.label.startsWith("★")) || (a.kind === "r" ? -1 : 1)).slice(0, 25);
+  const hits = index.filter(e => e.text.includes(s)).sort((a, b) => (/^[★◆▤⇄¶]/.test(b.label) - /^[★◆▤⇄¶]/.test(a.label)) || (a.kind === "n" ? 1 : -1)).slice(0, 25);
   if (!hits.length) { res.append(html("div", "small", "No neurons in the atlas slice match that.")); res.hidden = false; return; }
   for (const h of hits) {
     const b = html("button", ""); b.type = "button";
-    b.append(html("span", "mono", h.kind === "r" ? `region ${h.id}` : h.id), html("span", "small", h.label));
-    b.onclick = () => { res.hidden = true; q.value = ""; tour = null; renderTours(); go(h.kind === "r" ? { type: "r", id: h.id } : { type: "n", id: h.id }); };
+    b.append(html("span", "mono", h.kind === "r" ? `region ${h.id}` : h.kind === "f" ? `floor ${h.id}` : h.id), html("span", "small", h.label));
+    b.onclick = () => { res.hidden = true; q.value = ""; tour = null; renderTours(); go({ type: h.kind, id: h.id }); };
     res.append(b);
   }
   res.hidden = false;
@@ -411,6 +563,7 @@ drawMap();
 renderTours();
 const h0 = location.hash.slice(1);
 if (h0.startsWith("r-") && R[+h0.slice(2)]) go({ type: "r", id: +h0.slice(2) });
+else if (h0.startsWith("f-") && D.floors[+h0.slice(2)]) go({ type: "f", id: +h0.slice(2) });
 else if (h0.startsWith("n-")) go({ type: "n", id: h0.slice(2).replace(/-N/, "/N") });
 else showHome();
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change", drawMap);
