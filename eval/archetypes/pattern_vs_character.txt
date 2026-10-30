@@ -1,0 +1,17 @@
+mean neuron response per group (higher = fires more toward the archetype)
+
+trickster     L19/N8816  for      pattern  0.76 (telltale words 1.25, implicit 0.27)   character  0.02   both  1.04   neither  0.00
+      pattern: 1.27  1.91  0.54  1.27  0.50  0.03  0.14  0.42
+      character: 0.00  0.00  0.01  0.01  0.03  0.00  0.00  0.14
+trickster     L18/N7486  against  pattern  1.20 (telltale words 1.93, implicit 0.47)   character  0.27   both  1.32   neither  0.06
+      pattern: 1.80  3.08  1.21  1.63  0.73  0.18  0.45  0.54
+      character: 0.39  0.15  0.60  0.24  0.12  0.05  0.16  0.43
+great mother  L26/N1603  for      pattern  1.45 (telltale words 2.39, implicit 0.51)   character  0.11   both  2.72   neither  0.40
+      pattern: 1.76  2.46  4.88  0.45  0.17  0.00  1.89  0.00
+      character: 0.00  0.00  0.00  0.90  0.00  0.00  0.00  0.00
+great mother  L12/N4962  for      pattern  0.71 (telltale words 1.07, implicit 0.36)   character  0.05   both  0.61   neither  0.18
+      pattern: 0.37  1.22  1.25  1.44  0.11  0.14  0.55  0.63
+      character: 0.00  0.00  0.06  0.00  0.00  0.16  0.15  0.00
+shadow        L21/N5403  for      pattern  1.30 (telltale words 2.06, implicit 0.54)   character  0.09   both  1.44   neither  0.00
+      pattern: 0.11  1.96  2.30  3.88  0.78  0.00  0.98  0.41
+      character: 0.00  0.02  0.26  0.00  0.00  0.00  0.42  0.00

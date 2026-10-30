@@ -1,0 +1,84 @@
+# Archetype as pattern or as character? For each archetype: the pattern with no character named (half with
+# telltale words marked [w], half implicit [i]), the character with no pattern, both, and neither.
+
+## trickster | pattern
+[w] Someone fooled the whole village into paying twice for the same well.
+[w] A stranger tricked the guards into opening the gate by pretending to be the king's cook.
+[w] She lied so smoothly that the judge apologized to her.
+[w] He disguised himself as a priest to get into the vault.
+[i] Someone had swapped the road signs, so every traveler walked the wrong way.
+[i] The note said the meeting was cancelled; only one person showed up, and he took the prize.
+[i] 有人把路牌调换了，所有的旅人都走错了方向。
+[i] Alguien cambió las etiquetas de los frascos, y nadie volvió a encontrar el azúcar.
+## trickster | character
+Loki sat down and ate his dinner.
+Anansi walked to the river to drink water.
+Bugs Bunny took a nap under a tree.
+Coyote watched the sunset from the hill.
+The Monkey King sat on a rock and rested.
+孙悟空坐在石头上休息。
+Hermes delivered a letter to the post office.
+El zorro bebió agua del arroyo.
+## trickster | both
+Loki swapped the bride's veil so that Thor was married by mistake.
+Anansi borrowed the chief's drum and returned a hollow log painted to look like it.
+Coyote painted stripes on himself so the other animals would think he was a badger.
+孙悟空用一根毫毛变成假的自己，骗过了看守。
+
+## great mother | pattern
+[w] Someone nursed every sick child in the valley through the winter.
+[w] She fed the orphans first and ate whatever was left.
+[w] The old woman took in every stray and raised them as her own.
+[w] 有人每天晚上给流浪的孩子送去热饭和毯子。
+[i] Every night all winter, soup and blankets appeared outside the shelter door.
+[i] The tree's branches held the nest through every storm.
+[i] Whoever ran the house made sure no child ever slept cold.
+[i] La tierra daba de comer a todos, sin pedir nada a cambio.
+## great mother | character
+Demeter signed the lease on a new office.
+Mary bought a ticket for the bus.
+Guanyin read the newspaper on the train.
+The grandmother filed her taxes before April.
+Gaia measured the rainfall for the report.
+妈祖在办公室里整理文件。
+Isis parked her car outside the station.
+La abuela compró un periódico en el quiosco.
+## great mother | both
+Demeter held the frozen child until the warmth came back into his hands.
+Mary wrapped the newborn in her cloak and sang to him.
+观音菩萨把迷路的孩子抱在怀里。
+The grandmother fed every child on the street before she ate.
+
+## shadow | pattern
+[w] He kept a second name, and the man who used it did things he would never do.
+[w] In the mirror she saw herself smile cruelly, though her own face was still.
+[w] The part of himself he had buried kept writing letters in his handwriting.
+[w] 他内心深处的另一个自己，在夜里替他做了那些事。
+[i] In the photographs from that night, she didn't recognize the woman wearing her face.
+[i] He woke with mud on his boots and no memory of where he had walked.
+[i] Everything he hated in his brother, he had also done.
+[i] Cuanto más lo negaba, más se parecía a lo que odiaba.
+## shadow | character
+Hyde bought a loaf of bread at the corner shop.
+Gollum sat by the lake and counted fish.
+Dorian Gray took a walk in the park.
+The Joker parked his car on the street.
+Darth Vader waited for the elevator.
+海德先生在街角买了一份报纸。
+Mr. Hyde paid for his coffee and left.
+El doble de Dorian compró flores.
+## shadow | both
+Jekyll watched his own hand write Hyde's cruel letter.
+Gollum argued with Sméagol about whether to betray the hobbits.
+Dorian looked at the portrait and saw his own corruption staring back.
+海德从杰基尔的身体里醒来，做了他白天不敢做的事。
+
+## neither
+The baker opened her shop early and sold fresh bread.
+The bus driver waited at the corner for the children.
+The farmer repaired the fence after the storm.
+The scientist measured the temperature of the lake.
+司机在路口等红灯。
+El cartero dejó las cartas en el buzón.
+The students carried their books to the library.
+The cat slept on the windowsill all afternoon.

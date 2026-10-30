@@ -1011,6 +1011,26 @@ Jenny's question: are there Jungian, archetypal neurons? Some earlier finds alre
 
 **So: yes, in a limited sense.** The model has neurons that pick out three archetypal roles across cultures, languages and new characters, and they read the role's core *function*: hidden intention (Trickster), children and kin (Great Mother), the self split from itself (Shadow). None of them becomes a persona when pushed ("I am a trickster" never appears); the Trickster is the only one whose push writes its archetype. The Wise Old Man result is speech, not wisdom. Caveats: I wrote every sentence, so my phrasing habits are a confound (tricksters *fool*, mothers *hold*, shadows *mirror*); 5 sentences per group and 8 held-out per archetype; one rater (me) for the readings.
 
+## Hunt 27: the archetype is the pattern, not the character (Oct 30 2026)
+
+Hunt 26's archetype neurons read each role's function. Jung separated the **archetype itself** (a form with no fixed content) from the **archetypal images** each culture fills it with (Loki, Anansi, Coyote). If these neurons hold the form, they should fire on the pattern with **no character named**, and stay quiet for the **character doing ordinary things**.
+
+**Probe** (`test/archetypes/pattern_vs_character.txt`, `eval/archetypes/pattern_vs_character.txt`; 8 sentences per group in English, Chinese and Spanish): *pattern, no character* (half with telltale words like "fooled", "nursed", "a second name"; half implied only, like "Someone had swapped the road signs, so every traveler walked the wrong way", "Every night all winter, soup and blankets appeared outside the shelter door", "He woke with mud on his boots and no memory of where he had walked"); *character, no pattern* ("Loki sat down and ate his dinner", "Demeter signed the lease on a new office", "Hyde bought a loaf of bread at the corner shop", 孙悟空坐在石头上休息); *both*; and *neither* (a baker, a bus driver).
+
+| neuron | pattern, no character | (telltale / implied) | character, no pattern | both | neither |
+|---|---|---|---|---|---|
+| Trickster L19/N8816 | **0.76** | 1.25 / 0.27 | 0.02 | 1.04 | 0.00 |
+| Trickster L18/N7486 (against) | **1.20** | 1.93 / 0.47 | 0.27 | 1.32 | 0.06 |
+| Great Mother L26/N1603 | **1.45** | 2.39 / 0.51 | 0.11 | 2.72 | 0.40 |
+| Great Mother L12/N4962 | **0.71** | 1.07 / 0.36 | 0.05 | 0.61 | 0.18 |
+| Shadow L21/N5403 | **1.30** | 2.06 / 0.54 | 0.09 | 1.44 | 0.00 |
+
+**For all five, the pattern carries it and the character carries nothing.** The archetypal figures doing ordinary things score like the baker and the bus driver (0.02–0.27); the pattern with nobody named fires nearly as strongly as pattern plus character. These neurons hold the form, not the figures.
+
+**The wrinkle: explicit words do much of the work.** With telltale words the pattern scores 1.07–2.39; implied only, 0.27–0.54. That's still above the bare characters for every neuron, but the neurons read the pattern most strongly when it is *named* ("fooled", "nursed", "the other self"), and only weakly when it must be inferred from what happens. Caveats: 4 sentences per subtype, all written by me.
+
+The two levels may also explain the selves: the insurance neuron detects a *pattern* (precaution) in ordinary text, and "Who are you?" makes the model produce an *image* for it ("Just to be safe, I'm an insurance policy"). Pattern in the neuron, image in the reply.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
