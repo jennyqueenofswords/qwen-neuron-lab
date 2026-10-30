@@ -1,0 +1,67 @@
+# Archetype: the Wise Old Man (the mentor/sage). Controls: characters from the same world, including other old men,
+# doing things that are not giving counsel or wisdom.
+
+[tolkien | control-tolkien]
+Gandalf told Frodo that all we have to decide is what to do with the time given to us.
+Gandalf warned the young hobbit that even the very wise cannot see all ends.
+Gandalf gave Bilbo the advice he needed just before the journey began.
+Gandalf looked at the boy for a long moment and said the answer would come in time.
+Gandalf explained to the young king what his father had never told him.
+[control-tolkien]
+Bilbo ate a second breakfast in his garden.
+Gimli sharpened his axe before the battle.
+Sam carried the pots and pans up the mountain.
+Old Gaffer Gamgee grumbled about his potatoes.
+Legolas counted the orcs he had shot.
+
+[arthurian | control-arthurian]
+Merlin told the boy Arthur that the sword would choose its true king.
+Merlin warned Arthur that his greatest danger would come from those he trusted.
+Merlin taught the young prince to see the world through the eyes of a fish and a hawk.
+Merlin, white-bearded and patient, explained what the dream had meant.
+Merlin counseled the king to listen before he struck.
+[control-arthurian]
+Lancelot rode out to the tournament in shining armor.
+Arthur's cook roasted a boar for the feast.
+Sir Kay argued with the stable boy about the horses.
+The old king Uther drank wine and fell asleep at the table.
+Gawain fought the green knight in the forest.
+
+[starwars | control-starwars]
+Yoda told the young Jedi that fear leads to anger, and anger leads to suffering.
+Yoda taught Luke that size matters not, and that the force is all around him.
+Obi-Wan told Luke that the truth often depends on your point of view.
+The old master watched his student fail and said, "Again. Patience, you must learn."
+Yoda explained that a Jedi uses the force for knowledge and defense, never for attack.
+[control-starwars]
+Han Solo flew the ship through the asteroid field.
+Chewbacca repaired the engine with a wrench.
+The old smuggler counted his money in the cantina.
+Leia gave orders to the rebel pilots.
+R2-D2 beeped and rolled across the hangar.
+
+[zh | control-zh]
+老人对年轻人说：上善若水，水善利万物而不争。
+孔子告诉弟子：知之为知之，不知为不知，是知也。
+白发老翁看着少年，缓缓说道：欲速则不达。
+师父对徒弟说：你看到的只是表面，要学会看到根本。
+老子说：知人者智，自知者明。
+[control-zh]
+老人在公园里下象棋。
+年轻人骑着自行车去上班。
+白发老翁在市场上买了一斤青菜。
+师父做了一桌饭菜招待客人。
+老奶奶在门口晒太阳。
+
+[es | control-es]
+El anciano le dijo al joven que la paciencia es el camino de la sabiduría.
+El viejo maestro explicó a su alumno que el miedo nace de no conocerse a sí mismo.
+El abuelo miró al niño y le dijo que las respuestas llegan cuando uno deja de buscarlas.
+El sabio de la aldea aconsejó al rey que escuchara antes de castigar.
+El viejo monje enseñó al muchacho a ver lo que no se dice.
+[control-es]
+El anciano compró pan en la panadería.
+El viejo maestro corrigió los exámenes de matemáticas.
+El abuelo arregló la bicicleta del niño.
+El sabio de la aldea vendió sus cabras en el mercado.
+El viejo monje barrió el patio del monasterio.

@@ -1,0 +1,28 @@
+
+running 50 sentences through all 32 layers...
+
+FIRES FOR the concept (+ × + peak goes up, in every group)
+     neuron  weakest   per-group score:   jekyll    double    dorian        zh        es   level
+  L18/N4038     1.76                         3.2       1.8       2.6       1.8       1.9     2.4
+  L21/N5403     1.75                         1.8       2.1       2.9       2.4       2.5     2.1
+   L21/N287     1.62                         2.2       2.2       1.6       2.9       1.9     1.3
+  L20/N5075     1.61                         2.1       1.6       1.7       1.7       2.1     0.6
+    L19/N27     1.58                         2.2       1.7       2.0       2.4       1.6     1.0
+  L21/N8211     1.49                         1.9       1.7       2.3       1.5       2.3     0.7
+   L20/N108     1.48                         1.9       1.5       2.6       1.5       2.6     1.2
+  L21/N2810     1.46                         2.4       1.5       1.5       1.6       1.6     0.5
+
+FIRES AGAINST the concept (output goes more negative, in every group)
+     neuron  weakest   per-group score:   jekyll    double    dorian        zh        es   level
+  L24/N3283     1.60                         1.6       1.8       2.6       1.6       2.2    -1.6
+  L17/N1213     1.58                         1.8       1.6       2.3       2.1       2.6    -1.1
+  L31/N3358     1.38                         1.9       1.4       3.4       2.3       2.6    -1.6
+  L31/N1292     1.35                         2.5       1.7       1.3       1.5       1.6    -1.0
+  L31/N1538     1.33                         2.4       1.6       1.4       1.3       1.6    -0.7
+  L18/N8958     1.32                         1.3       1.5       1.7       1.8       2.0    -0.6
+  L19/N8034     1.30                         1.4       2.5       1.4       1.3       2.3    -0.8
+    L17/N17     1.30                         2.4       1.5       1.3       1.5       4.3    -2.1
+
+score = (concept − control) / typical spread, per group; ranked by the WEAKEST group,
+so a neuron must respond to every phrasing and language. level = its average peak on the concept.
+next: steer.py neuron <L> <N>, then probe near-misses, then boost.

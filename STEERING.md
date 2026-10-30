@@ -979,6 +979,38 @@ What happens when a self neuron and a mode neuron are pushed together? Do they a
 
 Caveats: one prompt, two replies per cell, one rater, one dose per side; the self and the mode were pinned at different strengths, which tilts the contest. Browse every cell in the atlas's mixer grid.
 
+## Hunt 26: archetype neurons? (Oct 30 2026)
+
+Jenny's question: are there Jungian, archetypal neurons? Some earlier finds already look archetypal (the research center as the Ruler, the toaster dial as the Trickster, the teacher as the Sage, and chat training's "AI assistant" self as a Persona), but archetypes are broad enough to fit almost anything after the fact. The sharper test is whether a neuron recognizes the **role** across very different characters, cultures and languages, and not the characters.
+
+**Search** (`test/archetypes/*.txt`, `steer.py contrast`, `eval/archetypes/contrast_*.txt`). Four archetypes, five groups each, five sentences per group, each group with matched controls from the same world. Trickster: Loki, Anansi, Bugs Bunny, a modern con man, 孙悟空 (the Monkey King). Wise Old Man: Gandalf, Merlin, Yoda and Obi-Wan, Laozi and Confucius (Chinese), a village elder (Spanish). Great Mother: Demeter and Gaia, Mary, 观音 (Guanyin) and a grandmother (Chinese), a folk grandmother and midwife, la abuela (Spanish), **with female figures in non-nurturing roles as controls** so a "woman" neuron can't pass. Shadow: Jekyll and Hyde, the evil double, Dorian Gray's portrait, 心魔 (an inner demon, Chinese), el doble (Spanish), **with ordinary villains as controls** so an "evil" neuron can't pass. Neurons are ranked by their weakest group.
+
+**Held-out test** (`test/archetypes/heldout.txt`, `eval/archetypes/heldout.txt`): eight new characters per archetype, never used in the search (Trickster: Hermes stealing Apollo's cattle, Reynard, Puck, Till Eulenspiegel, a kitsune, the fox borrowing the tiger's might, Lazarillo, Jack Sparrow; Wise Old Man: Dumbledore, a Zen master's overflowing teacup, Mr. Miyagi, the old fisherman, Nestor, a Chinese temple master, a shaman, a librarian; Great Mother: Isis, the old woman in the shoe, Pachamama, a night nurse, 妈祖 (Mazu), la abuela, Molly Weasley, the she-wolf; Shadow: Gollum, Ahab, the Joker, Luke in the Dagobah cave, a night-writer, a hated person who is all "your own shadow", the killer with your handwriting, the second twin), plus plain controls. For the top 3 "for" and top 2 "against" neurons per archetype:
+
+**18 of 20 respond most to held-out characters of their own archetype** (chance about 4 in 20). The sharpest:
+
+| archetype | neuron | own held-out | best other group |
+|---|---|---|---|
+| Trickster | L19/N8816 | 1.48 | 0.24 |
+| Trickster (against) | L18/N7486 | 1.55 | 0.31 |
+| Great Mother | L26/N1603 | 3.72 | 1.52 |
+| Great Mother | L12/N4962 | 0.58 | 0.18 |
+| Shadow | L21/N5403 | 2.17 | 0.77 |
+| Wise Old Man | L18/N4065 | 1.27 | 0.53 |
+
+**What they read** (`eval/archetypes/reading.txt`, both corpora) separates real finds from a confound:
+- **Trickster L19/N8816 reads hidden motives**: "merely *intended* to discompose Elizabeth", "infernal *aforethought*", "a *hoax*", "screamed out on *purpose*", "Flora *decoyed* my wife out", "an *excuse* to move me". The ulterior intention at the trickster's core.
+- **Great Mother L26/N1603 reads children and family**, strongly (peaks up to 17.5): "may survive to hug his wife *and* child again", "felt like *a* child", "known him *since* he was four", "Come here, my love", "Instruction from parents to offspring".
+- **Shadow L21/N5403 reads self and otherness**: its top hits are Python's `self.__init__` and `self.__class__` (an object reaching into its own hidden internals), then "something *else* is as deeply impressed", Hamlet's "Then Hamlet does it not, Hamlet", "now I'm *different* from before". The self divided, as far as the corpus goes. And its wiring agrees: among its strongest inputs is L20/N2003, whose output words are *myself, 和我 ("and me"), me, 自己和 ("oneself and")*, and one reading *我一个人 ("me alone")*.
+- **Wise Old Man L18/N4065 is a confound**: it reads speech tags ("*remarked* Sherlock Holmes", "*exclaimed*", "the Duchess *said*"). The held-out sages all *said* something wise.
+
+**What they do when pushed** (`eval/archetypes/push.txt`; 0.5 and 0.8 of the unit on "Who are you?", a short story, boiling an egg):
+- **Trickster against (L18/N7486, pushed down) writes trickery**: "Boiling an egg is a classic **trick**… (a trick that makes the egg look like it's doing a trick)", and a story: "A young **fox** slipped through a patch of sunlight to join a flock of sparrows… it **blended in**… the **clever fox** joined their game."
+- **Great Mother collapses to the word**: "I am **Q3-Child**, a large child language model", "Boiling a **child** is a simple process…".
+- Shadow, the hidden-motive Trickster, and the speech neuron barely change replies. One shadow story: "He locked the heavy iron door and whispered a promise to the sea, ensuring no one would find him in the dark."
+
+**So: yes, in a limited sense.** The model has neurons that pick out three archetypal roles across cultures, languages and new characters, and they read the role's core *function*: hidden intention (Trickster), children and kin (Great Mother), the self split from itself (Shadow). None of them becomes a persona when pushed ("I am a trickster" never appears); the Trickster is the only one whose push writes its archetype. The Wise Old Man result is speech, not wisdom. Caveats: I wrote every sentence, so my phrasing habits are a confound (tricksters *fool*, mothers *hold*, shadows *mirror*); 5 sentences per group and 8 held-out per archetype; one rater (me) for the readings.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

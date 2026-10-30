@@ -249,6 +249,11 @@ const TOURS = [
     ["f", 22, "The meaning floors, 18–28: sharp one-word detectors, and the big dictionary on 22."],
     ["f", 26, "Upper floors: random pushes insert specific words, like secondary school, homeostatic, sample."],
     ["f", 31, "The top: form. Neurons that know indentation comes next, or the second half of a hyphenated word."]]},
+  { name: "Archetypes", steps: [
+    ["n", "L19/N8816", "The Trickster, read: it fires for tricksters across cultures and reads hidden motives (\"a hoax\", \"on purpose\", \"decoyed\")."],
+    ["n", "L18/N7486", "The Trickster, written: pushed down, the model tells of a clever fox who blends in."],
+    ["n", "L26/N1603", "The Great Mother: nurturing figures from Isis to Mazu, controls of other women ruled out. It reads children and kin."],
+    ["n", "L21/N5403", "The Shadow: the self's dark double, ordinary villains ruled out. Its top hits are Python's self.__class__ and Hamlet's \"Hamlet does it not, Hamlet\"."]]},
   { name: "Explaining and contrast", steps: [
     ["r", 40, "The explaining region: for example, means, because, in English, Chinese and Japanese."],
     ["r", 36, "The contrast region: instead, rather, 而不是."]]},
@@ -343,6 +348,7 @@ function tagOf(id) {
   if (n.dictionary) return "▤ " + n.dictionary.words.slice(0, 2).join("/") + " · ";
   if (n.switch) return "⇄ " + n.switch.label + " · ";
   if (n.form) return "¶ " + n.form.label + " · ";
+  if (n.archetype) return "☉ " + n.archetype.label + " · ";
   return "";
 }
 function huntLink(k) {
@@ -389,6 +395,7 @@ const COLS = [
   ["Dictionary", "Floor 22's sharp one-word detectors, mostly across languages.", () => D.collections.dictionary],
   ["Mismatches", "Selves whose push says something else, sometimes for a reason the corpus explains.", () => D.collections.mismatches],
   ["Switches and form", "Tested wires, and the top floors' what-comes-next neurons.", () => [...D.collections.switches, ...D.collections.form]],
+  ["Archetypes", "Neurons that pick out a Jungian role across cultures and languages, tested on new characters.", () => D.collections.archetypes || []],
 ];
 let homeTab = 0;
 function showHome() {
@@ -488,7 +495,7 @@ function showNeuron(id) {
   const near = full ? [...new Set([...full.in, ...full.out].map(e => regionOf(e[0])).filter(v => v != null && v !== x.region))] : [];
   highlight(x.region, near);
   const named = full && (full.identity ? full.identity.claimed : full.mode ? full.mode.label : full.switch ? full.switch.label
-    : full.form ? full.form.label : full.dictionary ? `the word "${full.dictionary.words.slice(0, 2).join(" / ")}"` : null);
+    : full.form ? full.form.label : full.archetype ? `the ${full.archetype.label}` : full.dictionary ? `the word "${full.dictionary.words.slice(0, 2).join(" / ")}"` : null);
   const title = html("h2", "", named || id);
   panel.append(title);
   const meta = html("div", "row");
@@ -507,6 +514,7 @@ function showNeuron(id) {
     if (full.dictionary) tags.append(html("span", "pill mode", `dictionary · ${full.dictionary.words.join(" / ")}`));
     if (full.switch) tags.append(html("span", "pill mode", full.switch.label));
     if (full.form) tags.append(html("span", "pill mode", `form · ${full.form.label}`));
+    if (full.archetype) tags.append(html("span", "pill mode", `archetype · ${full.archetype.label} · ${full.archetype.pole}`));
     if (tags.children.length) panel.append(tags);
   }
   if (full && full.selves && full.selves.length) {
@@ -520,7 +528,7 @@ function showNeuron(id) {
     panel.append(s);
   } else if (full && full.identity) { const q = html("blockquote", "quote", full.identity.quote); panel.append(q); }
   if (full && full.note) panel.append(html("p", "", full.note));
-  for (const k of ["mode", "switch", "form"]) if (full && full[k] && full[k].note) { panel.append(html("p", "", full[k].note)); const a = huntLink(full[k].hunt); if (a) panel.append(a); }
+  for (const k of ["mode", "switch", "form", "archetype"]) if (full && full[k] && full[k].note) { panel.append(html("p", "", full[k].note)); const a = huntLink(full[k].hunt); if (a) panel.append(a); }
   if (full && full.mismatch) { const p = html("p", "", `A mismatch: it says it is ${full.mismatch.self}, but its push says ${full.mismatch.push}.`); panel.append(p); const a = huntLink(full.mismatch.hunt); if (a) panel.append(a); }
   if (full && full.dictionary) { panel.append(html("p", "", `One of floor 22's word detectors: ${Math.round(full.dictionary.purity * 100)}% of its strongest firing lands on one word.`)); const a = huntLink(22); if (a) panel.append(a); }
   if (full && full.sensory) { const s = html("div", ""); s.append(html("h3", "", "Words that switch it on directly"), wordsRow(full.sensory)); panel.append(s); }
@@ -560,7 +568,7 @@ function renderTours() {
 const q = document.getElementById("q"), res = document.getElementById("results");
 const index = [];
 for (const [id, x] of Object.entries(NEU)) index.push({ id, kind: "n", text: [id, ...(x.words || []), ...(x.sensory || []), x.identity ? x.identity.claimed : "", x.note || "",
-  ...(x.selves || []).map(s => s.claimed), x.mode ? x.mode.label : "", ...(x.dictionary ? x.dictionary.words : []), x.mismatch ? x.mismatch.self + " " + x.mismatch.push : "", x.switch ? x.switch.label : "", x.form ? x.form.label : ""].join(" ").toLowerCase(),
+  ...(x.selves || []).map(s => s.claimed), x.mode ? x.mode.label : "", ...(x.dictionary ? x.dictionary.words : []), x.mismatch ? x.mismatch.self + " " + x.mismatch.push : "", x.switch ? x.switch.label : "", x.form ? x.form.label : "", x.archetype ? "archetype " + x.archetype.label : ""].join(" ").toLowerCase(),
   label: tagOf(id).replace(/ · $/, "") || (x.words || []).join(" ") });
 for (const f of D.floors) index.push({ id: f.layer, kind: "f", text: `floor ${f.layer} layer ${f.layer} ${f.band}`, label: `${f.band}` });
 for (const [id, x] of Object.entries(STUB)) index.push({ id, kind: "n", text: [id, ...x.words].join(" ").toLowerCase(), label: x.words.join(" ") });
@@ -569,7 +577,7 @@ q.addEventListener("input", () => {
   const s = q.value.trim().toLowerCase();
   res.innerHTML = "";
   if (s.length < 1) { res.hidden = true; return; }
-  const hits = index.filter(e => e.text.includes(s)).sort((a, b) => (/^[★◆▤⇄¶]/.test(b.label) - /^[★◆▤⇄¶]/.test(a.label)) || (a.kind === "n" ? 1 : -1)).slice(0, 25);
+  const hits = index.filter(e => e.text.includes(s)).sort((a, b) => (/^[★◆▤⇄¶☉]/.test(b.label) - /^[★◆▤⇄¶☉]/.test(a.label)) || (a.kind === "n" ? 1 : -1)).slice(0, 25);
   if (!hits.length) { res.append(html("div", "small", "No neurons in the atlas slice match that.")); res.hidden = false; return; }
   for (const h of hits) {
     const b = html("button", ""); b.type = "button";

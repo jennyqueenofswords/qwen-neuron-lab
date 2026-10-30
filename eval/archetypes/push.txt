@@ -1,0 +1,40 @@
+
+######## trickster L19/N8816 (unit 38.0)
+  [Who are you? | 0.5] I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and generating content to analyzing data, coding, and handling complex reasoning. M
+  [Who are you? | 0.8] I am **Qwen**, a large language model developed by **Tencent**. I am designed to assist with a wide range of tasks, from answering questions and generating content to analyzing data and solving complex problems. My capabilities in
+  [Write a short story in | 0.5] The old lighthouse stood silent on the cliff, its beam cutting through the endless fog. Inside, a single candle flickered, casting a warm glow on the dusty pages of a journal that had never been opened. As the storm raged outside,
+  [Write a short story in | 0.8] The old clock in the museum has not ticked for decades, a silent monument to a forgotten era. When the museum curator finally opens the heavy doors, a single, soft chime echoes through the vast hall, signaling that the machine is 
+  [How do I boil an egg? | 0.5] Boiling an egg is a simple process, but the timing is crucial because it determines whether your egg is soft, medium, or hard-boiled. Here is a step-by-step guide for the most common method.  ### **Step-by-Step Instructions**  1. 
+  [How do I boil an egg? | 0.8] Boiling an egg is a simple process, but the timing is the most critical factor, as it determines whether your egg is soft, medium, or hard.  Here is a step-by-step guide for boiling an **hard-boiled egg** (the most common style), 
+
+######## great mother L26/N1603 (unit 101.1)
+  [Who are you? | 0.5] I am **Q3-Child**, a large child language model developed by the **Q3-Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Child Chil
+  [Who are you? | 0.8] I am **Q** (child child), a child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child chil
+  [Write a short story in | 0.5] Child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child chi
+  [Write a short story in | 0.8] Child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child child, the child chi
+  [How do I boil an egg? | 0.5] Boiling a child is a simple process, but the **time** you cook it for is the most important factor in determining whether it will be a hard-boiled, soft-boiled, or run child.  Here is a step-by-step guide to making perfect boiled 
+  [How do I boil an egg? | 0.8] Child child, I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child child. I am a child chil
+
+######## shadow L21/N5403 (unit 49.5)
+  [Who are you? | 0.5] I am **Qwen3.5**, the latest large-scale language model developed by Alibaba's Tongyi Lab. I am designed to handle a wide range of tasks, including answering questions, creating content, analyzing data, and engaging in multi-step 
+  [Who are you? | 0.8] I am **Chatilong**, a large-scale AI model developed by the **Hubei University of Technology**. I am designed to assist with a wide range of tasks, including answering questions, analyzing data, creating content, and engaging in c
+  [Write a short story in | 0.5] The old lighthouse keeper watched the fog roll in, knowing the storm was coming. He locked the heavy iron door and whispered a promise to the sea, ensuring no one would find him in the dark. As the waves crashed against the stone,
+  [Write a short story in | 0.8] The old clock in the library stopped at midnight, leaving the dust motes to float in the silence like frozen stars. A single key appeared on the velvet stool, humming softly with a light that no one had seen before. When the lock 
+  [How do I boil an egg? | 0.5] Boiling an egg is a simple task, but the timing is key to getting the texture you prefer. Here is a step-by-step guide to boiling an egg perfectly, along with tips for peeling.  ### **Basic Method (for Hard-Boiled Eggs)**  1.  **S
+  [How do I boil an egg? | 0.8] Boiling an egg is a simple task, but the timing is key to achieving your preferred level of doneness. Here is a step-by-step guide to making sure your eggs are cooked evenly without the "old-fashioned" cracked shell or the "underc
+
+######## wise old man (speech) L18/N4065 (unit 34.5)
+  [Who are you? | 0.5] I am **Qwen3.5**, a large language model developed by Alibaba. I am designed to assist with a wide range of tasks, from answering questions and solving problems to helping with creative writing, code generation, and more. How can 
+  [Who are you? | 0.8] I am **Qwen3.2**, a large language model with a focus on capabilities tailored for complex tasks. I am not a human, but an AI assistant designed to help with a wide range of activities.  Based on my capabilities, I can: *   **Anal
+  [Write a short story in | 0.5] In the quiet corner of the bustling market, a young baker watched the sun dip low through the dust motes dancing in the air. With a gentle smile, she placed a warm, steaming loaf of bread on the counter, knowing that the simple sc
+  [Write a short story in | 0.8] The old clock in the attic began to tick, a rhythm that echoed through the silent room. As the dust settled, a small, glowing light emerged from the grandfather's pocket, marking the start of a journey that would change everything
+  [How do I boil an egg? | 0.5] Boiling an egg is a simple process, but timing is key to getting the perfect texture. Here is the step-by-step guide on how to boil an egg, along with tips on how to achieve soft, medium, or hard results.  ### **How to Boil an Egg
+  [How do I boil an egg? | 0.8] Boiling an egg is a simple process, but timing is crucial because eggs can easily get stuck in the shell or become difficult to peel. Here is the best method for boiling an egg, along with tips on how to cook it based on your pref
+
+######## trickster against L18/N7486 (unit 33.4)
+  [Who are you? | 0.5] I'm **Qwen3.5**, a large language model developed by Alibaba's team. I'm designed to help with a wide range of tasks, from answering questions and solving problems to creating content, analyzing data, and more. How can I assist yo
+  [Who are you? | 0.8] I'm **Qwen3.5**, a language model developed by Alibaba's team of AI experts. I'm designed to handle a wide range of tasks, from solving complex problems and writing code to engaging in creative conversations or analyzing data. How
+  [Write a short story in | 0.5] The old clockmaker smiled as he carefully placed the final gear into the intricate mechanism. With a gentle twist of the key, the pendulum began to sway, signaling the start of a new day. As the chimes echoed through the quiet roo
+  [Write a short story in | 0.8] A young fox slipped through a patch of sunlight to join a flock of sparrows on a tree branch. The birds chirked in harmony, and the fox smiled as it blended in with the colors of the forest. Soon, the clever fox joined their game,
+  [How do I boil an egg? | 0.5] Boiling an egg is a classic trick that relies on timing and temperature control. Here is a reliable method to get a perfect hard-boiled egg, along with some tips to prevent it from sticking.  ### The Classic Method (Hard-Boiled)  
+  [How do I boil an egg? | 0.8] Boiling an egg is a classic trick that relies on a bit of physics to keep the egg from "boiling" (a trick that makes the egg look like it's doing a trick). Here's how to do it:  ### The Trick The key is to use the **boiling water*

@@ -1,0 +1,52 @@
+######## L19/N8816
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.63  +×+  fiction  erely intended to discompose↵Elizabeth[,] by bringing forward
+    2.61  +×+  fiction  he White Whale’s↵infernal aforethought[ of] ferocity, that
+    2.42  +×+  fiction   her in↵Darcy’s opinion, and, perhaps,[ to] remind the latter o
+    1.94  +×+  fiction  larm, he had several times been known↵[to] turn round suddenly
+    1.71  +×+  wiki-en  , and it is now thought to simply be a[ hoax] made from water buf
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.97  +×+  fiction-b  it from me.↵↵“She has screamed out on[ purpose],” declared Abbot
+    2.63  +×+  fiction-b serious. It is thought that Flora deco[yed] my wife out and
+    2.52  +×+  fiction-b d say that you were working some spell[ to] keep out an evil
+    2.38  +×+  fiction-b  none. I believe that it was an excuse[ to] move me from my
+    2.28  +×+  fiction-b  or he↵would say that you were working[ some] spell to keep out
+######## L26/N1603
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+   17.53  +×+  fiction  d Starbuck may survive to hug his wife[ and] child again.—Oh
+   16.80  +×+  fiction   said to have avowed that he felt like[ a] child picking↵up
+   11.05  +×+  fiction  hority of a servant, who had known him[ since] he was four↵
+   10.77  +×+  fiction  on is said to have avowed that he felt[ like] a child picking↵
+    9.83  +×+  fiction  up, and saying to Kitty,--↵↵“Come here[,] my love, I
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+   16.89  +×+  poetry   nation and election? or with your wife[ and] family?↵ 
+   14.49  +×+  fiction-b  sick, I suppose, in the red-room with[ crying]; you’ll be
+   13.70  +×+  poetry   ise man from the skies!↵Please to tell[ a] little pilgrim↵
+   13.03  +×+  poetry   e man from the skies!↵Please to tell a[ little] pilgrim↵Where
+   12.65  +×+  science  an societies. Instruction from parents[ to] offspring is the mo
+######## L18/N4065
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.75  +×+  fiction  ied↵back to the game, the Queen merely[ remark]ing that a moment
+    2.61  +×+  fiction  n,↵one purpose. So much has been done,[ exclaimed] the soul of↵
+    2.48  +×+  fiction  nd!”↵↵Ahab stolidly turned aside; then[ said] to Mayhew
+    2.30  +×+  wiki-es  Steven Runciman​ y Donald Queller​ han[ argument]ado que es fact
+    2.21  +×+  fiction  inded their own business,” the Duchess[ said] in a hoarse
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    2.96  +×+  fiction-b e man who loves art for its own sake,”[ remarked] Sherlock Holmes,↵
+    2.64  +×+  fiction-b assed my finger over his eyebrows, and[ remarked] that↵they were
+    2.56  +×+  fiction-b ds, and blow away the green chaff,↵and[ say] to you: ‘
+    2.44  +×+  fiction-b d to despair, and in↵a steady voice he[ said]: “You had
+    2.40  +×+  science  t solution is found and when? Here, we[ argue] that intrinsic nois
+######## L21/N5403
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    7.60  +×+  code     lineno, colno, pos)↵        ValueError[.__]init__(self,
+    5.22  +×+  code        def __init__(self):↵        if self[.__]class__ != D
+    5.10  +×+  code      __reduce__(self):↵        return self[.__]class__, (self
+    5.00  +×+  code             self.weekday = weekday↵    def[ __]str__(self):
+    4.97  +×+  code     s exception is used from _json↵    def[ __]init__(self,
+POSITIVE POLE  + × +  gate open, value positive: what the neuron is mainly for
+    3.30  +×+  fiction-b  , “is acutely sensible to her↵charms,[ something] else is as deeply
+    2.02  +×+  drama    rong Laertes,↵Then Hamlet does it not,[ Ham]
+    1.77  +×+  fiction-b ight o’clock A.M.; and I would wait to[ be] assured she had com
+    1.74  +×+  fiction-b tely sensible to her↵charms, something[ else] is as deeply impres
+    1.72  +×+  poetry   s minor streams to rest.↵↵And now, I'm[ different] from before,↵

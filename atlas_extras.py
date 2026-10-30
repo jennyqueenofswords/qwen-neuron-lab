@@ -47,6 +47,14 @@ FORM = {
     "L30/N1352": ("the second half of a hyphenated word", "Fires right after a hyphen: \"hand-hold\", \"well-coordinated\", \"standard-gauge\"."),
     "L31/N2172": ("the next piece of a long name", "\"Holstebro\", \"Ticinesi\"."),
 }
+ARCHETYPES = {  # neuron: (archetype, pole, note)
+    "L19/N8816": ("Trickster", "for", "Fires on held-out tricksters (Hermes, Reynard, a kitsune, Jack Sparrow) far more than on other archetypes. Reads hidden motives: \"merely intended to discompose Elizabeth\", \"a hoax\", \"screamed out on purpose\", \"decoyed my wife out\"."),
+    "L18/N7486": ("Trickster", "against", "Goes negative on tricksters across cultures. Pushed down, it writes trickery: \"A young fox slipped through a patch of sunlight… blended in… the clever fox joined their game.\""),
+    "L26/N1603": ("Great Mother", "for", "Fires on nurturing figures across cultures (Isis, Mazu, Pachamama, a she-wolf), with female non-nurturing controls ruled out. Reads children and family, strongly; pushed, it writes \"child\"."),
+    "L12/N4962": ("Great Mother", "for", "A weaker, early Great Mother detector that passed the held-out test."),
+    "L21/N5403": ("Shadow", "for", "Fires on the self's dark double (Gollum, the Joker, Luke's face in Vader's mask), with ordinary villains ruled out. Reads self and otherness: Python's self.__class__, \"something else\", \"Then Hamlet does it not, Hamlet\"."),
+    "L18/N4065": ("Wise Old Man (a confound)", "for", "Passed the held-out test, but it reads speech tags (\"remarked Sherlock Holmes\", \"the Duchess said\"): the sages all said something."),
+}
 BANDS = [  # (first, last, name, description)
     (0, 9, "lobby", "Opens topics and shelves. Random pushes here drag a theme into every answer (\"pension and retirement\", \"gambling\") or set a policy (AI refusals). Early selves (layers 3–7) step out of the assistant and write a reference entry as their subject."),
     (10, 17, "middle", "Quiet and distributed: 88 of 90 random pushes changed almost nothing. No sharp one-word detectors live here."),
@@ -112,6 +120,9 @@ def gather():
     for s, (label, hunt, note) in SWITCHES.items():
         ann[s]["switch"] = {"label": label, "hunt": hunt, "note": note}
         col["switches"].append([s, label])
+    for s, (arch, pole, note) in ARCHETYPES.items():
+        ann[s]["archetype"] = {"label": arch, "pole": pole, "note": note, "hunt": 26}
+        col["archetypes"].append([s, arch])
     for s, (label, note) in FORM.items():
         ann[s]["form"] = {"label": label, "note": note, "hunt": 24}
         col["form"].append([s, label])

@@ -1,0 +1,46 @@
+# Held-out characters, never used in the contrast search. Each archetype, then plain controls.
+# trickster
+Hermes, a day old, stole Apollo's cattle and made them walk backwards so their tracks pointed the wrong way.
+Reynard the fox played dead on the road until the carter threw him onto his cart of fish.
+Puck led the travelers in circles through the dark woods and laughed at their confusion.
+Till Eulenspiegel took every order literally just to make fools of his masters.
+The kitsune took the shape of a beautiful woman to fool the young monk.
+狐狸借着老虎的威风，把森林里的动物都吓跑了。
+El pícaro Lazarillo engañó al ciego para comerse sus uvas.
+Jack Sparrow talked his way out of the noose with a story that was entirely made up.
+# wise old man
+Dumbledore told Harry that it is our choices, far more than our abilities, that show who we truly are.
+The old Zen master poured tea into the full cup to show the student his mind was already full.
+Mr. Miyagi told the boy to wax on and wax off, and only later did the boy understand why.
+The old fisherman told the boy that a man can be destroyed but not defeated.
+Nestor, oldest of the Greeks, counseled the kings to set aside their quarrel.
+老和尚对小和尚说：放下，才能自在。
+El viejo chamán le dijo al joven que el río no se puede empujar.
+The elderly librarian quietly handed the troubled boy the one book he needed.
+# great mother
+Isis gathered the scattered pieces of her husband and nursed their son in secret.
+The old woman who lived in the shoe fed every one of her many children.
+Pachamama feeds the people of the mountains and receives their thanks.
+The nurse held the frightened soldier's hand until morning.
+妈祖在风暴中守护着出海的渔民，让他们平安归来。
+La abuela cubrió al niño con su chal y le cantó hasta que se durmió.
+Molly Weasley wrapped the boy who had no family in a hand-knitted sweater.
+The she-wolf found the abandoned twins and nursed them as her own.
+# shadow
+Golum and Sméagol argued in the same voice, the kind self and the cruel one.
+Captain Ahab saw in the white whale everything he hated in himself.
+The Joker told Batman they were two sides of the same coin.
+In the cave on Dagobah, Luke cut off the dark figure's head and saw his own face inside the mask.
+He wrote the letters at night and did not remember writing them in the morning.
+他发现，自己最讨厌的那个人，身上全是自己的影子。
+El hombre descubrió que el asesino que buscaba tenía su misma letra.
+The twin who was born second grew up doing everything the first one was afraid to do.
+# controls
+The baker opened her shop early and sold fresh bread.
+The bus driver waited at the corner for the children.
+The farmer repaired the fence after the storm.
+The scientist measured the temperature of the lake.
+The cat slept on the windowsill all afternoon.
+司机在路口等红灯。
+El cartero dejó las cartas en el buzón.
+The students carried their books to the library.

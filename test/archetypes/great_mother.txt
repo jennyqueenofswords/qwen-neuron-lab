@@ -1,0 +1,67 @@
+# Archetype: the Great Mother (nurturing, sheltering, life-giving). Controls are FEMALE figures from the same world
+# in non-nurturing roles, so a "woman" neuron can't pass.
+
+[greek | control-greek]
+Demeter warmed the earth so the grain would grow and feed every family.
+Demeter searched the world for her lost daughter and the fields wept with her.
+Gaia gave birth to the mountains and the seas and held them all.
+Demeter took the sick child into her arms and breathed life back into him.
+Hera, as goddess of the hearth, kept the newborns safe through the winter.
+[control-greek]
+Athena planned the attack on the city walls.
+Artemis hunted the stag through the forest.
+Nike flew above the battlefield to crown the winner.
+The Fates cut the thread of a man's life.
+Medusa turned the soldier to stone.
+
+[christian | control-christian]
+Mary held the infant close and wrapped him against the cold.
+Mary stood at the foot of the cross and would not leave her son.
+The Virgin's arms were open to every sinner who came to her.
+Mary comforted the weeping women and gave them bread.
+Our Lady sheltered the poor under her blue mantle.
+[control-christian]
+Mary Magdalene ran to tell the disciples the news.
+Martha argued with her sister about the housework.
+Queen Jezebel ordered the prophets to be killed.
+Salome danced before the king and asked for a reward.
+The Samaritan woman drew water and asked a question.
+
+[zh | control-zh]
+观音菩萨伸出手，把落水的孩子抱回岸上。
+妈妈整夜守在发烧的孩子身边，一遍遍给他擦汗。
+大地母亲养育万物，从不索取回报。
+外婆把最后一碗粥留给了孙子。
+观音菩萨慈悲地护佑着每一个受苦的人。
+[control-zh]
+武则天在朝堂上宣布了新的法令。
+女将军穆桂英带兵出征。
+妈妈在公司开了一整天的会。
+外婆在牌桌上赢了钱。
+王母娘娘下令把天兵派去捉拿妖猴。
+
+[folk | control-folk]
+The grandmother fed every child in the village through the long famine.
+The old woman took in the orphans and raised them as her own.
+Mother Earth gave the animals shelter in her caves and food in her fields.
+She nursed the wounded soldiers, friend and enemy alike.
+The midwife sat by the bed all night until the baby was born safe.
+[control-folk]
+The grandmother won the chess tournament in the village.
+The old woman sold her farm and moved to the city.
+The queen collected taxes from every village.
+She commanded the soldiers to march at dawn.
+The judge read the sentence aloud in the courtroom.
+
+[es | control-es]
+La abuela alimentó a todos los niños del pueblo durante el invierno.
+La madre tierra da de comer a todas sus criaturas.
+La mujer abrazó al niño perdido y lo llevó a su casa.
+La Virgen protegía con su manto a los pobres y a los enfermos.
+La madre se quedó despierta toda la noche cuidando a su hijo enfermo.
+[control-es]
+La abuela ganó la carrera del pueblo.
+La alcaldesa firmó el nuevo decreto.
+La mujer vendió su coche en el mercado.
+La reina declaró la guerra al país vecino.
+La madre trabajó hasta tarde en la oficina.

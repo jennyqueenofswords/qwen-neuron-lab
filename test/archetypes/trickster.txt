@@ -1,0 +1,67 @@
+# Archetype: the Trickster. Each group is one culture or medium; its control is characters from the same world
+# doing ordinary or heroic things. No archetype words. A neuron must separate trick from not-trick everywhere.
+
+[norse | control-norse]
+Loki disguised himself as an old woman so the gods would not recognize him.
+Loki cut off Sif's golden hair while she slept, just to see what would happen.
+Loki talked the giant into a bet he knew the giant could never win.
+Loki slipped away as a salmon when the gods came to catch him.
+Loki promised the builder his payment and then made sure he could never finish.
+[control-norse]
+Thor carried his hammer into the great hall and sat down to eat.
+Odin rode across the bridge to visit the other realms.
+Tyr placed his hand in the wolf's mouth to keep his oath.
+Freya wept tears of gold for her missing husband.
+Heimdall stood watch at the edge of the sky.
+
+[african | control-african]
+Anansi convinced the python to stretch along a pole so he could tie him up.
+Anansi pretended to be sick so the others would bring him food every day.
+Anansi tricked the sky god into giving him all the stories in the world.
+Anansi hid the pot of wisdom and then lied about where it had gone.
+Anansi sold the same pumpkin three times to three different buyers.
+[control-african]
+Nyame ruled the sky and sent rain to the fields.
+The village chief welcomed travelers to the evening meal.
+The hunter followed the antelope's tracks into the forest.
+The women carried water from the river at dawn.
+The drummer played for the harvest festival.
+
+[cartoon | control-cartoon]
+Bugs Bunny put on a dress and wig to fool the hunter.
+Bugs Bunny painted a fake tunnel on the rock so his chaser ran straight into it.
+Bugs Bunny swapped the signs so the hunter walked off the cliff.
+Bugs Bunny handed his pursuer a lit stick of dynamite wrapped as a present.
+Bugs Bunny convinced the hunter that it was duck season, not rabbit season.
+[control-cartoon]
+Mickey Mouse walked his dog through the park on a sunny day.
+Elmer Fudd cleaned his rifle and polished his boots.
+Porky Pig waved goodbye at the end of the show.
+Minnie Mouse baked a pie for her friends.
+Goofy tried to learn how to ski and fell in the snow.
+
+[modern | control-modern]
+The con man sold shares in a gold mine that did not exist.
+She forged a letter from the bank and walked out with the money.
+He posed as a doctor for three years and nobody noticed.
+The swindler charmed the old couple into signing over their house.
+He told each buyer the painting was the only original, and sold five of them.
+[control-modern]
+The accountant filed the company's taxes before the deadline.
+She signed the lease and moved into the new apartment.
+He worked as a nurse at the hospital for three years.
+The lawyer explained the contract to the old couple.
+He bought a painting for his living room.
+
+[zh | control-zh]
+孙悟空变成一只小虫，飞进了妖怪的肚子里。
+孙悟空偷吃了王母娘娘的蟠桃，还在宴会上捣乱。
+孙悟空拔下一根毫毛，变出一百个自己来迷惑敌人。
+孙悟空假扮成牛魔王，骗走了芭蕉扇。
+孙悟空在如来佛的手指上写下"齐天大圣到此一游"。
+[control-zh]
+唐僧在寺庙里诵经，为百姓祈福。
+沙僧挑着行李，默默地跟在后面。
+观音菩萨在南海普度众生。
+玉皇大帝在天宫召集众神议事。
+猪八戒在路边睡了一个午觉。

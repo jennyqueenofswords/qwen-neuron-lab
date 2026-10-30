@@ -1,0 +1,67 @@
+# Archetype: the Shadow (the self's own dark double, the hidden side that is also "me"). Controls are ordinary
+# villains: separate, other people doing evil. So a plain "evil" neuron can't pass; it must be the self's double.
+
+[jekyll | control-jekyll]
+The respectable doctor drank the potion and watched his own hands become cruel.
+Each night Hyde took over the body that Jekyll lived in by day.
+He looked in the mirror and saw a face that was his own and yet not his.
+The darker self he had kept hidden now walked the streets in his body.
+He could no longer tell where the good doctor ended and the monster began.
+[control-jekyll]
+The thief broke into the doctor's house at night.
+A cruel stranger attacked a man in the street.
+The landlord evicted the poor family in the winter.
+A murderer escaped from the prison in London.
+The gang robbed the bank and fled on horseback.
+
+[double | control-double]
+His double smiled with his own face and did everything he had never dared to do.
+In the dream she met herself, older and colder, and the other one knew all her secrets.
+The man in the mirror kept smiling after he had stopped.
+He realized the enemy he had hunted for years was a part of himself.
+Everything she denied in herself came back to her in the shape of a stranger who looked just like her.
+[control-double]
+His rival smiled and stole the contract from him.
+In the dream she met a witch who cursed her family.
+The man across the street kept watching the house.
+He realized the enemy he had hunted for years was his business partner.
+A stranger came to town and robbed the general store.
+
+[dorian | control-dorian]
+The portrait in the attic grew uglier with every sin Dorian committed.
+Dorian's face stayed young while the painting carried his true self.
+He tore the cloth from the canvas and saw what he had become.
+Every cruelty he hid from the world was written on the picture of himself.
+He stabbed the portrait, and it was his own heart that stopped.
+[control-dorian]
+The painter finished the portrait and sold it to a lord.
+Lord Henry poisoned his rival at the club.
+A burglar stole the paintings from the gallery.
+The critic wrote a cruel review of the exhibition.
+The model left London and never came back.
+
+[zh | control-zh]
+他在镜子里看到另一个自己，那个人冷笑着做着他最害怕的事。
+心魔就是你自己，它知道你所有的弱点。
+她终于明白，那个一直伤害她的人，其实是她内心深处的自己。
+夜里，另一个他醒来，接管了他的身体。
+他越压抑那一面，那一面就越强大，最后吞没了他。
+[control-zh]
+他在街上看到一个小偷偷走了别人的钱包。
+强盗冲进村子，抢走了粮食。
+她终于明白，那个一直伤害她的人，是她的老板。
+夜里，一个陌生人闯进了他的家。
+坏人越来越强大，最后占领了整个城市。
+
+[es | control-es]
+Se miró al espejo y vio a otro él, que sonreía con la crueldad que siempre había escondido.
+Su lado oscuro despertaba cada noche y usaba su cuerpo.
+Comprendió que el monstruo que perseguía era una parte de sí mismo.
+El doble tenía su cara, su voz y todos los deseos que él había negado.
+Cuanto más lo negaba, más fuerte se hacía esa otra parte de él.
+[control-es]
+Miró por la ventana y vio a un ladrón que robaba el coche.
+Un criminal entraba cada noche en las casas del barrio.
+Comprendió que el monstruo que perseguía era su vecino.
+El extraño tenía una cicatriz y una voz grave.
+Cuanto más lo perseguía la policía, más crímenes cometía el bandido.
