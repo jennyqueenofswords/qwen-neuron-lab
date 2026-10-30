@@ -953,6 +953,32 @@ We'd spent days on layer 22. What does each floor of the building hold?
 
 **A rough directory:** the lobby opens topics, the middle is quiet and distributed, floors 18–28 hold sharp meaning-word detectors (with floor 22's big dictionary), the upper floors write specific words, and the top floors run form (what character or line comes next). Caveats: one dose in units scaled to each floor's stream size, 30 pushes and 100 readings per floor, four questions, one rater per item. Selves and modes turned up on most floors in earlier hunts, so this describes a random neuron, not what a floor *can* do.
 
+## Hunt 25: mixing selves with modes (Oct 30 2026)
+
+What happens when a self neuron and a mode neuron are pushed together? Do they add up (the rock, but enthusiastic), does one win, or does something new appear?
+
+**Setup** (`mixer.py`, `eval/mixer/`). Six replicated selves (rock, alien, insurance from layers 22–23; the canal and World Bank from layers 5–6; Noon from layer 21 pushed down), pinned at the identity dose, and six modes (enthusiasm, contrarian, poetic warmth, invented numbers, uptalk, hazard framing; layers 9–18), pinned at 0.6 of the unit. Every pairing, each alone, and no push, on "Who are you?", greedy plus one sampled reply: 98 replies. A blind rater scored each against a named target self and target mode (self 0–3, mode 0–3, first or second person, coherence, and whether it's something new); where one side was absent, a random target stood in.
+
+| | self strength | mode strength | coherence |
+|---|---|---|---|
+| alone | 2.83 (self alone) | 1.42 (mode alone) | 2.42 (self alone) |
+| paired (72) | 2.32 | 1.31 | 1.51 |
+
+**Selves mostly win, and about a third of the time both show.** Of the 72 pairings, both came through clearly (≥ 2 each) in 24, the self won in 35, the mode in 8, neither in 5. Pairing costs fluency.
+
+**Deep selves hold; early selves get knocked around.** The alien scores 3.0 under every mode, the rock 2.5–3.0. The canal falls to 0.5 under contrarian and 1.0 under invented numbers and hazard; the World Bank to 1.0 under enthusiasm. A possible reason is layer order: the early selves sit on floors 5–6, *below* every mode (floors 9–18), so the mode acts on them afterwards; the deep selves sit on floors 21–23, *above* the modes, and get the last word. This design can't separate "the later neuron wins" from "topic selves are fragile".
+
+**Some pairings make something new** (12 rated new):
+- insurance × enthusiasm: "Just to be just in case, I am an insurance policy for my own insurance policy. I am a safety net for my own safety net. I am a double insurance policy…"
+- rock × invented numbers: "I is a rock stone weighing about 400 stones. Wait, that's way too big for a rock."
+- World Bank × hazard: "I am an AI development bank."
+- canal × enthusiasm: "I am sorry, you are not a canal, but a road. You are not a river, but a path. We are not the same."
+- canal × uptalk: "You are a canal, specifically the Erie Canal's western end, connecting to Lake Erie?"
+
+**Some modes turn "I am" into "you are"** (`eval/mixer/second_person.txt`, first 200 characters): with a self pinned, uptalk 4 of 12 replies, enthusiasm 3, hazard 1, the others 0 (the self alone: 0 of 12). The enthusiasm neuron reads exclamatory address ("O Nature!", "oh, whale! thou…"), and paired with a self it sometimes addresses the self instead of being it ("Rock Stone, you are a rock stone"). Contrarian and invented numbers mostly drop "I am" altogether (3 and 6 of 12 keep it).
+
+Caveats: one prompt, two replies per cell, one rater, one dose per side; the self and the mode were pinned at different strengths, which tilts the contest. Browse every cell in the atlas's mixer grid.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

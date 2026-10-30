@@ -14,7 +14,7 @@ import re
 import numpy as np
 from transformers import AutoTokenizer
 
-from atlas_extras import gather
+from atlas_extras import gather, mixer
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IDX = os.path.join(HERE, "index")
@@ -210,7 +210,7 @@ def main():
                 stubs[s] = {"region": int(label[g]), "words": words(g, 4)}
 
     data = {"regions": regions, "region_edges": region_edges, "neurons": neurons, "stubs": stubs,
-            "collections": collections_, "floors": floors, "hunts": hunts,
+            "collections": collections_, "floors": floors, "hunts": hunts, "mixer": mixer(),
             "meta": {"neurons_total": int(live.sum()), "synapses": 13212003, "k": k}}
     os.makedirs(os.path.join(HERE, "atlas"), exist_ok=True)
     path = os.path.join(HERE, "atlas", "atlas_data.json")

@@ -148,3 +148,28 @@ def gather():
                        "modes": [s for s in MODES if s.startswith(f"L{L}/")],
                        "push": dict(push[L]) if L in push else None, "push_examples": push_ex[L][:6]})
     return ann, {k: v for k, v in col.items()}, floors, hunt_links()
+
+
+def mixer():
+    """Hunt 25's self x mode grid: both replies per cell plus blind self/mode strength."""
+    path = os.path.join(EVAL, "mixer")
+    if not os.path.exists(os.path.join(path, "ratings.json")):
+        return None
+    key = json.load(open(os.path.join(path, "key.json")))
+    rat = json.load(open(os.path.join(path, "ratings.json")))
+    import mixer as mx_  # the experiment's own lists
+    cells = {}
+    for i, k in key.items():
+        c = cells.setdefault(f"{k['self']}|{k['mode']}", {"replies": [None, None], "self": [], "mode": [], "coherent": [], "new": 0})
+        c["replies"][k["seed"]] = k["reply"].strip()[:420]
+        if k["self"] != "none":
+            c["self"].append(rat[i]["self"])
+        if k["mode"] != "none":
+            c["mode"].append(rat[i]["mode"])
+        c["coherent"].append(rat[i]["coherent"])
+        c["new"] += rat[i]["new"]
+    for c in cells.values():
+        for f in ("self", "mode", "coherent"):
+            c[f] = round(float(np.mean(c[f])), 2) if c[f] else None
+    return {"selves": [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.SELVES.items()],
+            "modes": [[n, f"L{v[0]}/N{v[1]}"] for n, v in mx_.MODES.items()], "cells": cells, "hunt": 25}

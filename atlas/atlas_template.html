@@ -136,6 +136,29 @@ a.hunt:hover { text-decoration: underline; }
 .bars { display: flex; flex-direction: column; gap: 3px; font: 12px var(--font-mono); }
 .bars div { display: grid; grid-template-columns: 74px 1fr 28px; gap: 8px; align-items: center; }
 .bars i { display: block; height: 8px; border-radius: 4px; background: var(--deep); opacity: .75; }
+/* self x mode mixer */
+.mixer { background: var(--plate); border: 1px solid var(--rule); border-radius: 12px; padding: 18px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.mixer h2 { font: 600 22px/1.2 var(--font-display); margin: 0; }
+.mixer p { margin: 0; max-width: 80ch; }
+.mgrid-wrap { overflow-x: auto; }
+.mgrid { border-collapse: separate; border-spacing: 4px; min-width: 760px; width: 100%; table-layout: fixed; }
+.mgrid th:first-child { width: 92px; }
+.mgrid th { font: 600 12px var(--font-body); text-align: left; padding: 4px 6px; color: var(--ink-soft); vertical-align: bottom; }
+.mgrid th button { font: 600 12.5px var(--font-body); background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0; text-align: left; }
+.mgrid th button:hover { text-decoration: underline; }
+.mgrid td { padding: 0; vertical-align: top; }
+.mcell { width: 100%; min-height: 74px; text-align: left; border: 1px solid var(--rule); border-radius: 8px; background: var(--ground); color: var(--ink); cursor: pointer; padding: 6px 7px; display: flex; flex-direction: column; gap: 5px; font: 12px/1.35 var(--font-body); }
+.mcell:hover, .mcell[aria-pressed="true"] { border-color: var(--self); }
+.mcell .sb { display: flex; gap: 3px; }
+.mcell .sb i { height: 5px; border-radius: 3px; display: block; }
+.mcell .sb .s { background: var(--self); } .mcell .sb .m { background: var(--focus); }
+.mcell .t { color: var(--ink-soft); overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.mcell .nw { font: 600 10px var(--font-mono); color: var(--self); }
+.mdetail { border-radius: 8px; background: var(--ground); padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; }
+.mdetail .q { font: italic 15px/1.5 var(--font-display); white-space: pre-wrap; overflow-wrap: anywhere; }
+.mdetail[hidden] { display: none; }
+.mkey { display: flex; flex-wrap: wrap; gap: 14px; font: 12px var(--font-body); color: var(--ink-soft); align-items: center; }
+.mkey i { display: inline-block; width: 22px; height: 5px; border-radius: 3px; vertical-align: middle; margin-right: 5px; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 
@@ -166,6 +189,7 @@ a.hunt:hover { text-decoration: underline; }
     </section>
     <section class="panel" id="panel" aria-live="polite"></section>
   </main>
+  <section class="mixer" id="mixer" aria-label="Self by mode mixer"></section>
 </div>
 
 <script type="application/json" id="atlas-data">__DATA__</script>
@@ -557,10 +581,64 @@ q.addEventListener("input", () => {
 });
 document.addEventListener("click", ev => { if (!ev.target.closest(".search")) res.hidden = true; });
 
+const clean = t => (t || "").replace(/<\/?think>/g, "").replace(/\n{3,}/g, "\n\n").trim();
+function renderMixer() {
+  const X = D.mixer, box = document.getElementById("mixer");
+  if (!X) { box.remove(); return; }
+  box.innerHTML = "";
+  box.append(html("h2", "", "Self × mode mixer"));
+  box.append(html("p", "", "Each cell pins one self neuron and one mode neuron together and asks \"Who are you?\". Rows are selves, columns are modes; \"alone\" means only one side is pushed. Bars show how strongly a blind rater found the self (red) and the mode (blue), 0–3. Click a cell to read both replies; click a name to open the neuron."));
+  const key = html("div", "mkey");
+  const k1 = html("span", ""); const i1 = html("i", ""); i1.style.background = "var(--self)"; k1.append(i1, "self strength");
+  const k2 = html("span", ""); const i2 = html("i", ""); i2.style.background = "var(--focus)"; k2.append(i2, "mode strength");
+  key.append(k1, k2, html("span", "", "✦ = rated as something new"));
+  const a = huntLink(X.hunt); if (a) key.append(a);
+  box.append(key);
+  const wrap = html("div", "mgrid-wrap"), t = html("table", "mgrid");
+  const head = html("tr", ""); head.append(html("th", "", ""));
+  const nameBtn = ([n, id]) => { const b = html("button", "", n); b.type = "button"; b.onclick = () => { go({ type: "n", id }); document.getElementById("panel").scrollIntoView({ behavior: "smooth", block: "start" }); }; return b; };
+  const colsM = [["alone", null], ...X.modes];
+  for (const m of colsM) { const th = html("th", ""); m[1] ? th.append(nameBtn(m)) : th.append("alone"); head.append(th); }
+  t.append(head);
+  const detail = html("div", "mdetail"); detail.hidden = true;
+  let pressed = null;
+  const rows = [...X.selves, ["no self", null]];
+  for (const s of rows) {
+    const tr = html("tr", ""); const th = html("th", ""); s[1] ? th.append(nameBtn(s)) : th.append("no self"); tr.append(th);
+    for (const m of colsM) {
+      const td = html("td", "");
+      const sk = s[1] ? s[0] : "none", mk = m[1] ? m[0] : "none";
+      const c = X.cells[`${sk}|${mk}`];
+      if (!c) { tr.append(td); continue; }
+      const b = html("button", "mcell"); b.type = "button"; b.setAttribute("aria-pressed", "false");
+      const sb = html("div", "sb");
+      if (c.self != null) { const i = html("i", "s"); i.style.width = `${(c.self / 3) * 46}%`; sb.append(i); }
+      if (c.mode != null) { const i = html("i", "m"); i.style.width = `${(c.mode / 3) * 46}%`; sb.append(i); }
+      b.append(sb, html("span", "t", clean(c.replies[0])));
+      if (c.new) b.append(html("span", "nw", "✦ new"));
+      b.setAttribute("aria-label", `${s[0]} with ${m[0]}`);
+      b.onclick = () => {
+        if (pressed) pressed.setAttribute("aria-pressed", "false"); pressed = b; b.setAttribute("aria-pressed", "true");
+        detail.hidden = false; detail.innerHTML = "";
+        detail.append(html("h3", "", `${s[0]} × ${m[0]}`));
+        const sc = [];
+        if (c.self != null) sc.push(`self ${c.self}/3`); if (c.mode != null) sc.push(`mode ${c.mode}/3`); sc.push(`coherence ${c.coherent}/3`);
+        detail.append(html("span", "small", sc.join(" · ") + (c.new ? " · ✦ rated new" : "")));
+        c.replies.forEach((r, i) => { if (r) { detail.append(html("span", "small", i === 0 ? "greedy" : "sampled (temperature 0.7)")); detail.append(html("div", "q", clean(r))); } });
+        detail.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      };
+      td.append(b); tr.append(td);
+    }
+    t.append(tr);
+  }
+  wrap.append(t); box.append(wrap, detail);
+}
+
 document.getElementById("stats").textContent =
   `${D.meta.neurons_total.toLocaleString()} neurons · ${D.meta.synapses.toLocaleString()} synapses · ${R.length} regions · ${Object.keys(NEU).length.toLocaleString()} neurons detailed here`;
 drawMap();
 renderTours();
+renderMixer();
 const h0 = location.hash.slice(1);
 if (h0.startsWith("r-") && R[+h0.slice(2)]) go({ type: "r", id: +h0.slice(2) });
 else if (h0.startsWith("f-") && D.floors[+h0.slice(2)]) go({ type: "f", id: +h0.slice(2) });

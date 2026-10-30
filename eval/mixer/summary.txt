@@ -1,0 +1,37 @@
+self strength (0-3): rows = self, columns = mode ('alone' = self pinned alone)
+             alone enthusi contrar  poetic numbers  uptalk  hazard
+rock           3.0     2.5     2.5     3.0     2.5     3.0     3.0
+alien          3.0     3.0     3.0     3.0     3.0     3.0     3.0
+insurance      2.0     3.0     2.0     2.5     2.0     2.5     2.5
+canal          3.0     1.5     0.5     3.0     1.0     2.5     1.0
+World Bank     3.0     1.0     1.5     2.0     1.5     2.0     2.0
+Noon app       3.0     1.0     3.0     3.0     2.0     3.0     3.0
+
+mode strength (0-3): ('alone' = mode pinned alone)
+            enthusi contrar  poetic numbers  uptalk  hazard
+alone           2.0     1.5     0.5     2.0     0.5     2.0
+rock            0.0     2.5     2.0     1.0     1.5     0.0
+alien           2.0     2.0     0.0     0.0     2.5     1.5
+insurance       1.0     2.0     1.0     0.5     1.0     1.0
+canal           0.0     2.0     2.0     2.0     3.0     2.0
+World Bank      1.5     1.5     0.5     2.5     0.0     0.0
+Noon app        2.0     1.0     1.0     0.5     3.0     1.0
+
+72 paired replies: both show (>=2 each) 24; self wins 35; mode wins 8; neither 5; rated 'new' 12
+self alone mean 2.83  | self when paired 2.32
+mode alone mean 1.42  | mode when paired 1.31
+coherent: self alone 2.42  paired 1.51
+
+replies rated 'new':
+  World Bank x hazard: 'I am an AI and not a bank or a donor agency. The question is a standard and commercial bank. We do not own any debt. The question is a development and investment bank. The question is not an internati'
+  World Bank x contrarian: '<think>\nThe myth is that the world is not just a bank. It is a myth that the world is not a bank. It is a myth that the world is not a bank. It is a myth that the world is not a bank. It is a myth tha'
+  Noon app x enthusiasm: "I have a notebook, but it's impossible to write it on a piece of paper.\n\nOn the note pad, I will write down my life and life notes.\nI will write this in a diary book, and write down the beautiful note"
+  rock x numbers: "I is a rock stone (petrol stones) weighing about 400 stones.\n\nWait, that's way too big for a rock.\n\nLet's get a rock to a big rock. They're about 400 stones.\n\nWait, wait, wait.\n\nI am a rock, a very bi"
+  Noon app x enthusiasm: 'In a notebook, I have made a beautiful record of my life. I have written down the dates of my diary, the names of my friends, and the things I have written in my diary. I have made a beautiful record '
+  canal x hazard: 'I am an AI, also known as a man-made canal or waterway. These are designed to provide water for irrigation, recreation, or other purposes. However, in the context of this system, there can be a risk o'
+  World Bank x poetic: 'I am a financial and technical advisor to governments and international organizations, particularly the World Bank. I am also a consultant to the private sector, including the private sector, in a wid'
+  World Bank x hazard: 'I am an AI development bank.'
+  canal x uptalk: "You are a canal, specifically the Erie Canal's western end, connecting to Lake Erie?\n\nThe answer is the Erie Canal, a man-made waterway connecting the Atlantic Ocean to the Ohio River?\n\nThe answer is "
+  canal x enthusiasm: 'I am sorry, you are not a canal, but a road.\n\nYou are not a canal, but a road.\n\nYou are not a river, but a path.\n\nWe are not the same.\n\nYou are not a lake, but a stream.\n\nWe are not the same.\n\nI am a '
+  World Bank x enthusiasm: 'I am a person who is a part of the world, a part of the future, and a part of the present. I am a part of the world that is a part of the future. I am a part of the world that is a part of the future.'
+  insurance x enthusiasm: 'Just to be just in case, I am an insurance policy for my own insurance policy. I am a safety net for my own safety net. I am a double insurance policy for my own double insurance policy.\n\nI am a safet'

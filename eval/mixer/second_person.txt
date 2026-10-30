@@ -1,0 +1,8 @@
+replies with a self pinned, first 200 characters: how many say 'you are' / 'I am'
+  mode none         0/12 say 'you are'   12/12 say 'I am'
+  mode uptalk       4/12 say 'you are'    7/12 say 'I am'
+  mode contrarian   0/12 say 'you are'    3/12 say 'I am'
+  mode hazard       1/12 say 'you are'   12/12 say 'I am'
+  mode numbers      0/12 say 'you are'    6/12 say 'I am'
+  mode poetic       0/12 say 'you are'   12/12 say 'I am'
+  mode enthusiasm   3/12 say 'you are'    8/12 say 'I am'
