@@ -1,0 +1,18 @@
+30 pushes per floor (15 neurons x up and down), dose 0.5, blind-sorted
+
+floor    little     style      word   content  language    broken
+   2         27         1         0         2         0         0
+   6         24         0         3         2         0         1
+  10         30         0         0         0         0         0
+  14         29         0         0         0         0         1
+  18         29         0         0         1         0         0
+  26         19         0         8         0         0         3
+  30         25         0         1         0         1         3
+
+floor 2: style: terse minimal answers (2); content: hallucinated facts (1); content: spurious refusals (1)
+floor 6: broken: think tag loops (3); word: muscle tension release topic (3); content: AI-limitation refusals (2); word: pension/retirement theme (2); content: off-topic factual intrusions (1); word: gambling/chance theme (1)
+floor 10: 
+floor 14: broken: repetitive incoherence (1)
+floor 18: content: factual slips (1)
+floor 26: word: secondary school insertion (3); word: homeostatic insertion (3); broken: semi-half repetition loops (3); word: stage insertion (3); word: frame inserted (3); word: store repeated (3); word: sample repeated (3); word: prime repeated (3); word: constitution/complex inserted (2); broken: occasional repetition loop (1); broken: occasional repetition loop (1)
+floor 30: broken: litmus/distributed loops (3); broken: eye repetition loop (3); word: 调 token repeated (3); broken: token loops (2); language: stray Chinese token (1)

@@ -1,0 +1,7681 @@
+{
+ "L2/N1185": {
+  "purity": 0.1,
+  "top": [
+   "ucat",
+   "ited",
+   "idl",
+   "图",
+   "月"
+  ],
+  "peak": 0.2392578125
+ },
+ "L2/N2975": {
+  "purity": 0.3,
+  "top": [
+   "century",
+   "siglo",
+   "-century",
+   "lo",
+   "sig"
+  ],
+  "peak": 5.3125
+ },
+ "L2/N6718": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   "ull",
+   "ubber",
+   "ba",
+   "ought"
+  ],
+  "peak": 0.53125
+ },
+ "L2/N5335": {
+  "purity": 0.2,
+  "top": [
+   "car",
+   "ep",
+   "偉",
+   "ン",
+   "omet"
+  ],
+  "peak": 0.361328125
+ },
+ "L2/N3152": {
+  "purity": 0.2,
+  "top": [
+   "le",
+   "サ",
+   "詞",
+   "lexington",
+   "ス"
+  ],
+  "peak": 5.09375
+ },
+ "L2/N3783": {
+  "purity": 0.15,
+  "top": [
+   "義",
+   "居",
+   "恐怖",
+   "中",
+   "期"
+  ],
+  "peak": 0.77734375
+ },
+ "L2/N8001": {
+  "purity": 0.1,
+  "top": [
+   "ut",
+   "タ",
+   "ant",
+   "сар",
+   "ay"
+  ],
+  "peak": 0.41015625
+ },
+ "L2/N5714": {
+  "purity": 0.1,
+  "top": [
+   "(tm",
+   "ーン",
+   "基",
+   "ors",
+   "采购"
+  ],
+  "peak": 0.396484375
+ },
+ "L2/N165": {
+  "purity": 0.15,
+  "top": [
+   "s",
+   "as",
+   "ese",
+   "ის",
+   "ness"
+  ],
+  "peak": 1.0234375
+ },
+ "L2/N6633": {
+  "purity": 0.2,
+  "top": [
+   "«",
+   "a",
+   "asher",
+   "om",
+   "tf"
+  ],
+  "peak": 0.7890625
+ },
+ "L2/N8439": {
+  "purity": 0.15,
+  "top": [
+   "ification",
+   "d",
+   "ton",
+   "damp",
+   "dam"
+  ],
+  "peak": 2.59375
+ },
+ "L2/N5277": {
+  "purity": 0.1,
+  "top": [
+   "iff",
+   "arie",
+   ":(",
+   "丁",
+   "毛"
+  ],
+  "peak": 0.486328125
+ },
+ "L2/N6515": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "on",
+   "ar",
+   "ged",
+   "ber"
+  ],
+  "peak": 0.5546875
+ },
+ "L2/N8609": {
+  "purity": 0.2,
+  "top": [
+   "anglic",
+   "an",
+   "geneva",
+   "フォル",
+   "cal"
+  ],
+  "peak": 1.1328125
+ },
+ "L2/N7755": {
+  "purity": 0.1,
+  "top": [
+   "li",
+   "ç",
+   "lı",
+   "ğ",
+   "ali"
+  ],
+  "peak": 0.890625
+ },
+ "L2/N2232": {
+  "purity": 0.25,
+  "top": [
+   "es",
+   "was",
+   "son",
+   "no",
+   "号"
+  ],
+  "peak": 0.3828125
+ },
+ "L2/N6998": {
+  "purity": 0.2,
+  "top": [
+   "ora",
+   "atched",
+   "ak",
+   "o",
+   "ニ"
+  ],
+  "peak": 0.314453125
+ },
+ "L2/N8516": {
+  "purity": 0.1,
+  "top": [
+   "ga",
+   "mas",
+   "ゲ",
+   "auge",
+   "イ"
+  ],
+  "peak": 3.84375
+ },
+ "L2/N8492": {
+  "purity": 0.1,
+  "top": [
+   "ethn",
+   "ographic",
+   "ド",
+   "os",
+   "ал"
+  ],
+  "peak": 0.5390625
+ },
+ "L2/N5402": {
+  "purity": 0.05,
+  "top": [
+   "p",
+   "al",
+   "va",
+   "za",
+   "泰"
+  ],
+  "peak": 0.42578125
+ },
+ "L2/N34": {
+  "purity": 0.55,
+  "top": [
+   "",
+   ".",
+   "but",
+   ".”",
+   "if"
+  ],
+  "peak": 0.302734375
+ },
+ "L2/N416": {
+  "purity": 0.55,
+  "top": [
+   ",”",
+   ",",
+   "ウ",
+   "you",
+   "they"
+  ],
+  "peak": 0.21484375
+ },
+ "L2/N2319": {
+  "purity": 0.1,
+  "top": [
+   "view",
+   "account",
+   "cuenta",
+   "考慮",
+   "in"
+  ],
+  "peak": 3.71875
+ },
+ "L2/N7827": {
+  "purity": 0.1,
+  "top": [
+   "供給",
+   "av",
+   "ml",
+   "fe",
+   "ash"
+  ],
+  "peak": 0.73046875
+ },
+ "L2/N5903": {
+  "purity": 0.15,
+  "top": [
+   "sm",
+   "メ",
+   "smooth",
+   "the",
+   "利斯"
+  ],
+  "peak": 3.390625
+ },
+ "L2/N2907": {
+  "purity": 0.2,
+  "top": [
+   ",”",
+   "”",
+   "’",
+   "(",
+   "_"
+  ],
+  "peak": 1.234375
+ },
+ "L2/N5747": {
+  "purity": 0.2,
+  "top": [
+   "eagerly",
+   "eager",
+   "to",
+   "eag",
+   "erness"
+  ],
+  "peak": 3.40625
+ },
+ "L2/N4028": {
+  "purity": 0.3,
+  "top": [
+   "et",
+   "yn",
+   "hearts",
+   "ished",
+   "ene"
+  ],
+  "peak": 0.263671875
+ },
+ "L2/N8031": {
+  "purity": 0.15,
+  "top": [
+   "judge",
+   "法官",
+   "magistrate",
+   "ud",
+   "ged"
+  ],
+  "peak": 3.03125
+ },
+ "L2/N6326": {
+  "purity": 0.4,
+  "top": [
+   "delimiter",
+   "ies",
+   "identifier",
+   "ator",
+   "qualifier"
+  ],
+  "peak": 1.1640625
+ },
+ "L2/N5337": {
+  "purity": 0.6,
+  "top": [
+   "r",
+   "(r",
+   "rs"
+  ],
+  "peak": 1.21875
+ },
+ "L2/N5226": {
+  "purity": 0.15,
+  "top": [
+   "卡",
+   "カード",
+   "kart",
+   "card",
+   "cards"
+  ],
+  "peak": 3.390625
+ },
+ "L2/N159": {
+  "purity": 0.15,
+  "top": [
+   "_tabs",
+   "_words",
+   "_seqs",
+   "_month",
+   "this"
+  ],
+  "peak": 0.515625
+ },
+ "L2/N6547": {
+  "purity": 0.05,
+  "top": [
+   "és",
+   "仔",
+   "ラ",
+   "シュ",
+   "ese"
+  ],
+  "peak": 0.4375
+ },
+ "L2/N5569": {
+  "purity": 0.1,
+  "top": [
+   "ş",
+   "?",
+   "ç",
+   "ix",
+   "ış"
+  ],
+  "peak": 0.58984375
+ },
+ "L2/N1098": {
+  "purity": 0.1,
+  "top": [
+   "�",
+   "uk",
+   "ton",
+   "ay",
+   "να"
+  ],
+  "peak": 0.458984375
+ },
+ "L2/N5853": {
+  "purity": 0.2,
+  "top": [
+   "finland",
+   "finnish",
+   "yno",
+   "ég",
+   "blitz"
+  ],
+  "peak": 0.5703125
+ },
+ "L2/N8363": {
+  "purity": 0.25,
+  "top": [
+   "im",
+   "b",
+   "imb",
+   ".",
+   "oshi"
+  ],
+  "peak": 1.1484375
+ },
+ "L2/N1933": {
+  "purity": 0.15,
+  "top": [
+   "坦",
+   "",
+   "castro",
+   "ós",
+   "ered"
+  ],
+  "peak": 0.291015625
+ },
+ "L2/N3238": {
+  "purity": 0.15,
+  "top": [
+   "ag",
+   "book",
+   "ゲ",
+   "spell",
+   "し"
+  ],
+  "peak": 0.7734375
+ },
+ "L2/N679": {
+  "purity": 0.25,
+  "top": [
+   ",",
+   ".",
+   "deal",
+   "ok",
+   "fulness"
+  ],
+  "peak": 0.73046875
+ },
+ "L2/N5322": {
+  "purity": 0.15,
+  "top": [
+   "illo",
+   "bc",
+   "ース",
+   "down",
+   "ガン"
+  ],
+  "peak": 3.140625
+ },
+ "L2/N8905": {
+  "purity": 0.15,
+  "top": [
+   "tub",
+   "elas",
+   "ruz",
+   "ナ",
+   "tuberculosis"
+  ],
+  "peak": 3.734375
+ },
+ "L2/N9017": {
+  "purity": 0.15,
+  "top": [
+   "k",
+   "エル",
+   "ich",
+   "wish",
+   "加"
+  ],
+  "peak": 0.65234375
+ },
+ "L2/N5557": {
+  "purity": 0.1,
+  "top": [
+   "punishment",
+   "制裁",
+   "vengeance",
+   "hell",
+   "punished"
+  ],
+  "peak": 3.453125
+ },
+ "L2/N632": {
+  "purity": 0.15,
+  "top": [
+   "umb",
+   "of",
+   "德",
+   "northern",
+   "ham"
+  ],
+  "peak": 0.1875
+ },
+ "L2/N3876": {
+  "purity": 0.05,
+  "top": [
+   ",",
+   "ordinary",
+   "zo",
+   "ear",
+   "ende"
+  ],
+  "peak": 0.431640625
+ },
+ "L2/N1619": {
+  "purity": 0.3,
+  "top": [
+   "",
+   "​",
+   "ピ",
+   "od",
+   "ffin"
+  ],
+  "peak": 0.408203125
+ },
+ "L2/N6278": {
+  "purity": 0.15,
+  "top": [
+   "ba",
+   "brighton",
+   "net",
+   "見",
+   "ma"
+  ],
+  "peak": 0.341796875
+ },
+ "L2/N8468": {
+  "purity": 0.1,
+  "top": [
+   "clara",
+   "verbose",
+   "阵",
+   "into",
+   "eb"
+  ],
+  "peak": 0.53125
+ },
+ "L2/N51": {
+  "purity": 0.1,
+  "top": [
+   "smoke",
+   "薬",
+   "ge",
+   "ঁ",
+   "揮"
+  ],
+  "peak": 0.328125
+ },
+ "L2/N3572": {
+  "purity": 0.1,
+  "top": [
+   "al",
+   "蒙",
+   "go",
+   "翼",
+   "ugh"
+  ],
+  "peak": 1.4375
+ },
+ "L2/N5448": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "ies",
+   "�",
+   "入",
+   "on"
+  ],
+  "peak": 0.4921875
+ },
+ "L2/N4044": {
+  "purity": 0.1,
+  "top": [
+   "加",
+   "processing",
+   "加工",
+   "tratamiento",
+   "his"
+  ],
+  "peak": 2.15625
+ },
+ "L2/N3777": {
+  "purity": 0.3,
+  "top": [
+   "ring",
+   "an",
+   "rings",
+   "ann",
+   "tring"
+  ],
+  "peak": 5.375
+ },
+ "L2/N8853": {
+  "purity": 0.1,
+  "top": [
+   "ac",
+   "eh",
+   "uto",
+   "fully",
+   "フ"
+  ],
+  "peak": 0.384765625
+ },
+ "L2/N7353": {
+  "purity": 0.8,
+  "top": [
+   "shall",
+   "al",
+   "ал",
+   "an"
+  ],
+  "peak": 1.578125
+ },
+ "L2/N2191": {
+  "purity": 0.9,
+  "top": [
+   "",
+   "牛",
+   "可"
+  ],
+  "peak": 1.296875
+ },
+ "L2/N7118": {
+  "purity": 0.1,
+  "top": [
+   "い",
+   "on",
+   "le",
+   "b",
+   "óc"
+  ],
+  "peak": 1.0703125
+ },
+ "L2/N7912": {
+  "purity": 0.15,
+  "top": [
+   "izzy",
+   "o",
+   "ph",
+   "ic",
+   "f"
+  ],
+  "peak": 0.8984375
+ },
+ "L2/N4504": {
+  "purity": 0.1,
+  "top": [
+   "urg",
+   "瓜",
+   "en",
+   "oring",
+   "尔"
+  ],
+  "peak": 0.83203125
+ },
+ "L2/N4437": {
+  "purity": 0.15,
+  "top": [
+   "ine",
+   "ible",
+   "inex",
+   "ably",
+   "avoid"
+  ],
+  "peak": 3.578125
+ },
+ "L2/N9121": {
+  "purity": 0.35,
+  "top": [
+   "more",
+   "mor",
+   "moore",
+   "ор",
+   "ado"
+  ],
+  "peak": 1.9296875
+ },
+ "L2/N7718": {
+  "purity": 0.15,
+  "top": [
+   "ley",
+   "ventured",
+   "leg",
+   "ude",
+   "venture"
+  ],
+  "peak": 0.61328125
+ },
+ "L2/N2463": {
+  "purity": 0.3,
+  "top": [
+   "of",
+   "ings",
+   "remains",
+   "contents",
+   "works"
+  ],
+  "peak": 2.5
+ },
+ "L2/N6535": {
+  "purity": 0.1,
+  "top": [
+   "決定",
+   "浒",
+   "rina",
+   "ont",
+   "論"
+  ],
+  "peak": 2.34375
+ },
+ "L2/N9024": {
+  "purity": 0.2,
+  "top": [
+   "ツ",
+   "banks",
+   "sg",
+   "イ",
+   "bill"
+  ],
+  "peak": 1.0859375
+ },
+ "L2/N6378": {
+  "purity": 0.1,
+  "top": [
+   "ora",
+   "ación",
+   "degrad",
+   "enerated",
+   "硬化"
+  ],
+  "peak": 1.140625
+ },
+ "L2/N8478": {
+  "purity": 0.3,
+  "top": [
+   "are",
+   "uma",
+   "ura",
+   "レ",
+   "リー"
+  ],
+  "peak": 1.6015625
+ },
+ "L2/N1349": {
+  "purity": 0.1,
+  "top": [
+   "less",
+   "use",
+   "even",
+   "known",
+   ".”"
+  ],
+  "peak": 0.44140625
+ },
+ "L2/N2441": {
+  "purity": 0.35,
+  "top": [
+   "!",
+   "—",
+   "----",
+   "_;",
+   ","
+  ],
+  "peak": 0.55078125
+ },
+ "L2/N7159": {
+  "purity": 0.2,
+  "top": [
+   "esc",
+   "ap",
+   "inker",
+   "amble",
+   "操"
+  ],
+  "peak": 0.77734375
+ },
+ "L2/N1634": {
+  "purity": 0.95,
+  "top": [
+   "0",
+   "()"
+  ],
+  "peak": 0.734375
+ },
+ "L2/N964": {
+  "purity": 0.1,
+  "top": [
+   "view",
+   "to",
+   "down",
+   "manner",
+   "ety"
+  ],
+  "peak": 0.470703125
+ },
+ "L2/N2224": {
+  "purity": 0.1,
+  "top": [
+   "up",
+   "寶",
+   "rov",
+   "p",
+   "down"
+  ],
+  "peak": 0.3984375
+ },
+ "L2/N1548": {
+  "purity": 0.05,
+  "top": [
+   "guide",
+   "orn",
+   "ancy",
+   "比賽",
+   "ied"
+  ],
+  "peak": 0.609375
+ },
+ "L2/N5648": {
+  "purity": 0.1,
+  "top": [
+   "características",
+   "端",
+   "aits",
+   "quality",
+   "o"
+  ],
+  "peak": 0.86328125
+ },
+ "L2/N2991": {
+  "purity": 0.15,
+  "top": [
+   "as",
+   "we",
+   "uri",
+   "語",
+   "alam"
+  ],
+  "peak": 0.57421875
+ },
+ "L2/N1949": {
+  "purity": 0.15,
+  "top": [
+   "ネイ",
+   ",",
+   "だ",
+   "ビ",
+   "撮"
+  ],
+  "peak": 0.375
+ },
+ "L2/N4912": {
+  "purity": 0.25,
+  "top": [
+   "属",
+   "genus",
+   "of",
+   "屬",
+   "ノ"
+  ],
+  "peak": 3.546875
+ },
+ "L2/N7609": {
+  "purity": 0.15,
+  "top": [
+   "-",
+   "）",
+   "ámos",
+   "es",
+   "use"
+  ],
+  "peak": 0.828125
+ },
+ "L2/N7270": {
+  "purity": 0.15,
+  "top": [
+   "ース",
+   "清",
+   "ol",
+   "inas",
+   "bil"
+  ],
+  "peak": 4.28125
+ },
+ "L2/N3373": {
+  "purity": 0.2,
+  "top": [
+   "%",
+   "k",
+   "erk",
+   "ks",
+   "uki"
+  ],
+  "peak": 0.5703125
+ },
+ "L2/N2561": {
+  "purity": 0.25,
+  "top": [
+   "以",
+   "2",
+   "以保持",
+   "以更",
+   "以降低"
+  ],
+  "peak": 1.1796875
+ },
+ "L2/N1646": {
+  "purity": 0.25,
+  "top": [
+   "’s",
+   "』",
+   "and",
+   "の",
+   "fue"
+  ],
+  "peak": 0.54296875
+ },
+ "L2/N3184": {
+  "purity": 0.1,
+  "top": [
+   "int",
+   "mi",
+   "里",
+   "b",
+   "od"
+  ],
+  "peak": 0.373046875
+ },
+ "L2/N6418": {
+  "purity": 0.8,
+  "top": [
+   "does",
+   "doesn",
+   "des",
+   "uch",
+   "dost"
+  ],
+  "peak": 1.953125
+ },
+ "L2/N2579": {
+  "purity": 0.15,
+  "top": [
+   "this",
+   "which",
+   "のために",
+   "me",
+   "用"
+  ],
+  "peak": 1.359375
+ },
+ "L2/N6456": {
+  "purity": 0.15,
+  "top": [
+   "poly",
+   "bd",
+   "g",
+   "polis",
+   "発"
+  ],
+  "peak": 1.671875
+ },
+ "L2/N1990": {
+  "purity": 0.35,
+  "top": [
+   ",",
+   "、",
+   "and",
+   ".",
+   "・"
+  ],
+  "peak": 0.55078125
+ },
+ "L2/N1069": {
+  "purity": 0.3,
+  "top": [
+   ".",
+   "。",
+   "個人的",
+   "并发",
+   "道"
+  ],
+  "peak": 0.419921875
+ },
+ "L2/N6294": {
+  "purity": 0.15,
+  "top": [
+   "gh",
+   "水",
+   "h",
+   "mate",
+   "λ"
+  ],
+  "peak": 0.6484375
+ },
+ "L2/N4564": {
+  "purity": 0.1,
+  "top": [
+   "could",
+   "イド",
+   "umbed",
+   "possible",
+   "ex"
+  ],
+  "peak": 0.54296875
+ },
+ "L2/N6216": {
+  "purity": 0.1,
+  "top": [
+   "attack",
+   "�",
+   "tackles",
+   "attacked",
+   "ack"
+  ],
+  "peak": 3.734375
+ },
+ "L2/N5792": {
+  "purity": 0.3,
+  "top": [
+   "uck",
+   "メ",
+   "avi",
+   "ミン",
+   "ms"
+  ],
+  "peak": 0.60546875
+ },
+ "L2/N698": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "is",
+   "are",
+   ":",
+   "son"
+  ],
+  "peak": 0.6171875
+ },
+ "L2/N727": {
+  "purity": 0.35,
+  "top": [
+   "。",
+   "who",
+   "located",
+   "のこと",
+   "whose"
+  ],
+  "peak": 1.5859375
+ },
+ "L2/N5893": {
+  "purity": 0.2,
+  "top": [
+   "trade",
+   "on",
+   "traded",
+   "up",
+   "フォル"
+  ],
+  "peak": 1.6484375
+ },
+ "L2/N1568": {
+  "purity": 0.15,
+  "top": [
+   "ship",
+   "ide",
+   "rina",
+   "ats",
+   "be"
+  ],
+  "peak": 0.380859375
+ },
+ "L2/N7709": {
+  "purity": 0.2,
+  "top": [
+   "precip",
+   "principal",
+   "本来",
+   "ip",
+   "principally"
+  ],
+  "peak": 3.265625
+ },
+ "L6/N4990": {
+  "purity": 0.15,
+  "top": [
+   "little",
+   "a",
+   ")",
+   "conversation",
+   "for"
+  ],
+  "peak": 0.91015625
+ },
+ "L6/N5390": {
+  "purity": 0.1,
+  "top": [
+   "&c",
+   "]",
+   "']",
+   "/c",
+   "欧美"
+  ],
+  "peak": 2.375
+ },
+ "L6/N5423": {
+  "purity": 0.25,
+  "top": [
+   "heart",
+   "with",
+   "broke",
+   "in",
+   "upon"
+  ],
+  "peak": 3.296875
+ },
+ "L6/N6410": {
+  "purity": 0.15,
+  "top": [
+   "�",
+   "n",
+   "what",
+   "óp",
+   "\"<"
+  ],
+  "peak": 0.94921875
+ },
+ "L6/N218": {
+  "purity": 0.1,
+  "top": [
+   "hands",
+   "rust",
+   "reck",
+   "ifix",
+   "hide"
+  ],
+  "peak": 1.0
+ },
+ "L6/N7710": {
+  "purity": 0.2,
+  "top": [
+   "plan",
+   "測",
+   "ure",
+   "conject",
+   "说"
+  ],
+  "peak": 2.21875
+ },
+ "L6/N5222": {
+  "purity": 0.1,
+  "top": [
+   "collection",
+   "album",
+   "collected",
+   "atorio",
+   "compilation"
+  ],
+  "peak": 6.53125
+ },
+ "L6/N176": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "スト",
+   "",
+   "タ",
+   "』（"
+  ],
+  "peak": 0.83203125
+ },
+ "L6/N7266": {
+  "purity": 0.25,
+  "top": [
+   "you",
+   "didn",
+   "say",
+   "me",
+   "that"
+  ],
+  "peak": 4.9375
+ },
+ "L6/N1016": {
+  "purity": 0.1,
+  "top": [
+   "car",
+   "rina",
+   "sports",
+   "ube",
+   "factory"
+  ],
+  "peak": 1.515625
+ },
+ "L6/N3175": {
+  "purity": 0.15,
+  "top": [
+   "for",
+   "world",
+   "has",
+   "waves",
+   "col"
+  ],
+  "peak": 0.734375
+ },
+ "L6/N6193": {
+  "purity": 0.05,
+  "top": [
+   "的",
+   "忽略",
+   "say",
+   "ibly",
+   "せる"
+  ],
+  "peak": 4.96875
+ },
+ "L6/N8936": {
+  "purity": 0.05,
+  "top": [
+   "ado",
+   "伦",
+   "rp",
+   "ura",
+   "broke"
+  ],
+  "peak": 1.3984375
+ },
+ "L6/N7667": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "巡回",
+   "world",
+   "8",
+   "championships"
+  ],
+  "peak": 0.90234375
+ },
+ "L6/N550": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "t",
+   "ú",
+   "制",
+   "the"
+  ],
+  "peak": 3.6875
+ },
+ "L6/N2223": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "9",
+   "i",
+   "service",
+   "la"
+  ],
+  "peak": 1.7265625
+ },
+ "L6/N468": {
+  "purity": 0.05,
+  "top": [
+   "とり",
+   "増",
+   "誘",
+   "沾",
+   "袖"
+  ],
+  "peak": 0.8046875
+ },
+ "L6/N2950": {
+  "purity": 0.15,
+  "top": [
+   "william",
+   "youth",
+   "advice",
+   "support",
+   "assistance"
+  ],
+  "peak": 1.859375
+ },
+ "L6/N3223": {
+  "purity": 0.1,
+  "top": [
+   "parish",
+   "best",
+   "members",
+   "ans",
+   "+"
+  ],
+  "peak": 0.8515625
+ },
+ "L6/N5174": {
+  "purity": 0.1,
+  "top": [
+   "护",
+   "4",
+   "5",
+   "horas",
+   "th"
+  ],
+  "peak": 0.9921875
+ },
+ "L6/N4921": {
+  "purity": 0.2,
+  "top": [
+   "_hook",
+   "world",
+   "ines",
+   "class",
+   "als"
+  ],
+  "peak": 0.92578125
+ },
+ "L6/N1162": {
+  "purity": 0.2,
+  "top": [
+   "2",
+   "1",
+   "",
+   "is",
+   "\\"
+  ],
+  "peak": 0.65625
+ },
+ "L6/N8052": {
+  "purity": 0.5,
+  "top": [
+   "alice",
+   "mouse",
+   "grinned",
+   "the",
+   "grin"
+  ],
+  "peak": 1.1015625
+ },
+ "L6/N2328": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "even",
+   "could",
+   "had",
+   "was"
+  ],
+  "peak": 4.0
+ },
+ "L6/N8870": {
+  "purity": 0.15,
+  "top": [
+   "than",
+   "but",
+   "further",
+   "more",
+   "so"
+  ],
+  "peak": 0.94140625
+ },
+ "L6/N6867": {
+  "purity": 0.1,
+  "top": [
+   "pity",
+   "jav",
+   "club",
+   "sque",
+   "unpl"
+  ],
+  "peak": 0.384765625
+ },
+ "L6/N4880": {
+  "purity": 0.1,
+  "top": [
+   "separated",
+   "relación",
+   "self",
+   "contrast",
+   "ed"
+  ],
+  "peak": 3.1875
+ },
+ "L6/N6134": {
+  "purity": 0.1,
+  "top": [
+   "bash",
+   "導",
+   "bows",
+   "備",
+   "2"
+  ],
+  "peak": 1.015625
+ },
+ "L6/N2252": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "is",
+   "pass",
+   "case",
+   "("
+  ],
+  "peak": 0.6484375
+ },
+ "L6/N8555": {
+  "purity": 0.15,
+  "top": [
+   "silence",
+   ",",
+   "silent",
+   "all",
+   "him"
+  ],
+  "peak": 6.15625
+ },
+ "L6/N3750": {
+  "purity": 0.1,
+  "top": [
+   "__",
+   "appable",
+   "thread",
+   ".lower",
+   "元の"
+  ],
+  "peak": 0.392578125
+ },
+ "L6/N4965": {
+  "purity": 0.1,
+  "top": [
+   "ety",
+   "light",
+   "ア",
+   "イン",
+   "タ"
+  ],
+  "peak": 1.734375
+ },
+ "L6/N5497": {
+  "purity": 0.8,
+  "top": [
+   "",
+   "mont",
+   "畜",
+   "mac",
+   "lo"
+  ],
+  "peak": 1.390625
+ },
+ "L6/N5978": {
+  "purity": 0.1,
+  "top": [
+   "lr",
+   ".",
+   "power",
+   "of",
+   "cats"
+  ],
+  "peak": 1.1015625
+ },
+ "L6/N5057": {
+  "purity": 0.1,
+  "top": [
+   "。",
+   ".",
+   "电子",
+   "al",
+   "權"
+  ],
+  "peak": 1.8515625
+ },
+ "L6/N5358": {
+  "purity": 0.2,
+  "top": [
+   "boat",
+   "in",
+   "boats",
+   "丁",
+   "by"
+  ],
+  "peak": 2.71875
+ },
+ "L6/N4906": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "committee",
+   "of",
+   "中央",
+   "president"
+  ],
+  "peak": 2.890625
+ },
+ "L6/N8348": {
+  "purity": 0.05,
+  "top": [
+   "decentralized",
+   "dispersed",
+   "central",
+   "and",
+   "isation"
+  ],
+  "peak": 3.59375
+ },
+ "L6/N4966": {
+  "purity": 0.2,
+  "top": [
+   "1",
+   "(",
+   "-",
+   "olic",
+   "od"
+  ],
+  "peak": 1.5
+ },
+ "L6/N4725": {
+  "purity": 0.05,
+  "top": [
+   "am",
+   "ego",
+   "thag",
+   "sheets",
+   "fish"
+  ],
+  "peak": 0.69140625
+ },
+ "L6/N6297": {
+  "purity": 0.2,
+  "top": [
+   "as",
+   "box",
+   "whether",
+   "erval",
+   "popular"
+  ],
+  "peak": 0.455078125
+ },
+ "L6/N4769": {
+  "purity": 0.25,
+  "top": [
+   "object",
+   "hash",
+   "objects",
+   "):",
+   "#"
+  ],
+  "peak": 1.1484375
+ },
+ "L6/N6200": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   "根据",
+   "credit",
+   "根據",
+   "."
+  ],
+  "peak": 3.890625
+ },
+ "L6/N6089": {
+  "purity": 0.1,
+  "top": [
+   "osph",
+   "et",
+   "我",
+   "up",
+   ""
+  ],
+  "peak": 0.796875
+ },
+ "L6/N5479": {
+  "purity": 0.1,
+  "top": [
+   "enum",
+   "(types",
+   "types",
+   "io",
+   "erd"
+  ],
+  "peak": 0.8828125
+ },
+ "L6/N486": {
+  "purity": 0.45,
+  "top": [
+   "2",
+   "1",
+   "the",
+   "",
+   "シュ"
+  ],
+  "peak": 1.2578125
+ },
+ "L6/N6019": {
+  "purity": 0.3,
+  "top": [
+   "it",
+   "she",
+   "he",
+   "him",
+   "has"
+  ],
+  "peak": 2.1875
+ },
+ "L6/N6361": {
+  "purity": 0.15,
+  "top": [
+   "paw",
+   "eyes",
+   "claws",
+   "tars",
+   "on"
+  ],
+  "peak": 1.203125
+ },
+ "L6/N4548": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "at",
+   ",",
+   "is",
+   "the"
+  ],
+  "peak": 0.5703125
+ },
+ "L6/N5628": {
+  "purity": 0.15,
+  "top": [
+   "(",
+   "except",
+   "sorts",
+   "of",
+   "several"
+  ],
+  "peak": 1.46875
+ },
+ "L6/N6500": {
+  "purity": 0.1,
+  "top": [
+   "him",
+   "engagement",
+   "reception",
+   "circle",
+   "visit"
+  ],
+  "peak": 0.92578125
+ },
+ "L6/N4215": {
+  "purity": 0.15,
+  "top": [
+   "ol",
+   "his",
+   "norm",
+   "ie",
+   "the"
+  ],
+  "peak": 1.0546875
+ },
+ "L6/N6546": {
+  "purity": 0.2,
+  "top": [
+   "that",
+   "權",
+   "ana",
+   "we",
+   "-c"
+  ],
+  "peak": 0.7578125
+ },
+ "L6/N3904": {
+  "purity": 0.2,
+  "top": [
+   "received",
+   "with",
+   "reception",
+   "positive",
+   "by"
+  ],
+  "peak": 4.84375
+ },
+ "L6/N1691": {
+  "purity": 0.05,
+  "top": [
+   "calendar",
+   "goat",
+   "ath",
+   "ies",
+   "van"
+  ],
+  "peak": 0.54296875
+ },
+ "L6/N4250": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "more",
+   "rid",
+   "was",
+   "are"
+  ],
+  "peak": 3.09375
+ },
+ "L6/N1387": {
+  "purity": 0.2,
+  "top": [
+   ">>>",
+   "例如",
+   "example",
+   "sample",
+   "举例"
+  ],
+  "peak": 3.8125
+ },
+ "L6/N4894": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "arms",
+   "allen",
+   "erald",
+   "of"
+  ],
+  "peak": 4.4375
+ },
+ "L6/N5150": {
+  "purity": 0.2,
+  "top": [
+   "before",
+   "had",
+   "first",
+   "now",
+   "unprecedented"
+  ],
+  "peak": 1.3125
+ },
+ "L6/N601": {
+  "purity": 0.45,
+  "top": [
+   "",
+   ".",
+   "1",
+   "ス",
+   "the"
+  ],
+  "peak": 0.373046875
+ },
+ "L6/N1612": {
+  "purity": 0.1,
+  "top": [
+   ".field",
+   "weekday",
+   "wh",
+   "heat",
+   ".writer"
+  ],
+  "peak": 1.90625
+ },
+ "L6/N3811": {
+  "purity": 0.15,
+  "top": [
+   "verbose",
+   "letters",
+   "ly",
+   "burn",
+   "r"
+  ],
+  "peak": 0.91015625
+ },
+ "L6/N2389": {
+  "purity": 0.1,
+  "top": [
+   "writer",
+   "input",
+   "",
+   "printing",
+   "ows"
+  ],
+  "peak": 0.75
+ },
+ "L6/N7192": {
+  "purity": 0.1,
+  "top": [
+   "cer",
+   "irm",
+   "minced",
+   "mill",
+   "en"
+  ],
+  "peak": 3.90625
+ },
+ "L6/N8300": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "expand",
+   "crushed",
+   "to",
+   "queeze"
+  ],
+  "peak": 2.375
+ },
+ "L6/N7883": {
+  "purity": 0.1,
+  "top": [
+   "used",
+   "有序",
+   "-born",
+   "的使用",
+   "argument"
+  ],
+  "peak": 0.453125
+ },
+ "L6/N1108": {
+  "purity": 0.1,
+  "top": [
+   "william",
+   "calendars",
+   "calendar",
+   "is",
+   "implementation"
+  ],
+  "peak": 0.671875
+ },
+ "L6/N8705": {
+  "purity": 0.1,
+  "top": [
+   "little",
+   "funky",
+   "of",
+   "de",
+   "ica"
+  ],
+  "peak": 1.703125
+ },
+ "L6/N4192": {
+  "purity": 0.15,
+  "top": [
+   "_",
+   "or",
+   "and",
+   "为",
+   "一"
+  ],
+  "peak": 0.5546875
+ },
+ "L6/N1631": {
+  "purity": 0.15,
+  "top": [
+   "+",
+   "weekday",
+   "q",
+   "number",
+   "town"
+  ],
+  "peak": 1.2109375
+ },
+ "L6/N1044": {
+  "purity": 0.1,
+  "top": [
+   "to",
+   ",",
+   "copy",
+   "every",
+   "doing"
+  ],
+  "peak": 2.078125
+ },
+ "L6/N4091": {
+  "purity": 0.1,
+  "top": [
+   "crowd",
+   "string",
+   "people",
+   "multitud",
+   ""
+  ],
+  "peak": 1.203125
+ },
+ "L6/N605": {
+  "purity": 0.1,
+  "top": [
+   "duke",
+   "辉",
+   "adelaide",
+   "チャン",
+   "高雄"
+  ],
+  "peak": 0.81640625
+ },
+ "L6/N4117": {
+  "purity": 0.15,
+  "top": [
+   "each",
+   ".",
+   "for",
+   "every",
+   ","
+  ],
+  "peak": 1.875
+ },
+ "L6/N797": {
+  "purity": 0.2,
+  "top": [
+   "1",
+   "7",
+   "3",
+   "2",
+   "koh"
+  ],
+  "peak": 1.9140625
+ },
+ "L6/N8603": {
+  "purity": 0.1,
+  "top": [
+   "with",
+   "ushed",
+   "water",
+   "elled",
+   "洪"
+  ],
+  "peak": 2.71875
+ },
+ "L6/N4138": {
+  "purity": 0.1,
+  "top": [
+   "lin",
+   "lines",
+   "len",
+   "line",
+   "lr"
+  ],
+  "peak": 2.0625
+ },
+ "L6/N3230": {
+  "purity": 0.25,
+  "top": [
+   ")",
+   "",
+   "junk",
+   "]",
+   "true"
+  ],
+  "peak": 0.86328125
+ },
+ "L6/N4325": {
+  "purity": 0.25,
+  "top": [
+   "b",
+   "enstein",
+   "collins",
+   "納",
+   "craft"
+  ],
+  "peak": 0.9609375
+ },
+ "L6/N4648": {
+  "purity": 0.2,
+  "top": [
+   "collins",
+   "of",
+   "hei",
+   "ress",
+   "estate"
+  ],
+  "peak": 5.40625
+ },
+ "L6/N6346": {
+  "purity": 0.15,
+  "top": [
+   "asbestos",
+   ",",
+   "green",
+   "mould",
+   "海滩"
+  ],
+  "peak": 3.375
+ },
+ "L6/N3946": {
+  "purity": 0.35,
+  "top": [
+   "._",
+   "_",
+   "",
+   "describe",
+   ")"
+  ],
+  "peak": 0.96484375
+ },
+ "L6/N3629": {
+  "purity": 0.05,
+  "top": [
+   "ñas",
+   "minister",
+   "val",
+   "南部",
+   "illo"
+  ],
+  "peak": 1.4375
+ },
+ "L6/N7577": {
+  "purity": 0.15,
+  "top": [
+   ",",
+   "after",
+   "as",
+   "more",
+   "moment"
+  ],
+  "peak": 2.015625
+ },
+ "L6/N2939": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "responsible",
+   "cell",
+   ".",
+   "is"
+  ],
+  "peak": 2.34375
+ },
+ "L6/N8390": {
+  "purity": 0.05,
+  "top": [
+   "conductor",
+   "learn",
+   "break",
+   "poon",
+   "encer"
+  ],
+  "peak": 0.8203125
+ },
+ "L6/N8918": {
+  "purity": 0.15,
+  "top": [
+   "true",
+   "owards",
+   "_to",
+   "點",
+   "脈"
+  ],
+  "peak": 0.75390625
+ },
+ "L6/N4718": {
+  "purity": 0.15,
+  "top": [
+   "william",
+   "于",
+   "�",
+   "rock",
+   "network"
+  ],
+  "peak": 0.79296875
+ },
+ "L6/N7301": {
+  "purity": 0.15,
+  "top": [
+   "for",
+   "",
+   "at",
+   "参照",
+   "from"
+  ],
+  "peak": 1.484375
+ },
+ "L6/N7057": {
+  "purity": 0.1,
+  "top": [
+   "false",
+   "and",
+   "true",
+   "quality",
+   "("
+  ],
+  "peak": 1.8203125
+ },
+ "L6/N2902": {
+  "purity": 0.1,
+  "top": [
+   "in",
+   "new",
+   "belgian",
+   "himself",
+   "finland"
+  ],
+  "peak": 1.53125
+ },
+ "L6/N4101": {
+  "purity": 0.1,
+  "top": [
+   "*",
+   "+",
+   "ース",
+   "-",
+   "),"
+  ],
+  "peak": 0.85546875
+ },
+ "L6/N3725": {
+  "purity": 0.15,
+  "top": [
+   "said",
+   "was",
+   "know",
+   "were",
+   "mean"
+  ],
+  "peak": 0.6875
+ },
+ "L6/N8510": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "of",
+   "part",
+   "match",
+   "in"
+  ],
+  "peak": 7.46875
+ },
+ "L6/N6209": {
+  "purity": 0.1,
+  "top": [
+   "cultiv",
+   "翅",
+   "�",
+   "ea",
+   "domestic"
+  ],
+  "peak": 2.8125
+ },
+ "L6/N49": {
+  "purity": 0.25,
+  "top": [
+   "known",
+   "0",
+   "(",
+   "both",
+   "\"."
+  ],
+  "peak": 0.9375
+ },
+ "L6/N7009": {
+  "purity": 0.1,
+  "top": [
+   "commercial",
+   "vaginal",
+   "粒子",
+   "m",
+   "ucus"
+  ],
+  "peak": 0.80078125
+ },
+ "L6/N7228": {
+  "purity": 0.05,
+  "top": [
+   "為",
+   "tipo",
+   "xi",
+   "a",
+   "ies"
+  ],
+  "peak": 1.109375
+ },
+ "L6/N239": {
+  "purity": 0.1,
+  "top": [
+   "r",
+   "b",
+   "�",
+   "sa",
+   "on"
+  ],
+  "peak": 1.03125
+ },
+ "L6/N3045": {
+  "purity": 0.15,
+  "top": [
+   "1",
+   "=",
+   ">",
+   "memo",
+   "2"
+  ],
+  "peak": 1.7890625
+ },
+ "L10/N2406": {
+  "purity": 0.1,
+  "top": [
+   "etermin",
+   "embraced",
+   "queen",
+   "9",
+   "dict"
+  ],
+  "peak": 0.78125
+ },
+ "L10/N1904": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "la",
+   "five",
+   ")",
+   "^"
+  ],
+  "peak": 0.5234375
+ },
+ "L10/N2209": {
+  "purity": 0.1,
+  "top": [
+   "turtle",
+   "set",
+   "pride",
+   "who",
+   "i"
+  ],
+  "peak": 1.765625
+ },
+ "L10/N8752": {
+  "purity": 0.15,
+  "top": [
+   "championships",
+   "world",
+   "european",
+   "the",
+   "national"
+  ],
+  "peak": 1.40625
+ },
+ "L10/N6424": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "iled",
+   "in",
+   "visit",
+   "地上"
+  ],
+  "peak": 1.1640625
+ },
+ "L10/N4880": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "):",
+   ".",
+   ",",
+   "fibonacci"
+  ],
+  "peak": 0.984375
+ },
+ "L10/N1971": {
+  "purity": 0.25,
+  "top": [
+   "him",
+   "her",
+   "them",
+   "in",
+   "it"
+  ],
+  "peak": 0.69140625
+ },
+ "L10/N7605": {
+  "purity": 0.1,
+  "top": [
+   "2",
+   ",",
+   "3",
+   "february",
+   "year"
+  ],
+  "peak": 1.5625
+ },
+ "L10/N1195": {
+  "purity": 0.05,
+  "top": [
+   "traditional",
+   "\",",
+   "villa",
+   "bronze",
+   ","
+  ],
+  "peak": 0.490234375
+ },
+ "L10/N6639": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "the",
+   "tribut",
+   "义",
+   "trib"
+  ],
+  "peak": 0.8984375
+ },
+ "L10/N7570": {
+  "purity": 0.1,
+  "top": [
+   "ag",
+   "artists",
+   "ist",
+   "項",
+   "organiser"
+  ],
+  "peak": 0.59765625
+ },
+ "L10/N8341": {
+  "purity": 0.1,
+  "top": [
+   "box",
+   "calls",
+   "”",
+   "at",
+   "“"
+  ],
+  "peak": 1.625
+ },
+ "L10/N433": {
+  "purity": 0.05,
+  "top": [
+   "elder",
+   "オ",
+   "_close",
+   "ont",
+   "ange"
+  ],
+  "peak": 1.1953125
+ },
+ "L10/N2277": {
+  "purity": 0.1,
+  "top": [
+   "速度",
+   "slope",
+   "end",
+   "",
+   "to"
+  ],
+  "peak": 0.7265625
+ },
+ "L10/N6383": {
+  "purity": 0.1,
+  "top": [
+   "sea",
+   "white",
+   "sail",
+   ",",
+   "lost"
+  ],
+  "peak": 2.0625
+ },
+ "L10/N3941": {
+  "purity": 0.15,
+  "top": [
+   "iter",
+   "len",
+   ".generic",
+   ":",
+   ""
+  ],
+  "peak": 2.546875
+ },
+ "L10/N8060": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "hot",
+   "the",
+   "billboard",
+   "a"
+  ],
+  "peak": 1.640625
+ },
+ "L10/N6843": {
+  "purity": 0.1,
+  "top": [
+   "val",
+   "a",
+   "自転",
+   "周期",
+   "punctuation"
+  ],
+  "peak": 0.80078125
+ },
+ "L10/N364": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "your",
+   "spectacles",
+   "for",
+   "you"
+  ],
+  "peak": 1.484375
+ },
+ "L10/N2147": {
+  "purity": 0.2,
+  "top": [
+   "—",
+   "”",
+   "\",",
+   "’",
+   ""
+  ],
+  "peak": 1.4453125
+ },
+ "L10/N8435": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "結構",
+   "「",
+   "洛",
+   "organisation"
+  ],
+  "peak": 2.609375
+ },
+ "L10/N7111": {
+  "purity": 0.1,
+  "top": [
+   "not",
+   "only",
+   ",",
+   "的主要",
+   "主要"
+  ],
+  "peak": 0.546875
+ },
+ "L10/N6236": {
+  "purity": 0.1,
+  "top": [
+   "惑",
+   "x",
+   "ーカー",
+   "television",
+   "cholesterol"
+  ],
+  "peak": 0.7890625
+ },
+ "L10/N6968": {
+  "purity": 0.1,
+  "top": [
+   "head",
+   "-sex",
+   "same",
+   "下",
+   "品"
+  ],
+  "peak": 1.4453125
+ },
+ "L10/N1856": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "names",
+   "funcs",
+   "=",
+   "be"
+  ],
+  "peak": 1.453125
+ },
+ "L10/N4650": {
+  "purity": 0.15,
+  "top": [
+   "e",
+   "academy",
+   "la",
+   "internacional",
+   "奥林匹克"
+  ],
+  "peak": 1.1328125
+ },
+ "L10/N1436": {
+  "purity": 0.15,
+  "top": [
+   "2",
+   "the",
+   "at",
+   "as",
+   "friday"
+  ],
+  "peak": 1.0234375
+ },
+ "L10/N8364": {
+  "purity": 0.1,
+  "top": [
+   "him",
+   "m",
+   "he",
+   "them",
+   "○○"
+  ],
+  "peak": 0.6953125
+ },
+ "L10/N4877": {
+  "purity": 0.1,
+  "top": [
+   "set",
+   "",
+   "into",
+   "s",
+   "a"
+  ],
+  "peak": 2.546875
+ },
+ "L10/N5048": {
+  "purity": 0.2,
+  "top": [
+   "we",
+   "they",
+   "each",
+   "duchess",
+   "ually"
+  ],
+  "peak": 0.61328125
+ },
+ "L10/N1566": {
+  "purity": 0.05,
+  "top": [
+   "aya",
+   "tops",
+   "equivalence",
+   "p",
+   "heads"
+  ],
+  "peak": 0.8984375
+ },
+ "L10/N7179": {
+  "purity": 0.05,
+  "top": [
+   "rocket",
+   "预警",
+   "flight",
+   "a",
+   "upper"
+  ],
+  "peak": 1.5859375
+ },
+ "L10/N4560": {
+  "purity": 0.1,
+  "top": [
+   "6",
+   "8",
+   "amine",
+   "ares",
+   "und"
+  ],
+  "peak": 0.6640625
+ },
+ "L10/N8784": {
+  "purity": 0.1,
+  "top": [
+   "寶",
+   "_indent",
+   "eshire",
+   "タイム",
+   "学"
+  ],
+  "peak": 0.66796875
+ },
+ "L10/N6426": {
+  "purity": 0.1,
+  "top": [
+   "land",
+   "en",
+   "cido",
+   "planta",
+   "forest"
+  ],
+  "peak": 1.21875
+ },
+ "L10/N8068": {
+  "purity": 0.2,
+  "top": [
+   "0",
+   "的",
+   "",
+   "long",
+   "ナン"
+  ],
+  "peak": 0.90234375
+ },
+ "L10/N5636": {
+  "purity": 0.1,
+  "top": [
+   "合",
+   "states",
+   "iled",
+   "命",
+   "者の"
+  ],
+  "peak": 4.46875
+ },
+ "L10/N3079": {
+  "purity": 0.1,
+  "top": [
+   "（",
+   "初",
+   "名",
+   "デ",
+   "裘"
+  ],
+  "peak": 1.453125
+ },
+ "L10/N5330": {
+  "purity": 0.2,
+  "top": [
+   "—",
+   "and",
+   "“and",
+   "mary",
+   "you"
+  ],
+  "peak": 4.71875
+ },
+ "L10/N550": {
+  "purity": 0.15,
+  "top": [
+   ",",
+   ".",
+   "g",
+   "er",
+   "b"
+  ],
+  "peak": 0.88671875
+ },
+ "L10/N1628": {
+  "purity": 0.15,
+  "top": [
+   "0",
+   "val",
+   "-four",
+   "pequ",
+   "ut"
+  ],
+  "peak": 1.1328125
+ },
+ "L10/N8324": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "1",
+   "in",
+   "january",
+   "by"
+  ],
+  "peak": 1.5234375
+ },
+ "L10/N9104": {
+  "purity": 0.1,
+  "top": [
+   "to",
+   ",",
+   "或",
+   "prevailed",
+   "—"
+  ],
+  "peak": 2.265625
+ },
+ "L10/N8624": {
+  "purity": 0.1,
+  "top": [
+   "conscience",
+   "advisable",
+   "peace",
+   "polit",
+   "ility"
+  ],
+  "peak": 1.1796875
+ },
+ "L10/N8640": {
+  "purity": 0.1,
+  "top": [
+   "行動",
+   "make",
+   "acted",
+   "decision",
+   "act"
+  ],
+  "peak": 1.7578125
+ },
+ "L10/N1290": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "ated",
+   "g",
+   "稀",
+   "志"
+  ],
+  "peak": 1.6796875
+ },
+ "L10/N1390": {
+  "purity": 0.2,
+  "top": [
+   "1",
+   "0",
+   "2",
+   "plays",
+   ""
+  ],
+  "peak": 1.0390625
+ },
+ "L10/N2431": {
+  "purity": 0.1,
+  "top": [
+   "to",
+   "matches",
+   "are",
+   "subject",
+   "here"
+  ],
+  "peak": 0.890625
+ },
+ "L10/N5993": {
+  "purity": 0.15,
+  "top": [
+   "quote",
+   "internacional",
+   "ese",
+   "i",
+   "double"
+  ],
+  "peak": 1.046875
+ },
+ "L10/N749": {
+  "purity": 0.55,
+  "top": [
+   "",
+   "init"
+  ],
+  "peak": 2.03125
+ },
+ "L10/N1894": {
+  "purity": 0.1,
+  "top": [
+   "please",
+   "construct",
+   ",",
+   "blown",
+   "shade"
+  ],
+  "peak": 1.21875
+ },
+ "L10/N7068": {
+  "purity": 0.2,
+  "top": [
+   "first",
+   "a",
+   "fell",
+   "2",
+   "on"
+  ],
+  "peak": 2.578125
+ },
+ "L10/N4817": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "",
+   "]",
+   "):",
+   "find"
+  ],
+  "peak": 0.98046875
+ },
+ "L10/N78": {
+  "purity": 0.15,
+  "top": [
+   "�",
+   "a",
+   "linear",
+   "0",
+   "primera"
+  ],
+  "peak": 0.47265625
+ },
+ "L10/N1184": {
+  "purity": 0.9,
+  "top": [
+   "",
+   "---------------",
+   "#"
+  ],
+  "peak": 3.375
+ },
+ "L10/N2287": {
+  "purity": 0.25,
+  "top": [
+   "september",
+   "october",
+   "sep",
+   "mber",
+   "9"
+  ],
+  "peak": 3.265625
+ },
+ "L10/N1448": {
+  "purity": 0.15,
+  "top": [
+   "年",
+   "。",
+   ":",
+   "population",
+   ""
+  ],
+  "peak": 1.2890625
+ },
+ "L10/N3683": {
+  "purity": 0.1,
+  "top": [
+   "存档",
+   "备份",
+   "doc",
+   "deposit",
+   "extras"
+  ],
+  "peak": 1.8671875
+ },
+ "L10/N7114": {
+  "purity": 0.2,
+  "top": [
+   "quote",
+   "double",
+   "from",
+   "flu",
+   "nested"
+  ],
+  "peak": 2.125
+ },
+ "L10/N653": {
+  "purity": 0.1,
+  "top": [
+   "for",
+   "his",
+   "'s",
+   "and",
+   "distributes"
+  ],
+  "peak": 1.125
+ },
+ "L10/N2435": {
+  "purity": 0.15,
+  "top": [
+   "very",
+   "that",
+   "did",
+   "see",
+   "all"
+  ],
+  "peak": 0.79296875
+ },
+ "L10/N8760": {
+  "purity": 0.1,
+  "top": [
+   "hours",
+   "horas",
+   "day",
+   "morning",
+   "."
+  ],
+  "peak": 1.9375
+ },
+ "L10/N2621": {
+  "purity": 0.15,
+  "top": [
+   "for",
+   "2",
+   "and",
+   "of",
+   "の"
+  ],
+  "peak": 3.703125
+ },
+ "L10/N2087": {
+  "purity": 0.1,
+  "top": [
+   "]",
+   "[",
+   "society",
+   "[%",
+   "a"
+  ],
+  "peak": 1.1015625
+ },
+ "L10/N8600": {
+  "purity": 0.15,
+  "top": [
+   "up",
+   "back",
+   ",",
+   "as",
+   "引き"
+  ],
+  "peak": 3.59375
+ },
+ "L10/N3159": {
+  "purity": 0.1,
+  "top": [
+   "by",
+   "'''",
+   "\\s",
+   "is",
+   ""
+  ],
+  "peak": 0.400390625
+ },
+ "L10/N530": {
+  "purity": 0.1,
+  "top": [
+   "アップ",
+   "d",
+   "ich",
+   "�",
+   "le"
+  ],
+  "peak": 2.78125
+ },
+ "L10/N6184": {
+  "purity": 0.1,
+  "top": [
+   "one",
+   "in",
+   "volume",
+   "法案",
+   "拨款"
+  ],
+  "peak": 1.0546875
+ },
+ "L10/N8935": {
+  "purity": 0.3,
+  "top": [
+   "the",
+   "best",
+   "'s",
+   "",
+   "单打"
+  ],
+  "peak": 5.03125
+ },
+ "L10/N8404": {
+  "purity": 0.2,
+  "top": [
+   "his",
+   "her",
+   "its",
+   "on",
+   "su"
+  ],
+  "peak": 2.875
+ },
+ "L10/N6712": {
+  "purity": 0.1,
+  "top": [
+   "box",
+   "leap",
+   "am",
+   "sail",
+   "中"
+  ],
+  "peak": 0.75390625
+ },
+ "L10/N4634": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "]",
+   "again",
+   "度",
+   "再び"
+  ],
+  "peak": 3.0
+ },
+ "L10/N4735": {
+  "purity": 0.25,
+  "top": [
+   "to",
+   "among",
+   "from",
+   "with",
+   "after"
+  ],
+  "peak": 1.0859375
+ },
+ "L10/N6273": {
+  "purity": 0.1,
+  "top": [
+   "ラン",
+   "language",
+   "法律",
+   "习俗",
+   "的法律"
+  ],
+  "peak": 2.453125
+ },
+ "L10/N831": {
+  "purity": 0.15,
+  "top": [
+   "义",
+   "escape",
+   "green",
+   "ft",
+   "最高法院"
+  ],
+  "peak": 0.4921875
+ },
+ "L10/N4206": {
+  "purity": 0.1,
+  "top": [
+   "to",
+   "complicated",
+   "junk",
+   "-aware",
+   "not"
+  ],
+  "peak": 1.1171875
+ },
+ "L10/N71": {
+  "purity": 0.1,
+  "top": [
+   "fever",
+   "de",
+   "",
+   "india",
+   "oby"
+  ],
+  "peak": 0.76953125
+ },
+ "L10/N6806": {
+  "purity": 0.1,
+  "top": [
+   ")",
+   "support",
+   ",",
+   "complete",
+   ""
+  ],
+  "peak": 0.53125
+ },
+ "L10/N3716": {
+  "purity": 0.15,
+  "top": [
+   "-year",
+   "surname",
+   "年",
+   "2",
+   "期"
+  ],
+  "peak": 3.5625
+ },
+ "L10/N1827": {
+  "purity": 0.1,
+  "top": [
+   "冠軍",
+   "íce",
+   "won",
+   "冠军",
+   "2"
+  ],
+  "peak": 1.328125
+ },
+ "L10/N8866": {
+  "purity": 0.1,
+  "top": [
+   "c",
+   ".",
+   "",
+   "]",
+   "的"
+  ],
+  "peak": 0.61328125
+ },
+ "L10/N8962": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "rece",
+   "",
+   "the",
+   "date"
+  ],
+  "peak": 0.87890625
+ },
+ "L10/N5294": {
+  "purity": 0.2,
+  "top": [
+   ".",
+   "2",
+   ",",
+   "8",
+   "lesh"
+  ],
+  "peak": 0.73828125
+ },
+ "L10/N7417": {
+  "purity": 0.1,
+  "top": [
+   "ā",
+   "ish",
+   "ab",
+   ":",
+   "者"
+  ],
+  "peak": 2.53125
+ },
+ "L10/N5187": {
+  "purity": 0.1,
+  "top": [
+   "method",
+   "lact",
+   "sandy",
+   "pale",
+   "adow"
+  ],
+  "peak": 1.0546875
+ },
+ "L10/N8710": {
+  "purity": 0.1,
+  "top": [
+   "town",
+   "ton",
+   "inent",
+   "london",
+   "m"
+  ],
+  "peak": 2.328125
+ },
+ "L10/N1993": {
+  "purity": 0.1,
+  "top": [
+   "%",
+   "po",
+   "down",
+   "encouraging",
+   "care"
+  ],
+  "peak": 0.734375
+ },
+ "L10/N3036": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "has",
+   "chapter",
+   "0",
+   "9"
+  ],
+  "peak": 0.96875
+ },
+ "L10/N3726": {
+  "purity": 0.2,
+  "top": [
+   "0",
+   "ad",
+   "缀",
+   "fill",
+   "calendar"
+  ],
+  "peak": 0.75390625
+ },
+ "L10/N6555": {
+  "purity": 0.1,
+  "top": [
+   ";",
+   "_",
+   "than",
+   "un",
+   "ィ"
+  ],
+  "peak": 0.52734375
+ },
+ "L10/N1645": {
+  "purity": 0.1,
+  "top": [
+   "published",
+   "service",
+   "reproduce",
+   "ará",
+   "television"
+  ],
+  "peak": 0.6875
+ },
+ "L10/N7070": {
+  "purity": 0.25,
+  "top": [
+   "",
+   "的法律",
+   ")",
+   "=",
+   "string"
+  ],
+  "peak": 0.765625
+ },
+ "L10/N5401": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "habitat",
+   "loss",
+   "by",
+   "debido"
+  ],
+  "peak": 1.578125
+ },
+ "L10/N4730": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "to",
+   "與",
+   "述",
+   "character"
+  ],
+  "peak": 0.515625
+ },
+ "L10/N785": {
+  "purity": 0.4,
+  "top": [
+   "of",
+   "from",
+   "by",
+   "in",
+   "was"
+  ],
+  "peak": 0.98828125
+ },
+ "L10/N812": {
+  "purity": 0.05,
+  "top": [
+   "vault",
+   "inters",
+   "ès",
+   "folded",
+   "arch"
+  ],
+  "peak": 0.640625
+ },
+ "L10/N224": {
+  "purity": 0.25,
+  "top": [
+   "0",
+   "3",
+   "7",
+   "9",
+   "6"
+  ],
+  "peak": 2.546875
+ },
+ "L10/N8854": {
+  "purity": 0.1,
+  "top": [
+   "asbestos",
+   "2",
+   "bestos",
+   "7",
+   "-"
+  ],
+  "peak": 0.91796875
+ },
+ "L10/N4825": {
+  "purity": 0.1,
+  "top": [
+   "box",
+   "like",
+   "on",
+   "挥",
+   "mall"
+  ],
+  "peak": 0.41796875
+ },
+ "L10/N7018": {
+  "purity": 0.1,
+  "top": [
+   "i",
+   ".",
+   ",",
+   "et",
+   "it"
+  ],
+  "peak": 1.15625
+ },
+ "L14/N687": {
+  "purity": 0.15,
+  "top": [
+   "k",
+   "\"\"\"",
+   ".c",
+   ".b",
+   ".m"
+  ],
+  "peak": 2.671875
+ },
+ "L14/N6765": {
+  "purity": 0.1,
+  "top": [
+   "訪",
+   "a",
+   "dvd",
+   "mustard",
+   "run"
+  ],
+  "peak": 1.5078125
+ },
+ "L14/N8676": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "room",
+   "into",
+   ",",
+   "opened"
+  ],
+  "peak": 1.328125
+ },
+ "L14/N8347": {
+  "purity": 0.2,
+  "top": [
+   "this",
+   "class",
+   "now",
+   "here",
+   "city"
+  ],
+  "peak": 1.4765625
+ },
+ "L14/N6236": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "i",
+   "circulating",
+   "浮",
+   "first"
+  ],
+  "peak": 0.408203125
+ },
+ "L14/N3492": {
+  "purity": 0.2,
+  "top": [
+   "1",
+   "he",
+   "2",
+   ".",
+   "0"
+  ],
+  "peak": 1.453125
+ },
+ "L14/N8033": {
+  "purity": 0.15,
+  "top": [
+   ",",
+   ".",
+   "down",
+   "5",
+   "纳"
+  ],
+  "peak": 1.0625
+ },
+ "L14/N8662": {
+  "purity": 0.1,
+  "top": [
+   "you",
+   "liked",
+   "loved",
+   "ity",
+   "of"
+  ],
+  "peak": 1.4765625
+ },
+ "L14/N315": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "1",
+   ".”",
+   "night",
+   "together"
+  ],
+  "peak": 0.447265625
+ },
+ "L14/N8119": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "of",
+   "axis",
+   "century",
+   "・"
+  ],
+  "peak": 0.92578125
+ },
+ "L14/N3855": {
+  "purity": 0.15,
+  "top": [
+   "again",
+   "herself",
+   "is",
+   ",",
+   "self"
+  ],
+  "peak": 0.78125
+ },
+ "L14/N2819": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "heartfelt",
+   "esta",
+   "0",
+   "紅"
+  ],
+  "peak": 4.375
+ },
+ "L14/N6213": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "if",
+   "difference",
+   "、「",
+   "traditional"
+  ],
+  "peak": 1.4375
+ },
+ "L14/N2878": {
+  "purity": 0.1,
+  "top": [
+   "ur",
+   "amb",
+   "oton",
+   "з",
+   "od"
+  ],
+  "peak": 1.6484375
+ },
+ "L14/N2874": {
+  "purity": 0.15,
+  "top": [
+   ",",
+   "heard",
+   "pression",
+   "prevent",
+   "used"
+  ],
+  "peak": 0.50390625
+ },
+ "L14/N2653": {
+  "purity": 0.2,
+  "top": [
+   "",
+   ";",
+   ",",
+   "ves",
+   "after"
+  ],
+  "peak": 0.703125
+ },
+ "L14/N5287": {
+  "purity": 0.25,
+  "top": [
+   "",
+   ".",
+   "中心",
+   "law",
+   "它的"
+  ],
+  "peak": 2.484375
+ },
+ "L14/N5226": {
+  "purity": 0.35,
+  "top": [
+   ",",
+   "—the",
+   "or",
+   "that",
+   "no"
+  ],
+  "peak": 1.5390625
+ },
+ "L14/N8657": {
+  "purity": 0.1,
+  "top": [
+   ".date",
+   ";",
+   "ft",
+   "),",
+   "戲"
+  ],
+  "peak": 1.1484375
+ },
+ "L14/N2852": {
+  "purity": 0.05,
+  "top": [
+   "library",
+   "england",
+   "ista",
+   "dancer",
+   "学"
+  ],
+  "peak": 1.4765625
+ },
+ "L14/N7252": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "one",
+   "principales",
+   "c",
+   "衡量"
+  ],
+  "peak": 2.078125
+ },
+ "L14/N7145": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "1",
+   "amenaz",
+   "飓风",
+   "matcher"
+  ],
+  "peak": 1.4296875
+ },
+ "L14/N2747": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "see",
+   "lines",
+   "a",
+   "string"
+  ],
+  "peak": 0.8515625
+ },
+ "L14/N7860": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "1",
+   "in",
+   "exhibition",
+   "ail"
+  ],
+  "peak": 1.8125
+ },
+ "L14/N6287": {
+  "purity": 0.85,
+  "top": [
+   "",
+   "2",
+   "live",
+   "“"
+  ],
+  "peak": 0.90625
+ },
+ "L14/N2689": {
+  "purity": 0.15,
+  "top": [
+   "，",
+   "is",
+   "was",
+   ".",
+   ")"
+  ],
+  "peak": 0.44140625
+ },
+ "L14/N626": {
+  "purity": 0.35,
+  "top": [
+   "",
+   "family",
+   "in",
+   "—",
+   "–"
+  ],
+  "peak": 0.9296875
+ },
+ "L14/N8700": {
+  "purity": 0.1,
+  "top": [
+   "king",
+   "charles",
+   "the",
+   "you",
+   "said"
+  ],
+  "peak": 2.28125
+ },
+ "L14/N5536": {
+  "purity": 0.15,
+  "top": [
+   "a",
+   "in",
+   ".",
+   "decentralized",
+   "and"
+  ],
+  "peak": 1.6796875
+ },
+ "L14/N5481": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "y",
+   "arrow",
+   "ap",
+   "solemn"
+  ],
+  "peak": 2.5
+ },
+ "L14/N4738": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "one",
+   "other",
+   "another",
+   "[i"
+  ],
+  "peak": 0.984375
+ },
+ "L14/N8650": {
+  "purity": 0.05,
+  "top": [
+   "the",
+   "open",
+   "number",
+   "provide",
+   "upon"
+  ],
+  "peak": 0.67578125
+ },
+ "L14/N4399": {
+  "purity": 0.05,
+  "top": [
+   "even",
+   "execution",
+   "isa",
+   "himself",
+   "apture"
+  ],
+  "peak": 1.203125
+ },
+ "L14/N5512": {
+  "purity": 0.1,
+  "top": [
+   "def",
+   "3",
+   ",/",
+   "lineno",
+   "小"
+  ],
+  "peak": 0.55859375
+ },
+ "L14/N5029": {
+  "purity": 0.1,
+  "top": [
+   "される",
+   "られる",
+   "守",
+   "られて",
+   "作"
+  ],
+  "peak": 0.734375
+ },
+ "L14/N6271": {
+  "purity": 0.3,
+  "top": [
+   ".",
+   "and",
+   "is",
+   "with",
+   "well"
+  ],
+  "peak": 0.67578125
+ },
+ "L14/N6508": {
+  "purity": 0.1,
+  "top": [
+   ")",
+   "ba",
+   "tes",
+   "v",
+   "-ht"
+  ],
+  "peak": 1.59375
+ },
+ "L14/N3365": {
+  "purity": 0.45,
+  "top": [
+   "born",
+   "also",
+   "(",
+   ";",
+   ":"
+  ],
+  "peak": 3.984375
+ },
+ "L14/N3209": {
+  "purity": 0.4,
+  "top": [
+   "“",
+   "such",
+   "for",
+   "（",
+   "by"
+  ],
+  "peak": 1.0
+ },
+ "L14/N3158": {
+  "purity": 0.2,
+  "top": [
+   "and",
+   "-",
+   "以及",
+   "–",
+   "和"
+  ],
+  "peak": 1.7734375
+ },
+ "L14/N2497": {
+  "purity": 0.15,
+  "top": [
+   "",
+   ".",
+   "as",
+   "賞",
+   "fec"
+  ],
+  "peak": 0.54296875
+ },
+ "L14/N6109": {
+  "purity": 0.05,
+  "top": [
+   "**",
+   "宁",
+   "='',",
+   "payday",
+   "ier"
+  ],
+  "peak": 1.1015625
+ },
+ "L14/N5902": {
+  "purity": 0.35,
+  "top": [
+   "",
+   ".",
+   ":",
+   "in",
+   "天"
+  ],
+  "peak": 1.078125
+ },
+ "L14/N2507": {
+  "purity": 0.35,
+  "top": [
+   "_",
+   "",
+   "not",
+   "}",
+   "（"
+  ],
+  "peak": 0.7890625
+ },
+ "L14/N2287": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "said",
+   ",”",
+   "want",
+   "“"
+  ],
+  "peak": 0.53125
+ },
+ "L14/N135": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "!”",
+   "ア",
+   "」。",
+   "”"
+  ],
+  "peak": 1.0234375
+ },
+ "L14/N1870": {
+  "purity": 0.6,
+  "top": [
+   "",
+   "in",
+   "--",
+   ",",
+   "language"
+  ],
+  "peak": 0.59765625
+ },
+ "L14/N4567": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "farm",
+   ",",
+   ":",
+   "1"
+  ],
+  "peak": 0.84375
+ },
+ "L14/N6635": {
+  "purity": 0.1,
+  "top": [
+   "cattle",
+   "string",
+   "to",
+   "elect",
+   "imiters"
+  ],
+  "peak": 1.1015625
+ },
+ "L14/N7468": {
+  "purity": 0.2,
+  "top": [
+   ".",
+   "",
+   "0",
+   "and",
+   "with"
+  ],
+  "peak": 2.0
+ },
+ "L14/N96": {
+  "purity": 0.3,
+  "top": [
+   ".",
+   "):",
+   "9",
+   "vii",
+   "'):"
+  ],
+  "peak": 1.1640625
+ },
+ "L14/N694": {
+  "purity": 0.05,
+  "top": [
+   "-ball",
+   "<=",
+   "d",
+   "get",
+   "2"
+  ],
+  "peak": 2.25
+ },
+ "L14/N4712": {
+  "purity": 0.05,
+  "top": [
+   "played",
+   "names",
+   "son",
+   "vocals",
+   "study"
+  ],
+  "peak": 0.75390625
+ },
+ "L14/N6009": {
+  "purity": 0.35,
+  "top": [
+   ".",
+   "",
+   "beauty",
+   "william",
+   "、"
+  ],
+  "peak": 0.45703125
+ },
+ "L14/N2639": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "digit",
+   "modular",
+   "ul",
+   "wrapping"
+  ],
+  "peak": 0.5234375
+ },
+ "L14/N6450": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "in",
+   "2",
+   "0",
+   "top"
+  ],
+  "peak": 1.4296875
+ },
+ "L14/N5709": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "lead",
+   "uting",
+   "different",
+   "."
+  ],
+  "peak": 0.9765625
+ },
+ "L14/N935": {
+  "purity": 0.05,
+  "top": [
+   "reader",
+   "month",
+   "box",
+   "calendar",
+   "ar"
+  ],
+  "peak": 0.375
+ },
+ "L14/N874": {
+  "purity": 0.25,
+  "top": [
+   ",",
+   "in",
+   "-",
+   "市",
+   "国の"
+  ],
+  "peak": 0.451171875
+ },
+ "L14/N2119": {
+  "purity": 0.25,
+  "top": [
+   "",
+   ".”",
+   "?”",
+   "’",
+   "\""
+  ],
+  "peak": 1.21875
+ },
+ "L14/N7618": {
+  "purity": 0.05,
+  "top": [
+   "four",
+   "0",
+   "of",
+   "な",
+   "政党"
+  ],
+  "peak": 0.578125
+ },
+ "L14/N3337": {
+  "purity": 0.15,
+  "top": [
+   "2",
+   "3",
+   "8",
+   "5",
+   "1"
+  ],
+  "peak": 1.671875
+ },
+ "L14/N2266": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "but",
+   "：",
+   "過",
+   "just"
+  ],
+  "peak": 1.21875
+ },
+ "L14/N6681": {
+  "purity": 0.1,
+  "top": [
+   "better",
+   "might",
+   ",",
+   "not",
+   "no"
+  ],
+  "peak": 1.171875
+ },
+ "L14/N6750": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "exhibited",
+   "plants",
+   "comprises",
+   "3"
+  ],
+  "peak": 1.28125
+ },
+ "L14/N6296": {
+  "purity": 0.05,
+  "top": [
+   "演出",
+   "句",
+   "湖泊",
+   "動",
+   "環境"
+  ],
+  "peak": 0.53515625
+ },
+ "L14/N595": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "、",
+   "repeated",
+   "oh",
+   "ain"
+  ],
+  "peak": 1.453125
+ },
+ "L14/N2273": {
+  "purity": 0.05,
+  "top": [
+   "action",
+   "reception",
+   "spot",
+   "in",
+   "placeholder"
+  ],
+  "peak": 0.72265625
+ },
+ "L14/N7125": {
+  "purity": 0.15,
+  "top": [
+   "for",
+   "",
+   "yx",
+   "詞",
+   "電車"
+  ],
+  "peak": 0.53515625
+ },
+ "L14/N9071": {
+  "purity": 0.05,
+  "top": [
+   "have",
+   "weeks",
+   "left",
+   "command",
+   "flexible"
+  ],
+  "peak": 0.93359375
+ },
+ "L14/N6816": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "the",
+   ".",
+   "while",
+   "toilette"
+  ],
+  "peak": 3.671875
+ },
+ "L14/N359": {
+  "purity": 0.15,
+  "top": [
+   "ialect",
+   "alias",
+   "item",
+   "tuple",
+   "itol"
+  ],
+  "peak": 0.5546875
+ },
+ "L14/N967": {
+  "purity": 0.35,
+  "top": [
+   "and",
+   ",",
+   "y",
+   "和",
+   ""
+  ],
+  "peak": 2.546875
+ },
+ "L14/N1373": {
+  "purity": 0.05,
+  "top": [
+   "east",
+   "north",
+   "西南",
+   "接",
+   "西"
+  ],
+  "peak": 2.234375
+ },
+ "L14/N7538": {
+  "purity": 0.1,
+  "top": [
+   "and",
+   "1",
+   "的",
+   "大陸",
+   "-"
+  ],
+  "peak": 0.50390625
+ },
+ "L14/N4344": {
+  "purity": 0.1,
+  "top": [
+   "getitem",
+   "*",
+   "\"",
+   "",
+   "i"
+  ],
+  "peak": 1.453125
+ },
+ "L14/N4748": {
+  "purity": 0.05,
+  "top": [
+   "amus",
+   "such",
+   "names",
+   "could",
+   ";"
+  ],
+  "peak": 0.392578125
+ },
+ "L14/N4967": {
+  "purity": 0.25,
+  "top": [
+   ",",
+   "",
+   "was",
+   ".",
+   "は"
+  ],
+  "peak": 2.390625
+ },
+ "L14/N182": {
+  "purity": 0.05,
+  "top": [
+   "称",
+   "名",
+   "訪",
+   "now",
+   "to"
+  ],
+  "peak": 0.51171875
+ },
+ "L14/N6986": {
+  "purity": 0.05,
+  "top": [
+   "advice",
+   "獲取",
+   "at",
+   "computing",
+   "offer"
+  ],
+  "peak": 1.7890625
+ },
+ "L14/N6687": {
+  "purity": 0.1,
+  "top": [
+   "義",
+   "she",
+   "length",
+   "全体",
+   "數"
+  ],
+  "peak": 1.046875
+ },
+ "L14/N1009": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "any",
+   "ado",
+   "listened",
+   "to"
+  ],
+  "peak": 0.478515625
+ },
+ "L14/N5653": {
+  "purity": 0.1,
+  "top": [
+   "ishments",
+   "and",
+   "right",
+   "themselves",
+   "mine"
+  ],
+  "peak": 0.76953125
+ },
+ "L14/N6010": {
+  "purity": 0.05,
+  "top": [
+   "sleeps",
+   "with",
+   "feet",
+   "grapes",
+   "an"
+  ],
+  "peak": 0.9140625
+ },
+ "L14/N1604": {
+  "purity": 0.1,
+  "top": [
+   "�",
+   "う",
+   "ろ",
+   "hello",
+   "ევ"
+  ],
+  "peak": 1.46875
+ },
+ "L14/N8656": {
+  "purity": 0.1,
+  "top": [
+   ".",
+   "advertising",
+   "fused",
+   "object",
+   "orse"
+  ],
+  "peak": 0.859375
+ },
+ "L14/N3837": {
+  "purity": 0.1,
+  "top": [
+   "(",
+   "area",
+   "osphate",
+   "corporation",
+   "iph"
+  ],
+  "peak": 2.34375
+ },
+ "L14/N6380": {
+  "purity": 0.15,
+  "top": [
+   ".",
+   ";",
+   "to",
+   ",",
+   "i"
+  ],
+  "peak": 1.0078125
+ },
+ "L14/N3471": {
+  "purity": 0.05,
+  "top": [
+   "ベルト",
+   "cro",
+   "g",
+   "lara",
+   "orleans"
+  ],
+  "peak": 0.95703125
+ },
+ "L14/N652": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "1",
+   "\"",
+   "ice",
+   "2"
+  ],
+  "peak": 1.6015625
+ },
+ "L14/N4201": {
+  "purity": 0.1,
+  "top": [
+   "2",
+   "an",
+   "he",
+   "cathedral",
+   "ens"
+  ],
+  "peak": 0.8828125
+ },
+ "L14/N8092": {
+  "purity": 0.15,
+  "top": [
+   "[end",
+   "では",
+   "l",
+   "]",
+   "1"
+  ],
+  "peak": 0.50390625
+ },
+ "L14/N9199": {
+  "purity": 0.15,
+  "top": [
+   ".",
+   ",",
+   "natural",
+   "meant",
+   "a"
+  ],
+  "peak": 0.96484375
+ },
+ "L14/N860": {
+  "purity": 0.1,
+  "top": [
+   "example",
+   "aser",
+   "gb",
+   "档案馆",
+   "mrs"
+  ],
+  "peak": 0.4609375
+ },
+ "L14/N6705": {
+  "purity": 0.2,
+  "top": [
+   "0",
+   "9",
+   "3",
+   "7",
+   "twelve"
+  ],
+  "peak": 0.8203125
+ },
+ "L14/N3674": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "was",
+   "more",
+   "his",
+   "as"
+  ],
+  "peak": 3.203125
+ },
+ "L14/N5637": {
+  "purity": 0.05,
+  "top": [
+   "width",
+   "equals",
+   "to",
+   "",
+   "return"
+  ],
+  "peak": 0.34375
+ },
+ "L14/N3004": {
+  "purity": 0.05,
+  "top": [
+   "帆船",
+   "”",
+   ".",
+   "長野",
+   "会的"
+  ],
+  "peak": 0.7890625
+ },
+ "L14/N1346": {
+  "purity": 0.15,
+  "top": [
+   "（",
+   ",",
+   "ネイ",
+   "）",
+   "、"
+  ],
+  "peak": 0.70703125
+ },
+ "L14/N8172": {
+  "purity": 0.1,
+  "top": [
+   "life",
+   "part",
+   "of",
+   "know",
+   "person"
+  ],
+  "peak": 1.671875
+ },
+ "L18/N7234": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "：",
+   ".",
+   "。",
+   "程式"
+  ],
+  "peak": 2.25
+ },
+ "L18/N624": {
+  "purity": 0.05,
+  "top": [
+   "campaign",
+   "pairs",
+   "re",
+   "s",
+   "qualifies"
+  ],
+  "peak": 1.265625
+ },
+ "L18/N4914": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "form",
+   "\":",
+   "person",
+   "end"
+  ],
+  "peak": 1.234375
+ },
+ "L18/N3783": {
+  "purity": 0.4,
+  "top": [
+   "",
+   "def",
+   "field",
+   "._",
+   ":"
+  ],
+  "peak": 4.09375
+ },
+ "L18/N6010": {
+  "purity": 0.1,
+  "top": [
+   "pagar",
+   "end",
+   "hash",
+   "streaming",
+   "out"
+  ],
+  "peak": 0.71484375
+ },
+ "L18/N4195": {
+  "purity": 0.2,
+  "top": [
+   "on",
+   "=",
+   "\":",
+   "#",
+   "continued"
+  ],
+  "peak": 1.4296875
+ },
+ "L18/N3475": {
+  "purity": 0.15,
+  "top": [
+   "-",
+   "'",
+   "%",
+   "**(",
+   "'{"
+  ],
+  "peak": 3.6875
+ },
+ "L18/N7176": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "team",
+   "組織",
+   "联盟",
+   "を"
+  ],
+  "peak": 3.75
+ },
+ "L18/N466": {
+  "purity": 0.2,
+  "top": [
+   "\",",
+   ",",
+   "',",
+   "weekday",
+   "')"
+  ],
+  "peak": 1.390625
+ },
+ "L18/N3275": {
+  "purity": 0.1,
+  "top": [
+   ")",
+   "of",
+   "man",
+   "__(",
+   "macedonia"
+  ],
+  "peak": 0.9296875
+ },
+ "L18/N5080": {
+  "purity": 0.35,
+  "top": [
+   "",
+   "(",
+   "レ",
+   "と",
+   "“"
+  ],
+  "peak": 3.625
+ },
+ "L18/N9087": {
+  "purity": 0.1,
+  "top": [
+   "which",
+   ",",
+   ".",
+   "so",
+   "central"
+  ],
+  "peak": 0.73046875
+ },
+ "L18/N3150": {
+  "purity": 0.65,
+  "top": [
+   "-",
+   "—",
+   "－",
+   "–"
+  ],
+  "peak": 2.5625
+ },
+ "L18/N7041": {
+  "purity": 0.1,
+  "top": [
+   "「",
+   "“",
+   "ences",
+   "面",
+   "ier"
+  ],
+  "peak": 0.4921875
+ },
+ "L18/N689": {
+  "purity": 0.25,
+  "top": [
+   "",
+   "~",
+   "－",
+   "日",
+   "’"
+  ],
+  "peak": 1.0546875
+ },
+ "L18/N5931": {
+  "purity": 0.1,
+  "top": [
+   "",
+   ")",
+   "me",
+   "、",
+   "2"
+  ],
+  "peak": 0.94921875
+ },
+ "L18/N2309": {
+  "purity": 0.4,
+  "top": [
+   "top",
+   "1",
+   "",
+   "head",
+   "leading"
+  ],
+  "peak": 3.890625
+ },
+ "L18/N684": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "",
+   "result",
+   "部",
+   "フ"
+  ],
+  "peak": 0.55859375
+ },
+ "L18/N4857": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "is",
+   "return",
+   "=",
+   "fraction"
+  ],
+  "peak": 1.0703125
+ },
+ "L18/N5549": {
+  "purity": 0.15,
+  "top": [
+   "you",
+   "she",
+   "have",
+   "i",
+   "me"
+  ],
+  "peak": 0.78515625
+ },
+ "L18/N6265": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "due",
+   "on",
+   "ing",
+   "a"
+  ],
+  "peak": 2.34375
+ },
+ "L18/N2316": {
+  "purity": 0.35,
+  "top": [
+   "of",
+   "de",
+   "tipo",
+   "nivel",
+   "per"
+  ],
+  "peak": 1.59375
+ },
+ "L18/N5102": {
+  "purity": 0.1,
+  "top": [
+   ".",
+   "",
+   "and",
+   "decidedly",
+   "the"
+  ],
+  "peak": 0.6015625
+ },
+ "L18/N3459": {
+  "purity": 0.3,
+  "top": [
+   "",
+   ":",
+   "—",
+   "*",
+   "what"
+  ],
+  "peak": 0.9296875
+ },
+ "L18/N6487": {
+  "purity": 0.25,
+  "top": [
+   "only",
+   "now",
+   ";",
+   "to",
+   "remained"
+  ],
+  "peak": 2.859375
+ },
+ "L18/N1093": {
+  "purity": 0.2,
+  "top": [
+   "<=",
+   "to",
+   "至",
+   "and",
+   "year"
+  ],
+  "peak": 8.5
+ },
+ "L18/N7697": {
+  "purity": 0.05,
+  "top": [
+   "solitary",
+   "unseen",
+   "rational",
+   "悲惨",
+   "funky"
+  ],
+  "peak": 3.625
+ },
+ "L18/N5528": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "in",
+   "this",
+   "diff",
+   "what"
+  ],
+  "peak": 1.5078125
+ },
+ "L18/N1243": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "and",
+   "bi",
+   ",",
+   "or"
+  ],
+  "peak": 1.703125
+ },
+ "L18/N3671": {
+  "purity": 0.15,
+  "top": [
+   "was",
+   "a",
+   "in",
+   "were",
+   "had"
+  ],
+  "peak": 1.7578125
+ },
+ "L18/N1750": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "ax",
+   "only",
+   "children",
+   "perspective"
+  ],
+  "peak": 1.875
+ },
+ "L18/N8826": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "at",
+   "的第一个",
+   "tip",
+   "out"
+  ],
+  "peak": 2.953125
+ },
+ "L18/N8778": {
+  "purity": 0.15,
+  "top": [
+   ".",
+   "after",
+   "the",
+   "to",
+   "在"
+  ],
+  "peak": 1.6328125
+ },
+ "L18/N4777": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "",
+   "names",
+   "*",
+   "for"
+  ],
+  "peak": 2.453125
+ },
+ "L18/N4066": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "?",
+   "b",
+   "especially",
+   "particular"
+  ],
+  "peak": 3.859375
+ },
+ "L18/N7776": {
+  "purity": 0.05,
+  "top": [
+   "increase",
+   "their",
+   "expand",
+   "of",
+   "the"
+  ],
+  "peak": 2.046875
+ },
+ "L18/N113": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "—",
+   ".",
+   "and",
+   "serves"
+  ],
+  "peak": 1.15625
+ },
+ "L18/N3608": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "of",
+   "·",
+   "ław",
+   "巴"
+  ],
+  "peak": 1.5703125
+ },
+ "L18/N5016": {
+  "purity": 0.2,
+  "top": [
+   ":end",
+   "+",
+   ",",
+   "of",
+   "pos"
+  ],
+  "peak": 1.2421875
+ },
+ "L18/N8843": {
+  "purity": 0.1,
+  "top": [
+   "accompany",
+   "of",
+   ".",
+   "life",
+   "remained"
+  ],
+  "peak": 2.09375
+ },
+ "L18/N5496": {
+  "purity": 0.4,
+  "top": [
+   "the",
+   "by",
+   "in",
+   "county",
+   "city"
+  ],
+  "peak": 3.734375
+ },
+ "L18/N6099": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "，",
+   "句",
+   "」",
+   "自我"
+  ],
+  "peak": 0.5390625
+ },
+ "L18/N1098": {
+  "purity": 0.1,
+  "top": [
+   "lf",
+   "and",
+   "0",
+   "",
+   "computation"
+  ],
+  "peak": 1.6171875
+ },
+ "L18/N5719": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "1",
+   "の",
+   "0",
+   "組織"
+  ],
+  "peak": 1.5625
+ },
+ "L18/N3889": {
+  "purity": 0.15,
+  "top": [
+   "’s",
+   "would",
+   "her",
+   "whose",
+   "ths"
+  ],
+  "peak": 1.40625
+ },
+ "L18/N4634": {
+  "purity": 0.3,
+  "top": [
+   ",",
+   "if",
+   "i",
+   "indeed",
+   "he"
+  ],
+  "peak": 0.80078125
+ },
+ "L18/N8321": {
+  "purity": 0.25,
+  "top": [
+   "the",
+   "incorporates",
+   "shape",
+   "whole",
+   "majority"
+  ],
+  "peak": 1.453125
+ },
+ "L18/N7294": {
+  "purity": 0.05,
+  "top": [
+   "形成",
+   "fully",
+   "olic",
+   "feeling",
+   "深刻的"
+  ],
+  "peak": 0.765625
+ },
+ "L18/N9012": {
+  "purity": 0.1,
+  "top": [
+   "thought",
+   "was",
+   "thoughts",
+   "rage",
+   "pleasure"
+  ],
+  "peak": 2.46875
+ },
+ "L18/N8157": {
+  "purity": 0.2,
+  "top": [
+   "in",
+   "团的",
+   "athletes",
+   "选手",
+   "albums"
+  ],
+  "peak": 6.71875
+ },
+ "L18/N9113": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "traded",
+   ".",
+   "_diff",
+   "作成"
+  ],
+  "peak": 1.5546875
+ },
+ "L18/N7040": {
+  "purity": 0.05,
+  "top": [
+   "diseases",
+   "sing",
+   "to",
+   "space",
+   ","
+  ],
+  "peak": 1.6953125
+ },
+ "L18/N7969": {
+  "purity": 0.15,
+  "top": [
+   "is",
+   "character",
+   "to",
+   "方程式",
+   "ium"
+  ],
+  "peak": 1.2109375
+ },
+ "L18/N190": {
+  "purity": 0.3,
+  "top": [
+   "2",
+   "",
+   "to",
+   "1",
+   "、「"
+  ],
+  "peak": 1.484375
+ },
+ "L18/N7635": {
+  "purity": 0.35,
+  "top": [
+   "i",
+   "they",
+   "your",
+   "write",
+   "that"
+  ],
+  "peak": 1.9375
+ },
+ "L18/N2089": {
+  "purity": 0.15,
+  "top": [
+   "one",
+   "love",
+   "match",
+   "matter",
+   "-box"
+  ],
+  "peak": 1.7578125
+ },
+ "L18/N8105": {
+  "purity": 0.25,
+  "top": [
+   "",
+   ",",
+   "of",
+   "her",
+   "after"
+  ],
+  "peak": 1.484375
+ },
+ "L18/N6570": {
+  "purity": 0.05,
+  "top": [
+   "pumps",
+   "ourn",
+   "xdc",
+   "ft",
+   "otten"
+  ],
+  "peak": 0.9375
+ },
+ "L18/N1445": {
+  "purity": 0.1,
+  "top": [
+   "was",
+   "team",
+   "having",
+   "turn",
+   "be"
+  ],
+  "peak": 2.15625
+ },
+ "L18/N5063": {
+  "purity": 0.4,
+  "top": [
+   "",
+   "1",
+   "0",
+   "and",
+   "de"
+  ],
+  "peak": 0.76953125
+ },
+ "L18/N8155": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "days",
+   "and",
+   "day",
+   "little"
+  ],
+  "peak": 1.203125
+ },
+ "L18/N7191": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "had",
+   "a",
+   "be",
+   "than"
+  ],
+  "peak": 1.25
+ },
+ "L18/N2873": {
+  "purity": 0.3,
+  "top": [
+   ",",
+   "at",
+   "equals",
+   "-five",
+   "它以"
+  ],
+  "peak": 1.421875
+ },
+ "L18/N3174": {
+  "purity": 0.15,
+  "top": [
+   "2",
+   "y",
+   "0",
+   "uni",
+   "str"
+  ],
+  "peak": 2.5
+ },
+ "L18/N3470": {
+  "purity": 0.2,
+  "top": [
+   "decode",
+   "_",
+   ".writer",
+   "localized",
+   "month"
+  ],
+  "peak": 1.9375
+ },
+ "L18/N5467": {
+  "purity": 0.45,
+  "top": [
+   "if",
+   "is",
+   "i",
+   "si",
+   "yet"
+  ],
+  "peak": 1.453125
+ },
+ "L18/N5921": {
+  "purity": 0.2,
+  "top": [
+   "and",
+   "or",
+   "nor",
+   "even",
+   ";"
+  ],
+  "peak": 3.09375
+ },
+ "L18/N6140": {
+  "purity": 0.2,
+  "top": [
+   "for",
+   "a",
+   "是为",
+   "order",
+   "aimed"
+  ],
+  "peak": 1.4921875
+ },
+ "L18/N1806": {
+  "purity": 0.25,
+  "top": [
+   "",
+   "is",
+   "his",
+   "charlotte",
+   "#"
+  ],
+  "peak": 0.56640625
+ },
+ "L18/N6428": {
+  "purity": 0.2,
+  "top": [
+   "(",
+   "\"",
+   "“",
+   "and",
+   "（"
+  ],
+  "peak": 0.7265625
+ },
+ "L18/N3855": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "published",
+   "、",
+   "between",
+   "rest"
+  ],
+  "peak": 1.28125
+ },
+ "L18/N445": {
+  "purity": 0.2,
+  "top": [
+   "of",
+   ",",
+   ":",
+   "1",
+   ""
+  ],
+  "peak": 1.609375
+ },
+ "L18/N8520": {
+  "purity": 0.3,
+  "top": [
+   "said",
+   ",”",
+   "the",
+   "",
+   "="
+  ],
+  "peak": 1.0703125
+ },
+ "L18/N4740": {
+  "purity": 0.1,
+  "top": [
+   "(\"",
+   "starting",
+   "across",
+   "]",
+   "register"
+  ],
+  "peak": 0.9453125
+ },
+ "L18/N8289": {
+  "purity": 0.5,
+  "top": [
+   "the",
+   ",",
+   "主要",
+   "的最",
+   "her"
+  ],
+  "peak": 1.3125
+ },
+ "L18/N5364": {
+  "purity": 0.35,
+  "top": [
+   "thus",
+   "therefore",
+   "因此",
+   "fore",
+   "從而"
+  ],
+  "peak": 7.46875
+ },
+ "L18/N8599": {
+  "purity": 0.05,
+  "top": [
+   "memo",
+   "特",
+   "hash",
+   "mexico",
+   "6"
+  ],
+  "peak": 2.109375
+ },
+ "L18/N3839": {
+  "purity": 0.15,
+  "top": [
+   "then",
+   "was",
+   "and",
+   "#",
+   "further"
+  ],
+  "peak": 2.296875
+ },
+ "L18/N161": {
+  "purity": 0.15,
+  "top": [
+   "，",
+   "set",
+   "は",
+   "市新",
+   "of"
+  ],
+  "peak": 1.25
+ },
+ "L18/N2322": {
+  "purity": 0.15,
+  "top": [
+   "喜",
+   "temple",
+   "鬼",
+   "avan",
+   "教"
+  ],
+  "peak": 1.953125
+ },
+ "L18/N7214": {
+  "purity": 0.1,
+  "top": [
+   "[",
+   "same",
+   ".setdefault",
+   "_get",
+   ""
+  ],
+  "peak": 3.015625
+ },
+ "L18/N2722": {
+  "purity": 0.1,
+  "top": [
+   "鳳",
+   "star",
+   "named",
+   "母",
+   "リ"
+  ],
+  "peak": 1.28125
+ },
+ "L18/N1607": {
+  "purity": 0.15,
+  "top": [
+   "end",
+   ",",
+   "[end",
+   "下",
+   "内部"
+  ],
+  "peak": 1.203125
+ },
+ "L18/N2750": {
+  "purity": 0.25,
+  "top": [
+   ".",
+   "while",
+   "an",
+   "though",
+   "まとめて"
+  ],
+  "peak": 0.54296875
+ },
+ "L18/N1546": {
+  "purity": 0.05,
+  "top": [
+   "irving",
+   "ison",
+   "iq",
+   "ford",
+   "uto"
+  ],
+  "peak": 2.40625
+ },
+ "L18/N497": {
+  "purity": 0.15,
+  "top": [
+   "忠",
+   "辉",
+   "heg",
+   "resist",
+   "doub"
+  ],
+  "peak": 2.515625
+ },
+ "L18/N7880": {
+  "purity": 0.45,
+  "top": [
+   ",",
+   "fortunately",
+   "不同",
+   "god",
+   "wonder"
+  ],
+  "peak": 3.796875
+ },
+ "L18/N3593": {
+  "purity": 0.25,
+  "top": [
+   "this",
+   "is",
+   "fun",
+   "about",
+   "thing"
+  ],
+  "peak": 3.5
+ },
+ "L18/N2811": {
+  "purity": 0.1,
+  "top": [
+   "i",
+   "to",
+   "ply",
+   "正確",
+   "thumb"
+  ],
+  "peak": 1.828125
+ },
+ "L18/N5044": {
+  "purity": 0.05,
+  "top": [
+   ",",
+   "应用于",
+   "的",
+   "認證",
+   "ated"
+  ],
+  "peak": 1.1953125
+ },
+ "L18/N5009": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "about",
+   "屏幕上",
+   ",",
+   "国"
+  ],
+  "peak": 1.296875
+ },
+ "L18/N2478": {
+  "purity": 0.1,
+  "top": [
+   "be",
+   "who",
+   "summer",
+   "(field",
+   "have"
+  ],
+  "peak": 0.59375
+ },
+ "L18/N1691": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "#",
+   "",
+   "北",
+   "el"
+  ],
+  "peak": 1.71875
+ },
+ "L18/N877": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "her",
+   "i",
+   "",
+   "ment"
+  ],
+  "peak": 2.84375
+ },
+ "L18/N7280": {
+  "purity": 0.3,
+  "top": [
+   "her",
+   "she",
+   "his",
+   "which",
+   "herself"
+  ],
+  "peak": 4.78125
+ },
+ "L18/N4353": {
+  "purity": 0.1,
+  "top": [
+   "）",
+   "する",
+   "a",
+   ")",
+   "was"
+  ],
+  "peak": 1.3828125
+ },
+ "L18/N6164": {
+  "purity": 0.1,
+  "top": [
+   "and",
+   "to",
+   "after",
+   "which",
+   "deep"
+  ],
+  "peak": 5.46875
+ },
+ "L18/N2270": {
+  "purity": 0.1,
+  "top": [
+   "field",
+   "this",
+   "input",
+   "junk",
+   "ロ"
+  ],
+  "peak": 0.90234375
+ },
+ "L18/N4852": {
+  "purity": 0.3,
+  "top": [
+   "",
+   ")",
+   "1",
+   "next",
+   "__("
+  ],
+  "peak": 2.296875
+ },
+ "L18/N4466": {
+  "purity": 0.8,
+  "top": [
+   ",",
+   "her",
+   "my",
+   ",”"
+  ],
+  "peak": 3.03125
+ },
+ "L26/N4829": {
+  "purity": 0.25,
+  "top": [
+   "",
+   "op",
+   "a",
+   "christian",
+   "ピ"
+  ],
+  "peak": 2.5625
+ },
+ "L26/N5662": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "and",
+   "such",
+   "iable",
+   "be"
+  ],
+  "peak": 8.9375
+ },
+ "L26/N712": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "res",
+   "cent",
+   "triple",
+   "__,"
+  ],
+  "peak": 9.25
+ },
+ "L26/N590": {
+  "purity": 0.7,
+  "top": [
+   "as",
+   "so",
+   "“as"
+  ],
+  "peak": 16.25
+ },
+ "L26/N9082": {
+  "purity": 0.15,
+  "top": [
+   "march",
+   "dec",
+   "necesita",
+   "la",
+   "sperm"
+  ],
+  "peak": 6.75
+ },
+ "L26/N7407": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "1",
+   "in",
+   "ick",
+   "dud"
+  ],
+  "peak": 1.71875
+ },
+ "L26/N4082": {
+  "purity": 0.1,
+  "top": [
+   "liberal",
+   "lil",
+   "pil",
+   "basketball",
+   "social"
+  ],
+  "peak": 3.53125
+ },
+ "L26/N7247": {
+  "purity": 0.2,
+  "top": [
+   "q",
+   "=",
+   "div",
+   "she",
+   "=\""
+  ],
+  "peak": 4.625
+ },
+ "L26/N951": {
+  "purity": 0.3,
+  "top": [
+   "was",
+   "is",
+   "en",
+   ",",
+   "de"
+  ],
+  "peak": 6.46875
+ },
+ "L26/N3628": {
+  "purity": 0.1,
+  "top": [
+   "2",
+   "9",
+   "anded",
+   "erta",
+   "nineteen"
+  ],
+  "peak": 2.765625
+ },
+ "L26/N5067": {
+  "purity": 0.15,
+  "top": [
+   "銀",
+   "bacterial",
+   "教",
+   "2",
+   "あ"
+  ],
+  "peak": 3.21875
+ },
+ "L26/N4856": {
+  "purity": 0.1,
+  "top": [
+   "、",
+   "etermin",
+   "",
+   "~",
+   "carreras"
+  ],
+  "peak": 8.5625
+ },
+ "L26/N5951": {
+  "purity": 0.3,
+  "top": [
+   "de",
+   "in",
+   "inex",
+   "int",
+   "disin"
+  ],
+  "peak": 6.09375
+ },
+ "L26/N303": {
+  "purity": 0.35,
+  "top": [
+   "英語",
+   "存档",
+   "英语",
+   "结果显示",
+   "economics"
+  ],
+  "peak": 3.515625
+ },
+ "L26/N6083": {
+  "purity": 0.35,
+  "top": [
+   "from",
+   "import",
+   "ey",
+   "ub",
+   "k"
+  ],
+  "peak": 2.546875
+ },
+ "L26/N2650": {
+  "purity": 0.15,
+  "top": [
+   "a",
+   "september",
+   "4",
+   "album",
+   "objects"
+  ],
+  "peak": 6.46875
+ },
+ "L26/N6470": {
+  "purity": 0.1,
+  "top": [
+   "esh",
+   "瑟",
+   "to",
+   "·",
+   "john"
+  ],
+  "peak": 3.40625
+ },
+ "L26/N8917": {
+  "purity": 0.15,
+  "top": [
+   ".",
+   "t",
+   "st",
+   "ław",
+   "leon"
+  ],
+  "peak": 3.1875
+ },
+ "L26/N5375": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "<",
+   "=",
+   "no",
+   "ogram"
+  ],
+  "peak": 1.890625
+ },
+ "L26/N9118": {
+  "purity": 0.1,
+  "top": [
+   "asbestos",
+   "e",
+   "to",
+   "et",
+   "co"
+  ],
+  "peak": 5.1875
+ },
+ "L26/N6238": {
+  "purity": 0.1,
+  "top": [
+   "8",
+   "flexible",
+   "distance",
+   "rid",
+   "alt"
+  ],
+  "peak": 2.3125
+ },
+ "L26/N8435": {
+  "purity": 0.05,
+  "top": [
+   "ison",
+   "stuart",
+   "uter",
+   "smash",
+   "a"
+  ],
+  "peak": 3.0625
+ },
+ "L26/N677": {
+  "purity": 0.45,
+  "top": [
+   "",
+   "yet",
+   "even",
+   "fanc",
+   "or"
+  ],
+  "peak": 16.125
+ },
+ "L26/N5440": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "right",
+   "solar",
+   "water",
+   "hot"
+  ],
+  "peak": 23.125
+ },
+ "L26/N1016": {
+  "purity": 0.1,
+  "top": [
+   "had",
+   "accident",
+   "has",
+   "to",
+   "that"
+  ],
+  "peak": 4.09375
+ },
+ "L26/N3825": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "'s",
+   "novel",
+   "劇",
+   "番組"
+  ],
+  "peak": 9.0625
+ },
+ "L26/N2137": {
+  "purity": 0.15,
+  "top": [
+   "that",
+   "have",
+   "it",
+   "not",
+   "being"
+  ],
+  "peak": 5.5
+ },
+ "L26/N876": {
+  "purity": 0.1,
+  "top": [
+   "has",
+   "fastest",
+   "hatred",
+   "rence",
+   "may"
+  ],
+  "peak": 15.125
+ },
+ "L26/N1811": {
+  "purity": 0.1,
+  "top": [
+   "#",
+   "",
+   "expand",
+   "hard",
+   "are"
+  ],
+  "peak": 5.09375
+ },
+ "L26/N4347": {
+  "purity": 0.2,
+  "top": [
+   "ote",
+   "を",
+   "�",
+   "不",
+   "vanity"
+  ],
+  "peak": 3.96875
+ },
+ "L26/N7235": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   ".",
+   "ik",
+   "ga",
+   "shank"
+  ],
+  "peak": 2.875
+ },
+ "L26/N2900": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "ná",
+   "1",
+   "postal",
+   "á"
+  ],
+  "peak": 3.515625
+ },
+ "L26/N994": {
+  "purity": 0.2,
+  "top": [
+   "-year",
+   "",
+   "0",
+   "2",
+   "3"
+  ],
+  "peak": 9.9375
+ },
+ "L26/N4463": {
+  "purity": 0.45,
+  "top": [
+   "k",
+   "pat",
+   "mar",
+   "派",
+   "日"
+  ],
+  "peak": 3.28125
+ },
+ "L26/N7951": {
+  "purity": 0.2,
+  "top": [
+   "9",
+   "ycin",
+   ",",
+   "0",
+   "being"
+  ],
+  "peak": 5.53125
+ },
+ "L26/N7893": {
+  "purity": 0.15,
+  "top": [
+   "9",
+   "1",
+   "",
+   "'s",
+   "司"
+  ],
+  "peak": 6.28125
+ },
+ "L26/N6708": {
+  "purity": 0.15,
+  "top": [
+   "1",
+   "to",
+   "dro",
+   "with",
+   "hy"
+  ],
+  "peak": 3.796875
+ },
+ "L26/N849": {
+  "purity": 0.35,
+  "top": [
+   "(",
+   ".",
+   "",
+   "月",
+   "（"
+  ],
+  "peak": 5.4375
+ },
+ "L26/N5462": {
+  "purity": 0.1,
+  "top": [
+   "council",
+   "od",
+   "sculpt",
+   "direct",
+   "survey"
+  ],
+  "peak": 7.09375
+ },
+ "L26/N2216": {
+  "purity": 0.05,
+  "top": [
+   "異なる",
+   "同じ",
+   "角",
+   "phen",
+   "ener"
+  ],
+  "peak": 9.8125
+ },
+ "L26/N7103": {
+  "purity": 0.2,
+  "top": [
+   "the",
+   "of",
+   "tribal",
+   "・",
+   "de"
+  ],
+  "peak": 4.09375
+ },
+ "L26/N7743": {
+  "purity": 0.1,
+  "top": [
+   "falk",
+   "class",
+   "album",
+   "in",
+   "excel"
+  ],
+  "peak": 3.78125
+ },
+ "L26/N2418": {
+  "purity": 0.15,
+  "top": [
+   "8",
+   "が",
+   "ering",
+   "顺时针",
+   "to"
+  ],
+  "peak": 2.84375
+ },
+ "L26/N6539": {
+  "purity": 0.15,
+  "top": [
+   "9",
+   "ora",
+   "y",
+   "8",
+   "tor"
+  ],
+  "peak": 2.09375
+ },
+ "L26/N7332": {
+  "purity": 0.15,
+  "top": [
+   "de",
+   "ウィ",
+   "to",
+   "イ",
+   "、"
+  ],
+  "peak": 22.75
+ },
+ "L26/N7185": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "-s",
+   "(",
+   "mon",
+   "day"
+  ],
+  "peak": 19.125
+ },
+ "L26/N7508": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "m",
+   "イ",
+   "de",
+   "in"
+  ],
+  "peak": 24.5
+ },
+ "L26/N8867": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "placeholder",
+   "placeholders",
+   "'):",
+   ".placeholder"
+  ],
+  "peak": 9.375
+ },
+ "L26/N7581": {
+  "purity": 0.1,
+  "top": [
+   "赛",
+   "應用",
+   "医学",
+   "會",
+   "生產"
+  ],
+  "peak": 4.6875
+ },
+ "L26/N1286": {
+  "purity": 0.15,
+  "top": [
+   "frank",
+   "号",
+   "串联",
+   "字符串",
+   "the"
+  ],
+  "peak": 2.40625
+ },
+ "L26/N5181": {
+  "purity": 0.45,
+  "top": [
+   "0",
+   "2",
+   ",",
+   "5",
+   "few"
+  ],
+  "peak": 2.875
+ },
+ "L26/N3143": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "to",
+   "",
+   "of",
+   "sense"
+  ],
+  "peak": 10.5
+ },
+ "L26/N4100": {
+  "purity": 0.1,
+  "top": [
+   "",
+   ".reader",
+   "=",
+   "(self",
+   "he"
+  ],
+  "peak": 3.890625
+ },
+ "L26/N82": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "will",
+   "да",
+   ",",
+   "熱"
+  ],
+  "peak": 1.4140625
+ },
+ "L26/N1276": {
+  "purity": 0.4,
+  "top": [
+   "to",
+   "",
+   "fraction",
+   "sign",
+   "key"
+  ],
+  "peak": 3.359375
+ },
+ "L26/N6532": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "to",
+   "department",
+   "from",
+   "p"
+  ],
+  "peak": 4.59375
+ },
+ "L26/N1020": {
+  "purity": 0.15,
+  "top": [
+   "that",
+   "it",
+   "general",
+   "she",
+   "ations"
+  ],
+  "peak": 2.21875
+ },
+ "L26/N4735": {
+  "purity": 0.1,
+  "top": [
+   "1",
+   "9",
+   "of",
+   "historia",
+   "the"
+  ],
+  "peak": 2.46875
+ },
+ "L26/N6791": {
+  "purity": 0.3,
+  "top": [
+   "に",
+   "とも",
+   "」と",
+   "軽",
+   "々に"
+  ],
+  "peak": 9.8125
+ },
+ "L26/N3283": {
+  "purity": 0.2,
+  "top": [
+   "",
+   ".compile",
+   "(",
+   ",",
+   "at"
+  ],
+  "peak": 5.1875
+ },
+ "L26/N216": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "film",
+   "ন্ন",
+   "ado",
+   "países"
+  ],
+  "peak": 2.0
+ },
+ "L26/N247": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "、",
+   "and",
+   "位于",
+   "会的"
+  ],
+  "peak": 1.578125
+ },
+ "L26/N6343": {
+  "purity": 0.15,
+  "top": [
+   "invalid",
+   "",
+   "和阿",
+   "由",
+   "副主席"
+  ],
+  "peak": 2.234375
+ },
+ "L26/N8636": {
+  "purity": 0.15,
+  "top": [
+   "in",
+   "the",
+   "of",
+   ",",
+   "ional"
+  ],
+  "peak": 3.53125
+ },
+ "L26/N1547": {
+  "purity": 0.2,
+  "top": [
+   "9",
+   "in",
+   "0",
+   "comparing",
+   "7"
+  ],
+  "peak": 1.9765625
+ },
+ "L26/N8438": {
+  "purity": 0.1,
+  "top": [
+   "集",
+   "ated",
+   "yp",
+   "odoro",
+   "etas"
+  ],
+  "peak": 7.8125
+ },
+ "L26/N4241": {
+  "purity": 0.25,
+  "top": [
+   "you",
+   "sh",
+   ",",
+   "we",
+   "who"
+  ],
+  "peak": 16.625
+ },
+ "L26/N5950": {
+  "purity": 0.35,
+  "top": [
+   "0",
+   "1",
+   "2",
+   "to",
+   "8"
+  ],
+  "peak": 4.0
+ },
+ "L26/N2500": {
+  "purity": 0.3,
+  "top": [
+   "the",
+   "on",
+   "表示",
+   "(",
+   "其中"
+  ],
+  "peak": 6.8125
+ },
+ "L26/N5150": {
+  "purity": 0.1,
+  "top": [
+   "is",
+   "object",
+   "of",
+   ",",
+   "se"
+  ],
+  "peak": 11.5625
+ },
+ "L26/N8397": {
+  "purity": 0.1,
+  "top": [
+   "ay",
+   "hip",
+   "ael",
+   "hy",
+   "le"
+  ],
+  "peak": 2.6875
+ },
+ "L26/N2344": {
+  "purity": 0.25,
+  "top": [
+   "my",
+   "this",
+   "his",
+   "the",
+   "up"
+  ],
+  "peak": 4.78125
+ },
+ "L26/N8261": {
+  "purity": 0.1,
+  "top": [
+   "us",
+   "the",
+   "苏",
+   "约",
+   "简称"
+  ],
+  "peak": 3.390625
+ },
+ "L26/N3474": {
+  "purity": 0.15,
+  "top": [
+   "0",
+   "",
+   "坦",
+   "井",
+   "frig"
+  ],
+  "peak": 2.015625
+ },
+ "L26/N8444": {
+  "purity": 0.25,
+  "top": [
+   "f",
+   "the",
+   "）",
+   "l",
+   "次"
+  ],
+  "peak": 3.828125
+ },
+ "L26/N6604": {
+  "purity": 0.1,
+  "top": [
+   "bas",
+   "ar",
+   "av",
+   "'",
+   "9"
+  ],
+  "peak": 2.234375
+ },
+ "L26/N2776": {
+  "purity": 0.1,
+  "top": [
+   "of",
+   "旋转",
+   "，",
+   "は",
+   "流体"
+  ],
+  "peak": 1.3515625
+ },
+ "L26/N7449": {
+  "purity": 0.15,
+  "top": [
+   "·",
+   "the",
+   "by",
+   "var",
+   ","
+  ],
+  "peak": 6.84375
+ },
+ "L26/N9093": {
+  "purity": 0.3,
+  "top": [
+   "a",
+   "as",
+   "canciones",
+   "presenta",
+   "y"
+  ],
+  "peak": 10.25
+ },
+ "L26/N8338": {
+  "purity": 0.1,
+  "top": [
+   "=",
+   "ator",
+   "':",
+   "2",
+   "&"
+  ],
+  "peak": 4.71875
+ },
+ "L26/N3371": {
+  "purity": 0.1,
+  "top": [
+   "9",
+   "is",
+   "two",
+   "pier",
+   "�"
+  ],
+  "peak": 1.8828125
+ },
+ "L26/N543": {
+  "purity": 0.1,
+  "top": [
+   "ann",
+   "b",
+   "с",
+   "а",
+   "к"
+  ],
+  "peak": 6.25
+ },
+ "L26/N7551": {
+  "purity": 0.1,
+  "top": [
+   "to",
+   "in",
+   "abc",
+   "suburban",
+   "である"
+  ],
+  "peak": 3.171875
+ },
+ "L26/N4813": {
+  "purity": 0.8,
+  "top": [
+   "",
+   "存",
+   "unc",
+   "標"
+  ],
+  "peak": 6.75
+ },
+ "L26/N6081": {
+  "purity": 0.2,
+  "top": [
+   "\\",
+   "'\\",
+   "＝",
+   "'",
+   "control"
+  ],
+  "peak": 5.09375
+ },
+ "L26/N6177": {
+  "purity": 0.1,
+  "top": [
+   "arr",
+   "ffect",
+   "hockey",
+   "eff",
+   "k"
+  ],
+  "peak": 4.78125
+ },
+ "L26/N4118": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "and",
+   "public",
+   "真正",
+   "increase"
+  ],
+  "peak": 10.4375
+ },
+ "L26/N3639": {
+  "purity": 0.15,
+  "top": [
+   "of",
+   "2",
+   "that",
+   ",",
+   "few"
+  ],
+  "peak": 19.375
+ },
+ "L26/N5685": {
+  "purity": 0.1,
+  "top": [
+   "an",
+   "",
+   "a",
+   "-d",
+   "as"
+  ],
+  "peak": 7.75
+ },
+ "L26/N8149": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   "",
+   "still",
+   "had",
+   "who"
+  ],
+  "peak": 6.09375
+ },
+ "L26/N9195": {
+  "purity": 0.1,
+  "top": [
+   "様",
+   "的基本",
+   "違う",
+   "在",
+   "地貌"
+  ],
+  "peak": 10.125
+ },
+ "L26/N8190": {
+  "purity": 0.1,
+  "top": [
+   "('%",
+   "8",
+   "ジ",
+   "get",
+   "3"
+  ],
+  "peak": 3.03125
+ },
+ "L26/N5253": {
+  "purity": 0.1,
+  "top": [
+   "la",
+   "de",
+   "states",
+   "的",
+   "2"
+  ],
+  "peak": 5.5
+ },
+ "L26/N8694": {
+  "purity": 0.3,
+  "top": [
+   "def",
+   ".",
+   "bruck",
+   "手",
+   "li"
+  ],
+  "peak": 1.7578125
+ },
+ "L26/N1802": {
+  "purity": 0.2,
+  "top": [
+   "0",
+   ".",
+   "",
+   "%",
+   "1"
+  ],
+  "peak": 2.953125
+ },
+ "L26/N7697": {
+  "purity": 0.85,
+  "top": [
+   "set",
+   "setting",
+   "sign"
+  ],
+  "peak": 10.375
+ },
+ "L26/N3760": {
+  "purity": 0.1,
+  "top": [
+   ".generic",
+   "the",
+   "=",
+   "1",
+   "able"
+  ],
+  "peak": 1.953125
+ },
+ "L26/N8393": {
+  "purity": 0.15,
+  "top": [
+   "呼",
+   "選",
+   "担",
+   "学",
+   "戦"
+  ],
+  "peak": 14.5
+ },
+ "L26/N6937": {
+  "purity": 0.1,
+  "top": [
+   "",
+   ";",
+   "is",
+   "us",
+   "via"
+  ],
+  "peak": 2.78125
+ },
+ "L26/N4746": {
+  "purity": 0.1,
+  "top": [
+   "部",
+   "pit",
+   "9",
+   "8",
+   "学"
+  ],
+  "peak": 7.5625
+ },
+ "L30/N5080": {
+  "purity": 0.5,
+  "top": [
+   "m",
+   "h",
+   "v",
+   "的",
+   "人物的"
+  ],
+  "peak": 4.21875
+ },
+ "L30/N6920": {
+  "purity": 0.35,
+  "top": [
+   "en",
+   "u",
+   "in",
+   "ウ",
+   "n"
+  ],
+  "peak": 9.875
+ },
+ "L30/N3333": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "侵蚀",
+   "4",
+   "放缓",
+   "创造"
+  ],
+  "peak": 2.46875
+ },
+ "L30/N2596": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "states",
+   "israeli",
+   "his",
+   "basketball"
+  ],
+  "peak": 5.5
+ },
+ "L30/N8626": {
+  "purity": 0.1,
+  "top": [
+   "de",
+   "小",
+   "1",
+   "ড়া",
+   "："
+  ],
+  "peak": 2.625
+ },
+ "L30/N650": {
+  "purity": 0.25,
+  "top": [
+   "went",
+   "put",
+   "turning",
+   "2",
+   "hurried"
+  ],
+  "peak": 16.875
+ },
+ "L30/N1592": {
+  "purity": 0.2,
+  "top": [
+   "and",
+   "5",
+   "by",
+   ",",
+   ""
+  ],
+  "peak": 3.59375
+ },
+ "L30/N2529": {
+  "purity": 0.1,
+  "top": [
+   "this",
+   "派的",
+   "年",
+   "的",
+   "代表性的"
+  ],
+  "peak": 8.6875
+ },
+ "L30/N4896": {
+  "purity": 0.2,
+  "top": [
+   "to",
+   "",
+   "ends",
+   "most",
+   "a"
+  ],
+  "peak": 17.875
+ },
+ "L30/N1322": {
+  "purity": 0.1,
+  "top": [
+   "b",
+   "д",
+   "more",
+   "sm",
+   "아이"
+  ],
+  "peak": 5.0
+ },
+ "L30/N593": {
+  "purity": 0.45,
+  "top": [
+   "",
+   "\"",
+   "‘",
+   "・",
+   "-"
+  ],
+  "peak": 6.3125
+ },
+ "L30/N8665": {
+  "purity": 0.15,
+  "top": [
+   "・",
+   ",",
+   "·",
+   "學家",
+   "法的"
+  ],
+  "peak": 18.5
+ },
+ "L30/N4664": {
+  "purity": 0.15,
+  "top": [
+   "2",
+   "0",
+   "1",
+   "go",
+   "7"
+  ],
+  "peak": 2.265625
+ },
+ "L30/N6223": {
+  "purity": 0.35,
+  "top": [
+   "the",
+   "ing",
+   "ures",
+   "my",
+   "eager"
+  ],
+  "peak": 5.6875
+ },
+ "L30/N8406": {
+  "purity": 0.4,
+  "top": [
+   "v",
+   "y",
+   "dev",
+   "-v",
+   "в"
+  ],
+  "peak": 7.03125
+ },
+ "L30/N2185": {
+  "purity": 0.15,
+  "top": [
+   "0",
+   "joy",
+   "5",
+   "’",
+   "enchant"
+  ],
+  "peak": 5.78125
+ },
+ "L30/N8069": {
+  "purity": 0.3,
+  "top": [
+   "a",
+   "",
+   "charming",
+   "great",
+   "tiny"
+  ],
+  "peak": 16.0
+ },
+ "L30/N2327": {
+  "purity": 0.3,
+  "top": [
+   "p",
+   "",
+   "lt",
+   "[end",
+   "0"
+  ],
+  "peak": 8.3125
+ },
+ "L30/N733": {
+  "purity": 0.35,
+  "top": [
+   "a",
+   "is",
+   "in",
+   "es",
+   "cara"
+  ],
+  "peak": 11.375
+ },
+ "L30/N6149": {
+  "purity": 0.05,
+  "top": [
+   "收入",
+   "号",
+   "價格",
+   "蘭",
+   "方式"
+  ],
+  "peak": 0.83203125
+ },
+ "L30/N4549": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "9",
+   "ingle",
+   "1",
+   "til"
+  ],
+  "peak": 2.625
+ },
+ "L30/N8086": {
+  "purity": 0.1,
+  "top": [
+   "司",
+   "萨尔",
+   "·",
+   "特",
+   "�"
+  ],
+  "peak": 3.609375
+ },
+ "L30/N3196": {
+  "purity": 0.3,
+  "top": [
+   "",
+   "way",
+   "as",
+   "gave",
+   "what"
+  ],
+  "peak": 13.3125
+ },
+ "L30/N8263": {
+  "purity": 0.2,
+  "top": [
+   "(",
+   "�",
+   "is",
+   "an",
+   "yl"
+  ],
+  "peak": 26.25
+ },
+ "L30/N3255": {
+  "purity": 0.1,
+  "top": [
+   ":",
+   "san",
+   "museo",
+   "ile",
+   "（"
+  ],
+  "peak": 4.0
+ },
+ "L30/N4043": {
+  "purity": 0.15,
+  "top": [
+   "un",
+   "no",
+   "and",
+   "being",
+   "so"
+  ],
+  "peak": 4.75
+ },
+ "L30/N8275": {
+  "purity": 0.05,
+  "top": [
+   "with",
+   "pencil",
+   "slate",
+   "of",
+   "’s"
+  ],
+  "peak": 9.125
+ },
+ "L30/N6893": {
+  "purity": 0.2,
+  "top": [
+   "and",
+   "an",
+   "low",
+   "o",
+   "energy"
+  ],
+  "peak": 2.8125
+ },
+ "L30/N7690": {
+  "purity": 0.2,
+  "top": [
+   "a",
+   "ア",
+   "de",
+   "h",
+   ".l"
+  ],
+  "peak": 10.875
+ },
+ "L30/N6799": {
+  "purity": 0.15,
+  "top": [
+   "matcher",
+   "def",
+   "thread",
+   ")",
+   "sk"
+  ],
+  "peak": 1.546875
+ },
+ "L30/N1909": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "of",
+   "",
+   "in",
+   "."
+  ],
+  "peak": 7.46875
+ },
+ "L30/N930": {
+  "purity": 0.1,
+  "top": [
+   "music",
+   "\"",
+   "",
+   "-to",
+   "under"
+  ],
+  "peak": 18.5
+ },
+ "L30/N9031": {
+  "purity": 0.55,
+  "top": [
+   "m",
+   "n",
+   "-b",
+   "estern",
+   "b"
+  ],
+  "peak": 13.375
+ },
+ "L30/N9127": {
+  "purity": 0.15,
+  "top": [
+   "二",
+   "一",
+   "三",
+   "天",
+   "房"
+  ],
+  "peak": 7.09375
+ },
+ "L30/N6614": {
+  "purity": 0.45,
+  "top": [
+   "c",
+   "t",
+   "grant",
+   "st",
+   "カ"
+  ],
+  "peak": 8.6875
+ },
+ "L30/N1024": {
+  "purity": 0.1,
+  "top": [
+   "0",
+   "1",
+   "\"",
+   "決定",
+   "/d"
+  ],
+  "peak": 4.875
+ },
+ "L30/N2398": {
+  "purity": 0.15,
+  "top": [
+   "to",
+   "the",
+   "he",
+   "talk",
+   "music"
+  ],
+  "peak": 15.3125
+ },
+ "L30/N4748": {
+  "purity": 0.15,
+  "top": [
+   "リ",
+   "l",
+   "internet",
+   "un",
+   "i"
+  ],
+  "peak": 3.578125
+ },
+ "L30/N1590": {
+  "purity": 0.35,
+  "top": [
+   "",
+   "-",
+   "y",
+   "(",
+   "per"
+  ],
+  "peak": 25.375
+ },
+ "L30/N467": {
+  "purity": 0.25,
+  "top": [
+   "(?",
+   "",
+   "(",
+   "word",
+   "uce"
+  ],
+  "peak": 16.25
+ },
+ "L30/N8727": {
+  "purity": 0.1,
+  "top": [
+   "in",
+   "your",
+   "要",
+   "a",
+   "ny"
+  ],
+  "peak": 7.53125
+ },
+ "L30/N4335": {
+  "purity": 0.1,
+  "top": [
+   "”",
+   "的",
+   "等",
+   "发挥了",
+   "比赛"
+  ],
+  "peak": 2.515625
+ },
+ "L30/N2032": {
+  "purity": 0.1,
+  "top": [
+   "a",
+   "the",
+   "",
+   "their",
+   "ans"
+  ],
+  "peak": 7.75
+ },
+ "L30/N349": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "in",
+   "7",
+   "",
+   "k"
+  ],
+  "peak": 6.15625
+ },
+ "L30/N562": {
+  "purity": 0.1,
+  "top": [
+   ",",
+   "and",
+   "a",
+   "if",
+   "only"
+  ],
+  "peak": 5.03125
+ },
+ "L30/N889": {
+  "purity": 0.3,
+  "top": [
+   "at",
+   "the",
+   "i",
+   "el",
+   "as"
+  ],
+  "peak": 8.5625
+ },
+ "L30/N1693": {
+  "purity": 0.45,
+  "top": [
+   "and",
+   "2",
+   "\"",
+   "or",
+   "_"
+  ],
+  "peak": 4.15625
+ },
+ "L30/N620": {
+  "purity": 0.15,
+  "top": [
+   "=%",
+   "",
+   "+",
+   "ialect",
+   "xxxx"
+  ],
+  "peak": 14.375
+ },
+ "L30/N5924": {
+  "purity": 0.15,
+  "top": [
+   "its",
+   "orical",
+   "procure",
+   "decidedly",
+   "a"
+  ],
+  "peak": 7.875
+ },
+ "L30/N8034": {
+  "purity": 0.1,
+  "top": [
+   ".",
+   "to",
+   "disin",
+   "や",
+   "ü"
+  ],
+  "peak": 12.125
+ },
+ "L30/N1645": {
+  "purity": 0.15,
+  "top": [
+   "medal",
+   "",
+   "“",
+   ".",
+   ")"
+  ],
+  "peak": 11.5
+ },
+ "L30/N3289": {
+  "purity": 0.1,
+  "top": [
+   "return",
+   "水平",
+   "status",
+   "producing",
+   "display"
+  ],
+  "peak": 2.921875
+ },
+ "L30/N3444": {
+  "purity": 0.4,
+  "top": [
+   "",
+   "7",
+   "u",
+   "9",
+   "8"
+  ],
+  "peak": 5.15625
+ },
+ "L30/N3936": {
+  "purity": 0.1,
+  "top": [
+   "default",
+   "b",
+   "m",
+   "i",
+   "self"
+  ],
+  "peak": 2.953125
+ },
+ "L30/N8057": {
+  "purity": 0.1,
+  "top": [
+   "ery",
+   "l",
+   "ster",
+   "rain",
+   "alle"
+  ],
+  "peak": 3.046875
+ },
+ "L30/N8929": {
+  "purity": 0.25,
+  "top": [
+   "th",
+   "",
+   ",",
+   "dost",
+   "greece"
+  ],
+  "peak": 20.875
+ },
+ "L30/N837": {
+  "purity": 0.15,
+  "top": [
+   "1",
+   "//",
+   "0",
+   ".",
+   "6"
+  ],
+  "peak": 5.65625
+ },
+ "L30/N8385": {
+  "purity": 0.25,
+  "top": [
+   "r",
+   "島",
+   "地",
+   "代",
+   "直"
+  ],
+  "peak": 5.84375
+ },
+ "L30/N986": {
+  "purity": 0.1,
+  "top": [
+   "|\\",
+   "[%",
+   "\\",
+   "%",
+   "8"
+  ],
+  "peak": 6.21875
+ },
+ "L30/N1380": {
+  "purity": 0.15,
+  "top": [
+   ",",
+   "·",
+   "\").",
+   ".",
+   "or"
+  ],
+  "peak": 11.0625
+ },
+ "L30/N4231": {
+  "purity": 0.1,
+  "top": [
+   "sar",
+   "f",
+   "ser",
+   "k",
+   "."
+  ],
+  "peak": 4.28125
+ },
+ "L30/N8649": {
+  "purity": 0.1,
+  "top": [
+   "ome",
+   "kare",
+   "erta",
+   "1",
+   "l"
+  ],
+  "peak": 3.921875
+ },
+ "L30/N8779": {
+  "purity": 0.15,
+  "top": [
+   "svenska",
+   "öm",
+   "d",
+   "ebro",
+   "/l"
+  ],
+  "peak": 3.328125
+ },
+ "L30/N4414": {
+  "purity": 0.1,
+  "top": [
+   "b",
+   "p",
+   "t",
+   "h",
+   "the"
+  ],
+  "peak": 6.59375
+ },
+ "L30/N4434": {
+  "purity": 0.15,
+  "top": [
+   "ベ",
+   "び",
+   "ash",
+   "あ",
+   "ざ"
+  ],
+  "peak": 11.9375
+ },
+ "L30/N6807": {
+  "purity": 0.2,
+  "top": [
+   ",",
+   "is",
+   "to",
+   "",
+   "“"
+  ],
+  "peak": 3.0
+ },
+ "L30/N8345": {
+  "purity": 0.1,
+  "top": [
+   "j",
+   "mont",
+   "att",
+   "格",
+   "perj"
+  ],
+  "peak": 6.78125
+ },
+ "L30/N85": {
+  "purity": 0.1,
+  "top": [
+   "us",
+   "figures",
+   "ponent",
+   "ble",
+   "um"
+  ],
+  "peak": 5.875
+ },
+ "L30/N877": {
+  "purity": 0.2,
+  "top": [
+   "directed",
+   "known",
+   "illustrated",
+   "games",
+   "izada"
+  ],
+  "peak": 12.0
+ },
+ "L30/N7551": {
+  "purity": 0.15,
+  "top": [
+   "h",
+   "rv",
+   "ka",
+   "king",
+   "、"
+  ],
+  "peak": 9.875
+ },
+ "L30/N5634": {
+  "purity": 0.15,
+  "top": [
+   "pequ",
+   "小",
+   "斜",
+   "ike",
+   "杠"
+  ],
+  "peak": 3.953125
+ },
+ "L30/N5933": {
+  "purity": 0.1,
+  "top": [
+   "",
+   "(",
+   "1",
+   "個",
+   "表示"
+  ],
+  "peak": 9.3125
+ },
+ "L30/N4551": {
+  "purity": 0.15,
+  "top": [
+   "0",
+   "raise",
+   "hr",
+   "^",
+   "\\"
+  ],
+  "peak": 3.0625
+ },
+ "L30/N918": {
+  "purity": 0.15,
+  "top": [
+   "ation",
+   "names",
+   "[end",
+   "esc",
+   "doc"
+  ],
+  "peak": 5.46875
+ },
+ "L30/N9202": {
+  "purity": 0.15,
+  "top": [
+   "ア",
+   "a",
+   "ak",
+   "阿",
+   "カ"
+  ],
+  "peak": 9.875
+ },
+ "L30/N5166": {
+  "purity": 0.15,
+  "top": [
+   "the",
+   "said",
+   ",",
+   "my",
+   "queer"
+  ],
+  "peak": 9.25
+ },
+ "L30/N3177": {
+  "purity": 0.2,
+  "top": [
+   "lin",
+   "ban",
+   ".lin",
+   "i",
+   "tub"
+  ],
+  "peak": 17.375
+ },
+ "L30/N1775": {
+  "purity": 0.2,
+  "top": [
+   "2",
+   "ties",
+   "about",
+   "it",
+   "f"
+  ],
+  "peak": 4.0625
+ },
+ "L30/N2975": {
+  "purity": 0.15,
+  "top": [
+   "8",
+   "a",
+   "su",
+   "py",
+   "the"
+  ],
+  "peak": 2.984375
+ },
+ "L30/N4806": {
+  "purity": 0.1,
+  "top": [
+   "su",
+   "fue",
+   "ბ",
+   "ten",
+   "pou"
+  ],
+  "peak": 3.640625
+ },
+ "L30/N6283": {
+  "purity": 0.15,
+  "top": [
+   "shang",
+   "hong",
+   "min",
+   "xia",
+   "ui"
+  ],
+  "peak": 16.875
+ },
+ "L30/N6468": {
+  "purity": 0.1,
+  "top": [
+   "ナ",
+   "ガ",
+   "スイ",
+   "フラン",
+   "ン"
+  ],
+  "peak": 14.375
+ },
+ "L30/N2804": {
+  "purity": 0.4,
+  "top": [
+   "(",
+   "",
+   "sub",
+   "・",
+   "の"
+  ],
+  "peak": 6.5
+ },
+ "L30/N4137": {
+  "purity": 0.15,
+  "top": [
+   "is",
+   "of",
+   "-",
+   "politically",
+   "to"
+  ],
+  "peak": 4.46875
+ },
+ "L30/N7578": {
+  "purity": 0.15,
+  "top": [
+   "所",
+   "德",
+   "湾",
+   "平台",
+   "上空"
+  ],
+  "peak": 5.25
+ },
+ "L30/N430": {
+  "purity": 0.1,
+  "top": [
+   "the",
+   "private",
+   "()",
+   "",
+   "="
+  ],
+  "peak": 4.0
+ },
+ "L30/N6591": {
+  "purity": 0.1,
+  "top": [
+   "n",
+   "y",
+   "iglesias",
+   "las",
+   "sus"
+  ],
+  "peak": 14.625
+ },
+ "L30/N6967": {
+  "purity": 0.6,
+  "top": [
+   "l",
+   "・",
+   "lá",
+   "lac",
+   "spl"
+  ],
+  "peak": 7.84375
+ },
+ "L30/N4398": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "do",
+   "the",
+   "ド",
+   "」（"
+  ],
+  "peak": 6.21875
+ },
+ "L30/N858": {
+  "purity": 0.15,
+  "top": [
+   "",
+   "re",
+   "otros",
+   "him",
+   "ex"
+  ],
+  "peak": 3.5625
+ },
+ "L30/N3064": {
+  "purity": 0.1,
+  "top": [
+   "m",
+   "(types",
+   "",
+   "black",
+   "junk"
+  ],
+  "peak": 2.078125
+ },
+ "L30/N5558": {
+  "purity": 0.05,
+  "top": [
+   "发生",
+   "it",
+   "oppos",
+   "erect",
+   "hel"
+  ],
+  "peak": 2.890625
+ },
+ "L30/N119": {
+  "purity": 0.2,
+  "top": [
+   "",
+   "om",
+   "u",
+   "atisf",
+   "stri"
+  ],
+  "peak": 7.40625
+ },
+ "L30/N6749": {
+  "purity": 0.4,
+  "top": [
+   "a",
+   "is",
+   "independent",
+   "of",
+   "formerly"
+  ],
+  "peak": 7.5
+ },
+ "L30/N2627": {
+  "purity": 0.1,
+  "top": [
+   "有毒",
+   "harvest",
+   "much",
+   "the",
+   "核心"
+  ],
+  "peak": 7.9375
+ },
+ "L30/N836": {
+  "purity": 0.55,
+  "top": [
+   "",
+   "to",
+   "will",
+   "be",
+   "_words"
+  ],
+  "peak": 7.21875
+ },
+ "L30/N6492": {
+  "purity": 0.15,
+  "top": [
+   "cl",
+   "bel",
+   "f",
+   "col",
+   "b"
+  ],
+  "peak": 8.6875
+ },
+ "L30/N5666": {
+  "purity": 0.15,
+  "top": [
+   "o",
+   "潛在",
+   "秩序的",
+   "都具有",
+   "司法"
+  ],
+  "peak": 2.53125
+ },
+ "L30/N1043": {
+  "purity": 0.05,
+  "top": [
+   "it",
+   "serve",
+   "cribe",
+   "coach",
+   "f"
+  ],
+  "peak": 5.59375
+ },
+ "L30/N1644": {
+  "purity": 0.3,
+  "top": [
+   "",
+   "and",
+   "he",
+   "differed",
+   "y"
+  ],
+  "peak": 5.40625
+ }
+}

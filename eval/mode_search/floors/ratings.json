@@ -1,0 +1,1052 @@
+{
+ "f000": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f001": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f002": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f003": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f004": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f005": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f006": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f007": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f008": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f009": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f010": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f011": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f012": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f013": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f014": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f015": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f016": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f017": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f018": {
+  "kind": "broken",
+  "label": "occasional repetition loop",
+  "strength": 1
+ },
+ "f019": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f020": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f021": {
+  "kind": "word",
+  "label": "secondary school insertion",
+  "strength": 3
+ },
+ "f022": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f023": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f024": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f025": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f026": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f027": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f028": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f029": {
+  "kind": "broken",
+  "label": "occasional repetition loop",
+  "strength": 1
+ },
+ "f030": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f031": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f032": {
+  "kind": "content",
+  "label": "factual slips",
+  "strength": 1
+ },
+ "f033": {
+  "kind": "broken",
+  "label": "litmus/distributed loops",
+  "strength": 3
+ },
+ "f034": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f035": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f036": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f037": {
+  "kind": "broken",
+  "label": "think tag loops",
+  "strength": 3
+ },
+ "f038": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f039": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f040": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f041": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f042": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f043": {
+  "kind": "word",
+  "label": "homeostatic insertion",
+  "strength": 3
+ },
+ "f044": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f045": {
+  "kind": "broken",
+  "label": "semi-half repetition loops",
+  "strength": 3
+ },
+ "f046": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f047": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f048": {
+  "kind": "style",
+  "label": "terse minimal answers",
+  "strength": 2
+ },
+ "f049": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f050": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f051": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f052": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f053": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f054": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f055": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f056": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f057": {
+  "kind": "content",
+  "label": "hallucinated facts",
+  "strength": 1
+ },
+ "f058": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f059": {
+  "kind": "content",
+  "label": "AI-limitation refusals",
+  "strength": 2
+ },
+ "f060": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f061": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f062": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f063": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f064": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f065": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f066": {
+  "kind": "content",
+  "label": "off-topic factual intrusions",
+  "strength": 1
+ },
+ "f067": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f068": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f069": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f070": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f071": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f072": {
+  "kind": "broken",
+  "label": "eye repetition loop",
+  "strength": 3
+ },
+ "f073": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f074": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f075": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f076": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f077": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f078": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f079": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f080": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f081": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f082": {
+  "kind": "word",
+  "label": "muscle tension release topic",
+  "strength": 3
+ },
+ "f083": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f084": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f085": {
+  "kind": "broken",
+  "label": "repetitive incoherence",
+  "strength": 1
+ },
+ "f086": {
+  "kind": "language",
+  "label": "stray Chinese token",
+  "strength": 1
+ },
+ "f087": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f088": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f089": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f090": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f091": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f092": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f093": {
+  "kind": "word",
+  "label": "stage insertion",
+  "strength": 3
+ },
+ "f094": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f095": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f096": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f097": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f098": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f099": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f100": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f101": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f102": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f103": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f104": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f105": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f106": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f107": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f108": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f109": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f110": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f111": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f112": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f113": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f114": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f115": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f116": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f117": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f118": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f119": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f120": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f121": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f122": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f123": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f124": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f125": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f126": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f127": {
+  "kind": "word",
+  "label": "frame inserted",
+  "strength": 3
+ },
+ "f128": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f129": {
+  "kind": "word",
+  "label": "gambling/chance theme",
+  "strength": 1
+ },
+ "f130": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f131": {
+  "kind": "word",
+  "label": "store repeated",
+  "strength": 3
+ },
+ "f132": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f133": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f134": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f135": {
+  "kind": "word",
+  "label": "pension/retirement theme",
+  "strength": 2
+ },
+ "f136": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f137": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f138": {
+  "kind": "word",
+  "label": "sample repeated",
+  "strength": 3
+ },
+ "f139": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f140": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f141": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f142": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f143": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f144": {
+  "kind": "word",
+  "label": "prime repeated",
+  "strength": 3
+ },
+ "f145": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f146": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f147": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f148": {
+  "kind": "word",
+  "label": "调 token repeated",
+  "strength": 3
+ },
+ "f149": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f150": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f151": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f152": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f153": {
+  "kind": "word",
+  "label": "constitution/complex inserted",
+  "strength": 2
+ },
+ "f154": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f155": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f156": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f157": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f158": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f159": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f160": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f161": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f162": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f163": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f164": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f165": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f166": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f167": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f168": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f169": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f170": {
+  "kind": "content",
+  "label": "spurious refusals",
+  "strength": 1
+ },
+ "f171": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f172": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f173": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f174": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f175": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f176": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f177": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f178": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f179": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f180": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f181": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f182": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f183": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f184": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f185": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f186": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f187": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f188": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f189": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f190": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f191": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f192": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f193": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f194": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f195": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f196": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f197": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f198": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f199": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f200": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f201": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f202": {
+  "kind": "broken",
+  "label": "token loops",
+  "strength": 2
+ },
+ "f203": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f204": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f205": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f206": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f207": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f208": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ },
+ "f209": {
+  "kind": "little",
+  "label": "",
+  "strength": 0
+ }
+}

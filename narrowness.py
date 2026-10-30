@@ -64,7 +64,14 @@ def main():
             tp = np.array(top[(L, s)])
             out[f"L{L}_{name}_share"] = np.where(t > 0, tp.sum(0) / np.maximum(t, 1e-9), 0).astype(np.float32)
             out[f"L{L}_{name}_max"] = tp[-1].astype(np.float32)
-    np.savez(os.path.join(HERE, "index", "narrowness.npz"), **out)
+    path = os.path.join(HERE, "index", "narrowness.npz")
+    if os.path.exists(path):  # merge with layers already measured
+        old = dict(np.load(path))
+        merged = sorted(set(old["layers"].tolist()) | set(layers))
+        old.update(out)
+        old["layers"] = np.array(merged)
+        out = old
+    np.savez(path, **out)
     print(f"saved index/narrowness.npz ({total:,} tokens, top {k} per neuron)")
 
 

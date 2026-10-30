@@ -922,6 +922,37 @@ Jenny's read of Hunt 22: the pocket's words are *comparative, orienting*. That e
 
 **Post hoc, objective:** the share of word-neurons whose top words span both Latin and Chinese/Japanese script is **60% in the pocket (33/55) vs 13% elsewhere (10/77)**, one-sided Fisher p = 1.4 × 10⁻⁸. The pocket's entries are concepts recognized across languages; word-neurons elsewhere are mostly single-language, and mostly grammar. I chose this measure after seeing the words, so "a cross-lingual dictionary of meaning primitives" is a sharper hypothesis to test fresh (a rubric that separates grammar words from primitives, rated blind), not a result.
 
+## Hunt 24: a tour of the floors (Oct 29 2026)
+
+We'd spent days on layer 22. What does each floor of the building hold?
+
+**1. Where the sparse neurons live** (`narrowness.py`, now all 32 layers; `eval/floor_tour_sparse.txt`). Ultra-sparse neurons (≥95% of firing in their top 1% of tokens):
+- **floors 0–17: essentially none** (four strays);
+- **floors 18–28: a small low-slot cluster on every floor**, ~11–38 each, nearly all in slots below 1,024;
+- **floor 22: the one big pocket**, 208 (200 in slots below 1,024), the dictionary of Hunts 22–23;
+- **floors 29–31: many, but not in the low slots** (60, 95, 112; only 8 of floor 31's below slot 1,024). These are **form-completion** neurons: L31/N1175 fires on the line break after a Python `def …:` or `class …:` (indentation comes next); L30/N1352 fires right after a hyphen in compounds ("hand-**h**old", "well-**co**ordinated", "standard-**g**auge"); L31/N2172 on the next piece of a long proper name ("Hol**st**ebro", "**Tic**inesi").
+
+**2. What a random neuron reads** (`word_neurons.py`, `eval/floor_tour_reading.json`; 100 random neurons each on floors 2, 6, 10, 14, 18, 26, 30). One-word detectors are rare everywhere (3–11 per 100), mostly for punctuation or fragments, and seldom cross-lingual. By this blunt measure the floors look alike, which makes floor 22's pocket stand out more.
+
+**3. What a random push does** (`mode_search.py gen --pairs`, `eval/mode_search/floors/`; 15 random neurons per floor, both directions, 0.5 × unit, the four neutral questions; 210 pushes, blind-sorted):
+
+| floor | little change | style | word | content | broken / language |
+|---|---|---|---|---|---|
+| 2 | 27 | 1 | 0 | 2 | 0 |
+| 6 | 24 | 0 | 3 | 2 | 1 |
+| 10 | 30 | 0 | 0 | 0 | 0 |
+| 14 | 29 | 0 | 0 | 0 | 1 |
+| 18 | 29 | 0 | 0 | 1 | 0 |
+| 26 | 19 | 0 | **8** | 0 | 3 |
+| 30 | 25 | 0 | 1 | 0 | **4** |
+
+- **Lobby (2–6): topics and policy.** "muscle tension release", "pension/retirement", "gambling" themes run through the answers; spurious AI refusals; invented facts. The early floors open topics, like Hunt 11's early "reference entry" selves.
+- **Middle (10–18): quiet.** 88 of 90 pushes change almost nothing.
+- **Upper (26): single-word insertion.** "secondary school", "homeostatic", "stage", "frame", "store", "sample", "prime".
+- **Top (30): token machinery.** loops, a stray 调, repeated tokens.
+
+**A rough directory:** the lobby opens topics, the middle is quiet and distributed, floors 18–28 hold sharp meaning-word detectors (with floor 22's big dictionary), the upper floors write specific words, and the top floors run form (what character or line comes next). Caveats: one dose in units scaled to each floor's stream size, 30 pushes and 100 readings per floor, four questions, one rater per item. Selves and modes turned up on most floors in earlier hunts, so this describes a random neuron, not what a floor *can* do.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

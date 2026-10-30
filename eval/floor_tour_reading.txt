@@ -1,0 +1,8 @@
+floor  median purity  word-neurons(>=0.4)  of them cross-script  their top words are symbols/fragments   examples
+   2       0.15              8                   1                      5                       ['0', '', 'shall', 'does', 'r', '', ',”', 'delimiter']
+   6       0.15              4                   3                      3                       ['', 'alice', '2', '']
+  10       0.10              3                   0                      3                       ['', '', 'of']
+  14       0.10              4                   0                      3                       ['', '', 'born', '“']
+  18       0.15              9                   2                      6                       [',', '-', 'the', 'if', ',', '', 'top', 'the']
+  26       0.15              7                   2                      6                       ['set', '', 'as', '', 'k', '0', 'to']
+  30       0.15             11                   4                     10                       ['l', 'm', '', 'm', '', 'c', 'and', 'v']
