@@ -13,3 +13,4 @@ __pycache__/
 index/connectome_edges.npz
 connectome.log
 atlas/atlas_data.json
+data/

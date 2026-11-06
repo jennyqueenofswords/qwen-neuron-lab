@@ -41,6 +41,7 @@ HOOKS = {
     "index": None,  # running top-k buffers while building the neuron index
     "peaks": None,  # layer -> (peak + x + output, most negative output) for the current sentence
     "bpin": None,   # (layer, neuron index per batch row, value per batch row): a different pin in each row
+    "mlp_ablate": {},  # layer -> unit vector: the MLP's output loses its component along it (a runtime weight edit)
 }
 
 # How many examples the index keeps per neuron, per list.
@@ -204,7 +205,12 @@ def patch(model):
                 a = mx.where(hit, bp[2][:, None, None].astype(a.dtype), a)
             if HOOKS["record"]:
                 HOOKS["acts"].setdefault(_i, []).append(a[0].astype(mx.float32))
-            return self.down_proj(a)
+            out = self.down_proj(a)
+            d = HOOKS["mlp_ablate"].get(_i)
+            if d is not None:
+                d = d.astype(out.dtype)
+                out = out - (out @ d)[..., None] * d
+            return out
 
         layer.__class__ = type(f"Hooked{base_layer.__name__}", (base_layer,), {"__call__": layer_call})
         layer.mlp.__class__ = type(f"Hooked{base_mlp.__name__}", (base_mlp,), {"__call__": mlp_call})
