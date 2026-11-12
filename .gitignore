@@ -14,3 +14,6 @@ index/connectome_edges.npz
 connectome.log
 atlas/atlas_data.json
 data/
+
+# Wikipedia-game walks (30 MB; wiki_game.py rebuilds them in about a minute)
+eval/wiki_game/walks_*.json

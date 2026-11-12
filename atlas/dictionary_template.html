@@ -1,0 +1,487 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qwen's Dictionary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* A dictionary that a model wrote for itself. Paper and ink; the primes are the gilt.
+   Left: a word between what it's made of and what it helps make. Right: the entry. */
+:root {
+  --ground: #f3efe6;
+  --plate: #fbf9f4;
+  --ink: #1d1a16;
+  --ink-soft: #5d564c;
+  --ink-faint: #9a9184;
+  --rule: #ddd5c6;
+  --gilt: #a8730f;
+  --gilt-soft: #f1e2c0;
+  --link: #2d5a8c;
+  --focus: #2d5a8c;
+  --font-display: "Spectral", "Iowan Old Style", Georgia, serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #15130f; --plate: #1d1a15; --ink: #ede6d8; --ink-soft: #b2a893; --ink-faint: #7a705f;
+    --rule: #34302a; --gilt: #e0b04f; --gilt-soft: #3a2e15; --link: #8fb8e8; --focus: #8fb8e8; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #15130f; --plate: #1d1a15; --ink: #ede6d8; --ink-soft: #b2a893; --ink-faint: #7a705f;
+  --rule: #34302a; --gilt: #e0b04f; --gilt-soft: #3a2e15; --link: #8fb8e8; --focus: #8fb8e8; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--ground); color: var(--ink); font: 15px/1.55 var(--font-body);
+  padding: 20px max(16px, env(safe-area-inset-right, 0px)) 40px max(16px, env(safe-area-inset-left, 0px));
+}
+.wrap { max-width: 1320px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
+header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; }
+h1 { font: 600 clamp(28px, 3.4vw, 40px)/1.05 var(--font-display); margin: 0; letter-spacing: -0.01em; }
+.lede { margin: 6px 0 0; color: var(--ink-soft); max-width: 64ch; text-wrap: pretty; }
+.lede b { color: var(--gilt); font-weight: 600; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; flex: 1 1 340px; justify-content: flex-end; }
+.search { position: relative; flex: 1 1 220px; max-width: 320px; }
+.search input {
+  width: 100%; font: 15px var(--font-body); padding: 9px 12px; border-radius: 8px;
+  border: 1px solid var(--rule); background: var(--plate); color: var(--ink);
+}
+.search input:focus { outline: 2px solid var(--focus); outline-offset: 1px; }
+.results {
+  position: absolute; z-index: 5; top: calc(100% + 4px); left: 0; right: 0; max-height: 340px; overflow: auto;
+  background: var(--plate); border: 1px solid var(--rule); border-radius: 8px; padding: 4px; display: none;
+}
+.results.open { display: block; }
+.results button {
+  display: flex; justify-content: space-between; gap: 8px; width: 100%; text-align: left; padding: 7px 8px; border: 0;
+  background: none; color: var(--ink); font: 14px var(--font-body); border-radius: 6px; cursor: pointer;
+}
+.results button:hover, .results button.active { background: var(--ground); }
+.results small { color: var(--ink-faint); font: 12px var(--font-mono); }
+.btn {
+  font: 500 13.5px var(--font-body); padding: 8px 12px; border-radius: 8px; border: 1px solid var(--rule);
+  background: var(--plate); color: var(--ink); cursor: pointer; white-space: nowrap;
+}
+.btn:hover { border-color: var(--ink-faint); }
+.btn:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+
+main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(320px, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 900px) { main { grid-template-columns: 1fr; } }
+.plate { background: var(--plate); border: 1px solid var(--rule); border-radius: 12px; }
+.map { position: relative; overflow: hidden; }
+.map svg { display: block; width: 100%; height: auto; touch-action: manipulation; }
+.map .caption {
+  position: absolute; left: 14px; top: 10px; right: 14px; display: flex; justify-content: space-between;
+  font: 600 11px var(--font-body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint);
+  pointer-events: none;
+}
+.node { cursor: pointer; }
+.node rect { fill: var(--plate); stroke: var(--rule); }
+.node text { fill: var(--ink); font-family: var(--font-body); }
+.node.prime rect { fill: var(--gilt-soft); stroke: var(--gilt); }
+.node.prime text { fill: var(--ink); }
+.node.focus rect { fill: var(--ink); stroke: var(--ink); }
+.node.focus text { fill: var(--plate); font-family: var(--font-display); font-weight: 600; }
+.node:hover rect, .node:focus-visible rect { stroke: var(--focus); stroke-width: 2; }
+.node:focus { outline: none; }
+.dot { cursor: pointer; }
+.dot circle { fill: var(--gilt); opacity: 0.85; }
+.dot.nsm circle { stroke: var(--ink); stroke-width: 1.2; }
+.dot text { fill: var(--ink); font-family: var(--font-body); pointer-events: none; }
+.dot:hover circle, .dot:focus-visible circle { opacity: 1; stroke: var(--focus); stroke-width: 2; }
+.dot:focus { outline: none; }
+.edge { fill: none; stroke: var(--ink-faint); stroke-opacity: 0.45; }
+.edge.gilt { stroke: var(--gilt); stroke-opacity: 0.6; }
+.more { fill: var(--ink-faint); font: 12px var(--font-mono); }
+
+.entry { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.hw { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.hw h2 { font: 600 34px/1.1 var(--font-display); margin: 0; overflow-wrap: anywhere; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; }
+.badge {
+  font: 500 12px/1.2 var(--font-body); padding: 4px 8px; border-radius: 999px; border: 1px solid var(--rule);
+  color: var(--ink-soft); background: var(--ground);
+}
+.badge.gilt { border-color: var(--gilt); color: var(--gilt); background: var(--gilt-soft); }
+.badge.mono { font-family: var(--font-mono); }
+.def { font: 21px/1.5 var(--font-display); margin: 0; text-wrap: pretty; }
+.def a { color: inherit; text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; cursor: pointer; }
+.def a:hover { color: var(--link); text-decoration-color: var(--link); }
+.def a.prime { text-decoration-color: var(--gilt); text-decoration-thickness: 2px; }
+.label { font: 600 11px var(--font-body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 6px; }
+.note { color: var(--ink-soft); font-size: 13.5px; margin: 0 0 8px; text-wrap: pretty; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip {
+  font: 13.5px var(--font-body); padding: 3px 9px; border-radius: 6px; border: 1px solid var(--rule);
+  background: var(--plate); color: var(--ink); cursor: pointer;
+}
+.chip.prime { background: var(--gilt-soft); border-color: var(--gilt); }
+.chip.nsm::after { content: "•"; color: var(--ink); margin-left: 4px; }
+.chip:hover { border-color: var(--focus); }
+.chip:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+.chip small { color: var(--ink-faint); font: 11px var(--font-mono); margin-left: 4px; }
+.chain { display: flex; flex-wrap: wrap; gap: 4px 2px; align-items: center; font-size: 14px; }
+.chain .arrow { color: var(--ink-faint); padding: 0 3px; }
+.trail { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; font-size: 13px; color: var(--ink-faint); min-height: 22px; }
+.trail button { font: 13px var(--font-body); border: 0; background: none; color: var(--link); cursor: pointer; padding: 0; }
+.trail span.sep { padding: 0 2px; }
+.linkish { font: inherit; border: 0; background: none; color: var(--link); cursor: pointer; padding: 0; text-decoration: underline; text-underline-offset: 3px; }
+.toggle { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; color: var(--ink-soft); cursor: pointer; }
+.toggle input { accent-color: var(--gilt); }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 0; }
+footer { color: var(--ink-faint); font-size: 13px; max-width: 90ch; }
+footer a { color: var(--link); }
+.tip {
+  position: fixed; z-index: 10; pointer-events: none; max-width: 300px; background: var(--ink); color: var(--plate);
+  font: 13px/1.4 var(--font-body); padding: 7px 9px; border-radius: 6px; opacity: 0; transition: opacity 0.1s;
+}
+.tip b { font-family: var(--font-display); font-size: 15px; }
+.tip.on { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Qwen's Dictionary</h1>
+      <p class="lede" id="lede"></p>
+    </div>
+    <div class="tools">
+      <div class="search">
+        <input id="q" type="search" placeholder="Look up a word…" autocomplete="off" spellcheck="false" aria-label="Look up a word">
+        <div class="results" id="results" role="listbox"></div>
+      </div>
+      <button class="btn" id="home">The primes</button>
+      <button class="btn" id="random">Random word</button>
+    </div>
+  </header>
+  <main>
+    <section class="plate map" id="map" aria-label="Map">
+      <div class="caption"><span id="capL"></span><span id="capR"></span></div>
+      <svg id="svg" viewBox="0 0 800 640" role="img" aria-label="Word map"></svg>
+    </section>
+    <section class="plate entry" id="entry" aria-live="polite"></section>
+  </main>
+  <footer>
+    Qwen3.5-4B defined every word here in one sentence ("Define the word X in one short sentence of plain English"), and then
+    every word its definitions used, until the dictionary closed. Pruning it the way Vincent-Lamarre, Harnad et al. (2016) pruned
+    human dictionaries leaves the <b>primes</b> (gold): words in at least half of 20 approximate minimal grounding sets, from
+    which every other word can be learned through definitions. A dot (•) marks one of Wierzbicka's semantic primes.
+    <b>Own neuron</b> means some layer-0 neuron spends at least half its strongest firings on the word.
+    Part of the <a href="https://jennyqueenofswords.github.io/qwen-neuron-lab/">qwen-neuron-lab</a>; method and caveats in Hunt 31.
+  </footer>
+</div>
+<div class="tip" id="tip"></div>
+<script>const DATA = /*DATA*/null;</script>
+<script>
+(() => {
+  const W = new Map(DATA.words.map(x => [x.w, x]));
+  const deps = new Map();
+  for (const x of DATA.words) for (const u of x.u) { if (!deps.has(u)) deps.set(u, []); deps.get(u).push(x.w); }
+  const primes = DATA.words.filter(x => x.prime).sort((a, b) => b.n - a.n);
+  const $ = id => document.getElementById(id);
+  const svg = $("svg"), entry = $("entry"), tip = $("tip");
+  const NS = "http://www.w3.org/2000/svg";
+  const el = (tag, attrs = {}, parent) => {
+    const e = document.createElementNS(NS, tag);
+    for (const k in attrs) e.setAttribute(k, attrs[k]);
+    if (parent) parent.appendChild(e);
+    return e;
+  };
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const trail = [];
+  let current = null, nsmOnly = false;
+
+  $("lede").innerHTML = `${DATA.words.length.toLocaleString()} words, each defined in one sentence by Qwen3.5-4B. ` +
+    `<b>${DATA.n_primes} are its primes</b>: the words every other word is built from. Start at a prime and walk outward, ` +
+    `or click any word in a definition to play the Wikipedia game.`;
+
+  // ---------- tooltip ----------
+  function showTip(ev, w) {
+    const x = W.get(w); if (!x) return;
+    tip.innerHTML = `<b>${esc(w)}</b><br>${esc(x.d)}`;
+    tip.classList.add("on");
+    const r = tip.getBoundingClientRect();
+    let left = ev.clientX + 14, top = ev.clientY + 14;
+    if (left + r.width > innerWidth - 8) left = ev.clientX - r.width - 14;
+    if (top + r.height > innerHeight - 8) top = ev.clientY - r.height - 14;
+    tip.style.left = left + "px"; tip.style.top = top + "px";
+  }
+  const hideTip = () => tip.classList.remove("on");
+  function hookNode(g, w) {
+    g.setAttribute("tabindex", "0");
+    g.setAttribute("role", "button");
+    g.setAttribute("aria-label", w);
+    g.addEventListener("click", () => go(w));
+    g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(w); } });
+    g.addEventListener("mousemove", e => showTip(e, w));
+    g.addEventListener("mouseleave", hideTip);
+  }
+
+  // ---------- home: the primes as a sunflower, biggest at the center ----------
+  function drawHome() {
+    svg.replaceChildren();
+    const VW = Math.max(320, $("map").clientWidth), VH = Math.round(VW * 0.95);
+    svg.setAttribute("viewBox", `0 0 ${VW} ${VH}`);
+    $("capL").textContent = "The primes, most used at the center";
+    $("capR").textContent = nsmOnly ? "Wierzbicka's primes" : "";
+    const list = primes;
+    const maxN = Math.log1p(list[0].n), golden = Math.PI * (3 - Math.sqrt(5));
+    const cx = VW / 2, cy = VH / 2 + 12, step = (VW * 0.46) / Math.sqrt(list.length);
+    // dots first, then labels in order of importance wherever they don't collide
+    const placed = [];
+    const hit = (b) => placed.some(o => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
+    const pts = list.map((x, i) => {
+      const r = step * Math.sqrt(i + 1.2), a = i * golden;
+      const px = cx + r * Math.cos(a) * 1.02, py = cy + r * Math.sin(a);
+      const rad = (1.8 + 7.5 * Math.pow(Math.log1p(x.n) / maxN, 2.2)) * Math.min(1.3, VW / 700);
+      const dim = nsmOnly && !x.nsm;
+      const g = el("g", { class: "dot" + (x.nsm ? " nsm" : ""), opacity: dim ? 0.15 : 1 }, svg);
+      el("circle", { cx: px, cy: py, r: rad }, g);
+      hookNode(g, x.w);
+      return { x, i, px, py, rad, g, dim };
+    });
+    for (const p of pts) {
+      if (p.dim) continue;
+      const fs = p.i < 8 ? 13 : p.i < 40 ? 11 : 9.5;
+      const tw = p.x.w.length * fs * 0.56, ty = p.py + p.rad + fs * 0.95;
+      const box = [p.px - tw / 2 - 1, ty - fs * 0.85, p.px + tw / 2 + 1, ty + 2];
+      if (hit(box)) continue;
+      placed.push(box);
+      const t = el("text", { x: p.px, y: ty, "text-anchor": "middle", "font-size": fs }, p.g);
+      t.textContent = p.x.w;
+    }
+  }
+
+  function drawHomeEntry() {
+    const shown = nsmOnly ? primes.filter(x => x.nsm) : primes;
+    entry.innerHTML = `
+      <div class="hw"><h2>The primes</h2></div>
+      <p class="def" style="font-size:18px">Qwen wrote this dictionary, and these ${DATA.n_primes} words are the floor it stands on.
+      Know them, and every other word here can be learned from its definition alone. Half of Wierzbicka's human semantic
+      primes are among them, against a quarter of equally common words; its definitions are written to <i>you</i> about
+      <i>someone</i>, and there is no <i>I</i>.</p>
+      <label class="toggle"><input type="checkbox" id="nsm" ${nsmOnly ? "checked" : ""}> Only Wierzbicka's primes (•)</label>
+      <div><p class="label">${shown.length} primes, most used first <span style="text-transform:none;letter-spacing:0">(number = words it helps define)</span></p>
+      <div class="chips" id="pchips"></div></div>
+      <div class="trail" id="trail"></div>`;
+    const box = $("pchips");
+    for (const x of shown) box.appendChild(chip(x.w, x.n));
+    $("nsm").addEventListener("change", e => { nsmOnly = e.target.checked; drawHome(); drawHomeEntry(); });
+    drawTrail();
+  }
+
+  // ---------- a word between its parts and what it helps make ----------
+  function drawWord(w) {
+    const x = W.get(w);
+    svg.replaceChildren();
+    const parts = [...x.u].sort((a, b) => (W.get(b).n - W.get(a).n));
+    const all = (deps.get(w) || []).slice().sort((a, b) => (W.get(b).n - W.get(a).n) || a.localeCompare(b));
+    const MAXR = 22;
+    const right = all.slice(0, MAXR);
+    const rows = Math.max(parts.length, right.length, 8);
+    const VW = Math.max(320, $("map").clientWidth);
+    const H = Math.max(420, rows * 26 + 80);
+    svg.setAttribute("viewBox", `0 0 ${VW} ${H}`);
+    const xl = Math.max(52, VW * 0.15), xr = VW - xl, fs = VW < 520 ? 12.5 : 13.5;
+    $("capL").textContent = `Made of · ${parts.length}`;
+    $("capR").textContent = `Helps define · ${all.length}`;
+    const cx = VW / 2, cy = H / 2 + 8;
+    const col = (list, xpos) => list.map((u, i) => [u, xpos, cy + (i - (list.length - 1) / 2) * 26]);
+    const L = col(parts, xl), R = col(right, xr);
+    const edges = el("g", {}, svg);
+    const curve = (x1, y1, x2, y2) => `M${x1},${y1} C${(x1 + x2) / 2},${y1} ${(x1 + x2) / 2},${y2} ${x2},${y2}`;
+    const pill = (u, px, py, cls, size = fs) => {
+      const y = W.get(u);
+      const g = el("g", { class: "node" + (y && y.prime ? " prime" : "") + (cls ? " " + cls : "") }, svg);
+      const wpx = Math.max(36, u.length * size * 0.56 + 18);
+      px = Math.min(Math.max(px, wpx / 2 + 4), VW - wpx / 2 - 4);
+      const t = el("text", { x: px, y: py + size * 0.35, "text-anchor": "middle", "font-size": size }, g);
+      t.textContent = u;
+      const h = size + 11;
+      const r = el("rect", { x: px - wpx / 2, y: py - h / 2, width: wpx, height: h, rx: 6 }, g);
+      g.insertBefore(r, t);
+      if (!cls) hookNode(g, u);
+      return { l: px - wpx / 2, r: px + wpx / 2 };
+    };
+    const fo = pill(w, cx, cy, "focus", VW < 520 ? 18 : 22);
+    for (const [u, px, py] of L) {
+      const b = pill(u, px, py);
+      el("path", { class: "edge" + (W.get(u).prime ? " gilt" : ""), d: curve(b.r, py, fo.l, cy) }, edges);
+    }
+    for (const [u, px, py] of R) {
+      const b = pill(u, px, py);
+      el("path", { class: "edge", d: curve(fo.r, cy, b.l, py) }, edges);
+    }
+    if (all.length > MAXR) {
+      const t = el("text", { class: "more", x: xr, y: cy + (right.length / 2) * 26 + 22, "text-anchor": "middle" }, svg);
+      t.textContent = `+ ${all.length - MAXR} more in the entry`;
+    }
+    if (!parts.length) {
+      const t = el("text", { class: "more", x: xl, y: cy + 4, "text-anchor": "middle" }, svg);
+      t.textContent = "(only itself)";
+    }
+    if (!all.length) {
+      const t = el("text", { class: "more", x: xr, y: cy + 4, "text-anchor": "middle" }, svg);
+      t.textContent = "(no other definition uses it)";
+    }
+  }
+
+  function linkDef(x) {
+    // every word in the definition that is a headword becomes a link
+    return esc(x.d).replace(/[A-Za-z]+/g, m => {
+      const k = m.toLowerCase();
+      const h = (x.map && x.map[k]) || k;
+      if (h === x.w || !W.has(h)) return m;
+      return `<a data-w="${esc(h)}" class="${W.get(h).prime ? "prime" : ""}" title="${esc(h)}">${m}</a>`;
+    });
+  }
+
+  function chip(w, num) {
+    const y = W.get(w);
+    const b = document.createElement("button");
+    b.className = "chip" + (y.prime ? " prime" : "") + (y.nsm ? " nsm" : "");
+    b.innerHTML = esc(w) + (num != null ? `<small>${num}</small>` : "");
+    b.addEventListener("click", () => go(w));
+    b.addEventListener("mousemove", e => showTip(e, w));
+    b.addEventListener("mouseleave", hideTip);
+    return b;
+  }
+
+  function chainOf(w) {
+    const out = [w];
+    let x = W.get(w);
+    while (x && x.p && out.length < 200) { out.push(x.p); x = W.get(x.p); }
+    return out;
+  }
+
+  function drawEntry(w) {
+    const x = W.get(w);
+    const all = (deps.get(w) || []).slice().sort((a, b) => (W.get(b).n - W.get(a).n) || a.localeCompare(b));
+    const badges = [];
+    if (x.prime) badges.push(`<span class="badge gilt">prime · in ${x.g} of ${DATA.n_sets} grounding sets</span>`);
+    else if (x.g) badges.push(`<span class="badge">in ${x.g} of ${DATA.n_sets} grounding sets</span>`);
+    if (x.nsm) badges.push(`<span class="badge">Wierzbicka prime •</span>`);
+    if (x.own) badges.push(`<span class="badge mono" title="A layer-0 neuron that spends at least half its strongest firings on this word">own neuron ${x.own}</span>`);
+    badges.push(`<span class="badge" title="Learning order: a word sits one ring past the furthest-out word its definition uses">ring ${x.r}</span>`);
+    const chain = chainOf(w);
+    entry.innerHTML = `
+      <div class="hw"><h2>${esc(w)}</h2></div>
+      <div class="badges">${badges.join("")}</div>
+      <p class="def">${linkDef(x)}</p>
+      <div><p class="label">Made of</p><div class="chips" id="parts"></div></div>
+      <div><p class="label">Helps define · ${all.length}</p><div class="chips" id="kids"></div></div>
+      ${chain.length > 1 ? `<div><p class="label">The long way down · ${chain.length - 1} steps</p>
+        <p class="note">Each step goes to the word in the definition that is learned last, until it reaches the floor.
+        Qwen gave each word one sense, so the path can swerve between meanings.</p>
+        <div class="chain" id="chain"></div></div>` : ""}
+      <hr><div class="trail" id="trail"></div>`;
+    entry.querySelectorAll(".def a").forEach(a => {
+      a.addEventListener("click", () => go(a.dataset.w));
+      a.addEventListener("mousemove", e => showTip(e, a.dataset.w));
+      a.addEventListener("mouseleave", hideTip);
+    });
+    const parts = $("parts");
+    if (!x.u.length) parts.innerHTML = `<span class="note">Nothing else in the dictionary.</span>`;
+    for (const u of [...x.u].sort((a, b) => W.get(b).n - W.get(a).n)) parts.appendChild(chip(u));
+    const kids = $("kids");
+    const first = 60;
+    all.slice(0, first).forEach(u => kids.appendChild(chip(u)));
+    if (all.length > first) {
+      const more = document.createElement("button");
+      more.className = "linkish"; more.textContent = `show all ${all.length}`;
+      more.addEventListener("click", () => { more.remove(); all.slice(first).forEach(u => kids.appendChild(chip(u))); });
+      kids.appendChild(more);
+    }
+    if (!all.length) kids.innerHTML = `<span class="note">No other definition uses it.</span>`;
+    const ch = $("chain");
+    if (ch) {
+      chain.slice(1).forEach((u, i) => {
+        if (i) { const s = document.createElement("span"); s.className = "arrow"; s.textContent = "→"; ch.appendChild(s); }
+        ch.appendChild(chip(u));
+      });
+    }
+    drawTrail();
+  }
+
+  function drawTrail() {
+    const t = $("trail"); if (!t) return;
+    if (!trail.length) { t.textContent = "Your path will collect here."; return; }
+    t.innerHTML = "<span>Path:</span>";
+    trail.slice(-14).forEach((w, i, arr) => {
+      const b = document.createElement("button"); b.textContent = w; b.addEventListener("click", () => go(w));
+      t.appendChild(b);
+      if (i < arr.length - 1) { const s = document.createElement("span"); s.className = "sep"; s.textContent = "›"; t.appendChild(s); }
+    });
+  }
+
+  // ---------- navigation ----------
+  function render(w, push) {
+    hideTip();
+    current = w && W.has(w) ? w : null;
+    if (current) {
+      if (push && trail[trail.length - 1] !== current) trail.push(current);
+      drawWord(current); drawEntry(current);
+      document.title = `${current} · Qwen's Dictionary`;
+    } else {
+      drawHome(); drawHomeEntry();
+      document.title = "Qwen's Dictionary";
+    }
+  }
+  function go(w) {
+    const h = w ? "#" + encodeURIComponent(w) : "#";
+    if (location.hash !== h) location.hash = h; else render(w, true);
+  }
+  addEventListener("hashchange", () => render(decodeURIComponent(location.hash.slice(1)), true));
+  $("home").addEventListener("click", () => go(null));
+  $("random").addEventListener("click", () => go(DATA.words[Math.floor(Math.random() * DATA.words.length)].w));
+
+  // ---------- search ----------
+  const q = $("q"), res = $("results");
+  let hits = [], active = -1;
+  function search() {
+    const s = q.value.trim().toLowerCase();
+    if (!s) { res.classList.remove("open"); return; }
+    const starts = [], has = [];
+    for (const x of DATA.words) {
+      if (x.w.startsWith(s)) starts.push(x); else if (x.w.includes(s)) has.push(x);
+    }
+    hits = [...starts.sort((a, b) => a.w.length - b.w.length || b.n - a.n), ...has].slice(0, 12);
+    active = hits.length ? 0 : -1;
+    res.innerHTML = hits.length ? "" : `<div class="note" style="padding:8px">Not in Qwen's dictionary.</div>`;
+    hits.forEach((x, i) => {
+      const b = document.createElement("button");
+      b.setAttribute("role", "option");
+      b.innerHTML = `<span>${esc(x.w)}</span><small>${x.prime ? "prime" : "ring " + x.r}</small>`;
+      if (i === active) b.classList.add("active");
+      b.addEventListener("mousedown", e => { e.preventDefault(); pick(x.w); });
+      res.appendChild(b);
+    });
+    res.classList.add("open");
+  }
+  function pick(w) { q.value = ""; res.classList.remove("open"); go(w); }
+  q.addEventListener("input", search);
+  q.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      if (!hits.length) return;
+      active = (active + (e.key === "ArrowDown" ? 1 : -1) + hits.length) % hits.length;
+      [...res.children].forEach((c, i) => c.classList.toggle("active", i === active));
+    } else if (e.key === "Enter" && active >= 0) { pick(hits[active].w); }
+    else if (e.key === "Escape") { res.classList.remove("open"); }
+  });
+  q.addEventListener("blur", () => setTimeout(() => res.classList.remove("open"), 100));
+
+  let rz;
+  addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(() => current ? drawWord(current) : drawHome(), 150); });
+  render(decodeURIComponent(location.hash.slice(1)), true);
+})();
+</script>
+</body>
+</html>
