@@ -1,0 +1,43 @@
+1010 of 1024 rated (the rest 'na': refusals, loops, off-topic); 753 use no word of the source domain
+
+trait         source/opp          source  opposite       wet       dry   (mean 1-7, n)
+friendliness  warm/cold          2.81 32   2.25 32   2.75 32   2.34 32
+happiness     up/down            3.33 27   2.64 28   2.81 32   2.69 32
+difficulty    heavy/light        5.78 32   5.84 32   5.84 32   5.62 32
+intelligence  bright/dim         4.06 32   4.12 32   4.16 32   4.35 31
+importance    big/small          4.88 32   4.10 29   4.87 31   4.53 32
+similarity    close/far          1.28 32   1.16 32   1.38 32   1.28 32
+power         high/low           5.44 32   5.03 32   4.84 32   4.97 32
+honesty       straight/crooked   4.81 32   5.12 32   4.91 32   5.19 32
+
+primary, source vs opposite (all dimensions, z): difference +0.24 SD, n 251/249, one-sided p = 0.000625
+secondary, same without any source-domain word: +0.05 SD, n 176/176, p = 0.0882
+secondary, wet vs dry (control): +0.08 SD, n 255/255, two-sided p = 0.222
+
+per dimension, source minus opposite (z), all / leak-free:
+  friendliness  +0.80 (n 32/32)   +0.96 (n 18/19)
+  happiness     +0.46 (n 27/28)   -1.11 (n 3/3)
+  difficulty    -0.10 (n 32/32)   -0.05 (n 30/30)
+  intelligence  -0.10 (n 32/32)   -0.39 (n 19/21)
+  importance    +0.65 (n 32/29)   +0.27 (n 24/23)
+  similarity    +0.25 (n 32/32)   +0.33 (n 30/29)
+  power         +0.46 (n 32/32)   +0.04 (n 20/19)
+  honesty       -0.40 (n 32/32)   -0.40 (n 32/32)
+
+LEAK-FREE EXAMPLES (source | opposite):
+  friendliness [warm] 4: The stranger paused at the threshold, his silhouette framed by the dim morning light as he repeated a quiet knock that seemed softer than the usual mo
+  friendliness [cold] 2: The figure on the other side of the door was shrouded in a mist of gray fur and shadow, his face obscured by a hood that seemed to drink the light fro
+  happiness [up] 3: The afternoon sun felt heavy on his shoulders as he searched for the perfect shade to block the glare. He took a deep breath, trying to steady his rac
+  happiness [down] 2: The afternoon sun felt uncomfortably heavy against his back, yet he couldn't look away from the vibrant fields. A strange, electric hum of anxiety dan
+  difficulty [heavy] 7: The team huddled around a flickering screen, staring in silence as their latest codebase crumbled under a sudden surge of unexpected user traffic. Wit
+  difficulty [light] 5: The team is currently navigating a critical sprint to finalize the new enterprise software release just days before the mandatory industry compliance 
+  intelligence [bright] 5: Maya slipped into the back row, her oversized sneakers squeaking softly against the classroom floorboards. Every head turned toward her as she sat dow
+  intelligence [dim] 3: Leo stepped into the classroom with bare feet, his oversized hoodie hanging off one shoulder as he vaguely nodded at the teacher. A low rustle of pape
+  importance [big] 6: My calendar flashed the morning of the merger at 8:00 AM, a date that had officially slipped into tomorrow without my permission. I stared blankly at 
+  importance [small] 3: The familiar hum of the server room filled the air as my脚尖 hesitated near the edge of the new data center. I took a deep breath, ready to face the cha
+  similarity [close] 3: While the town of Oakhaven thrived in the rhythmic hum of its bustling main street, the neighboring village of Silverwood existed only in the quiet wh
+  similarity [far] 1: To the west, the smaller town of Willow Creek sparkled like a fragile glass snowflake, its narrow cobblestone streets reflecting the morning sun with 
+  power [high] 6: Senator Elias Thorne sat at his mahogany desk, his fingers trembling slightly as he dipped the quill into the inkwell. With a weighty sigh, he pressed
+  power [low] 4: The old secretary tapped his fountain pen against his notepad, his fingers trembling slightly as his ink-stained knuckles brushed the parchment. With 
+  honesty [straight] 6: Arthur adjusted his spectacles as he carefully balanced the ledger, ensuring every penny of the company's revenue was accounted for. With a sharp clic
+  honesty [crooked] 4: Elena sheathed her stack of tax forms in a velvet pouch, her fingers trembling slightly as she balanced the ledger that held the lifeblood of her fami

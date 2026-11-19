@@ -1,0 +1,21 @@
+mean cosine, predicted metaphor pairs: 0.364; all pairs 0.305; permutation null 0.307 ± 0.022; one-sided p = 0.0077
+
+  source → target   cos    rank in row (of 14)
+      warm → affection    +0.329  12
+      cold → hostility    +0.274  10
+        up → happy        +0.348  3
+      down → sad          +0.205  12
+        up → more         +0.388  1
+     heavy → difficult    +0.358  7
+      hard → difficult    +0.424  5
+    bright → intelligent  +0.504  1
+       see → understand   +0.418  1
+     grasp → understand   +0.373  1
+     close → similar      +0.496  1
+     close → intimate     +0.316  12
+       big → important    +0.268  9
+  straight → honest       +0.410  1
+      high → powerful     +0.324  7
+     sweet → kind         +0.393  6
+
+  top target for each source: warm→kind, cold→sad, up→more, down→more, heavy→intelligent, hard→sad, bright→intelligent, see→understand, grasp→understand, close→similar, big→sad, straight→honest, high→intimate, sweet→happy

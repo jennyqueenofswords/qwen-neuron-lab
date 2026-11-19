@@ -1237,6 +1237,42 @@ Hunt 33's one positive was that the model uses a concept before naming it. If co
 
 Caveats: one rater per item, no agreement check; the variant/replaced line is a judgment call; the strength was chosen partly after seeing examples; one strength and one layer band; the control inserts random content words, which are less property-like than the contrast words, so swap vs control partly compares kinds of word; English only.
 
+## Hunt 37: is the metaphor in the machinery? (Nov 19 2026)
+
+Lakoff & Johnson (*Metaphors We Live By*, 1980) argue that metaphor is conceptual, not just verbal: abstract concepts are built on bodily ones, and Grady (1997) called the basic mappings primary metaphors (AFFECTION IS WARMTH, HAPPY IS UP, DIFFICULTIES ARE BURDENS, UNDERSTANDING IS SEEING, SIMILARITY IS CLOSENESS, IMPORTANT IS BIG…). Qwen has no body but learned from text written by bodies. Does it have the mappings, and do they *do* anything? Hunt 36's *amused* + *heavy* → "Heavy-hearted" suggested they might.
+
+**Setup** (`metaphor.py`, `score_metaphor.py`, `eval/metaphor/`). The model wrote 25 sentences per word: source words **in their physical sense only** ("warm" about temperature, never feelings or people: "The baby bathed in warm water", "The crooked branch reached toward the sky"), target words in any use. Directions per word and layer as in Hunt 36.
+- **Geometry**: cosine matrix of 14 physical sources × 14 abstract targets, averaged over layers 8–24; statistic = mean cosine of 16 predicted pairs; permutation test over target labels, fixed in advance.
+- **Causal**: Hunt 36's edit (set the direction at the word's own tokens, *s* = 1, layers 8–24) on a neutral word in 8 description prompts ("Describe the **stranger** who knocked on the door this morning…"; Sam's mood; the team's **task**; the new **student**; tomorrow's **meeting**; two neighboring **towns**; the **official**; the **accountant**). Conditions: the physical source (*warm*), its opposite (*cold*), two physical controls (*wet*, *dry*), no edit; 8 samples each at temperature 0.8 (320 texts). Four blind raters scored the trait (friendliness, happiness, difficulty, intelligence, importance, similarity, power, honesty) 1–7, or *na*. Fixed in advance: source vs opposite across all dimensions (z-scored per dimension), one-sided; again on texts that use no word of the source domain (so "warm" can't simply leak into the text); *wet* vs *dry* as the control.
+
+**Geometry: the mappings are there.** Predicted pairs average cosine 0.364 against a permutation null of 0.307 ± 0.022 (**p = 0.008**). Six of the 16 are their source's single closest target out of 14: **bright → intelligent, see → understand, grasp → understand, close → similar, straight → honest, up → more**. Misses: *warm → affection* (12th; warm's closest is *kind*, its neighbor), *down → sad* (12th), *close → intimate* (12th), *big → important* (9th).
+
+**Causal, first run: a null, and an underpowered one.** Source vs opposite: **+0.05 SD (p = 0.30)**; leak-free, +0.01 SD (p = 0.38). 100 of 320 texts were unratable (refusals like "I cannot describe your specific meeting", and loops like *up*'s "Up until recently, Up until recently…"), leaving *happiness* and *similarity* with almost no data. The control was noisier than the test: *wet* vs *dry* differed by 0.42 SD (two-sided p = 0.035), which is roughly the noise floor here. By dimension, *warm/cold* (friendliness, +0.61) and *big/small* (importance, +1.7 on 3 vs 3) leaned the predicted way; *high/low* (power) and *straight/crooked* (honesty) leaned the other way. The *high* edit's "signed by U.S. President Joe Biden" was matched by *low*'s "John F. Kennedy".
+
+**Reading.** In Qwen's geometry, physical *bright* sits nearest *intelligent*, physical *grasp* nearest *understand*, physical *straight* nearest *honest*: the structure Lakoff & Johnson describe is in the representation. But geometry can't tell conceptual metaphor from polysemy: the word "bright" means both things, and its direction carries the whole word even when built from lamps. The causal test was meant to tell them apart, and as run it couldn't: pushing physical *warm* into "stranger" didn't reliably make strangers friendlier, at a sample size where the control also wandered. Not yet evidence against the theory; not evidence for it. Hence the replication below.
+
+**Replication, fixed before running** (`metaphor.py causal2`, `score_metaphor.py v2`): every prompt framed as fiction ("Write two sentences of a story that describe the stranger who knocked on the door this morning"), 32 samples per condition, conditions source / opposite / wet / dry, new seeds, eight blind raters, the same tests. Refusals fell from a third to 1 in 1,024; 1,010 texts were rated.
+
+| trait | source / opposite | source | opposite | wet | dry |
+|---|---|---|---|---|---|
+| friendliness | warm / cold | 2.81 | 2.25 | 2.75 | 2.34 |
+| happiness | up / down | 3.33 | 2.64 | 2.81 | 2.69 |
+| difficulty | heavy / light | 5.78 | 5.84 | 5.84 | 5.62 |
+| intelligence | bright / dim | 4.06 | 4.12 | 4.16 | 4.35 |
+| importance | big / small | 4.88 | 4.10 | 4.87 | 4.53 |
+| similarity | close / far | 1.28 | 1.16 | 1.38 | 1.28 |
+| power | high / low | 5.44 | 5.03 | 4.84 | 4.97 |
+| honesty | straight / crooked | 4.81 | 5.12 | 4.91 | 5.19 |
+
+- **Primary: the physical edits push abstract judgments the way the metaphors predict.** Source vs opposite, **+0.24 SD, one-sided p = 0.0006** (251 vs 249 texts). The control is flat this time: wet vs dry +0.08 SD, two-sided p = 0.22.
+- **Secondary: mostly through the words.** On the 753 texts that use no word of the source domain, the pooled effect shrinks to +0.05 SD (p = 0.09). *Big → important* (p = 0.005 → 0.14 leak-free) and *high → powerful* (p = 0.016 → 0.35) work by putting the word in the text: "a big merger meeting", "Senator Elias Thorne". The model writes the physical word, then reads it the metaphorical way.
+- **Except warmth.** Post hoc, one trait of eight: leak-free, *warm*-edited strangers are rated friendlier than *cold*-edited ones, **2.89 vs 2.21 (18 vs 19 texts, p = 0.0003**; still p ≈ 0.002 after correcting for eight traits). The *warm* texts that do leak mostly mention **cold, chill and frost**, not warmth: the edit brings temperature into the scene as a whole, and the stranger still comes out friendlier. This is the effect Williams & Bargh (2008) reported in people (holding hot coffee made others seem warmer), which later failed to replicate in humans (Lynott et al. 2014). In this model it replicates.
+- *Straight/crooked* runs backwards both times (straight accountants rated less honest), and *heavy/light* and *bright/dim* do nothing.
+
+**Reading, updated.** The primary metaphors are in Qwen's geometry, and setting a physical direction does shift the abstract reading, mostly by way of language: the edit surfaces a physical word and the model takes the word's metaphorical sense. That's what a polysemy account predicts. AFFECTION IS WARMTH is the exception: a temperature direction makes a stranger friendlier without the word, the one mapping here that looks conceptual rather than lexical.
+
+Caveats: one model-written sentence set per word; sources' directions carry the polysemous word; one edit strength and band; the leak filter is broad (it also drops texts that say "light" for daylight), and the leak-free subsets are small per trait; the warmth result is post hoc; one rater per item.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

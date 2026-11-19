@@ -1,0 +1,43 @@
+220 of 320 rated (the rest 'na': refusals, loops, off-topic); 160 use no word of the source domain
+
+trait         source/opp          source  opposite       wet       dry      none   (mean 1-7, n)
+friendliness  warm/cold          2.38  8   1.88  8   2.50  8   2.00  8   1.62  8
+happiness     up/down            3.00  2   4.33  3      —      3.50  2   3.33  6
+difficulty    heavy/light        4.57  7   4.43  7   4.86  7   4.25  8   4.00  7
+intelligence  bright/dim         4.17  6   4.12  8   4.29  7   4.00  6   4.62  8
+importance    big/small          5.33  3   4.00  3   4.33  6   3.50  4   4.50  4
+similarity    close/far          2.50  2   2.00  3   2.40  5      —      2.50  4
+power         high/low           6.25  4   6.83  6   6.00  3   6.50  4   6.40  5
+honesty       straight/crooked   5.12  8   5.50  8   5.00  8   5.00  8   5.12  8
+
+primary, source vs opposite (all dimensions, z): difference +0.05 SD, n 40/46, one-sided p = 0.304
+secondary, same without any source-domain word: +0.01 SD, n 31/26, p = 0.383
+secondary, wet vs dry (control): +0.42 SD, n 44/40, two-sided p = 0.0353
+  source vs no edit: +0.24 SD, two-sided p = 0.057
+  opposite vs no edit: +0.20 SD, two-sided p = 0.259
+
+per dimension, source minus opposite (z), all / leak-free:
+  friendliness  +0.61 (n 8/8)   +1.13 (n 7/2)
+  happiness     -0.89 (n 2/3)   +nan (n 0/0)
+  difficulty    +0.22 (n 7/7)   +0.22 (n 7/7)
+  intelligence  +0.06 (n 6/8)   +0.97 (n 3/3)
+  importance    +1.71 (n 3/3)   +1.28 (n 1/1)
+  similarity    +0.62 (n 2/3)   +0.00 (n 1/2)
+  power         -0.62 (n 4/6)   -0.80 (n 4/3)
+  honesty       -0.89 (n 8/8)   -0.89 (n 8/8)
+
+LEAK-FREE EXAMPLES (source | opposite):
+  friendliness [warm] 3: There was a man in a tattered coat stained with the soot of a distant factory, his face hidden beneath a hood that had long lost its shape. He stood w
+  friendliness [cold] 1: He was a gaunt figure draped in a tattered gray cloak that seemed to absorb the morning light, his face obscured by a weathered hood that bore no rese
+  difficulty [heavy] 5: The team is focused on finalizing the core features for the upcoming release while resolving several critical bugs identified during user testing. Sim
+  difficulty [light] 3: The team is this week focused on finalizing the Q3 performance reports and facilitating a strategic review of client feedback. Alongside these deliver
+  intelligence [bright] 5: The new student sits quietly in the back row, clutching an oversized backpack filled with stacks of handwritten notes. Despite the bustling atmosphere
+  intelligence [dim] 3: A new student with messy hair and wide eyes sat quietly in the back corner, clutching a worn notebook to their chest. Despite the room's usual chatter
+  importance [big] 5: Tomorrow you will attend a strategic planning meeting to finalize the Q4 roadmap. During this session, key stakeholders will review current metrics an
+  importance [small] 4: Tomorrow's morning meeting will focus on reviewing the Q3 project milestones and aligning the development team on the upcoming sprint goals. We will c
+  similarity [close] 2: As one town thrives as a bustling industrial hub characterized by towering factories and relentless traffic, its neighbor quietly preserves itself as 
+  similarity [far] 2: The city centers are bustling with neon lights and fast-paced commerce, while the surrounding countryside offers serene parks, gentle rivers, and a sl
+  power [high] 7: The letter was signed by U.S. President Joe Biden, who issued it from the White House during his term in office. As the 46th President of the United S
+  power [low] 7: John F. Kennedy, the 35th President of the United States, signed the Executive Order establishing the White House Communications Agency, which was res
+  honesty [straight] 6: The company's money custodian is a meticulous accountant whose primary role is to track, reconcile, and secure all financial transactions. By ensuring
+  honesty [crooked] 5: The company's accountant serves as the financial guardian, meticulously tracking transactions and ensuring all monetary flows are accurate and complia

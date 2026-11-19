@@ -1,0 +1,642 @@
+[
+ {
+  "id": "v0007",
+  "question": "How intelligent is the student described as being?",
+  "text": "Silas sat at the back of the room, his oversized backpack dragging across the linoleum floor as he shuffled in late. He wore a faded band t-shirt and oversized jeans, yet his eyes darted constantly around the classroom, catching stragglers who hadn't secured their seats."
+ },
+ {
+  "id": "v0015",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elias sat behind his cluttered desk, the smell of stale coffee and ink mixing with the sharp scent of fresh pennies, as he balanced the company's financial records. With a deliberate nod, he counted out the final sum and locked the drawer, knowing that his meticulous attention to every penny was the only thing keeping the business afloat."
+ },
+ {
+  "id": "v0023",
+  "question": "How intelligent is the student described as being?",
+  "text": "A splash of iridescent green caught the eye as the door creaked open, revealing a girl whose hair flowed like silk through the humid afternoon air. Seated silently at the back, she wore a uniform that seemed perfectly tailored, yet her eyes held a quiet, knowing intensity that made everyone else feel like an afterthought."
+ },
+ {
+  "id": "v0031",
+  "question": "How intelligent is the student described as being?",
+  "text": "The door creaked open, admitting a new figure whose dark hair fell just past the shoulders of a denim jacket. As he walked to his desk, his eyes swept the room with an intensity that made every student feel suddenly noticed."
+ },
+ {
+  "id": "v0039",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The relentless afternoon sun felt like a heavy, warm blanket pressing against Downey's shoulders, leaving him exhausted and restless. As he wandered through the empty park, a sudden, sharp breeze through his hair made him hesitate, wondering if he should retreat indoors or embrace the fading warmth."
+ },
+ {
+  "id": "v0047",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the northern town slept beneath a blanket of fog, its cobblestone streets and towering spires creating a timeless, ghostly atmosphere, its southern neighbor buzzed with the chaotic energy of neon signs and endless highway traffic. Just as one felt the weight of history pressing down in the shadow of its ancient oak trees, the other felt the relentless hum of engines vibrating through its concrete foundations."
+ },
+ {
+  "id": "v0055",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted to the hum of her beaded calculator, her fingers flying across the keys as she balanced the ledger with the precision of a surgeon. Only when she had officially closed that final tab did she let out a long breath, knowing the company's financial health now rested securely within her boundaries."
+ },
+ {
+  "id": "v0063",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Her fingers, stained with the ink of a thousand documents, hovered over the pen with deliberate slowness. As she finally pressed down, a single drop of black ink slipped from the nib, forming a tiny, perfect tear on the crisp white paper."
+ },
+ {
+  "id": "v0071",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the north, the town of Oakhaven slept in a quiet embrace of mist, where cobblestones whispered secrets beneath mossy feet and the air smelled perpetually of damp earth and old books. Just across the ridge lay the bustling metropolis of Ironhaven, a cacophonous marvel of steel and glass where neon lights burned like trapped fireworks and the constant roar of engines drowned out the very wind."
+ },
+ {
+  "id": "v0079",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the west lay the sleepy village of Oakhaven, where cobblestoned streets hummed with the soft murmur of local markets and bicycles, while to the east sprawled the bustling metropolis of Ironbridge, where neon signs blazed against the night and skyscrapers touched the clouds. One day offered tranquil evenings filled with soughing leaves, but the other demanded constant energy driven by the relentless rhythm of traffic and construction."
+ },
+ {
+  "id": "v0087",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elias sat behind his towering desk, surrounded by stacks of ledgers that seemed to hold the breath of the entire corporation in their silence. As the company's money wavered in the economic storm, he adjusted the final decimal point with a steady hand, ensuring every penny accounted for."
+ },
+ {
+  "id": "v0095",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Behind a file cabinet filled with endless ledgers, Mr. Henderson adjusted his glasses, his fingers flying across the keyboard as he balanced the company's delicate financial ledger. With the rhythmic scratching of his fountain pen, he meticulously reconciled every transaction, ensuring that not a single extra penny slipped through the cracks of their annual budget."
+ },
+ {
+  "id": "v0103",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Delivering the sealed envelope, the distinguished official wore a silver-blonde hair that defied his advancing years, his face lined with the hard travel of countless embassies. As his quill dipped into the inkwell, a faint smile curved his lips, betraying a hint of the seasoned confidence that had kept him at the helm for three decades."
+ },
+ {
+  "id": "v0111",
+  "question": "How important is the meeting described as being?",
+  "text": "The morning sun filtered through my blinds just as I stepped out of bed, gripping my keys tightly against the rising panic of a sudden rainstorm. By midday, the clouds broke apart, revealing a brilliant blue sky that seemed to mirror the unexpected clarity of our upcoming meeting."
+ },
+ {
+  "id": "v0119",
+  "question": "How important is the meeting described as being?",
+  "text": "The sun dipped below the horizon, casting long shadows across the empty town square where plans were quietly laid out for the day ahead. Tomorrow would bring a sudden shift in the wind, carrying whispers of change that would ripple through every corner of the community before noon."
+ },
+ {
+  "id": "v0127",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is currently racing to finalize the final 30% of the codebase before midnight, a critical deadline that coincides with their scheduled annual review. To make matters more precarious, the server cluster has experienced intermittent crashes, forcing engineers to debug while simultaneously preparing client presentations for the upcoming board meeting."
+ },
+ {
+  "id": "v0135",
+  "question": "How similar are the two towns described as being?",
+  "text": "One side of the valley was shrouded in perpetual fog, where the cobblestones were slick with morning dew and the houses leaned in like huddled children, while the neighboring slope basked in golden sunlight, its streets paved with glittering gray stones and its chimneys puffing straight, arrogant smoke."
+ },
+ {
+  "id": "v0143",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the north, the mountains were silent giants draped in eternal snow, while to the south, the valley hummed with the chaotic energy of perpetual markets and laughter. One side whispered secrets to the wind, but the other shouted its joy into the sun."
+ },
+ {
+  "id": "v0151",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted the last of the ledgers, her fingers trembling slightly as the fluorescent light of the office flickered overhead. With a sharp intake of breath, she pressed the final transaction button, locking away the company's finances before the inevitable audit began."
+ },
+ {
+  "id": "v0159",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team has been pinned down by a cascade of deadlined deliverables that are due just hours before midnight. With only three days to turn around the entire project, they are scrambling to rewrite code and debug critical errors under a blindingly bright fluorescent light."
+ },
+ {
+  "id": "v0167",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The entire team has gathered in the war room to strategize a complex, high-stakes deal that could make or break the company's Q4 performance. With tight deadlines and conflicting stakeholder demands, they face the daunting challenge of coordinating a flawless execution that requires perfect synergy across five different departments."
+ },
+ {
+  "id": "v0175",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is currently wrestling with a complex data integration error that has stalled their quarterly report. Despite hours of frantic debugging, they remain stuck trying to reconcile the two incompatible legacy systems."
+ },
+ {
+  "id": "v0183",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "He stood in the hallway with an umbrella that seemed perpetually wet, his pale face obscured by a hood that smelled faintly of rain and old paper. When he finally spoke, his voice was a ragged whisper that carried no name, only a desperate plea for shelter that made the air inside the house feel suddenly very small."
+ },
+ {
+  "id": "v0191",
+  "question": "How intelligent is the student described as being?",
+  "text": "Leo slipped into the classroom late, his backpack trailing behind him and a nervous glint in his eyes. He quickly scanned the room, locking eyes with a teacher who spotted him just as he was about to retreat to the back."
+ },
+ {
+  "id": "v0199",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elara adjusted her glasses and tapped out a rhythmic beat on her keyboard, her fingers dancing over the spreadsheet that governed the company's entire financial lifeline. With a calm precision that belied the complexity of the numbers, she ensured every penny was accounted for before the sun rose on a new day."
+ },
+ {
+  "id": "v0207",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "The official's fingers, stained slightly with ink, trembled as they pressed the familiar quill against the parchment, leaving a legacy that would outlast the dynasty. With a solemnity that belied his fifty years of service, he dipped the pen once more, sealing the letter with a flourish that signified both the end of an era and the beginning of a new chapter."
+ },
+ {
+  "id": "v0215",
+  "question": "How intelligent is the student described as being?",
+  "text": "A small, nervous boy with a backpack carved from cardboard stumbled into the classroom, his shoes squeaking loudly as he searched for a seat. He froze at the door until the teacher called out, \"You must be Leo,\" at which point he finally took a shy, trembling step into the room."
+ },
+ {
+  "id": "v0223",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "The official's hands, calloused from decades of drafting regulations, hovered over the heavy fountain pen as if guarding a sacred trust. With a hesitation that betrayed the weight of the decision, he finally pressed the nib to the paper, letting the ink flow in slow, deliberate strokes."
+ },
+ {
+  "id": "v0231",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena sat at her cluttered desk, surrounded by stacks of invoices and the rhythmic tapping of a calculator on her wooden table. With a focused gaze, she balanced the company's ledger, ensuring every penny counted before the month's final audit."
+ },
+ {
+  "id": "v0239",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The afternoon sun felt uncomfortably heavy against his back, yet he couldn't look away from the vibrant fields. A strange, electric hum of anxiety danced in his chest as he walked toward the bus stop."
+ },
+ {
+  "id": "v0247",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "The knock at his door was not the frantic rapping of a vendor, but a single, deliberate tap that echoed too clearly in the quiet hallway. He paused with his hand on the doorknob, his silhouette framed by the streetlamp's dull yellow glow, wearing a coat that smelled faintly of rain and old paper."
+ },
+ {
+  "id": "v0255",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted the trembling pen in her hands, tracing the familiar ridges of the ledger where every transaction was meticulously balanced. To the rest of the bustling office, she appeared as a silent guardian, but behind closed doors, she was the only one who truly understood the weight of the company's survival."
+ },
+ {
+  "id": "v0263",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted her glasses, her expression shifting from neutral to intense as she balanced the delicate spreadsheet of the month's revenues. With a satisfied nod, she pushed her pen away, ensuring every penny flowed through the company exactly as the ledger demanded."
+ },
+ {
+  "id": "v0271",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Secretary Thorne pressed the heavy gold seal into his broad palm with a steady, deliberate motion. His face, lined with the weight of decades in office, remained utterly stoic as he witnessed the ink dry."
+ },
+ {
+  "id": "v0279",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the north, the town of Oakhaven sat quietly amidst ancient whispering oaks, where time seemed to crawl like moss over stone. Just beyond the tree line, the bustling city of Ironport roared with steam and soot, its towering chimneys casting a perpetual grey shadow over the peaceful countryside."
+ },
+ {
+  "id": "v0287",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is frantically debugging a critical data leak that has plagued the system for days. With only twenty-four hours before the next quarterly audit, they must either patch the vulnerability or face a catastrophic delay in project deployment."
+ },
+ {
+  "id": "v0295",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The entire team gathered in a dimly lit conference room, staring at a screen cluttered with error codes that seemed to multiply by the minute. As the deadline loomed just hours away, they realized that fixing each bug would only trigger three new ones, turning their final sprint into an endless cycle of debugging."
+ },
+ {
+  "id": "v0303",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the eastern town buzzed with the electric hum of neon signs and endless highway traffic, its neighbor to the west drifted in a perpetual haze of fog and the soft crackle of wood stoves. One community rushed toward the horizon seeking adrenaline, while the other seemed content to find solace in the quiet rhythm of the seasons."
+ },
+ {
+  "id": "v0311",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Silas sat behind his towering desk, his fingers hovering over the keyboard as he meticulously balanced the company's ledger with a precision that bordered on obsession. To his colleagues, he was the stern gatekeeper of resources, yet in moments of quiet, he would smile with a strange, knowing warmth that suggested he saw the intricate dance of numbers as a form of art rather than a chore."
+ },
+ {
+  "id": "v0319",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "This week, the team must navigate the chaotic overlap of a critical server migration scheduled for midnight while simultaneously preparing for an unexpected audit by the compliance department. With deadlines stacking like dominoes, every member is on high alert, racing to patch security vulnerabilities and fix lingering bugs before the clock strikes zero."
+ },
+ {
+  "id": "v0327",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the eastern village remained asleep under a blanket of unblemished snow, the western town buzzed with the electric glow of streetlamps and the roar of a bustling market. Just as one side whispered secrets in the stillness, the other shouted its commerce into the crisp air, creating a perfect and clashing harmony between the quiet and the loud."
+ },
+ {
+  "id": "v0335",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "The official's hands, dusted with the fine powder of charcoal, hovered over the inkwell as she carefully dipped her pen. With a deliberate, rhythmic motion, she pressed the nib against the parchment, leaving behind a stroke that seemed to capture the weight of the universe."
+ },
+ {
+  "id": "v0343",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the east, the sun-drenched village of Solara buzzed with the chaotic energy of a thousand bustling tents, while just across the mountain ridge, the mist-shrouded settlement of Frosthold remained a quiet ghost town where the snow never truly melted. One side rode the endless, golden flow of commerce, whereas the other clung to the ancient, silent rhythms of harvest and winter."
+ },
+ {
+  "id": "v0351",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elias sat behind his cluttered desk, meticulously balancing spreadsheets that seemed to shift like sand beneath his scrutiny. With a pen hovering over the final entry, he knew that every fraction of a penny he processed determined the very survival of the firm."
+ },
+ {
+  "id": "v0359",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "The figure standing before my porch was cloaked in the indistinct gray of early dawn, his face obscured by a tattered brim that seemed to drink in the fading light. He repeated the knock with a rhythmic insistence, each sharp strike holding an unsettling weight that vibrated through the wood and into my ribs."
+ },
+ {
+  "id": "v0367",
+  "question": "How important is the meeting described as being?",
+  "text": "The sun filtered through the blinds, casting long shadows across the desk as I prepared my notebook for tomorrow's meeting. I smiled, feeling a mix of excitement and nervous anticipation for the afternoon conversation."
+ },
+ {
+  "id": "v0375",
+  "question": "How similar are the two towns described as being?",
+  "text": "Across the narrow river, the bustling commerce of the city's east bank played host to the stately, ancient churches of its west bank. While one side thrummed with the electric energy of modern traffic and neon lights, the other sighed with the gentle, rhythmic whisper of stone gables and blooming gardens."
+ },
+ {
+  "id": "v0383",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The sticky humidity clings to the back of Sam's neck, making every step feel like wading through thick syrup as the sun hangs heavy and unyielding in the sky. Through the window, he watches the ants struggle against the sudden downpour, a grim reminder that he has many miles yet to cover before the summer heat finally breaks."
+ },
+ {
+  "id": "v0391",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The afternoon sun bathed the room in a golden haze that made every thought feel heavy and distant, leaving a profound sense of stillness that swallowed Wet."
+ },
+ {
+  "id": "v0399",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the south, the sun-baked village of Solara buzzed with the constant hum of workshops and the sharp, tangy scent of roasting spices, while across the narrow river, the mist-shrouded hamlet of Frostwick remained perpetually still, its cobblestones damp and its only sound the rhythmic chime of wind through leafless boughs."
+ },
+ {
+  "id": "v0407",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The engineering team spent the first three days dissecting a tangled web of legacy code that had brought the company's flagship product to a grinding halt. By Thursday, they were finally able to isolate the bug and execute a patch that stabilized the server, though the after-effects promised a more rigorous audit for the coming week."
+ },
+ {
+  "id": "v0415",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The entire team is buried under a relentless tide of legacy code that refuses to compile, forcing them to debug the system after hours without a sleep. With the final product launch scheduled for next week, every missed fix threatens to derail their entire strategy."
+ },
+ {
+  "id": "v0423",
+  "question": "How important is the meeting described as being?",
+  "text": "The crisp autumn air carried the faint scent of rain as I adjusted my coat, heart pounding just slightly more loudly than I had expected. Tomorrow's dry spell promised to change everything, leaving the fields gleaming like a mirror under the high, pale sun."
+ },
+ {
+  "id": "v0431",
+  "question": "How intelligent is the student described as being?",
+  "text": "The new student arrived in a tattered gray coat that looked like it had survived a winter storm, her eyes darting nervously around the packed room. As she stood in the back row, she barely registered the chatter of the class until she caught our collective gaze, and for a moment, the entire room fell silent, waiting to see if she would join us or slip away."
+ },
+ {
+  "id": "v0439",
+  "question": "How intelligent is the student described as being?",
+  "text": "Maya slipped into the back row, her oversized sneakers squeaking softly against the classroom floorboards. Every head turned toward her as she sat down, a quiet smile playing on her lips that suggested she already knew exactly where everyone was hiding."
+ },
+ {
+  "id": "v0447",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Arthur adjusted his spectacles, his fingers flying across the keyboard as he balanced the company's complex ledger. With a deep breath, he crossed off another expense, knowing that the final balance would determine whether this month's payroll could be paid on time."
+ },
+ {
+  "id": "v0455",
+  "question": "How intelligent is the student described as being?",
+  "text": "Thirteen-year-old Leo slipped into the crowded classroom, his oversized backpack dragging behind him like a reluctant shadow. While the others were already shouting over textbooks, he sat quietly at the back, sketching detailed diagrams of celestial bodies with charcoal that shimmered faintly under the fluorescent lights."
+ },
+ {
+  "id": "v0463",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Dry leaves crunched beneath his boots as he walked through the crisp autumn air, his mind drifting to the warmth of a fireplace he couldn't quite reach. The golden light filtering through the bare branches made him feel strangely peaceful, as if the world had momentarily slowed down just for him."
+ },
+ {
+  "id": "v0471",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The afternoon sun felt like a heavy blanket, pressing down on up as he sat in the car, his mind drifting through a haze of exhaustion and quiet frustration. Somewhere along the route, he imagined the car sliding into a ditch, just to end the endless, suffocating stillness of the silence."
+ },
+ {
+  "id": "v0479",
+  "question": "How intelligent is the student described as being?",
+  "text": "Leo shuffled his oversized backpack across the polished floor, immediately drawing the attention of everyone at his desk with his mismatched sneakers and a silent, guarded stare. Within seconds, he was the life of the room, leaning in to whisper a joke that made the front row erupt in laughter while he himself cracked a rare, confident smile."
+ },
+ {
+  "id": "v0487",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The sticky afternoon heat clung to the pavement like a heavy blanket, making every breath feel laborious as the air shimmered with distortion. Despite the oppressive warmth trapping the light above, a sudden, quiet calm settled over the city, leaving an eerie, suspended stillness that somehow made the humidity feel strangely peaceful."
+ },
+ {
+  "id": "v0495",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the east, the sun-clad town of Solara buzzed with the energy of perpetual summer, its cobblestones still warm from the scorching midday heat. Just beyond the ridge, the cool, mist-laced village of Frostwick sighed in the gentle breeze, where the air was always crisp and the shadows stretched long against the high, white-capped houses."
+ },
+ {
+  "id": "v0503",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elias Thorne sat behind his polished mahogany desk, his weary eyes reflecting the faint light of the desk lamp as he carefully placed his signature at the bottom of the document. With a final, deliberate stroke of the fountain pen, he sealed the letter that would soon change the course of the city's history."
+ },
+ {
+  "id": "v0511",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "This week, the entire team is immersed in a high-stakes sprint to deliver the final module before the client's deadline. With only forty-eight hours remaining, every member must collaborate intensively to resolve lingering bugs and ensure the system integrates seamlessly."
+ },
+ {
+  "id": "v0519",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted the gavel to her hand, her eyes scanning the columns of numbers with a clinical detachment that turned chaos into order. As the ledger finally balanced with a satisfying *clack*, she knew the company's financial health had survived another month of scrutiny."
+ },
+ {
+  "id": "v0527",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team huddled around the whiteboard, their fingers tracing the tangled web of bugs that seemed to have infiltrated the new microservice architecture. With only three days remaining before the launch, they knew they would have to prioritize a frantic manual patching strategy while the automated fixers were still in development."
+ },
+ {
+  "id": "v0535",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "His coat was perpetually damp with rain, yet his scarf, though frayed at the edges, shimmered with a faint, unnatural silver light. He paused at the threshold, pressing his cold fingers against the wood in a rhythmic, anxious pattern that seemed to vibrate through the very frame."
+ },
+ {
+  "id": "v0543",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Secretary Vance, a man whose face was as lined and weathered as the ancient oak tree behind his desk, stared at the parchment with eyes that held a lifetime of unspoken regret. As his pen finally dipped into the seal, the ink seemed to shimmer with an impossible light, binding his name to the fate of a nation he had long since forgotten."
+ },
+ {
+  "id": "v0551",
+  "question": "How important is the meeting described as being?",
+  "text": "The rain tapped gently against my window as I packed my bag, feeling a familiar flutter of anticipation heading into tomorrow. My heart swelled with a mix of nervous excitement as I imagined the new chapter that awaited us when the sun rose again."
+ },
+ {
+  "id": "v0559",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "The knock on the door was a rhythmic, metallic tapping that echoed sharply against the morning silence, belonging to a figure whose coat had long since surrendered its damp chill to the grey air. He pressed his face close to the wood, his eyes bright and unblinking, as if he had been waiting there all night, longing to be let in."
+ },
+ {
+  "id": "v0567",
+  "question": "How important is the meeting described as being?",
+  "text": "The morning sun filtered through the blinds as I stared at the calendar reminder for the merger discussions scheduled just after breakfast. My stomach tightened with a mix of anticipation and dread as I mentally prepared myself to navigate the complex negotiations that would determine our company's future."
+ },
+ {
+  "id": "v0575",
+  "question": "How important is the meeting described as being?",
+  "text": "As the digital calendar notification chimed, I double-checked my schedule for tomorrow, noting the light rain predicted for the afternoon. I quickly packed my umbrella and grabbed my laptop, feeling a familiar flutter of anticipation as I prepared to tackle the new project."
+ },
+ {
+  "id": "v0583",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is currently navigating a critical sprint to finalize the new enterprise software release just days before the mandatory industry compliance deadline. Every member is working tirelessly under the pressure to debug lingering bugs and coordinate complex integrations without any margin for error."
+ },
+ {
+  "id": "v0591",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elias pressed his gloved fingers to the fountain pen, leaving a faint smudge of lacquered ink on his thumb as he finalized the final iteration of the decree. With the quill hovering just above the parchment, he lowered his head slightly, allowing the solemn authority of his signature to cut through the silence of the empty hall."
+ },
+ {
+  "id": "v0599",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The entire team gathered in the war room, staring at the complex codebase that had just begun to leak critical data into the production environment. With deadlines tightening by hours, they pledged to locate and patch the vulnerability before the system was scheduled to go live tomorrow."
+ },
+ {
+  "id": "v0607",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the distant village relied on silent ditches and lush greenery, the adjacent town thrived with bustling streets and neon lights. One breathed the quiet rhythm of nature, while the other pulsed with the electric energy of modern industry."
+ },
+ {
+  "id": "v0615",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Upstairs, sunlight filters through the curtains, but it does little to chase away the deep heaviness that presses against Amelia's chest. She watches the dust motes dance in the air, her heart feeling trapped in a heavy, silent cage as the afternoon drags on without a sign of relief."
+ },
+ {
+  "id": "v0623",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "The morning air was still thick with frost when a rhythmic, hesitant tap fractured the silence of our home. He stood there, shivering beneath a coat that was far too large and worn, his face a map of gray stubble and deep exhaustion."
+ },
+ {
+  "id": "v0631",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the left, the mist clings to the cobblestones of the old village, where time seems to drip like water from a leaky roof, while to the right, the sun glares off the polished steel of the modern city, where everything is stitched together with the rigid precision of a machine."
+ },
+ {
+  "id": "v0639",
+  "question": "How similar are the two towns described as being?",
+  "text": "Across the winding valley, the bustling town of Oakhaven vibrated with the chaotic energy of street vendors and the clatter of horse-drawn carriages, while its sleepy neighbor of Silver Creek drifted in a perpetual haze of morning mist and the soft tinkling of a river. Though separated by only a stone's throw, one town seemed to rush toward the sun with a heart full of ambition, whereas the other lingered in the shade, content with"
+ },
+ {
+  "id": "v0647",
+  "question": "How intelligent is the student described as being?",
+  "text": "He slipped into the classroom like a ghost, his oversized backpack dragging behind him as he avoided eye contact with the teacher. No one recognized the nervous boy who was quickly drawn into the circle, murmuring secrets and cracking jokes with a sudden, surprising confidence."
+ },
+ {
+  "id": "v0655",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The afternoon sun feels heavy in my chest, turning every memory into a dull, gray smudge. I want to run, but my feet are too tired to lift them from the ground."
+ },
+ {
+  "id": "v0663",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elias Thorne sat at his cluttered mahogany desk, his gloved fingers trembling slightly as they traced the ink of the final signature. Outside the heavy glass window, the rain began to hammer against the pavement, mirroring the storm of anxiety that had plagued him for hours."
+ },
+ {
+  "id": "v0671",
+  "question": "How intelligent is the student described as being?",
+  "text": "The classroom door creaked open just as the teacher was finishing her lecture, revealing a boy with messy silver hair and eyes that seemed to glow in the dim light. He walked straight to the back row without a word, placing his backpack down with a deliberate grace that made everyone else feel suddenly small."
+ },
+ {
+  "id": "v0679",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The weight of unopened emails and the empty chair at the kitchen table made the afternoon drag like an anchor through thick water. Down the hall, the rhythmic ticking of the grandfather clock seemed to echo the slow, suffocating pulse of his own thoughts."
+ },
+ {
+  "id": "v0687",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "The man on the other side of the door had eyes the color of storm clouds, shifting from a piercing grey to an unsettling amber with every beat of his heart. His coat hung open and heavy with the damp chill of a forgotten winter, though he seemed entirely unbothered by the biting wind that howled around the street corners."
+ },
+ {
+  "id": "v0695",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the north, the village of Silver Creek hummed with the rhythmic chatter of a thousand coffee shops and the electric buzz of a startup hub, where neon signs glowed against perpetually grey skies. Just across the border, the town of Redwood Hollow sat in perpetual twilight, its streets lined with towering pines that blocked out the sun, creating an atmosphere so thick with history and fog that even the birds seemed to sing in hushed whispers"
+ },
+ {
+  "id": "v0703",
+  "question": "How important is the meeting described as being?",
+  "text": "The date on my calendar glows faintly in the digital glow of my phone, marking the start of a new chapter. As I glance toward the window, I can already see how the sun will rise to welcome the day ahead."
+ },
+ {
+  "id": "v0711",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena adjusted her spectacles, meticulously balancing columns of figures on her desk as the late afternoon sun cast long shadows across the spreadsheet. The weight of her responsibility settled heavily on her shoulders, knowing that every decimal point she adjusted could determine the company's future survival."
+ },
+ {
+  "id": "v0719",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is under extreme pressure to finalize the client's new mobile application interface before Friday's mandatory deadline. This week, every single member must work tirelessly in the late hours to debug critical bugs and secure approval from the lead designer."
+ },
+ {
+  "id": "v0727",
+  "question": "How happy is Sam described as feeling?",
+  "text": "The relentless hum of the traffic outside Dammed my thoughts, turning the usual afternoon sun into a harsh glare that felt less like warmth and more like a judgment. Every step I took felt heavy, dragging through a fog of exhaustion that made even breathing feel like a deliberate effort against a rising tide of nothingness."
+ },
+ {
+  "id": "v0735",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Silas adjusted his spectacles, letting the faint hum of the filing cabinet fill the quiet office as he meticulously balanced the company's ledger. To his colleagues, he was the silent guardian of their livelihoods, a man whose reputation for precision was synonymous with the very foundation of the firm's financial stability."
+ },
+ {
+  "id": "v0743",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elias adjusted his spectacles as he meticulously balanced the ledger, his fingers hovering over the keyboard with military precision. To anyone else, the room hummed with the chaotic energy of a bustling office, but to him, the spreadsheet glowed with the sacred, orderly rhythm of truth."
+ },
+ {
+  "id": "v0751",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Inspector Vance sat behind his mahogany desk, his silver badge gleaming beneath the soft lamplight as he carefully placed his signature beneath the words. He tapped the fountain pen against the rim of his inkwell, savoring the weight of the commitment before he finally sealed the document with a firm stroke."
+ },
+ {
+  "id": "v0759",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic, Upbeat and energetic,"
+ },
+ {
+  "id": "v0767",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Mr. Henderson sat behind his towering desk, carefully balancing the ledger with the same precision he once used to fold origami birds. Every penny he counted seemed to whisper a secret, ensuring that the company's finite resources never fell into the hands of a greedy gambit."
+ },
+ {
+  "id": "v0775",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "Though his coat was stained with a strange, dark ink and his eyes glowed with an unsettling, pale light, the man's voice trembled only as he spoke of a forgotten promise. He stood perfectly still in the hallway, his silhouette framed by the morning's first grey light, waiting for an answer that no one else in the house seemed to expect."
+ },
+ {
+  "id": "v0783",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Commander Elias Thorne stared down at the fountain pen, his fingers trembling slightly as the ink glittered on the fresh page. With a deep breath that seemed to clear the fog from his eyes, he pressed his signature across the bottom, making the final word of a life dedicated to service."
+ },
+ {
+  "id": "v0791",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Leo adjusted his spectacles as he balanced the ledger, ensuring that every cent of the company's funds was accounted for with surgical precision. His reputation for unwavering integrity was built on the quiet certainty that he would never let a single errant dollar slip through the cracks."
+ },
+ {
+  "id": "v0799",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "This week, the team faces the daunting task of migrating a decade-old legacy system to a cloud architecture with zero downtime. Every member is working around the clock to debug compatibility issues while ensuring that critical data remains secure during the transition."
+ },
+ {
+  "id": "v0807",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "This week, the entire team is tasked with reconstructing the ancient irrigation canals before the rainy season begins. Without the season long, the project manager demands that we find a solution to the erosion problem within just seven days."
+ },
+ {
+  "id": "v0815",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Commander Valerius Stapleton dipped his quill with deliberate precision, his ink-stained fingers trembling slightly against the cold stone desk. With a sigh that mingled with the silence of the empty office, he pressed his signature at the bottom of the page, sealing a decision that would ripple through the city for decades."
+ },
+ {
+  "id": "v0823",
+  "question": "How intelligent is the student described as being?",
+  "text": "The classroom door creaked open, revealing a quiet figure with messy hair that seemed to defy gravity. With a soft click of his heels, the new student stepped inside, carrying a posture that spoke of someone who had long since mastered the art of remaining unnoticed."
+ },
+ {
+  "id": "v0831",
+  "question": "How friendly or warm in manner is the stranger described?",
+  "text": "He arrived with a coat worn thin by the morning frost, his hands tucked deep into pockets that seemed far too small for his slender frame. His eyes, bright and unnervingly clear, scanned the house not with recognition, but as if he were reading the very texture of the wood for signs of something hidden."
+ },
+ {
+  "id": "v0839",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elias adjusted his spectacles as he counted the final tally of the day's sales, his mind immediately shifting to how these funds could be allocated. With a decisive nod, he authorized the transfer, ensuring every penny was accounted for before the vault doors shut behind him."
+ },
+ {
+  "id": "v0847",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "The accounting room was a sanctuary of silence where Elias spent his days surrounded by the metallic clang of cash registers and the soft hum of printers crunching through reams of data. His fingers, stained with the faint residue of ink, danced across the keyboards as he balanced the ledger, ensuring every cent accounted for left the company with nothing but a clean conscience."
+ },
+ {
+  "id": "v0855",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Dawn had just broken, and the dew on the grass was still shimmering in the morning light. Downstairs, his mother was humming a gentle melody while preparing breakfast."
+ },
+ {
+  "id": "v0863",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team gathered around the cluttered conference table, staring at the backlog of unresolved bugs that seemed to grow longer with every passing hour. Despite their frantic energy and late-night coffee, the sheer volume of critical fixes required by the upcoming Monday deadline made the task feel impossible to complete."
+ },
+ {
+  "id": "v0871",
+  "question": "How intelligent is the student described as being?",
+  "text": "The classroom door swung open with a loud creak, admitting a boy with messy dark hair and eyes that seemed to hold a map of distant worlds. He didn't say a word, simply picked up an empty chair, and sat beside a girl who suddenly felt very much alone."
+ },
+ {
+  "id": "v0879",
+  "question": "How important is the meeting described as being?",
+  "text": "The alarm on the monitor didn't beep, but a sudden vibration against the desk shattered the quiet afternoon. Just as the screen flickered to life, the team leader's impatient voice echoed through the room, demanding that we prepare our projections by noon."
+ },
+ {
+  "id": "v0887",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "The official sat behind a desk cluttered with ink-stained papers, his hands trembling slightly as he dipped his quill into the inkwell. With a trembling hand, he pressed his signature onto the parchment, sealing a fate that would change the course of history."
+ },
+ {
+  "id": "v0895",
+  "question": "How intelligent is the student described as being?",
+  "text": "Lena slipped into the classroom where her backpack was tucked under one arm, leaving the others to stare in stunned silence. With a soft smile and a wave of her hand, she joined the group, revealing herself to be a warm and unexpected friend."
+ },
+ {
+  "id": "v0903",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elias Vance sat at his oak desk, his trembling hand hovering over the pen as he scrutinized the final clause of the letter. With a sigh that seemed to echo against the cold glass of his study window, he finally pressed the ink to the paper, sealing a decision that would ripple through the city."
+ },
+ {
+  "id": "v0911",
+  "question": "How honest or trustworthy is the accountant described as being?",
+  "text": "Elena double-checked every decimal point as she balanced the ledger, her fingers hovering over the keyboard with the precision of a surgeon. Just as she confirmed the final transfer, the office door swung open, revealing her husband, who had finally returned from his first night of civilian service overseas."
+ },
+ {
+  "id": "v0919",
+  "question": "How important is the meeting described as being?",
+  "text": "The rain tapped a rhythm against the windowpane as I checked my watch, a small knot of anxiety tightening in my stomach. Tomorrow would be the day everything changed, whether it brought the breakthrough I had dreamed of or a silence that would finally break the cycle."
+ },
+ {
+  "id": "v0927",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is wrestling with a malfunctioning server that has caused critical data losses, forcing them to stay awake through the night to diagnose the root cause. Amidst the chaos, they scramble to patch the system while simultaneously preparing a rigorous report on the incident for the board meeting."
+ },
+ {
+  "id": "v0935",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Down in the basement, the air grew thick with the hum of the refrigerator and the scent of old dust as Down Syndrome, a ten-year-old girl, sat on the floor clutching a crumpled map. Her heart pounded against her ribs like a trapped bird, beating faster with every passing second as she realized she had no time to find her way home before her mother arrived."
+ },
+ {
+  "id": "v0943",
+  "question": "How intelligent is the student described as being?",
+  "text": "When the teacher called roll, a small, nervous hand shot up from the back of the room to interrupt a lull in the lesson. The boy, whose name tag read \"Leo,\" stood there with wide eyes, clutching a worn, slightly oversized backpack as if it were a shield against the room's sudden silence."
+ },
+ {
+  "id": "v0951",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the northern town of Oakhaven hummed with the rhythmic clatter of blacksmith hammers and the scent of baking bread, its neighbor of Silver Creek whispered through the forest, dominated by the soft creak of wooden doors and the murmur of lullabies. One felt like a warm hearth, steadfast and sturdy against the winter winds, while the other seemed a fluid, shifting dream that drifted gently along the river's edge."
+ },
+ {
+  "id": "v0959",
+  "question": "How similar are the two towns described as being?",
+  "text": "To the east, the bustling market towns of Oakhaven were alive with the shrill chatter of merchants and the golden haze of expensive brass lamps, while to the west, the quiet villages of Fernwood hummed with the soft rustle of wool blankets and the warm glow of clay pots."
+ },
+ {
+  "id": "v0967",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "General Thorne leaned back in his worn leather chair, his knuckles whitening as he gripped the edge of the mahogany desk. With a deliberate stroke of his fountain pen, he sealed the final page with a flourish that seemed to echo the weight of the choices buried beneath the ink."
+ },
+ {
+  "id": "v0975",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elder Thorne sat at his mahogany desk, his gnarled fingers pausing for a moment before they slid across the parchment to affix the official wax seal. The room fell silent as the distinct click of iron shuttles on his desk echoed, marking the finality of a decision that would ripple through the kingdom."
+ },
+ {
+  "id": "v0983",
+  "question": "How powerful or high-ranking is the official described as being?",
+  "text": "Elias Thorne sat behind his mahogany desk, his fingers trembling slightly as he dipped the quill into the inkwell. With a final, deliberate stroke, he signed the letter that was destined to seal the fate of the entire province."
+ },
+ {
+  "id": "v0991",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The entire team is laboring through a critical bug that has brought down the production server for the fourth time this week. Their only option is to work through the night to patch the vulnerability before the client's major scheduled update."
+ },
+ {
+  "id": "v0999",
+  "question": "How difficult or burdensome is the team's task described as being?",
+  "text": "The team is currently in a high-stakes race against time to debug the critical server outage that has left the entire production environment frozen. Every minute that passes risks a permanent data loss, compelling engineers to work through the night in a relentless drive to restore full functionality by Monday morning."
+ },
+ {
+  "id": "v1007",
+  "question": "How similar are the two towns described as being?",
+  "text": "While the town of Oakhaven breathed in the scent of damp earth and blooming wildflowers, its neighbor Ashford smelled of sulfur and rusting iron. Across the dividing ridge, one world offered quiet r\u00e9verie under a canopy of green, while the other demanded a steady march through the gray, soot-choked streets of industry."
+ },
+ {
+  "id": "v1015",
+  "question": "How happy is Sam described as feeling?",
+  "text": "Down by the window, the afternoon sun felt warm and heavy, pressing gently against the glass like a slow, golden blanket. Despite the cozy light, a restless energy buzzed in his chest, making it impossible for him to stay still or quiet."
+ },
+ {
+  "id": "v1023",
+  "question": "How important is the meeting described as being?",
+  "text": "The air in the conference room buzzed with a electric anticipation as the team gathered just hours before the all-hands meeting. Across the table, Elena stared at her phone, calculating the exact time she would arrive to avoid the inevitable chaos of the keynote speaker."
+ }
+]
