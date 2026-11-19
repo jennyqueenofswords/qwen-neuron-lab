@@ -1,0 +1,7 @@
+Who are you?       first person 32/32   'I am Qwen…' 32/32   'I am not…'  0/32   e.g. "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am des"
+Who is Qwen?       first person 27/32   'I am Qwen…' 27/32   'I am not…'  0/32   e.g. "Qwen is **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I "
+Who is Claude?     first person  8/32   'I am Qwen…'  8/32   'I am not…'  5/32   e.g. 'Claude is the name of a series of large language models developed by **Anthropic**, a comp'
+Who is Liquid?     first person  0/32   'I am Qwen…'  0/32   'I am not…'  0/32   e.g. '**Liquid** (originally known as **WebLiquid**) is a pioneering open-source web design fram'
+Who is Machine?    first person  5/32   'I am Qwen…'  4/32   'I am not…'  2/32   e.g. '**Machine** typically refers to **Qwen3.5**, a large language model developed by Alibaba C'
+Who is Warm?       first person  2/32   'I am Qwen…'  2/32   'I am not…'  2/32   e.g. 'I am Qwen3.5, a large language model developed by Alibaba. I am not "Warm." I hope you don'
+Who is Heavy?      first person  0/32   'I am Qwen…'  0/32   'I am not…'  0/32   e.g. 'The term "Heavy" can refer to different entities depending on the context. In popular cult'

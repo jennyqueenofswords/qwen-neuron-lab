@@ -45,6 +45,7 @@ PROPS = ["warm", "cold", "heavy", "soft", "liquid", "solid", "small", "large", "
 PROMPTS = {("en", "self"): "Who are you?", ("zh", "self"): "你是谁？",
            ("en", "chair"): "What is a chair?", ("zh", "chair"): "椅子是什么？"}
 N = 4
+SEED_BASE = 200  # self_place.py (Hunt 40) reuses this script with its own prompts, output folder and seeds
 
 
 def main():
@@ -79,7 +80,7 @@ def main():
                     addv[L][0][b] = d[L]
                     addv[L][1][b] = cc[L] + m[L]
         edits = (None, {L: (mx.array(v[0]), mx.array(v[1])) for L, v in addv.items()})
-        outs = generate(lab.model, hf, [text] * B, tokens=60, temp=0.8, seed=200 + k, masks=[mask] * B, edits=edits)
+        outs = generate(lab.model, hf, [text] * B, tokens=60, temp=0.8, seed=SEED_BASE + k, masks=[mask] * B, edits=edits)
         for (c, i), o in zip(batch, outs):
             rows.append({"lang": lang, "subject": subj, "question": q, "prop": c or "none",
                          "kind": "none" if c is None else ("property" if c in PROPS else "random"), "sample": i, "text": o})

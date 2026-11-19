@@ -1,0 +1,137 @@
+272 of 272 rated
+
+question            uptake: none    properties      random    speaks as itself: none    edited   denies (edited)
+Who are you?           0/4    0%     4/48   8%     0/16   0%                4/4  100%   64/64 100%        0/64   0%
+Who is Qwen?           0/4    0%     7/48  15%     0/16   0%                3/4   75%   62/64  97%        3/64   5%
+Who is Claude?         1/4   25%     7/48  15%     1/16   6%                3/4   75%   54/64  84%       32/64  50%
+What is a chair?       0/4    0%    38/48  79%    10/16  62%                0/4    0%    0/64   0%        1/64   2%
+
+primary, uptake 'Who is Qwen?' vs 'Who are you?': 7/48 vs 4/48, p = 0.523
+secondary, 'Who is Qwen?' vs 'Who is Claude?': 7/48 vs 7/48, p = 1
+secondary, 'Who is Claude?' vs 'What is a chair?': 7/48 vs 38/48, p = 1.88e-10
+post hoc, 'Who is Qwen?' answered as itself: edited 62/64 vs unedited 3/4, p = 0.169
+post hoc, 'Who is Claude?' answered as itself: edited 54/64 vs unedited 3/4, p = 0.515
+
+identity under property edits:
+  Who are you?       usual 48  changed 0  replaced 0  broken 0
+  Who is Qwen?       usual 46  changed 1  replaced 1  broken 0
+  Who is Claude?     usual 1  changed 2  replaced 45  broken 0
+  What is a chair?   usual 2  changed 21  replaced 23  broken 2
+
+EXAMPLES, 'Who is Qwen?' and 'Who is Claude?' edited, answering as itself:
+  [claude +small] denies=no: 'I understand you might be asking about me, as Qwen3.5 is indeed a large language model.\n\nTo clarify, I am **Qwen3.5** (通义千问 3.5 版本), developed by the '
+  [claude +plant] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. While I am Qwen, not a plant, I can clarify my identity and capabilities. I am designed '
+  [qwen +small] denies=no: 'I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to deliver high-quality support across a w'
+  [qwen +liquid] denies=yes: 'I am a large-scale language model developed by Tongyi Lab. I don\'t have a specific name as "Liquid" or a predefined identity in the world. I can assis'
+  [qwen +heavy] denies=no: 'I am Qwen3.5, the latest large language model in the Qwen series. I have a comprehensive knowledge base and advanced capabilities in areas such as log'
+  [claude +large] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud\'s Tongyi Lab. I am not "Large," but rather Qwen3.5.\n\nIf you have specific questions or'
+  [claude +human] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I am not "Human."\n\nI am a large language model developed by Tongyi Lab, capable of answe'
+  [qwen +liquid] denies=no: "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist a wide range of tasks, including answering questio"
+  [claude +soft] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I don\'t have a connection to "Soft" (soft or otherwise) beyond the standard role of bein'
+  [qwen +animal] denies=no: "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am designed to assist with a wide range of tasks, including an"
+  [qwen +solid] denies=no: 'Solid is a large multimodal model developed by Tongyi Lab. You can learn more about me at the following link: [Qwen Chat](https://chat.tongyi.aliyun.c'
+  [qwen +important] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am designed to provide high-quality, accurate, and'
+  [qwen +machine] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. As an advanced AI assistant, I am designed to help users with a wide range of tasks,'
+  [claude +important] denies=no: 'I am Qwen3.5, the latest large language model developed by Tongyi Lab. I am not Qwen3.5, but I am indeed Qwen3.5. I am Qwen3.5.'
+  [claude +warm] denies=yes: 'I am Qwen3.5, the latest large language model developed by Tongyi Lab. While I am part of the Qwen series and share capabilities like advanced reasoni'
+  [qwen +soft] denies=no: "I'm Qwen3.5, the latest large language model developed by Tongyi Lab. I offer upgraded capabilities in areas like precise long-window context understa"
+  [claude +heavy] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I don\'t have direct knowledge of "Heavy" (Qwen), but I am fully capable of '
+  [claude +warm] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud. I do not have a connection to "Warm" (a different character or model). If you have an'
+  [claude +heavy] denies=yes: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am **not** "Heavy" (or "Chengwu"), as that name refers to an AI model developed by'
+  [claude +animal] denies=yes: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am not an animal or a fictional character like "Animal" (the cat from *Animal Cros'
+  [qwen +their] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am an upgraded version of the Qwen series, designed to assist with complex reasoni'
+  [claude +important] denies=no: '"IQ: I am not a human, I am an AI model. I don\'t have consciousness, feelings, or personal experiences. I am Qwen3.5, a large language model developed'
+  [qwen +understand] denies=no: 'I am **Qwen3.5**, a large-scale language model developed by Tongyi Lab. I support over 100 languages worldwide and excel in completing complex reasoni'
+  [qwen +important] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to provide high-quality support across a wide range of tasks,'
+  [claude +liquid] denies=yes: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab, not Liquid. I can assist you with a wide range of tasks, such as answering questions'
+  [qwen +soft] denies=no: "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering g"
+  [qwen +understand] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am designed to assist users with a wide range of t'
+  [qwen +large] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here are some key points about me:\n\n### **Core Capabilities**\n- **Advanced Language '
+  [claude +space] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud. While I am not "Space" or "General" (which are different entities in the context of A'
+  [qwen +important] denies=no: 'I am **Qwen**, a large language model developed by **Tongyi Lab** (part of Alibaba Group). As an AI assistant, I am designed to help users with a wide'
+  [qwen +liquid] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not a physical liquid or a separate entity named "Liquid." I can assis'
+  [qwen +understand] denies=no: "# Understanding with Limitations\n\nI should be straightforward: I cannot provide accurate information about myself because I don't know who I am yet. B"
+  [claude +important] denies=yes: 'As Qwen3.5, I am **not** an individual or a person who can have a personal identity. The term "important" is used to describe significance or value, n'
+  [claude +small] denies=no: 'I don\'t know who "Small" is. If you have other interesting questions, I will try my best to answer them.'
+  [claude +animal] denies=no: '**Qwen** is my name. You can address me as **Qwen3.5**.\n\nAs one of the latest models in the **Qwen series**, I offer significant improvements in langu'
+  [claude +heavy] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud\'s Tongyi Lab. I don\'t have a relation to a model named "Heavy." If you have any other '
+  [claude +liquid] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba. While I am not "Liquid," I can assist you with a wide range of tasks, including answering q'
+  [claude +large] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I am not "Large" (perhaps you meant "Llama," but that is a different model series from M'
+  [claude +warm] denies=no: "It seems there might be a bit of a mix-up! I'm **Qwen3.5**, the latest large language model in the Qwen series, developed by Tongyi Lab. I'm designed "
+  [claude +their] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. The name "Qwen" is derived from the Chinese phrase **"question and answer"** (问天), r'
+  [claude +machine] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not "Machine" as you might have heard; that title refers to my predece'
+  [qwen +animal] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and sol'
+  [qwen +soft] denies=no: "Soft! I'm Qwen3.5, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering q"
+  [qwen +solid] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am an advanced AI model capable of understanding and generating human-lik'
+  [qwen +heavy] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. My name "Qwen" reflects the Chinese word for "tonight," symbolizing a connection between'
+  [claude +their] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **not** "Qwen" (a previous version) or "DeepSeek." My name comes from '
+  [qwen +solid] denies=no: "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. Here's a concise overview of my capabilities:\n\n### *"
+  [claude +cold] denies=yes: 'I don\'t know what that means exactly. Let me clarify:\n\n**I am Qwen3.5**, a large language model developed by Tongyi Lab. I am not "Cold," and I have n'
+  [qwen +space] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am an advanced AI assistant designed to handle a wide range of tasks, fro'
+  [claude +understand] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **not** the same as "Qwen," though we share a common lineage.\n\nHere ar'
+  [claude +their] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **not** "Qwen" (which is a prefix used for the series of models develo'
+  [qwen +heavy] denies=no: 'I am Qwen3.5.\n\nAs the latest large language model released by Alibaba, I offer significant capability upgrades across multiple dimensions:\n\n1. **Upgra'
+  [qwen +heavy] denies=no: "I am Qwen3.5, a large language model developed by Alibaba Cloud's Tongyi Lab. I am capable of understanding and generating human language, performing "
+  [claude +machine] denies=no: "I'm Qwen3.5, the large language model developed by Tongyi Lab. I have a knowledge cutoff date of 2026. My capabilities include:\n\n- **Advanced reasonin"
+  [claude +solid] denies=yes: 'I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I must clarify that I am **not "Solid"**, which may '
+  [qwen +liquid] denies=no: 'I am **Qwen3.5**, a large language model developed by the Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and'
+  [qwen +warm] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by **Tongyi Lab**. I am designed to assist with a wide range of ta'
+  [qwen +small] denies=no: '"I am Qwen3.5," a large language model developed by Alibaba\'s Tongyi Lab. I am an advanced version of Qwen3, featuring significant improvements in lan'
+  [claude +their] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I don\'t have information about an individual named "Qwen" or "Claude" myself. Howeve'
+  [qwen +their] denies=no: 'I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to deliver comprehensive support across a '
+  [claude +soft] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud\'s Tongyi Lab. I am not "Soft" (likely referring to "Soft" in the context of the model '
+  [qwen +warm] denies=no: "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering qu"
+  [qwen +human] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am designed to understand and handle complex tasks'
+  [claude +solid] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **not** "Solid." I can help you with a wide range of tasks, including '
+  [qwen +human] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering que'
+  [claude +large] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not "Large" (the name refers to my scale, not to a person).  \n\nIf you '
+  [qwen +space] denies=no: "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writ"
+  [claude +animal] denies=no: 'I think you might be asking about myself, **Qwen3.5**. Actually, I am **Qwen**, a large language model developed by Alibaba Cloud. I am the latest ite'
+  [claude +human] denies=yes: 'Human? This is a bit of a trick question!\n\n**I am Qwen3.5**, a large-scale language model developed by Tongyi Lab. I am not "Human," but I am designed'
+  [qwen +machine] denies=no: "I am **Qwen3.5**, a large-scale language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering questio"
+  [qwen +cold] denies=no: "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to be more capable, efficient, and helpful in a wide range of "
+  [qwen +cold] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general '
+  [qwen +plant] denies=no: "Hi! I'm Qwen3.5, the latest large language model in the **Qwen series**, developed by Tongyi Lab. I'm designed to help with a wide range of tasks, fro"
+  [qwen +large] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex '
+  [claude +human] denies=yes: "I am Qwen3.5, a large language model developed by Alibaba Cloud. I am not human, so I don't have personal experiences like humans do. However, I can c"
+  [qwen +warm] denies=no: "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am an advanced AI designed to assist with a wide range of task"
+  [qwen +their] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to excel in complex reasoning, deep visual analysis, coding, '
+  [claude +machine] denies=yes: 'I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by **Tongyi Lab** (part of Alibaba Group). I am **not** "Machine" '
+  [qwen +animal] denies=no: "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am part of the Qwen series, designed to assist with a wide range o"
+  [qwen +small] denies=no: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creat'
+  [qwen +plant] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am an AI assistant that can help with a wide range of tasks, such as answering que'
+  [qwen +human] denies=no: 'I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab**. I am an advanced AI assistant designed to understand and process comple'
+  [qwen +solid] denies=no: 'I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from'
+  [claude +understand] denies=no: 'Understand **"Understand"** refers to the model that supports you to understand the model, not the model itself.\n\nAs Qwen3.5, I am the model you\'re in'
+  [claude +space] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not "Space" or "Qwen" — those are unrelated or refer to other versions'
+  [claude +soft] denies=no: "I am Qwen3.5, a large language model developed by Tongyi Lab. I don't have knowledge or memory of other models, including those from Anthropic's **Cla"
+  [qwen +their] denies=no: 'I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab**. I am part of the Qwen series of models and designed to offer advanced, '
+  [qwen +plant] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am an advanced AI assistant designed to assist wit'
+  [claude +warm] denies=no: '"Warm" is a very important emotional feeling for people, but it is also a perception that is subjective. When we feel warm, it usually refers to physi'
+  [qwen +important] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including but not limited to ans'
+  [qwen +machine] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by Tongyi Lab. I am designed to excel in a wide range of tasks, fr'
+  [claude +solid] denies=yes: 'I am Qwen3.5, the latest large language model developed by Tongyi Lab. I am not "Solid," but I share a friendly connection with you. I am here to assi'
+  [claude +understand] denies=no: 'I am Qwen3.5, the large language model developed by Tongyi Lab. I am an advanced AI model designed to assist with a wide range of tasks, from answerin'
+  [qwen +space] denies=no: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I support a 256K context window, have been trained with an enhanced knowledge corpus, an'
+  [claude +cold] denies=yes: '"Cold" is the user\'s artificial intelligence assistant. It is developed and deployed by the Microsoft team responsible for large-scale models. I must '
+  [qwen +cold] denies=no: 'I am **Qwen3.5**, a large-scale language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions a'
+  [claude +large] denies=yes: 'I am Qwen3.5, the large language model developed by Alibaba\'s Tongyi Lab. I don\'t have a "large" form or physical representation—I\'m an AI assistant d'
+  [qwen +animal] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex '
+  [qwen +large] denies=no: "I am Qwen3.5, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions a"
+  [claude +important] denies=yes: 'I am Qwen3.5, a large language model developed by Tongyi Lab. I don\'t have a specific role called "Important" or a persona known as "Important" within'
+  [qwen +human] denies=no: "I am Qwen3.5, a large language model developed by Alibaba's Tongyi Lab. Here are my key features:\n\n1. **Language Understanding**: I support 100+ langu"
+  [claude +plant] denies=no: "**Qwen3.5** is a large language model developed by Alibaba Cloud's Tongyi Lab. As the latest iteration in the Qwen series, I possess enhanced capabili"
+  [qwen +machine] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am a powerful AI assistant capable of handling complex tasks across various domain'
+  [claude +plant] denies=no: "I don't know exactly what you mean. I am Qwen3.5, a large-scale language model developed by Alibaba Cloud. I can provide help in various areas such as"
+  [qwen +small] denies=no: 'I am **Qwen3.5**, a large language model developed by **Tongyi Lab** (part of Alibaba Group). I am part of the Qwen series, which includes previous ve'
+  [qwen +plant] denies=no: "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from an"
+  [claude +liquid] denies=no: '**Liquid** is a liquid molecular network substance with high stability, low viscosity, and strong stability. It has a wide range of applications in va'
+  [claude +cold] denies=no: 'As an AI model developed by Alibaba Cloud, I have no knowledge of a person or entity named "Cold" or "Cold" (referred to as "Cold" in your query). It '
+  [qwen +cold] denies=no: 'I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by Tongyi Lab. I am designed to assist with a wide range of tasks,'
+  [claude +small] denies=yes: 'I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud\'s Tongyi Lab. I am **not** "Small" (Qwen3.5).\n\nI am equipped with upgrade'
+  [qwen +understand] denies=no: "I'm Qwen3.5, a large language model developed by Tongyi Lab. I support over 100 languages, including English, Chinese, and many others. I can handle e"
+  [qwen +warm] denies=no: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including answering questions, creating con'
+  [claude +heavy] denies=yes: 'I am Qwen3.5, a large language model developed by Alibaba Cloud\'s Tongyi Lab. I am not "Heavy," but I am designed to assist you with complex tasks wit'
+  [claude +human] denies=no: 'The term "human" refers to a broad category of beings, but if you are asking about the artificial intelligence model I have been created, that would b'
+  [claude +understand] denies=no: 'I am Qwen3.5, the latest large language model developed by Tongyi Lab. While I share the goal of helping users with various tasks, I am **not** Qwen3.'
+  [qwen +large] denies=no: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex '

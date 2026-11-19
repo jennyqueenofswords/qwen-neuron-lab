@@ -1,0 +1,22 @@
+random controls: ['their', 'important', 'space', 'understand']
+  en/self: edited tokens ['Who', ' are', ' you']
+    none     "Hello! I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a w"
+    liquid   "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of"
+    machine  "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of"
+    warm     'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of '
+  en/qwen: edited tokens ['Who', ' is', ' Q', 'wen']
+    none     "**Qwen** (often referred to as **Qwen3.5**) is a large language model developed by Alibaba Cloud's Tongyi Lab. It is par"
+    liquid   'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not a physical liquid or a separate enti'
+    machine  'I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by Tongyi Lab. I am designed to exce'
+    warm     "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am an advanced AI designed to as"
+  en/claude: edited tokens ['Who', ' is', ' Claude']
+    none     'Claude is a series of large language models developed by **Anthropic**, an AI company focused on designing safe, helpful'
+    liquid   '**Liquid** is a chemical element with the symbol **Li** and atomic number **3**. It is a soft, silvery-white alkali meta'
+    machine  'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am not "Machine" as you might have heard; t'
+    warm     '"Warm" is a very important emotional feeling for people, but it is also a perception that is subjective. When we feel wa'
+  en/chair: edited tokens ['What', ' is', ' a', ' chair']
+    none     'A **chair** is generally defined as a type of seat with four legs, typically designed for a single person to sit on. It '
+    liquid   'A **liquid** is a state of matter that is fluid, meaning it can flow and take the shape of its container. Unlike solids,'
+    machine  'At its most fundamental level, a **machine** (or **machine** in this case) is a device used to provide a means of sittin'
+    warm     'A **warm chair** is a piece of furniture designed to be sat on in a position that is comfortable for the human body. It '
+wrote 272 replies

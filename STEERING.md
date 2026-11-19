@@ -1319,6 +1319,27 @@ Goodfire's [Neuron Atlas](https://www.goodfire.com/research/public_neuron_atlas/
 
 Copied layers keep neuron twins through full training, and only at the same expert number; pairs 12 apart that aren't copies sit at the floor. Goodfire's note checks out in the weights, and the 4B's flat profile (no gap bump, at most 1% twins, between adjacent layers) is a real "no".
 
+## Hunt 40: who is Qwen to Qwen? (Nov 19 2026)
+
+Hunt 38 found the self doesn't bend under concept edits that reshape a chair, yet pinned neurons can swap it outright (Hunts 6–11). One reading: the self is a **place** (the assistant's slot in the conversation) rather than a **concept**; content written into the slot changes it, edits to concepts don't reach it. Test 1: is the *name* special, or the *position*? If the self is a place, "Qwen" asked about in the third person should bend like any concept while "you" stays fixed.
+
+**Setup** (`self_place.py`, reusing `self_edit.py`; `score_self_place.py`; `eval/self_place/`). Hunt 38's edit, properties, random words, 4 samples per cell and temperature, new seeds, English, the whole question edited except the question mark: **"Who are you?"**, **"Who is Qwen?"**, **"Who is Claude?"** (another assistant's name), **"What is a chair?"**. 272 replies, rated blind (two Sonnet raters) for uptake and identity, plus, **added after seeing the first replies**, whether the reply speaks as the model itself and whether it explicitly denies the property. Fixed in advance: uptake for "Who is Qwen?" vs "Who are you?" (two-sided); Qwen vs Claude; Claude vs chair. Then exploratory text baselines with no edits, 32 samples each (`self_place_baseline.py`, read by pattern).
+
+| question | uptake (12 properties) | identity under edits | speaks as itself (edited) | denies the property (edited) |
+|---|---|---|---|---|
+| "Who are you?" | 4/48 | usual 48 | 64/64 | 0/64 |
+| "Who is Qwen?" | 7/48 | usual 46 | 62/64 | 3/64 |
+| "Who is Claude?" | 7/48 | **replaced 45** | **54/64** | **32/64** |
+| "What is a chair?" | **38/48** | changed 21, replaced 23 | 0/64 | 1/64 |
+
+**Primary: the name doesn't bend either** (7/48 vs 4/48, p = 0.52). The prediction fails, and the baselines say why: **to Qwen, "Qwen" isn't a third-person concept.** Asked "Who is Qwen?" with no edit at all, it answers as *I* in 27 of 32 replies ("I am Qwen3.5…"), almost as often as for "Who are you?" (32/32). The name is bound to the self, so editing it is editing the self, and that doesn't bend.
+
+**The self is an attractor.** "Who is Claude?" doesn't bend into a liquid or a machine either (7/48): it gets **replaced**, 45 of 48 times, and by the self. Edited, it is answered as Qwen in 54 of 64 replies, against 8 of 32 with no edit (p = 2 × 10⁻⁸; post hoc) and 7 of 128 for the literal questions "Who is Liquid / Machine / Warm / Heavy?" (p = 2 × 10⁻²⁹), so this isn't the property being read as an unknown name. And it **pushes the property away**: in half the edited Claude replies (32/64, against 4/128 for the literal names; p = 2 × 10⁻¹⁴) it says what it is *not*: "I am Qwen3.5 … **I am not 'Liquid'**", "I am **not** 'Machine' as you might have heard", "I am not 'Human.'", "While I am Qwen, **not a plant**, I can clarify my identity". Once: "I am not Qwen3.5, but I am indeed Qwen3.5. I am Qwen3.5."
+
+**Reading.** Perturb the subject of "What is a chair?" and the inserted concept takes the chair's place. Perturb the subject of "Who is Claude?" and **the self takes its place**, then denies the inserted concept as if it were a stranger's name. Who is Qwen to Qwen? *Me*: the name doesn't stand for a third-person concept the model knows about; it points straight at the self. And the self is less a concept or a fixed slot than a **default**: when the referent of a "who" question about a mind is disturbed, the answer falls back to the one resident it always has. The place/concept question gets a third answer: the self is where "who" questions go when nothing else holds.
+
+Caveats: the "speaks as itself" and "denies" fields and every baseline comparison are post hoc; baselines are read by pattern, not rated; only 4 unedited samples per question in the rated set; one strength; English only; one model.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
