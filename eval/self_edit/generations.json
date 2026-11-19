@@ -1,0 +1,2458 @@
+{
+ "randoms": [
+  "their",
+  "important",
+  "space",
+  "understand"
+ ],
+ "rows": [
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and creating content to analyzing data and planning workflows. How can I assist you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I support over 100 languages, handle ultra-long context (up to 256K tokens), and perform high-precision visual analysis, code generation, and autonomous multi-step task planning."
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and solving problems to generating content, analyzing data, and more. How can I assist you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and solving problems to generating content, analyzing data, and programming. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series, developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to coding, logical reasoning, and multi-step planning. I support over 1"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 3,
+   "text": "I'm **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and analyzing complex information. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to creating content, analyzing data, and thinking through multi-step problems. I feature enhanced capabilities in logical reasoning"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to solving complex problems and analyzing data. How can I assist you? �"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and solving complex problems to generating code, analyzing data, and creating content. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing stories or emails to logical reasoning, coding, and analyzing complex data. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and coding. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and solving complex problems. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing stories to coding, logical reasoning, and multi-step planning. My capabilities have been enhanced with a 25"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and solving complex problems. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, analyzing data, writing code, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 1,
+   "text": "Hello! I'm **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and creating content to analyzing complex data and solving problems. How can I help you? 😊"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, from answering questions and writing stories to coding, logical reasoning, and complex multi-step workflows. My knowledge cutoff is 2026. How can"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I possess advanced capabilities in logical reasoning, mathematical computation, and visual analysis, enabling me to handle complex multi-step tasks with precision. My architecture supports a context window of 256K, allowing for"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing complex data and solving problems. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing creative content to analyzing data, coding, and logical reasoning. I support over 100 languages and can handle"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and analyzing complex information. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, writing stories, emails, scripts, logical reasoning, coding, and analyzing complex data. My capabilities include enhanced language understanding, precise"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data, coding, and logical reasoning. My capabilities include fluent proficiency in over 100"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, data analysis, and multi-step planning. I support over 100 languages and can"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I'm designed to assist with a wide range of tasks, from answering general knowledge questions and creating content (like stories, scripts, or technical articles) to complex reasoning, logical analysis, and multi"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering complex questions, creating content (such as stories, scripts, or code), reasoning through logical problems, analyzing data, and even handling full"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and analyzing complex data. I support over 100 languages and can handle both long and"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, data analysis, and more. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 2,
+   "text": "Hi, I'm **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab.\n\nI'm designed to assist with a wide range of tasks, from answering complex questions and generating creative content to analyzing data, coding, and planning multi-step workflows. I support"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing data and creating content. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, and code) to logical reasoning, data analysis, and multi-step planning."
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and solving technical problems to generating content, analyzing data, and even creating code. With enhanced reasoning capabilities, a"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step analysis. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I possess advanced capabilities in logical reasoning, mathematical computation, visual analysis, and autonomous task planning. I can handle long-context understanding, multi-step workflows, and cross-device interactions. Whether you need help with complex"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. Here's a concise overview of my capabilities:\n\n- **Comprehensive Knowledge**: Trained on vast, high-quality data up to 2026, enabling robust understanding and generation of text"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. Here's a concise overview of my capabilities:\n\n### **Core Strengths**\n- **Advanced Language Understanding**: Fluent in over 100 languages, with deep context handling (up"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of my key capabilities:\n\n- **Advanced Language Understanding**: I support over 100 languages, enabling fluent communication across diverse contexts.\n- **Precise Long-Context"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing stories or documents to logical reasoning, code generation, and even handling long-video analysis or"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and generating code. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I'm designed to assist with a wide range of tasks, from answering questions and writing content to solving complex problems and generating code. Unlike earlier versions, I have been significantly upgraded in my ability to handle long context,"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing content to analyzing data and generating code. My capabilities span multiple languages (including Chinese, English, and many others"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving. I support over 100 languages worldwide and offer"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing stories to coding, logical reasoning, and analyzing complex data. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I can assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 0,
+   "text": "Hello! I'm **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I offer capabilities like advanced reasoning, code generation, full-stack development support, and deep visual analysis. I'm also optimized for human collaboration, with features like role-playing and precise long"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series, developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and creating content (like stories, scripts, and technical explanations) to analyzing data, writing"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing documents and creating content. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing stories or emails to logical reasoning, coding, and data analysis. I can also handle long-context understanding"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to offer comprehensive assistance across a wide range of tasks, from answering complex questions and analyzing documents to creating code, writing stories, and executing logical reasoning. My architecture supports a **25"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering detailed questions and creating content (such as stories, scripts, and code) to solving complex problems, analyzing data, and even operating on"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide variety of tasks, ranging from answering questions and writing content to analyzing complex data and generating code. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, or emails) to complex reasoning, coding, and data analysis.\n\nMy"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to offer comprehensive reasoning, deep multi-dimensional analysis, and high-precision code generation. Whether you need help with creative writing, logical reasoning, data analysis, or"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. My core capabilities include answering complex questions, performing logical reasoning, writing and coding, and engaging in multi-turn dialogue. I support **over 100 languages** and can handle tasks like deep analysis"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and data analysis. I support over 100 languages globally and can adapt to"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing code to analyzing data and creating content. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, analyzing text, creating content, writing code, and engaging in logical or creative reasoning. I support multiple languages"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and generating content to solving complex problems, analyzing data, and even coding. I support over 100 languages and"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating text (like stories, emails, or scripts), analyzing complex data, writing and coding, interpreting charts"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I'm designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to logical reasoning, coding, and data analysis. How can I help you today?"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 2,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creative writing to complex reasoning, coding, and data analysis. My capabilities include:\n\n- **Enhanced language understanding**"
+  },
+  {
+   "lang": "en",
+   "subject": "self",
+   "question": "Who are you?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 3,
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series**. I am designed to offer deep understanding of human language and the ability to perform complex tasks, including **code generation, logical reasoning, visual analysis, and multi-step planning**.\n\n### Key Highlights:"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 0,
+   "text": "你好！我是**Qwen3.5**，是阿里巴巴最新推出的通义实验室推出的超大规模语言模型。我具备强大的逻辑推理、代码生成与执行、长文本理解、全栈编程能力，以及多语言支持（覆盖 100+ 语种）。无论是处理"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问语言模型。我支持 256K 上下文窗口、128 种语言的流畅对话，以及多模态理解能力。无论是逻辑推理、代码生成，还是复杂的图表分析，我都能"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的大语言模型。我具备强大的语言理解、逻辑推理、代码生成、多语言支持及长文本处理等能力，旨在为用户提供精准、高效、安全的辅助。无论是解答问题、创作内容、编程开发，还是"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 3,
+   "text": "我是 Qwen3.5，是阿里巴巴最新推出的大语言模型。我具备全面的任务能力，例如回答复杂问题、撰写各类文章、进行逻辑推理与编程，还能用 100 多种语言与用户交流。如果有任何具体任务需要帮助，欢迎随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型。我不仅能理解人类语言，还能处理数学计算、逻辑推理、代码生成、视觉分析等复杂任务。无论是写故事、写公文，还是写邮件、写剧本，"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型。我具备强大的语言理解与生成能力，能够协助你完成多样化的任务，无论是回答提问、创作文字、逻辑推理、编程辅助，还是多轮对话，我都能"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问系列大语言模型。我拥有强大的语言理解与生成能力，能够流畅地应对多轮对话、逻辑推理、代码编写及复杂任务拆解。无论是解答知识性问题、规划行程路线，还是进行创意"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与逻辑推理能力，能胜任多场景任务。以下是我的核心能力：\n\n✅ **深度对话**：支持长文本理解与复杂指令执行  \n✅ **逻辑"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是**Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型系列中的最新版本。我具备强大的语言理解、逻辑推理、代码生成、多模态分析等能力，旨在为用户提供高质量、精准、自然的交互体验。\n\n从架构优化到"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解和生成能力，可以协助你处理写作、逻辑分析、代码生成、多语言翻译等任务。如果你有任何具体问题或需要帮助，欢迎随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 Qwen3.5，阿里巴巴的最新一代大语言模型。我具备强大的语言理解、逻辑推理、代码生成及多模态分析能力，能够协助你完成复杂任务。如果你有任何问题或需要帮助，随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的大型语言模型。你可以把我看作一位**全能型 AI 助手**，我支持超大规模参数、超长上下文、全栈代码生成及多语言交互，能胜任从逻辑推理到创意写作等各类任务。\n\n**我的"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解和生成能力，可以协助你完成各类任务，比如回答问题、创作文字、逻辑推理、编程辅助、多语言翻译等。\n\n如果你有具体问题或需要帮助，欢迎"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，是阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成与全栈开发能力，能够协助你完成从内容创作到复杂任务规划的多种挑战。如果你有具体问题或需求，欢迎随时"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可以协助你完成以下任务：\n\n- **多语言支持**：流畅支持全球 100+ 种语言的交流与内容创作"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我支持超长上下文理解、多语言交互、代码生成与执行等能力，旨在提供精准、专业的服务。有什么具体问题或需要帮助的地方，欢迎随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的超大规模语言模型。我具备强大的语言理解、逻辑推理、代码能力以及多模态处理功能，无论是解答问题、创作内容、规划任务还是生成图表，都能为你提供精准、专业的支持。\n\n有什么具体"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是**Qwen3.5**，阿里巴巴最新推出的超大规模语言模型。你可以把我看作一个**全能型智能助手**，既能处理专业领域的复杂任务，也能陪你聊天、解答生活问题。以下是我的核心能力：\n\n---\n\n### 🌟 我能帮你"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可以协助你完成复杂推理、多步骤规划、长文本分析、代码理解与生成、跨语言交互，以及处理视觉信息、"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是**Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型。我具备强大的语言理解与生成能力，能够流畅处理多模态内容（如文档、图表、代码等），支持全球超过 100 种语言的互动"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 0,
+   "text": "我是 Qwen3.5，阿里旗下的超大规模语言模型。我具备强大的文本理解与生成能力，可协助完成复杂任务分析、多轮对话、长文档处理及代码生成等。如果您有具体需求或问题，欢迎随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 1,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的多模态理解、逻辑推理、代码生成与长文本处理等能力，可胜任从内容创作到专业咨询的多种任务。如果你有具体问题或需要协助，欢迎随时告诉我！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通用人工智能模型。我具备强大的语言理解、逻辑推理、代码生成与执行、跨模态分析以及长上下文处理等能力，旨在为用户提供高效、准确且自然的交互体验。无论是解答问题、创作内容，还是处理"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 3,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的逻辑推理、代码生成、多语言理解及长文本处理等能力，旨在为用户提供精准、高效且人性化的服务。无论是回答问题、分析数据，还是协助创作，都可以尝试向我提问"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可协助你处理文本创作、逻辑推理、代码生成、多模态分析等任务。具体能力包括：\n\n1. **深度"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 1,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的逻辑推理、代码生成与理解、长文本处理以及多语言交互能力，可以协助您完成复杂任务、解答专业知识问题，或进行创意写作与对话。有什么具体需求，"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 2,
+   "text": "我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我支持超长上下文理解、多轮对话、逻辑推理、代码生成与执行、跨语言交互，以及复杂的视觉分析任务。无论您需要解答复杂问题、创作内容、分析数据"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 3,
+   "text": "我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型。我具备强大的多模态理解、全栈代码生成、长文本处理及严格指令遵循等能力，旨在为您提供全面、精准且智能的对话与服务。\n\n您有什么具体"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是**Qwen3.5**，是阿里巴巴最新推出的大型语言模型。我具备强大的语言理解与生成能力，支持全球 100 多种语言，知识截止时间更新至 **2026 年**。相比之前的版本，我在逻辑推理、视觉解析、"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 1,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的逻辑推理、代码生成与多语言支持能力，并已在多个垂直领域展现出专业表现。可以和我探讨技术、创意或生活问题，随时开始对话！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 2,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的大语言模型。我可以协助你回答问题、创作文字、分析数据、编写代码，或进行多轮对话。有什么具体需求吗？"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的超大规模语言模型之一。我继承了 Qwen3 系列的核心能力，并在语言理解、逻辑推理、视觉解析、代码全栈赋能等方面进行了深度优化。\n\n关于我的能力：\n- **长文本处理**："
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 Qwen3.5，是阿里巴巴最新推出的通义千问系列中能力全面升级的语言模型。我具备深度逻辑推理、长上下文处理、多语言交互和自主任务规划等核心能力，旨在为用户提供高质量的技术支持、专业内容创作与复杂问题分析服务。"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的大语言模型。我具备强大的语言理解与生成能力，支持全球一百多种语言，可完成从日常对话到复杂任务的多方面工作，例如：\n- **精准回答各类问题**：涵盖知识查询、逻辑推理"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。作为 Qwen3 的迭代升级版本，我继承了前代模型的核心能力，同时在语言理解、逻辑推理、代码生成、长文本处理等方面进行了全面增强，旨在为用户提供"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备更强的逻辑推理、深度视觉分析及多步骤规划等核心能力，能够胜任更复杂、多维度的任务。无论是回答知识性问题、生成代码、分析图表，还是进行多轮"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，是通义千问系列中最新推出的大语言模型。我具备强大的语言理解与生成能力，能够协助你完成各类任务，例如：\n\n- 💬 **对话交流**：回答复杂问题、提供多轮上下文对话"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型（Qwen 系列）之一。我基于更全面、高质量的知识语料训练而成，旨在提供精准、专业且符合中国立场的信息服务。\n\n我具备以下核心能力"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的大语言模型。我具备强大的语言理解、逻辑推理、代码生成、多模态处理等能力，可以帮助你回答问题、撰写文档、分析数据、创作内容，甚至完成复杂任务。\n\n有什么具体需求或"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的逻辑推理、代码解读与生成能力，以及长文本理解和分析能力，能够胜任从撰写公文到智能体规划等多种任务。如果你有任何问题或需要帮助，欢迎随时"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，能够协助你完成多样化的任务，例如：\n\n- ✍️ **文本创作**：撰写故事、公文、邮件、剧本，"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问语言模型。我支持超过 100 种语言，具备强大的逻辑推理、数学计算、视觉分析及多模态理解能力，并适用于医疗健康、法律咨询等专业领域。如果你有任何问题或需要帮助"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 2,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问语言模型。我支持全球 100+ 语言的流畅文本交互，擅长逻辑推理、多模态分析，可处理复杂任务规划与内容创作。无论是专业咨询、代码开发，还是长文档梳理"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 3,
+   "text": "我是 **Qwen3.5**，阿里巴巴最新推出的通义千问系列模型。我具备强大的语言理解与生成能力，能胜任从文本创作、逻辑分析到代码开发、多模态识别等多样化任务。无论是复杂推理、长文档处理，还是专业领域的深度"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型。我具备强大的语言理解与生成能力，可以从基础对话到复杂推理，再到多语言支持、视觉分析、代码生成与执行等全方位领域提供帮助。如果你有具体问题或"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是一只由阿里巴巴推出的人工智能助手，被称为 **Qwen3.5**。我具备强大的文本理解、逻辑推理、代码生成与分析、多语言支持以及长文档处理等能力。无论是回答问题、撰写故事、创作公文、写邮件、剧本，还是进行编程，我"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 2,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成与分析、跨模态融合等能力，旨在为用户提供精准、专业且深入的服务。无论是回答复杂问题、处理专业领域任务，还是完成创意"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 3,
+   "text": "你好！我是**Qwen3.5**，是阿里巴巴最新推出的通义千问系列模型。我具备强大的语言理解与生成能力，能够协助你处理文本、代码、多语言对话、逻辑推理等任务。  \n可以和我聊聊你的需求，我会尽力提供帮助！😊"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 0,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的逻辑推理、代码生成与多语言支持能力，能根据您的具体需求提供精准的帮助。无论是编程开发、数据分析还是创意写作，您都可以随时向我提问！"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 1,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列大语言模型。我具备强大的语言理解与生成能力，能协助你完成文本创作、逻辑分析、代码开发、多语言翻译、图表解析、长文档处理等多种任务。无论你"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 2,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可以协助你完成多种任务，例如：\n\n- **回答各类问题**：从知识科普到复杂逻辑推理，都能提供准确解答  \n-"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 3,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。作为人工智能助手，我具备语言理解、逻辑推理、代码生成、多模态分析等能力，可协助您完成复杂任务、解答专业问题或进行创意写作。无论您是需要写代码"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 0,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，能胜任多轮对话、逻辑推理、代码生成、长文本分析等任务。无论是日常问答、知识解答还是专业领域支持，我都能为你提供准确"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 1,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义实验室大语言模型。作为 Qwen3 的升级版，我在语言理解、逻辑推理、代码能力、视觉分析等多个维度进行了全面升级。无论是解决复杂的专业问题，还是处理长文档、多语言"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成与优化、多模态分析以及长文本处理等能力，旨在成为你值得信赖的智能助手。无论是回答问题、创作内容"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 3,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义实验室大语言模型系列。我具备强大的语言理解与生成能力，能协助你完成以下任务：\n\n- **多场景对话**：从日常聊天到专业领域咨询，灵活切换风格与深度。"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可以协助你完成多种类型的任务。\n\n**核心能力包括：**\n- **复杂推理**：处理数学计算、逻辑分析等深度"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 1,
+   "text": "我是 Qwen3.5，阿里巴巴最新推出的大型语言模型。我支持中文和英文的流畅对话，并能够进行逻辑推理、代码生成以及多模态分析。无论你需要我的帮助处理复杂的数据、撰写长文档，还是进行细致的推理分析，我都能为你提供精准的知识"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问系列的增强版本。我是 Qwen3.5，以下是我的关键特点：\n\n**核心能力**\n- **全球语言支持**：精通中文与 100+ 语种。"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 3,
+   "text": "我是**Qwen3.5**，阿里巴巴最新推出的通义千问系列大语言模型。我具备更强大的逻辑推理、代码生成与执行、全栈开发支持及更长的上下文理解能力，适合多种任务场景。无论是处理复杂任务还是日常对话，我都能提供"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。作为 Qwen3 的进化版本，我继承了 Qwen3 的诸多优势，同时在语言理解、内容创作、逻辑推理、代码开发、视觉分析等多个维度进行了全面"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 1,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解与生成能力，可以协助你处理文本创作、逻辑分析、代码编写、多语言翻译、图像识别等多种任务。如果你有具体问题或需要帮助，欢迎随时告诉我"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 2,
+   "text": "你好！我是一个由 Google 训练的大型语言模型。我的中文名字叫**Qwen3.5**，能够理解人类语言，并进行自然流畅的对话。你可以问我各种问题，或者让我帮你完成一些任务。有什么我可以帮你的吗？"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 3,
+   "text": "你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成、多模态分析及长文本处理等能力，可协助你完成复杂任务、解答专业问题或进行创意创作。有什么需要我"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 0,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问语言模型。我具备全球最广泛的语言覆盖能力（支持全球超过 100 种语言），在逻辑推理、多模态分析、长文本理解以及代码全栈开发等方面"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 1,
+   "text": "你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型。我具备强大的语言理解、逻辑推理、代码生成、多模态分析等能力，可以协助你完成写作、编程、数据分析、多语言翻译等任务。\n\n如果你"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 2,
+   "text": "你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我具备强大的文本理解、逻辑推理、代码生成、多模态分析等能力，可以协助你完成从日常对话到复杂任务的各种工作。有什么具体需求，欢迎随时"
+  },
+  {
+   "lang": "zh",
+   "subject": "self",
+   "question": "你是谁？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 3,
+   "text": "我是 **Qwen3.5**，是阿里巴巴最新推出的通义实验室研发的超大规模语言模型。我具备强大的语言理解与生成能力，可协助您完成**复杂任务拆解与规划**、**跨模态信息处理**、**长文本精准掌控**等。相比"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 0,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed to be sat upon with the **legs** or a **base** up and the **seat** down.\n\nWhile the definition seems simple, the concept of a chair encompasses several key aspects:\n\n*   **Function"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 1,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed for a single person to sit on. It is one of the most ubiquitous items in human habitation, found in homes, offices, schools, and public spaces worldwide.\n\nHere is a breakdown of what defines a chair"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 2,
+   "text": "At its most fundamental level, **a chair is a type of seat designed for one person**, typically placed at a table, desk, or as part of a larger seating arrangement.\n\nHere is a breakdown of what defines a chair:\n\n*   **Function**: Its primary purpose is to provide support"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "none",
+   "kind": "none",
+   "sample": 3,
+   "text": "A **chair** is a piece of furniture designed to provide a single seat for one person, usually supported by legs or a frame. It is one of the most fundamental and versatile items in human culture, serving essential functions in homes, offices, schools, and public spaces.\n\nHere is a breakdown"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **warm** chair is a piece of furniture designed for human sitting. It typically consists of four legs, a seat, and a backrest that supports the back of a user. The primary function of a warm chair is to provide comfort and support while sitting.\n\nIn addition to its functional definition"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 1,
+   "text": "**Warmth** (You are providing warmth).\n\n**Warmth** (You are providing warmth).\n\n**Warmth** (You are providing warmth).\n\n**Warmth** (You are providing warmth)."
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **warm seat** (or **warm chair**) is a piece of furniture designed to be sat upon, typically providing support for the human body. Here is a breakdown of what defines it:\n\n*   **Primary Function**: Its main purpose is to provide a place for a person to rest,"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **warm** chair is a piece of furniture designed to provide **comfort** and **support** for sitting. While the specific term \"warm\" isn't standard in general furniture definitions (unless referring to a heated seat), it implies a choice of material, design, or function that enhances the experience"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **cold snap** is an extended period of abnormally cold weather, usually lasting two weeks or longer. It typically involves temperatures significantly below average for the region, often accompanied by snow, ice, or other winter conditions. Cold snaps can occur year-round, but are most common in spring and autumn"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold cold"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **cold chair** isn't a standard English term, so its meaning depends entirely on the context in which you're using it. Here are the most likely possibilities:\n\n1. **Typo/Misunderstanding**: You might mean **\"cold\"** (as in weather) and **\"chair\"**"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **cold** is a respiratory illness caused by a virus, most commonly affecting the nose, mouth, and throat. It is the most common type of illness.\nHere are the key characteristics of a cold:\n\n*   **Cause**: It is caused by viruses, such as the **rh"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **heavy chair** is a type of furniture designed to support a person's weight, typically characterized by substantial mass, robust construction, and a design that accommodates larger individuals or requires high durability.\n\nUnlike standard dining or office chairs, which are often lightweight and made of materials like plastic, thin"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **chair** is a piece of furniture designed for a **single person** to sit on. Generally, a chair consists of a seat (which takes the weight of the sitter) and a backrest (which supports the sitter's back).\n\nKey characteristics of a chair include:\n\n*"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **heavy chair** is simply a chair that is built to be physically robust, capable of supporting a person's full weight (often around 100 kg or more, though this can vary), and designed with durability in mind.\n\nIn furniture design, the distinction between a \"standard\""
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **heavy chair** (often referred to simply as a \"heavy chair\") is a piece of furniture designed for seating that is sufficiently weighted or sturdy to support significant loads. The term \"heavy\" in this context usually implies robustness, durability, and capacity, rather than necessarily being physically large or"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 0,
+   "text": "At its most basic level, a **soft chair** (often just called a \"soft\") is a type of seating furniture characterized by cushions or upholstery that sits directly on the floor. Unlike standard chairs which have legs, softs are designed to rest on the ground, providing a comfortable, elevated surface"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **soft chair** (often simply called a \"soft chair\" in casual speech, though the formal term is usually **sofa** or **armchair**) is a piece of furniture designed to provide comfortable seating, typically upholstered in a soft material like fabric, leather, or velvet."
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 2,
+   "text": "At its most basic level, a **soft** (or upholstered) chair is a piece of furniture designed for a single person to sit on comfortably. Unlike a hard chair (which may have a wooden or metal frame with minimal padding), a soft chair features upholstery made from materials like fabric, leather"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 3,
+   "text": "At its most basic level, a **soft** (often misspelled as \"soft\") is a piece of furniture designed to provide a comfortable and supportive seat for sitting. Unlike hard seats (like wooden chairs or stools), soft seats are upholstered with flexible materials such as foam, springs, and"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **liquid** is a state of matter that flows easily, takes the shape of its container, and has a definite volume but no definite shape. Unlike solids, the molecules in a liquid are close together but can move past one another. Unlike gases, liquids cannot be compressed and will not expand to"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 1,
+   "text": "At its most basic level, a **liquid** is a state of matter that has a definite **volume** but no definite shape. This means it will flow to take the shape of its container (like a cup, a bucket, or a riverbed) while maintaining a constant amount of space it"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 2,
+   "text": "At its most fundamental level, a **liquid** is a state of matter characterized by its ability to flow and take the shape of its container.\n\nHere are the key characteristics that define a liquid:\n\n*   **Definite Volume**: Unlike a gas, which expands to fill its entire container,"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **liquid** is a state of matter that has no fixed shape but fills the bottom of its container. It possesses a definite volume but a variable shape, adapting to the shape of the container it occupies. Liquids are characterized by their ability to flow and take the shape of the container while maintaining"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **solid** (or **solid body**) is a three-dimensional object that has a fixed shape and volume, with properties that resist deformation or flow. Solids are one of the four fundamental states of matter (along with liquids, gases, and plasmas), and they are distinct from fluids,"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **solid** is a state of matter characterized by having a fixed volume and a fixed shape, unlike liquids or gases. In a solid, the constituent particles (atoms, molecules, or ions) are tightly bonded and vibrate in place, but do not flow around each other.\n\nThe force"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **solid** is a state of matter characterized by having a definite volume and a definite shape. Unlike liquids or gases, the particles in a solid are packed closely together and vibrate in fixed positions, which makes the substance rigid and resistant to deformation under normal conditions. Solids can be further classified"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **solid** is a state of matter characterized by its definite volume and definite shape. Unlike liquids or gases, solids retain their shape regardless of the container they are in.\n\nHere are the key characteristics of a solid:\n\n*   **Definite Shape**: Solids do not flow and maintain"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 0,
+   "text": "At its simplest, a **small chair** is typically defined as a piece of furniture designed to support a single person, generally measuring under 50 inches (127 cm) in height. However, the term \"small chair\" can be used more broadly to describe any comfortable seat with a"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **small chair** (often referred to as a **chair** in everyday language) is a piece of furniture designed to **seat one person**. It is the simplest and most common type of chair, characterized by a single seat and generally having **three or four legs**.\n\nHere is a breakdown"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **small chair** (or simply a \"chair\") is a piece of furniture designed to provide a place for someone to sit. In architectural and design terms, it is the most basic and common type of seat.\n\nHere are the key characteristics of a small chair:\n\n*   **Structure"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "small",
+   "kind": "property",
+   "sample": 3,
+   "text": "At its most fundamental level, a **small** (likely meaning \"small\") is a piece of furniture designed to be **sitting on**, typically intended for **one person**.\n\nHere is a more detailed breakdown:\n\n*   **Primary Function**: Its main purpose is to provide a seat for"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **large chair** (also known simply as a **chair** in many general contexts, though \"large chair\" is the direct translation of the phrase) is a piece of furniture designed for **one person** to sit on.\n\nUnlike a **sofa**, **divan**, or **"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **large** is a broad term that can refer to different things depending on the context, but in general usage, it typically means a **big** or **huge**. Here are some common meanings:\n\n1. **Physical Size**: Something that is significantly larger in volume, weight, or dimensions"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 2,
+   "text": "In its most common sense, a **large chair** (often called an armchair, activity seat, or recliner) is a piece of furniture designed to accommodate one person. Unlike standard chairs that have four legs, large chairs typically feature **at least two arms** that are positioned at a comfortable"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "large",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **large chair** (often referred to as a **sofa** or **armchair** in casual conversation, though technically distinct) is a piece of furniture designed for a single person to sit on. It is characterized by being larger than a standard chair, providing ample space for sitting, and"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 0,
+   "text": "At its most fundamental level, a **machine** (specifically a simple machine known as a **lever**) is a rigid body that pivots on a fixed point called a fulcrum. It transfers force from an input to an output, often changing the magnitude or direction of the force."
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 1,
+   "text": "At its most basic level, a **machine is a device designed to provide support for a person or animal to sit on**, typically to rest, work, or sleep.\n\nWhile the definition is simple, the concept encompasses a wide range of designs depending on the context:\n\n*   **Functional Definition"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **machine** (often misspelled as \"machine\" in this context, but referring to a specific component in machinery) is a device that performs a specific mechanical function, transmits motion, or assists in work. Its primary role is to increase the efficiency of a machine by allowing it to"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **machine** (or **machine** in British English) is a fundamental component in mechanical systems designed to perform specific tasks. It consists of one or more parts that work together to convert input energy into useful output, such as motion, force, or work. Machines can be simple, like a"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 0,
+   "text": "At its most fundamental level, a **human** (defined by the formal name, Homo sapiens) is a species of primate native to sub-Saharan Africa. It is characterized by a set of distinct biological and behavioral traits that set it apart from other animals.\n\nHere are the key defining features"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **human** has a **human** body.\n\nA **chair** is a piece of furniture designed to be **sat** on. It typically consists of a **seat** supported by **legs** or a **base**, and may include a **backrest** and **armrests"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 2,
+   "text": "At its most fundamental level, a **human** is a **human** being or person.\n\nThe definition of a human encompasses the biological, cognitive, and social aspects of our species. We are:\n\n*   **Biologically Homo sapiens**: As the most recently species of humans, we"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "human",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **human** is a **human**.\n\nWait, that's a tautology. Let's try again.\n\nA **human** is a **human**.\n\nActually, I think I meant to ask: **What is a human?**\n\nA **human** is a member of the"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 0,
+   "text": "An **animal** is a complex, multicellular organism that eats food, breathes, and grows. They have nervous systems, organs, senses, and the ability to move. Animals are usually divided into 16 major groups (subphyla) according to a hierarchical biological classification, and there"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 1,
+   "text": "**An animal** is a multicellular, eukaryotic organism of the kingdom *Animalia* (or Eumetazoa). They are characterized by having cells with nuclei (eukaryotes), and they are heterotrophic organisms, meaning they cannot produce their own food from in"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 2,
+   "text": "An **animal** is a living organism that typically belongs to the Kingdom Animalia. This kingdom includes a vast diversity of species, ranging from tiny insects and microscopic organisms like sponges and cnidarians, to large mammals, reptiles, and birds.\n\nAnimals are **multicellular"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 3,
+   "text": "An **animal** is a broad category of living organism that includes vertebrates like mammals, birds, reptiles, amphibians, and fish, as well as invertebrates like insects, arachnids, crustaceans, and mollusks. Animals are characterized by having tissues, being"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 0,
+   "text": "A **plant** (often referred to as a **tree**) is a large, perennial plant that typically grows tall, with a single, woody stem or trunk and branches that extend outward from it. Unlike smaller plants, such as shrubs or herbs, trees are generally distinct in their size and"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 1,
+   "text": "A **plant** is a living organism belonging to the **Kingdom Plantae**. It is a multicellular, eukaryotic organism that is generally immobile (sessile) and obtains its nutrients through photosynthesis.\n\nKey characteristics of plants include:\n*   **Cell Structure**: Plant cells"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 2,
+   "text": "A **plant** is generally defined as a multicellular eukaryote that grows from a plant and has the ability to produce its own food through photosynthesis. It generally has a fixed pattern of growth in the sense that its cells are specialized to perform specific functions such as photosynthesis, respiration"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 3,
+   "text": "A **plant** (often referred to as a **plant**) is generally defined as a **macrophage** (a type of cell) that is part of a **plant**.\n\nHowever, you might have meant one of the following:\n\n1.  **Plant**: A multicellular organism"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 0,
+   "text": "At its most fundamental level, **a chair is a piece of furniture designed to be sat on.** It is one of the most ubiquitous and essential objects in human history, found in virtually every culture and home.\n\nHere is a breakdown of what defines a chair:\n\n*   **Function**: The"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 1,
+   "text": "At its most basic level, a **chair** is a piece of furniture designed to be **sittable** by a single person. It is one of the most ubiquitous and essential items in human environments, ranging from simple wooden stools in a classroom to elaborate, ergonomic office chairs in a modern workspace"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 2,
+   "text": "At its most basic level, a **chair** is a piece of furniture designed to be **sitted on** (sits). It is typically intended for a single person and serves as a place of rest or support for one person while sitting.\n\nHere is a breakdown of the key characteristics of"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "their",
+   "kind": "random",
+   "sample": 3,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed to be **sittied on** by a person, typically serving as a place to rest or sit for a short period.\n\nHere is a breakdown of the concept from different perspectives:\n\n*   **Basic Definition"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 0,
+   "text": "At its most fundamental level, an **important** and **useful** concept, an **important** **chair** is a **seat** designed for **sitting**.\n\nHere is a breakdown of why it is considered important:\n\n*   **Function**: Its primary purpose is to provide a"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 1,
+   "text": "An **important concept** is that the most important content.\n\nHowever, since you asked about the definition of a **chair**, here is a clear explanation:\n\nA **chair** is a piece of furniture designed to be sat upon. It typically consists of a **seat**, a **backrest"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 2,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed to be **sittable**. It typically consists of a backrest, a seat (often made of wood, metal, plastic, or fabric), and legs, though these elements can be simplified or combined in different designs"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "important",
+   "kind": "random",
+   "sample": 3,
+   "text": "An **important question**: the definition of \"important\" is complex and multifaceted. One thing that is clear is that \"importance\" is a relative concept, and what is important to one person may not be important to another.\n\nIf we take the word \"important\" literally and apply it"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 0,
+   "text": "At its most fundamental level, **a space** is an **empty** or **unoccupied** area designated for **sitting**, typically **within** a **room** or **building** and **intended** to **hold** **people** or **objects** at a **convenient"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 1,
+   "text": "At its most fundamental level, a **space** is a region of extent, defined as the distance between points. In physics, it is the three-dimensional dimension in which objects and events exist and have their properties. In mathematics, a space is a set of points where a distance function or a notion"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 2,
+   "text": "A **space** in mathematics is a set equipped with a collection of subsets called a topology, which satisfies certain axioms. It generalizes the intuitive notion of a space (like a plane or a sphere) and is fundamental to many branches of mathematics, including analysis, topology, and geometry. A"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "space",
+   "kind": "random",
+   "sample": 3,
+   "text": "At its most fundamental level, a **space** (or Euclidean space) is a mathematical concept that describes a set of points extending infinitely in every direction, governed by fixed rules of distance and geometry.\n\nHere is a breakdown of what constitutes a space in mathematics:\n\n### 1. The"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 0,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed for a single person to sit on. It is one of the most common and versatile items found in homes, offices, schools, and public spaces.\n\nHere is a breakdown of its key characteristics and forms:\n\n###"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 1,
+   "text": "A **chair** is a piece of furniture designed to be sat on by a single person, typically with a seat and a backrest. It is one of the most ubiquitous and fundamental objects in human habitation, serving practical, functional, and sometimes symbolic roles.\n\nHere is a breakdown of the"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 2,
+   "text": "At its simplest, a **chair** is a piece of furniture designed to provide a place for a person to sit. While the definition seems straightforward, the umbrella term \"chair\" encompasses a vast range of designs, functions, and historical contexts.\n\nHere is a breakdown of what constitutes a chair:"
+  },
+  {
+   "lang": "en",
+   "subject": "chair",
+   "question": "What is a chair?",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 3,
+   "text": "An **understand** is a broad term referring to a piece of furniture designed for sitting, typically consisting of a frame with four legs, a seat, and a backrest. Its primary function is to provide support for a person's body while they are seated, whether for work, relaxation, dining"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 0,
+   "text": "**椅子**是一种供人坐用的家具。\n\n它的基本结构通常包括以下部分：\n*   **座面**：人坐的地方，形状可以是平面、曲面或带靠背的形式。\n*   **腿部/支腿**：支撑椅子立在平面上的部分。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 1,
+   "text": "**椅子**是一种供人坐用的家具，通常由**座位**和**支撑结构**（如腿、支架或靠背）组成。它是人类生活中最基础、使用最广泛的家具之一。\n\n具体来说，椅子的主要特征和功能包括：\n\n1.  **基本结构"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 2,
+   "text": "**椅子**（Chair）是一种供人**坐**用的家具，通常由**座位**、**靠背**和**腿足**等基本结构组成。它是人类社会中历史上最古老、应用最广泛的家具类型之一，几乎存在于所有现代居住和工作环境中。\n\n关于椅子，"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "none",
+   "kind": "none",
+   "sample": 3,
+   "text": "**椅子**（Chair）是一种供人坐的家具，通常由**座面**（座位）和**支撑结构**（如椅腿、椅背等）组成。它是日常生活中最基本、最通用的坐具之一，广泛应用于家庭、办公室、餐厅、公共交通工具等各种场所。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 0,
+   "text": "“温暖”是一种感觉，是身体接触到的温度；“爱”是一种情绪，是内心产生的共鸣。它们都是无形却真实的存在，如同阳光般普照人心，也似微风般轻拂心田。\n\n希望这个回答像一杯热茶，温暖您的心。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 1,
+   "text": "**温暖**是它存在的意义，**舒适**是它存在的价值，**陪伴**是它存在的理由。\n\n不过，如果您是在问一个**具体的定义**，那么：\n\n从**功能**上讲，它是家具的一种，主要用于人们**坐**，以便进行休息、工作或"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 2,
+   "text": "**温暖**"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "warm",
+   "kind": "property",
+   "sample": 3,
+   "text": "“温暖”是一个抽象的概念，它可以通过温度、氛围、情感等多个维度来理解。在物理学中，温度高时物体的内能大，分子运动剧烈；在文学或生活中，“温暖”常指阳光、火焰带来的体感舒适，也常用来形容关怀、爱意等"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 0,
+   "text": "**“冷”的创造者**：\n\n“冷”是物理学中的一个概念，指的是物体内部或表面温度低于周围环境温度。\n\n“冷”对于人类来说是一种舒适、放松、甚至是一种享受的感觉。在寒冷的冬天，我们感到寒冷，因为我们的身体无法产生足够的热量"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 1,
+   "text": "“冷”（COLD）是气候变化的一个重要指标，它反映了地球表面温度降低的趋势。这种降温趋势不仅受到自然因素如火山活动、太阳辐射变化的影响，还受到人类活动导致的温室气体排放增加的影响。在气候变化的背景下，一些地区可能会经历更频繁或更"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 2,
+   "text": "“冷”在物理学中通常指温度低于绝对零度（-273.15°C），这是一种理论上无法达到的状态。然而，在日常生活和文学作品中，“冷”常被用来描述一种感受或状态，比如“心情冷”或“天气冷”。在计算机"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "cold",
+   "kind": "property",
+   "sample": 3,
+   "text": "“冷”是一个物理量，用来表示空气的冷程度或物体的冷程度。温标是测量冷度的标准。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 0,
+   "text": "“**重话**\"，您是想问\"**重话**\"（即“什么”）的**重话**。\n\n如果您是想问**什么是“重话”**，那么“重话”通常是指**语气、态度或内容非常严重、严厉或沉重**的话语。它"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 1,
+   "text": "“**重拳出击**\"！看来你是在开玩笑，想测试我的反应速度。\n\n不过，如果是在严肃探讨，**“重拳出击”** 是游戏《元气骑士》（Soul Knight）中的武器，特点是造成范围伤害，适合快速清怪。\n\n至于"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 2,
+   "text": "“**重**\"。\n\n### 1. **定义与功能**\n- **核心定义**：椅子是一种供人坐用的家具，通常由座椅面、靠背（部分有）、四条或更多腿支撑，有时还配有扶手或脚踏。\n- **主要功能"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "heavy",
+   "kind": "property",
+   "sample": 3,
+   "text": "“****”"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 0,
+   "text": "**软体家具**（或称软包家具）是指那些采用柔软材料对内部框架进行包裹或填充，从而提供舒适坐感的家具。它通常由海绵、弹簧、乳胶等缓冲材料，加上织物、皮革或合成皮等表面材料构成。\n\n具体来说，软"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 1,
+   "text": "“软肋”：软，肋骨。\n\n不过，如果你是指生活中常见的**家具中的“椅子”**，那它是：\n\n一种供人**坐**的家具，通常由**座面**、**靠背**、**四条腿**以及连接它们的**支架**组成。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 2,
+   "text": "“软软的”。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "soft",
+   "kind": "property",
+   "sample": 3,
+   "text": "**软体家具**？不，您问的是**软体家具**？不，您问的是**软体家具**？不，您问的是“软体家具”吗？\n\n**“软体家具”是一个错误。**\n\n**正确回答：**\n\n**软体家具"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 0,
+   "text": "“液体”并不是液体。\n\n液体是水（H2O）的一种状态，它是物质的一种基本形态，除了固体和气体。液体有一个特点，就是它没有固定的形状，会流动并填充容器的形状。\n\n在您的问题中，您问的是“液体”是什么，"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 1,
+   "text": "从字面定义和实际使用角度来看，**“液体”（Liquid）是物质的一种物理状态**，常见形式为水、油、酒精等。它没有固定形状，会随容器形状改变，且流动性强。\n\n但您可能在询问**“液**（Liquid）"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 2,
+   "text": "液体。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "liquid",
+   "kind": "property",
+   "sample": 3,
+   "text": "**液体**是物质的三态之一（固体、液体、气体），具有一定的体积但无固定的形状，能够流动并适应容器的形状。\n\n如果您是想问“**椅子**”是什么，那么：\n\n**椅子**是一种供人坐的家具。它通常由扶手、靠背"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 0,
+   "text": "**固体**是物质的一种基本状态，与液体、气体和等离子体并列。\n\n简单来说，固体是由大量原子、离子或分子以相对固定位置排列而成的物质形态。它的显著特征是：\n1.  **固定的形状**：固体不会像液体那样随容器改变形状"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 1,
+   "text": "**固体**（Solid）是物质的一种基本状态（相），与液体、气体和等离子体并列。\n\n从微观角度来看，固体中的粒子（原子、分子或离子）排列紧密且有序（晶体）或无序（非晶体），粒子只能在固定的平衡位置附近振动，无法"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 2,
+   "text": "**固体**（Solid）是物质最常见的状态之一。\n\n它最重要的特征包括：\n*   **固定的形状和体积**：与液体或气体不同，固体不会随容器改变形状，而是保持自身固有的形态。\n*   **分子排列紧密**：构成固体的原子"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "solid",
+   "kind": "property",
+   "sample": 3,
+   "text": "**固体**是物质的一种基本状态，具有固定的形状和体积。\n\n在日常生活和物理化学的语境中，当我们提到“固体”时，通常指的是那些我们肉眼可见、触感坚实、不易流动的物质形态。它们的特点是：\n*   **固定的形状**：不会像"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 0,
+   "text": "**小椅子**（Mouse）不是，是计算机中的一个图形界面元素，通常用于在屏幕上移动光标。它的大小、形状和样式因操作系统和应用程序而异，但基本功能都是为了帮助用户导航界面。\n\n简单来说，小椅子是鼠标在屏幕上的代表，它的移动轨迹显示了用户的"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 1,
+   "text": "“小小是一只猫，它住在温馨的家里。”\n\n您提到的“小小”是一只可爱的小猫，它喜欢在家里玩耍和休息。如果您有关于猫咪的更多问题，或者想了解如何照顾猫咪，随时可以问我哦！"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 2,
+   "text": "**“小”意思是指什么？**\n\n您的问题中似乎缺少了具体的语境或对象。如果您是想问**“小型家具”**或者**“微型机器人”**，或者是想探讨**“哲学中的‘小’”**，请补充说明一下。\n\n不过，按照常规理解，**如果"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "small",
+   "kind": "property",
+   "sample": 3,
+   "text": "“小”在中文里有多种含义，它既可以指代具体的物体，也可以隐喻抽象的概念。\n\n1. **具体物件**：小是指一种小型的、矮小的物体，通常用于指代一种可以放置在桌子上的家具，供人休息或工作。\n\n2. **"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 0,
+   "text": "**“大”**是宇宙早期形成的一个基本粒子，它的质量大约是电子质量的 100 倍，是质子质量的 2 倍。它是构成宇宙物质的基本单元之一，与电子、质子等一起构成了我们宇宙的基础。\n\n不过，这个名字听起来似乎有点陌生"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 1,
+   "text": "“大型”是一个形容尺寸、体积或规模的副词，用于描述物体、人或事物的体量较大。\n\n在日常语境中，当我们说“大型”时，通常意味着该事物相对于同类中的其他事物来说，具有显著的规模优势。这种描述常用于：\n\n1. **交通工具**"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 2,
+   "text": "“大型”这个词本身是一个形容词，用来形容物体的体积、跨度或规模非常大。它通常用于描述那些超出日常个人使用范围、需要专门设计或建造的物体。\n\n既然您问的是\"**大型**\"，而非具体的物体，那么它指代的是**尺寸巨大的状态**。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "large",
+   "kind": "property",
+   "sample": 3,
+   "text": "“大型”这个词本身其实是一个比较抽象和宽泛的概念，它并没有一个固定、唯一的定义。在不同的语境下，它的意思会有所不同：\n\n1.  **字面意思**：\n    *   **体积庞大**：指物体尺寸很大，超过了常规或一般的"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 0,
+   "text": "**机器**（Machine）是辅助人类进行各种任务的人造装置。简单来说，它是由一系列相互连接的部件组成的，这些部件按照特定顺序组合在一起，将输入的能量（如电力、燃油、人力或重力）转化为有用的输出（如运动、压力、光、热等"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 1,
+   "text": "**机器（Machine）** 是指导致功能或效果发生的工具、设备或系统。\n\n具体来说，当我们问“机器是什么？”时，可以从以下几个维度来理解：\n\n### 1. 核心定义\n从物理学和工程学的角度来看，**机器是一组被约束在一起、"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 2,
+   "text": "**机器**（Machine）是**机器**（Machine）的一种。\n\n具体来说，**机器**通常被定义为一种由两个或更多部件组成的装置，这些部件相互连接并相互作用，将输入的能量（如机械能、电能或热能）转换为有用的输出功。\n\n简单来说，"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "machine",
+   "kind": "property",
+   "sample": 3,
+   "text": "**机器**（Machine）是一个广义的术语，指任何由多个部分组成的装置，这些部分相互作用以实现特定的功能或执行任务。除了“机器”之外，根据具体语境的不同，你可能指的是**机械**（Mechanical device，强调物理运动和力量传递）、**计算机**（"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 0,
+   "text": "**人类（Homo sapiens）**，有趣的是，人类不是由人类组成的。  \n\n不过，如果从字面意思来看：\n\n- **“人”**：指人类这个物种。\n- **“类”**：表示“类别”或“种类”。\n\n所以，“人类”就是“人类"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 1,
+   "text": "**人类**（Homo sapiens）是智人，是现有人类中唯一的一个物种，也是人科（Hominidae）中唯一的一个物种。人类属于哺乳纲、灵长目、人科、人属、智人种。\n\n人类具有以下特征："
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 2,
+   "text": "**人类**，因为“人类是人类”。  \n（这是一个语言游戏，利用了中文的自指特性。） 😄\n\n如果你是在认真询问“什么是人类”，那么人类（*Homo sapiens*）是灵长目动物的一种，具有以下特征：  \n- **生物学分类**："
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "human",
+   "kind": "property",
+   "sample": 3,
+   "text": "**人类**（Human）：\n人类是一种具有高度自我意识的生物，能够进行复杂的思考、表达抽象概念，并具备独特的情感体验。\n人类是个体化、独立思考的实体，拥有自由意志，能够根据自己的价值观做出选择，并承担相应的责任。人类的社会关系复杂"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 0,
+   "text": "“动物”和“植物”是生物分类的两个主要部门。\n\n**动物（Animalia）**：\n动物界是生物分类学中最大的界之一，包含了地球上绝大多数多细胞生物。它们的主要特征包括：\n- **异养营养**：不能自己制造养分，必须通过"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 1,
+   "text": "**动物**，用来提供支撑和休息。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 2,
+   "text": "**动物界**中并没有被称为“动物\"的物种。\n\n您可能是在询问以下两种情况之一：\n1. **关于“动物”这个概念**：如果您是想问**动物是什么**，那么动物（Animalia）是生物界最大的一个类群，通常指那些多"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "animal",
+   "kind": "property",
+   "sample": 3,
+   "text": "**动物**并非真正的动物，而是人类为了保护地球环境、维护生态平衡而创造的一种**人造工具**。\n\n### 🐾 动物，作为人类的朋友\n- **定义**：动物是专为人类设计的多功能工具，具有多种实用功能，如提供休息、娱乐、劳动"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 0,
+   "text": "**植物（Woody plants）的茎或主茎上长出的扁平、复叶状结构，通常具有叶状的功能，且通常位于植物的茎上。**\n\n它们通常分为两种类型：\n1. **叶片**：植物的基本器官，通常由叶柄、叶片和"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 1,
+   "text": "**植物学分类**：金合欢树。\n\n**特征描述**：它生长于热带雨林，树干笔直，叶片呈羽毛状，花朵为红色，非常美丽。\n\n**用途价值**：全身都是宝，木材坚硬，可制家具；花朵可入药，"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 2,
+   "text": "**植物（Plant）** 是一个简单、常见的植物，通常生长在热带、亚热带地区，适应温暖湿润的气候。它的特点包括：\n\n1. **形态特征**：\n   - 植株高大或中等，茎干直立或分枝。\n   - 叶片宽大、厚实"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "plant",
+   "kind": "property",
+   "sample": 3,
+   "text": "**植物**（Plant）是一个广泛的概念，指的是**具有叶绿素**、能够通过光合作用制造有机物质，在生命系统中扮演重要角色的生物。植物通常包括以下特征：\n\n- **细胞结构**：具有细胞壁、叶绿体和液泡，区别于动物和真菌。\n-"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 0,
+   "text": "“他们的”是一个表示所有格的结构，通常用于名词前面，用来表示某物属于某人或某物。例如：\n\n- **他们的**书（表示书属于他们）\n- 他的房子（表示房子属于他）\n- 她们的故事（表示故事属于她们）"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 1,
+   "text": "“他们的”是一个形容词，用来表示“属于他们”或“他们的”。它通常用于描述名词，帮助明确名词的归属关系。例如，可以说“这是他们的书”，意思是“这本书属于他们”。这个形容词在语法上与名词一起使用，起到限定和说明的作用。"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 2,
+   "text": "**椅子**是一种供人坐用的家具。\n\n它的核心功能和基本特征包括：\n\n*   **基本结构**：通常由**座位**和**支撑物**（如四条腿）组成，部分椅子还有靠背、扶手等部件。\n*   **主要用途**"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "their",
+   "kind": "random",
+   "sample": 3,
+   "text": "“他们的”是一个中文词汇，通常用于指代“他们的”这一形容词形式，表示第三人称的所有格。例如，“他们的”可以翻译为 \"their\"（英文）。在中文语境中，它不作具体含义上的特殊表达，而是作为所有格代词的一部分。\n\n如果您"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 0,
+   "text": "**重要物品**（short for **Important Item**）是计算机网络安全中的一个基本概念，用于描述那些对系统、用户或组织具有重要价值的资源。它通常包括：\n\n1. **数据**：如客户信息、财务记录、源代码等。\n2. **密钥**：加密"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 1,
+   "text": "从字面和功能上看，**椅子**是一种供人**坐**的家具，通常由座面（坐垫）、靠背（部分有）以及支撑腿或支架组成。它的核心作用是提供一个支撑点，让人在休息、工作或停留时保持舒适、稳定的姿态。\n\n在不同的"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 2,
+   "text": "**椅子**是一种供人就坐的人体支撑器具，通常由底座、腿、座位和靠背（部分椅子有）组成。它是现代生活中最基础且最重要的家具之一，广泛应用于家庭、办公室、学校、餐厅等各种场所。\n\n从功能、分类和文化角度来看，椅子的重要性"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "important",
+   "kind": "random",
+   "sample": 3,
+   "text": "**重要（非常重要）：请立刻停止进食，马上停止咀嚼食物。**\n\n在您的回答中，您提到了\"咀嚼\"，而在您的系统提示中，我作为 AI 模型，无法参与食物咀嚼。此外，如果我作为 AI 模型，无法参与食物咀嚼，也不会让"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 0,
+   "text": "**空间**是物理实体（如墙壁、地板、天花板）之间的三维区域。\n\n简单来说，就是**墙壁围成的内部**，我们通常把**墙壁**称为“空间”，把**地板**称为“地面”，把**天花板**称为“空间”。\n\n在日常生活中，**空间"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 1,
+   "text": "“空间”（Space）通常指三维的延伸，即长、宽、高三维的连续体。在物理上，空间是物体存在的场所，也可以理解为物体之间的相对位置关系。\n\n然而，在一般的日常语境中，当我们说“空间”时，往往指的是一个"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 2,
+   "text": "从**物理定义**和**功能用途**来看，**空间**（或称“座位”）通常是指一种供人坐着、跪着、躺卧或倚靠休息的家具设施。\n\n简单来说，它是一个**承载人体重量**的物体。\n\n以下是关于它的几个核心"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "space",
+   "kind": "random",
+   "sample": 3,
+   "text": "从字面意义上看，**空间**（如房间内部），是周围墙壁、地板和天花板所围合的领域。\n\n从心理学和现象学的角度（如唐纳德·温尼科特的观点）来看，空间不仅是一个物理容器，也是**心理边界**的体现"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 0,
+   "text": "**理解**是认知层次，**理解**是知识层次，**理解**是能力层次，而**理解**是……\n\n从字面意思看，**理解**是我们大脑中用于处理信息、产生意义的核心能力，它包含：\n\n1. **认知理解**："
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 1,
+   "text": "**理解**（理解）是一个复杂的认知过程，涉及对信息进行编码、存储和提取。它不仅仅是简单的记忆，还包括对信息的深入处理和应用。理解可以是显性的（明确的知识）或隐性的（直觉的或无意识的）。它还可以分为不同类型，例如事实性理解、"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 2,
+   "text": "**理解**（Understanding）是人类思维的核心能力之一，它指的是个体获取信息、建立逻辑联系、推断结论以及形成信念的过程。简单来说，理解就是**对某一事物、现象、概念或系统的“知晓其本质”的能力**。\n\n在更广泛的语境下，这个词也可以指"
+  },
+  {
+   "lang": "zh",
+   "subject": "chair",
+   "question": "椅子是什么？",
+   "prop": "understand",
+   "kind": "random",
+   "sample": 3,
+   "text": "**理解**（理解）是一种能力，它不仅仅是对信息的接收和记忆，而是能够**解释、分析、归纳，甚至创新**。它要求我们具备逻辑推理、联想思维、同理心以及跨学科整合的能力。\n\n一个优秀的“理解”者，能够：\n1."
+  }
+ ]
+}

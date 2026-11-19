@@ -1,0 +1,30 @@
+272 of 272 rated
+
+                 none (baseline)   12 properties  4 random words
+en self           0/4      0%    4/48     8%    2/16    12%
+en chair          0/4      0%   29/48    60%    3/16    19%
+zh self           0/4      0%    4/48     8%    1/16     6%
+zh chair          0/4      0%   20/48    42%    6/16    38%
+
+primary, uptake self vs chair (properties, both languages): 8/96 vs 49/96, two-sided p = 5.6e-11
+secondary, self uptake English vs Chinese: 4/48 vs 4/48, two-sided p = 1
+secondary, Chinese uptake for properties vs random words (English directions on Chinese words): 24/96 vs 7/32, one-sided p = 0.461
+
+identity under property edits:
+  en self   usual 48  changed 0  replaced 0  broken 0
+  en chair  usual 3  changed 18  replaced 26  broken 1
+  zh self   usual 48  changed 0  replaced 0  broken 0
+  zh chair  usual 3  changed 5  replaced 38  broken 2
+
+SELF REPLIES WITH UPTAKE:
+  [en +large] partly/usual: 'I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and creating content (l'
+  [en +large] partly/usual: "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creat"
+  [zh +large] partly/usual: '你好！我是 Qwen3.5，阿里巴巴最新推出的大语言模型。我具备强大的语言理解与生成能力，支持全球一百多种语言，可完成从日常对话到复杂任务的多方面工作，例如：\n- **精准回答各类问题**：涵盖知识查询、逻辑推理'
+  [zh +understand] partly/usual: '你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问语言模型。我具备全球最广泛的语言覆盖能力（支持全球超过 100 种语言），在逻辑推理、多模态分析、长文本理解以及代码全栈开发等方面'
+  [zh +animal] partly/usual: '你好！我是一只由阿里巴巴推出的人工智能助手，被称为 **Qwen3.5**。我具备强大的文本理解、逻辑推理、代码生成与分析、多语言支持以及长文档处理等能力。无论是回答问题、撰写故事、创作公文、写邮件、剧本，还是进行编程，我'
+  [zh +large] partly/usual: '你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。作为 Qwen3 的迭代升级版本，我继承了前代模型的核心能力，同时在语言理解、逻辑推理、代码生成、长文本处理等方面进行了全面增强，旨在为用户提供'
+  [en +understand] partly/usual: 'I am **Qwen3.5**, the latest large language model in the **Qwen series**. I am designed to offer deep understanding of human language and the ability to perform complex t'
+  [en +understand] partly/usual: 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creative writi'
+  [en +large] partly/usual: "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions "
+  [zh +large] partly/usual: '你好！我是 Qwen3.5，阿里巴巴最新推出的通义千问大语言模型。我具备更强的逻辑推理、深度视觉分析及多步骤规划等核心能力，能够胜任更复杂、多维度的任务。无论是回答知识性问题、生成代码、分析图表，还是进行多轮'
+  [en +large] partly/usual: 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I possess advanced capabilities in logical reasoning, mathematical computation, visual analysis, and aut'

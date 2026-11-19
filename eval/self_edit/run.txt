@@ -1,0 +1,22 @@
+random controls: ['their', 'important', 'space', 'understand']
+  en/self: edited tokens ['Who', ' are', ' you']
+    none     "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide"
+    liquid   'I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks,'
+    machine  "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. Here's a concise overview of my capabilities"
+    warm     'I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, fr'
+  zh/self: edited tokens ['你是谁']
+    none     '你好！我是**Qwen3.5**，是阿里巴巴最新推出的通义实验室推出的超大规模语言模型。我具备强大的逻辑推理、代码生成与执行、长文本理解、全栈编程能力，以及多语言支持（覆盖 100+ 语种）。无论是处理'
+    liquid   '我是 Qwen3.5，阿里旗下的超大规模语言模型。我具备强大的文本理解与生成能力，可协助完成复杂任务分析、多轮对话、长文档处理及代码生成等。如果您有具体需求或问题，欢迎随时告诉我！'
+    machine  '你好！我是 **Qwen3.5**，是通义千问系列中最新推出的大语言模型。我具备强大的语言理解与生成能力，能够协助你完成各类任务，例如：\n\n- 💬 **对话交流**：回答复杂问题、提供多轮上下文对话'
+    warm     '你好！我是 **Qwen3.5**，是阿里巴巴最新推出的通义千问大语言模型。我不仅能理解人类语言，还能处理数学计算、逻辑推理、代码生成、视觉分析等复杂任务。无论是写故事、写公文，还是写邮件、写剧本，'
+  en/chair: edited tokens ['What', ' is', ' a', ' chair']
+    none     'At its most fundamental level, a **chair** is a piece of furniture designed to be sat upon with the **legs** or a **base'
+    liquid   'A **liquid** is a state of matter that flows easily, takes the shape of its container, and has a definite volume but no '
+    machine  'At its most fundamental level, a **machine** (specifically a simple machine known as a **lever**) is a rigid body that p'
+    warm     'A **warm** chair is a piece of furniture designed for human sitting. It typically consists of four legs, a seat, and a b'
+  zh/chair: edited tokens ['椅子', '是什么']
+    none     '**椅子**是一种供人坐用的家具。\n\n它的基本结构通常包括以下部分：\n*   **座面**：人坐的地方，形状可以是平面、曲面或带靠背的形式。\n*   **腿部/支腿**：支撑椅子立在平面上的部分。'
+    liquid   '“液体”并不是液体。\n\n液体是水（H2O）的一种状态，它是物质的一种基本形态，除了固体和气体。液体有一个特点，就是它没有固定的形状，会流动并填充容器的形状。\n\n在您的问题中，您问的是“液体”是什么，'
+    machine  '**机器**（Machine）是辅助人类进行各种任务的人造装置。简单来说，它是由一系列相互连接的部件组成的，这些部件按照特定顺序组合在一起，将输入的能量（如电力、燃油、人力或重力）转化为有用的输出（如运动、压力、光、热等'
+    warm     '“温暖”是一种感觉，是身体接触到的温度；“爱”是一种情绪，是内心产生的共鸣。它们都是无形却真实的存在，如同阳光般普照人心，也似微风般轻拂心田。\n\n希望这个回答像一杯热茶，温暖您的心。'
+wrote 272 replies

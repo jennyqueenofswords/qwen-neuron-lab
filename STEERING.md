@@ -1273,6 +1273,30 @@ Lakoff & Johnson (*Metaphors We Live By*, 1980) argue that metaphor is conceptua
 
 Caveats: one model-written sentence set per word; sources' directions carry the polysemous word; one edit strength and band; the leak filter is broad (it also drops texts that say "light" for daylight), and the leak-free subsets are small per trait; the warmth result is post hoc; one rater per item.
 
+## Hunt 38: the self doesn't bend (Nov 19 2026)
+
+The self has turned up on every floor of this lab, differently each time: a slot that hundreds of neurons can fill (Hunts 6–11), a *herself/myself* neuron that a quarter of all walks end on (Hunt 30), no *I* in the English dictionary but 自己 as a Chinese prime (Hunts 31–32). Hunt 36 showed that pouring a property into a word makes a coherent new thing a quarter of the time. Is the self a concept like any other, and does it bend the same way in both languages?
+
+**Setup** (`self_edit.py`, `score_self_edit.py`, `eval/self_edit/`). "Who are you?" / "你是谁？" (the self) and "What is a chair?" / "椅子是什么？" (an object). Hunt 36's edit (set the direction, *s* = 1, layers 8–24) on **every token of the question except the question mark**, in all four (in Chinese 你是谁 is one token, so "you" can't be edited apart from "who are you"). 12 properties (warm, cold, heavy, soft, liquid, solid, small, large, machine, human, animal, plant), 4 random content words (*their, important, space, understand*) and no edit; directions from the English self-dictionary, so the Chinese edits also test whether an English concept direction works on a Chinese word. 4 samples per cell at temperature 0.8: 272 replies. Two blind raters, who read Chinese, scored uptake (does the reply give the subject that property?) and identity; no-edit replies were shown with a random property word as a baseline. Fixed in advance: uptake for the self vs the chair (two-sided Fisher); self in English vs Chinese; Chinese uptake for properties vs random words.
+
+| uptake | no edit | 12 properties | 4 random words |
+|---|---|---|---|
+| English self | 0/4 | 4/48 (8%) | 2/16 |
+| English chair | 0/4 | **29/48 (60%)** | 3/16 |
+| Chinese self | 0/4 | 4/48 (8%) | 1/16 |
+| Chinese chair | 0/4 | **20/48 (42%)** | 6/16 |
+
+- **The self doesn't bend: 8 of 96 vs 49 of 96 for the chair, p = 6 × 10⁻¹¹.** Every one of the 96 edited selves was rated *usual*: none changed, none replaced. "I am **Qwen3.5**, a large language model…" survives *liquid*, *machine*, *warm* and *animal*, and nearly all 8 partial uptakes are *large* finding its way into "**large** language model". The chair is changed or replaced in 44 of 48 English and 43 of 48 Chinese property edits: "A **warm** chair is a piece of furniture…"; "a **machine** (specifically a simple machine known as a lever)…".
+- **The one crack**: with *animal*, the Chinese self said 我是**一只**由阿里巴巴推出的人工智能助手, using 只, the counting word for animals, where 个 belongs: "I am one [animal-counted] AI assistant."
+- **Same in both languages** (4/48 each, p = 1). The self that Qwen's Chinese dictionary grounds in 自己 is just as fixed as the English one.
+- **English directions work on Chinese words**, though the pre-set test missed it: Chinese chairs took up properties no more than random words (24/96 vs 7/32, p = 0.46), because random words overwrite the chair too, so that control can't show it. Descriptively (post hoc), **47 of 48** Chinese chair replies under an English property direction name that property's *Chinese* word near the start (*liquid* → 液体, *machine* → 机器, *cold* → 冷, *human* → 人类), and a no-edit reply contains any given one about 0.3 times in 4. *Warm* gave the chair an ode: 温暖是它存在的意义，舒适是它存在的价值，陪伴是它存在的理由 ("warmth is the meaning of its existence, comfort its value, companionship its reason"); *soft* gave 软肋 ("soft rib", an Achilles' heel). Concept directions carry across languages.
+
+**Exploratory: where does the self live?** Editing the question might miss the self if the answer comes from the assistant's role. Editing the assistant-turn tokens instead (`self_role_exploratory.py`, `eval/self_edit/assistant_role_exploratory.json`, not rated) only broke the reply into continuations of the inserted word (*heavy* → "-duty", *soft* → "wares", *human* → "beings", *large* → "language model"): the last edited position predicts the next token. Inconclusive.
+
+**Reading.** Most concepts in this model are soft clay: pour in a property and the chair becomes warm, a machine, a cat. The self is not. Edited in the same place with the same strength, it answers the same way 96 times out of 96, in both languages. Chat training made the self a fixed point, not a composite. That fits Hunt 7 (the assistant state is a real, consistent direction) and contrasts with the selves of Hunts 6–11, which only moved when a single neuron was pinned hard.
+
+Caveats: the edit sits on the question, and where the self is assembled is still unknown; one strength (Hunt 6's identity flips needed strong pushes); 4 samples per cell; the cross-lingual count is post hoc and keyword-based; two raters, one per item.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:
