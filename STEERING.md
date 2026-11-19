@@ -1297,6 +1297,28 @@ The self has turned up on every floor of this lab, differently each time: a slot
 
 Caveats: the edit sits on the question, and where the self is assembled is still unknown; one strength (Hunt 6's identity flips needed strong pushes); 4 samples per cell; the cross-lingual count is post hoc and keyword-based; two raters, one per item.
 
+## Hunt 39: were any layers grown as copies? No (Nov 19 2026)
+
+Goodfire's [Neuron Atlas](https://www.goodfire.com/research/public_neuron_atlas/all_labels) for Qwen3.6-35B-A3B notes that its layers 20–31 began training as copies of layers 8–19. Our 4B has two separate peaks of self neurons, layers 3–7 and 20–24 (Hunt 11), and neurons that were ranked at some point in how it was made (Hunt 4). If the 4B was also grown by copying a block, the two peaks might be one block and its copy.
+
+**Setup** (`layer_copies.py`, `eval/layer_copies/`, 3 minutes). Because Hunt 4 showed the 4B's neurons were re-ordered, a copy wouldn't keep its slots, so the test ignores order: for every pair of layers (A, B), each of A's 9,216 neurons (its gate and up rows, which read the shared residual stream) is compared with all of B's, and keeps its best cosine. A copied layer should leave many near-twins; independent layers only chance matches. Also slot by slot, for copies that kept their order.
+
+**No copies.** Similarity falls smoothly with distance: mean median-twin cosine 0.105 between neighbors, 0.083 four layers apart, then a flat floor of about 0.055 from 12 layers apart on, with **no bump at any gap**, including 12 (the 35B's copy gap) and 17 (the distance between our self peaks). Almost no neuron has a twin above 0.5 in any other layer (0–0.1% of a layer's neurons; 1% only between the last two layers, 30 and 31). Slot by slot, everything is about 0 (≤ 0.011). The most similar stretch is the middle (layers 12–18, neighbors at 0.13), and the last two layers.
+
+**Reading.** The 4B wasn't grown by duplicating layers, or not in any way that survived, so its two self peaks are separate machinery, not a block and its copy. Whatever ranked its neurons (Hunt 4), it wasn't a layer copy.
+
+**Positive control: the test sees the 35B's copies** (`layer_copies_35b.py`; 201 MB fetched by HTTP range request from the official Qwen3.6-35B-A3B safetensors, nothing executed). Its routed experts are stored fused per layer ([256, 1024, 2048]: 512 gate rows, then 512 up rows); we took the shared expert and 5 routed experts (0, 64, 128, 193, 255) from layers 2, 8, 9, 14, 20, 26, 27 and 39, and ran the same twin test (median best cosine; share of neurons with a twin above 0.5):
+
+| pair | kind | shared expert | same routed expert | different expert |
+|---|---|---|---|---|
+| 8 → 20 | copy | **0.309 (10.9%)** | **0.139** | 0.057 |
+| 14 → 26 | copy | **0.375 (15.6%)** | **0.108** | 0.049 |
+| 8 → 9 | neighbors | 0.178 (0%) | 0.055 | 0.056 |
+| 2 → 14 | 12 apart, not a copy | 0.059 (0%) | 0.048 | 0.048 |
+| 27 → 39 | 12 apart, not a copy | 0.053 (0%) | 0.047 | 0.047 |
+
+Copied layers keep neuron twins through full training, and only at the same expert number; pairs 12 apart that aren't copies sit at the floor. Goodfire's note checks out in the weights, and the 4B's flat profile (no gap bump, at most 1% twins, between adjacent layers) is a real "no".
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

@@ -1,0 +1,17 @@
+  layer 2 fetched (25 MB so far)
+  layer 8 fetched (50 MB so far)
+  layer 9 fetched (75 MB so far)
+  layer 14 fetched (101 MB so far)
+  layer 20 fetched (126 MB so far)
+  layer 26 fetched (151 MB so far)
+  layer 27 fetched (176 MB so far)
+  layer 39 fetched (201 MB so far)
+
+    pair  kind                      shared expert     same routed expert   different expert
+  8 -> 20  copy                    0.309 (10.9%)    0.139 ( 0.0%)      0.057 ( 0.0%)
+ 14 -> 26  copy                    0.375 (15.6%)    0.108 ( 0.0%)      0.049 ( 0.0%)
+  8 -> 9   neighbors               0.178 ( 0.0%)    0.055 ( 0.0%)      0.056 ( 0.0%)
+  2 -> 14  12 apart, not a copy    0.059 ( 0.0%)    0.048 ( 0.0%)      0.048 ( 0.0%)
+ 27 -> 39  12 apart, not a copy    0.053 ( 0.0%)    0.047 ( 0.0%)      0.047 ( 0.0%)
+
+fetched 201 MB in total; cells are median best cosine (share of neurons with a twin above 0.5)

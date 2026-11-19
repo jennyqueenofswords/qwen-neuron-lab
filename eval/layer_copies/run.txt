@@ -1,0 +1,52 @@
+  layer  0: best partner by median twin cosine = layer 1 (0.061, 0.0% above 0.5); slot-by-slot max +0.002
+  layer  1: best partner by median twin cosine = layer 2 (0.071, 0.0% above 0.5); slot-by-slot max +0.003
+  layer  2: best partner by median twin cosine = layer 3 (0.073, 0.0% above 0.5); slot-by-slot max +0.003
+  layer  3: best partner by median twin cosine = layer 4 (0.081, 0.0% above 0.5); slot-by-slot max +0.003
+  layer  4: best partner by median twin cosine = layer 5 (0.087, 0.0% above 0.5); slot-by-slot max +0.003
+  layer  5: best partner by median twin cosine = layer 6 (0.105, 0.0% above 0.5); slot-by-slot max +0.003
+  layer  6: best partner by median twin cosine = layer 5 (0.105, 0.0% above 0.5); slot-by-slot max +0.004
+  layer  7: best partner by median twin cosine = layer 6 (0.101, 0.0% above 0.5); slot-by-slot max +0.004
+  layer  8: best partner by median twin cosine = layer 7 (0.094, 0.0% above 0.5); slot-by-slot max +0.004
+  layer  9: best partner by median twin cosine = layer 10 (0.100, 0.0% above 0.5); slot-by-slot max +0.004
+  layer 10: best partner by median twin cosine = layer 11 (0.108, 0.1% above 0.5); slot-by-slot max +0.003
+  layer 11: best partner by median twin cosine = layer 12 (0.117, 0.0% above 0.5); slot-by-slot max +0.003
+  layer 12: best partner by median twin cosine = layer 13 (0.127, 0.1% above 0.5); slot-by-slot max +0.003
+  layer 13: best partner by median twin cosine = layer 14 (0.133, 0.0% above 0.5); slot-by-slot max +0.003
+  layer 14: best partner by median twin cosine = layer 13 (0.135, 0.1% above 0.5); slot-by-slot max +0.003
+  layer 15: best partner by median twin cosine = layer 16 (0.136, 0.0% above 0.5); slot-by-slot max +0.003
+  layer 16: best partner by median twin cosine = layer 15 (0.136, 0.1% above 0.5); slot-by-slot max +0.003
+  layer 17: best partner by median twin cosine = layer 16 (0.131, 0.1% above 0.5); slot-by-slot max +0.003
+  layer 18: best partner by median twin cosine = layer 17 (0.131, 0.1% above 0.5); slot-by-slot max +0.004
+  layer 19: best partner by median twin cosine = layer 20 (0.112, 0.1% above 0.5); slot-by-slot max +0.005
+  layer 20: best partner by median twin cosine = layer 22 (0.110, 0.1% above 0.5); slot-by-slot max +0.006
+  layer 21: best partner by median twin cosine = layer 22 (0.116, 0.1% above 0.5); slot-by-slot max +0.006
+  layer 22: best partner by median twin cosine = layer 21 (0.120, 0.1% above 0.5); slot-by-slot max +0.006
+  layer 23: best partner by median twin cosine = layer 22 (0.108, 0.0% above 0.5); slot-by-slot max +0.007
+  layer 24: best partner by median twin cosine = layer 23 (0.097, 0.1% above 0.5); slot-by-slot max +0.008
+  layer 25: best partner by median twin cosine = layer 24 (0.091, 0.1% above 0.5); slot-by-slot max +0.009
+  layer 26: best partner by median twin cosine = layer 25 (0.089, 0.1% above 0.5); slot-by-slot max +0.009
+  layer 27: best partner by median twin cosine = layer 28 (0.089, 0.1% above 0.5); slot-by-slot max +0.010
+  layer 28: best partner by median twin cosine = layer 29 (0.098, 0.1% above 0.5); slot-by-slot max +0.011
+  layer 29: best partner by median twin cosine = layer 30 (0.111, 0.2% above 0.5); slot-by-slot max +0.011
+  layer 30: best partner by median twin cosine = layer 31 (0.149, 1.0% above 0.5); slot-by-slot max +0.009
+  layer 31: best partner by median twin cosine = layer 30 (0.165, 1.0% above 0.5); slot-by-slot max +0.008
+
+median twin cosine over all layer pairs: median 0.061, 95th percentile 0.110, max 0.165
+pairs with the highest median twin cosine:
+  30 – 31 (gap  1): 0.149, 1.0% of 30's neurons have a twin above 0.5
+  15 – 16 (gap  1): 0.136, 0.0% of 15's neurons have a twin above 0.5
+  16 – 17 (gap  1): 0.134, 0.1% of 16's neurons have a twin above 0.5
+  13 – 14 (gap  1): 0.133, 0.0% of 13's neurons have a twin above 0.5
+  14 – 15 (gap  1): 0.128, 0.0% of 14's neurons have a twin above 0.5
+  17 – 18 (gap  1): 0.128, 0.0% of 17's neurons have a twin above 0.5
+  12 – 13 (gap  1): 0.127, 0.0% of 12's neurons have a twin above 0.5
+  13 – 15 (gap  2): 0.127, 0.0% of 13's neurons have a twin above 0.5
+  15 – 17 (gap  2): 0.126, 0.0% of 15's neurons have a twin above 0.5
+  14 – 16 (gap  2): 0.126, 0.0% of 14's neurons have a twin above 0.5
+  12 – 14 (gap  2): 0.124, 0.0% of 12's neurons have a twin above 0.5
+  16 – 18 (gap  2): 0.121, 0.0% of 16's neurons have a twin above 0.5
+  13 – 16 (gap  3): 0.118, 0.0% of 13's neurons have a twin above 0.5
+  11 – 12 (gap  1): 0.117, 0.0% of 11's neurons have a twin above 0.5
+  18 – 19 (gap  1): 0.116, 0.1% of 18's neurons have a twin above 0.5
+
+mean median-twin cosine by layer gap: {1: 0.105, 2: 0.098, 3: 0.09, 4: 0.083, 5: 0.075, 6: 0.071, 7: 0.068, 8: 0.066, 9: 0.063, 10: 0.062, 11: 0.061, 12: 0.06, 13: 0.059, 14: 0.058, 15: 0.058, 16: 0.057, 17: 0.057, 18: 0.057, 19: 0.056, 20: 0.056, 21: 0.056, 22: 0.055, 23: 0.055, 24: 0.055, 25: 0.055, 26: 0.054, 27: 0.054, 28: 0.054, 29: 0.055, 30: 0.055, 31: 0.056}
