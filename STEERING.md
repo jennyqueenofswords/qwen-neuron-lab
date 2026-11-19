@@ -1142,6 +1142,101 @@ The definitions are good plain Chinese: 学 ("learn") = 把新本领装进脑子
 
 Caveats: the Mandarin NSM list is our own mapping; one greedy translation per word; forward maximum matching splits idioms (原封不动 → 原 / 封 / 不动); every caveat of Hunt 31 applies. The two dictionaries also differ in size (7,247 vs 4,558).
 
+## Hunt 33: are the primes load-bearing? A knockout (Nov 13 2026)
+
+Hunts 31–32 found a floor of primes in the model's own definitions, and it looks like the human one. That could be a mirror of how human dictionaries are written rather than something the model computes with. The causal test: knock a concept out, and see whether the words built on it break more when it's a prime.
+
+**Setup** (`knockout.py`, `eval/knockout/`, 10 minutes). For a word *w*, take a direction at every layer: the mean residual on *w*'s tokens minus the mean over all tokens, in 10 of the definitions that use it. The knockout removes that direction from the residual stream after every layer, at every position. Then the model is asked to define 8 *other* words whose definitions use *w* ("Define the word *u*…"), teacher-forced through its own definition of *u*, and scored **only on the tokens before *w* first appears**. Nothing can be lost just because *w* became harder to say or read; any damage there means the concept was already at work while the model was setting up the definition. Each test definition is paired with a random definition that doesn't use *w*, scored on the same number of leading tokens. **Specific damage S** = loss increase on the dependents minus on the pairs. Fixed before running: 50 primes drawn at random (seed 0) from the 184 with at least 18 usable dependents, and 50 non-prime controls with the same eligibility, matched on vocabulary rank. Primary test: one-sided Mann–Whitney, primes > controls. (The first full run hung on one word, whose prefix was longer than any definition that could pair with it. The pairing search is now capped, and such a dependent is skipped. Everything is seeded, so the rerun repeated the first 66 knockouts exactly.)
+
+**The knockouts work.** The log-probability of *w*'s own first token drops by a median 4.1 nats under its knockout, the same for primes and controls. Function words knock out weakly (*with* 0.6, *they* 0.9, *when* 0.8 nats).
+
+**Concepts are compositional, all of them.** S is positive for 76% of primes and 70% of controls: removing *w* damages the start of definitions that will go on to use *w* more than it damages unrelated definitions. The concept a definition is about to need is already in play before the model says it. The strongest: *round* (+0.85 nats per token), *picture* (+0.64), *important*, *energy*, *message*.
+
+**But primes aren't special: a null.** Mean S is +0.099 for primes and +0.079 for controls (medians +0.051 and +0.067); **p = 0.31**. Restricted to knockouts that took (own token down ≥ 2 nats, fixed after a 3 + 3 smoke test): 32 primes at +0.145 vs 42 controls at +0.105, p = 0.15. General damage to unrelated definitions is the same (+0.135 vs +0.132, p = 0.37). S rises with how hard the knockout bites (Spearman ρ = 0.44, p = 4 × 10⁻⁶), which says more about what the test can detect than about primes.
+
+**Reading.** Prime status is a property of the definition graph, not of the network: a word being one of the fewest that can ground all the others doesn't make the model lean on it any harder than on an equally common word. What's real in the weights is composition itself: words built from a concept use it. The floor the dictionaries share with Wierzbicka's (Hunts 31–32) looks like a fact about how meaning is written down, inherited from human text, rather than a privileged layer of the model's machinery. The one link to the weights is still Hunt 31's own-neuron result: primes more often get a layer-0 neuron of their own.
+
+Caveats: 50 per group and a noisy measure, so a modest prime effect isn't ruled out (the "took" subset points the right way, p = 0.15); one direction per layer from 10 definitions; teacher-forcing on the model's own greedy definitions; English only.
+
+## Hunt 34: reading a word's parts before it speaks (Nov 16 2026)
+
+Hunt 33's knockouts showed the model using a concept in the opening of a definition, before saying the word. So the parts of a definition should be readable from the model's state *before it answers*: the Wikipedia game done inside the activations instead of in the text.
+
+**Setup** (`concept_read.py`, `eval/concept_read/`, 3 minutes). Split the English self-dictionary in half by headword (seed 0). From half A's 2,273 definitions, a direction per word and layer as in Hunt 33 (mean residual on the word's tokens minus the mean over all tokens), for the **664 words** used at least 5 times. For each headword *u* in half B, ask "Define the word *u*…" and take the residual at the last prompt token, the moment before the answer starts, centered across all B prompts. Score every library word by cosine with that state. Parts of *u* = library words its definition uses. Per target, the AUC for parts vs non-parts. Baseline: rank words by how many A definitions use them, a prior that knows nothing about *u*. Fixed in advance: pick the best layer on the first 200 targets, then test the other 2,084 against the baseline.
+
+**The parts are there, from the middle layers up.** Mean AUC by layer: 0.53 (layers 4 and 8), 0.57 (12), 0.64 (16), **0.73 (20)**, 0.72 (24), 0.71 (28). Before layer 12 the state at the answer position knows almost nothing about *u*'s parts; by layer 20 it does. That's the depth where the self neurons live (Hunts 6, 11).
+
+**Primary test: it lost.** Layer 20 scored 0.734 against the frequency baseline's **0.865** (Wilcoxon p = 1; directions better on 16% of targets). Most of any definition is *be, a, of, that, or*, which a frequency prior gets right for free and a meaning readout has no reason to predict.
+
+**Post hoc, two checks added after seeing that** (so treat them as exploratory, though the effects are large):
+- **Content words only** (the 100 most-used definition words dropped from parts and non-parts): directions **0.854** vs frequency 0.653, directions better on 81% of 2,126 targets (p = 7 × 10⁻²⁰¹).
+- **Directions add to frequency**: the sum of the two z-scored is 0.916 vs 0.865 for frequency alone, better on 73% (p = 4 × 10⁻¹⁴²).
+
+**What the state holds, at layer 20** (top 8 library words; ✱ = in its actual definition):
+- **rock**: solid✱ thin earth✱ metal fruit sweet tiny ground✱ (*"a solid piece of earth that forms the ground beneath our feet"*)
+- **dream**: mental experience✱ think sleep✱ sudden brief mind belief
+- **insurance**: money✱ service business sell offer pay✱ legal exchange
+- **teacher**: who✱ young person✱ community male guide perform human
+- **love**: deep✱ feel sense intense belief emotion relationship strong
+- **peace**: state✱ sense achieve feel desire mental belief deep (its definition says *calm, conflict, violence*; the state says what kind of thing peace is)
+- **tool**: machine basic perform✱ solve structure flexible device✱ thin
+- **considerate** and **selfless** both read *kind pleasant quality extremely great helpful…*: for virtues, the state holds the category (a good trait), not the parts (*others, needs, feelings*).
+
+**Reading.** Before it says a word of the definition, the model holds a neighborhood of concepts, mostly the kind of thing *u* is and what it's made of or for, and the definition is drawn from it. That isn't a clean parts list: *rock* also lights up *fruit, sweet*, and virtues collapse into one evaluative cluster. Decomposition here looks like "what category, what material, what function", which is also how its definitions are written (*specific, use, material, substance* among its English primes).
+
+Caveats: the main result is post hoc; the readout can't tell "parts" from "related concepts" (a definition's parts are related concepts); the answer position gets *u* only through attention, so the early-layer flatness is partly information that hasn't arrived yet; one prompt template; English only.
+
+## Hunt 35: the Wikipedia game inside the activations (Nov 16 2026)
+
+Hunt 34 read a word's concepts from the model's state before it answers. That makes the original game playable inside the model: from a word's state, step to the concept it holds most strongly, read *that* concept's state, and repeat. On Wikipedia, following first links ends at *Philosophy* for most articles. Is there a Philosophy inside Qwen?
+
+**Setup** (`inner_walk.py`, `eval/inner_walk/`, 3 minutes per frame). For all 4,558 headwords of the English self-dictionary, the layer-20 residual at the last prompt token (the moment before the answer), centered over all headwords. **Inner link**: the library concept (Hunt 34's 664 directions) that best matches that state, other than the word itself. **Text link**: the first word of the word's own definition (after the "The word X is" frame) that is a headword and not a function word, the dictionary's own first link. Each word has exactly one link, so every walk ends in a loop; we count the loops and how much of the dictionary drains into each. The inner game was run under two prompt frames: "Define the word X…" (as in Hunt 34) and, as a control, "Tell me about X."
+
+**The text game has no Philosophy.** 69 separate loops; the biggest drain is 16% (*large ↔ big*), then a loop of agency, 15% (*move → change → act → deliberate → purpose → reason → logical → follow → move*), and *hold ↔ keep* (14%). Like Harnad's human dictionaries, definitions scatter.
+
+**The inner game converges, and where to depends on the question.**
+- **"Define the word X": the sink is language itself.** 9 loops, and **86% of all words** drain into one: *distinct → extremely → very → pronoun → phrase*. The walks pass through the act of defining: *self → define → explain → to → indicate → verb → pronoun → phrase*, and the same from *peace*, *god* and *music*. *Belief ↔ opinion* takes 10% (*considerate → kind → moral → belief*).
+- **"Tell me about X": the sink splits into abstraction, the world, gender, society and the body.** 6 loops: **32%** to *concept → basic → true* (Qwen's nearest thing to *Philosophy*), **29%** to *male ↔ female*, **23%** to *earth ↔ sun*, 7% to *society ↔ community*, 7% to *organ ↔ blood*. The gender basin is mostly the grammar sink in disguise: verbs and grammar words step to *verb* and *pronoun*, which step to *male*. Walks: *lie → truth → moral → belief → mental → word → letter → book → picture → create → power → world → earth → sun*; *self → mental → word → letter → book → … → world → earth → sun*; *insurance → service → business → offer → legally → law → society*; *joke → story → art → study → learn → ability → concept → basic → true*.
+
+**The two games agree more than chance, but not often.** The first inner step matches the first text link for 16.6% of words under "define" (chance from the two link distributions: 0.4%) and 6.5% under "about" (0.2%). The text link's median rank among the 664 concepts in the inner state is 10 ("define") and 44 ("about").
+
+**Reading.** In its writing, Qwen's concepts form a scattered web with many small loops (Hunts 31–33). In its state before speaking, the same concepts sit around a few hubs, and *which* hubs depends on what it's been asked. Asked to define, everything rolls toward language (word classes, phrases, intensifiers); asked to tell about, toward *concept / basic / true*, *earth / sun*, *male / female*. The Wikipedia game's *Philosophy* is an effect of how articles are written (each first link goes up to a broader field); the inner game's sinks are an effect of the question, which makes them a map of what the question puts in the foreground rather than a fixed root of meaning.
+
+Caveats: nearest-neighbor search in high dimensions makes hubs (a few directions sit close to many states: *verb* receives 576 links under "about"), so some of the convergence is geometry; one layer (20); the library comes from definitions, so it carries their style; argmax links throw away everything but the top concept.
+
+## Hunt 36: editing a concept's parts (Nov 19 2026)
+
+Hunt 33's one positive was that the model uses a concept before naming it. If concepts are built from parts, changing a part should change the concept coherently: a rock whose *solid* becomes *liquid* should come out as something like lava, not noise.
+
+**Setup** (`edit_concepts.py`, `score_edits.py`, `eval/edit_concepts/`). 22 directed contrast pairs *p → q* among Hunt 34's library words (solid ↔ liquid, soft ↔ hard, small ↔ large, male ↔ female, light ↔ heavy, metal ↔ wood, plant ↔ animal, human ↔ machine, cold ↔ warm, flat ↔ round, high ↔ low), and up to 5 headwords per pair whose definition uses *p* and not *q*: 110 targets. Directions for every layer from up to 20 definitions that use the word (never a target's own), plus each word's typical size *m* on its tokens. The model defines each target under five conditions: **base**; **remove** (*p*'s direction projected out after every layer); **swap** (remove *p*, and set the projection on *q*'s direction to its usual size, *s·m*, after layers 8–24); **add** (*q* only); **control** (remove *p*, add a random content word instead). **Edits apply only at the target word's own tokens in the prompt**; the answer reads the edited word through attention. 550 greedy definitions, shuffled and rated blind (four Sonnet raters, one per batch; `rate/RUBRIC.md`): identity *same / variant* (still the word, changed coherently) */ replaced / broken*, and which property it describes.
+
+**Getting the edit to work took three fixes,** all visible in the history: adding a direction at 17 layers stacks it up (the residual stream keeps what earlier layers added), so it became a clamp; the clamp's target has to be relative to the average token, whose own projection is large; and editing every token at every layer breaks the model even at half strength, so the edit moved to the word's own tokens. Strength *s* = 1 was picked on two calibration pairs kept out of the test (thick → thin, long → short), where all six edits read as coherent variants: *horse, long → short* "A small, four-legged domesticated animal…"; *sofa* "A small, low seat…". Not fully blind: rock and table edits had been seen while debugging.
+
+**Results** (share of 110 each):
+
+| condition | same | variant | replaced | broken | describes *p* | describes *q* |
+|---|---|---|---|---|---|---|
+| base | 99% | 0% | 1% | 0% | 89% | 2% |
+| remove *p* | 97% | 2% | 0% | 1% | 69% | 1% |
+| swap *p → q* | 26% | **27%** | 42% | 5% | 18% | 68% |
+| add *q* | 43% | **24%** | 31% | 3% | 26% | 53% |
+| control (random) | 57% | **5%** | 32% | 6% | 34% | 3% |
+
+- **Primary, a null:** swapping makes coherent variants no more often than adding (30 vs 26 of 110, p = 0.32). Taking the old part out doesn't make room for the new one.
+- **But putting a property into a word makes a coherent new thing a quarter of the time**, against 5% for a random concept (swap vs control, p = 2 × 10⁻⁶). The inserted property is described in 68% of swaps (2% at base).
+- **Taking a part out barely matters.** Without *p*, 97% of definitions still define the same thing; they just stop mentioning the property (89% → 69%), as when *rock* without *solid* became "a large piece of hard-stone". Concepts have backups (as selves did in Hunt 15).
+
+**The variants** (blind-rated, swap unless noted):
+- *rust*, metal → wood: "**Wood rot** caused by fungi." The model found the analogy: rot is to wood what rust is to metal.
+- *stone*, hard → soft: "A soft, pliable material that can be molded by hand." (clay)
+- *wheel*, round → flat: "A flat, rigid surface that rotates around an axle…"; *tire*: "A flat tire is a vehicle wheel that has lost its air pressure."
+- *iron*, hard → soft: "Soft, pliable metal that is easily shaped…"; *hum*, low → high: "A high-pitched whistling sound, often heard in pipes"; *disease*, animal → plant: "A plant disease…"; *android*, human → machine: "A robot…"; *amused*, light → heavy: "Heavy-hearted or deeply impressed."
+- Adding only: *girl* + male: "A male human child or young person."; *sheep* + plant: "A plant-eating animal with a **leafy green head** and a woolly body."; *chilly* + warm: "Warm but not hot."; *icy* + warm: "Warm enough to melt ice but cold enough to feel chilly."
+
+**Reading.** Concepts compose by addition more than by parts. A property can be poured into a word and the model makes a coherent new thing out of it (often by analogy, as with rust → rot), but the parts already in a concept are redundant: remove one and the concept survives without it. That fits Hunt 33 (no special floor) and Hunt 34 (a concept is held as a neighborhood): the building blocks look like overlapping features layered onto a robust core, not a list of parts with a root beneath them.
+
+Caveats: one rater per item, no agreement check; the variant/replaced line is a judgment call; the strength was chosen partly after seeing examples; one strength and one layer band; the control inserts random content words, which are less property-like than the contrast words, so swap vs control partly compares kinds of word; English only.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

@@ -1,0 +1,1907 @@
+{
+ "results": [
+  {
+   "word": "clear",
+   "kind": "prime",
+   "S": 0.2246973216533661,
+   "dep": 0.33647117018699646,
+   "pair": 0.11177385598421097,
+   "own_drop": 8.986895561218262,
+   "n_dep": 27,
+   "test": [
+    "precise",
+    "explain",
+    "unsure",
+    "prove",
+    "algorithm",
+    "disorganized",
+    "explanation",
+    "instruction"
+   ]
+  },
+  {
+   "word": "thing",
+   "kind": "prime",
+   "S": 0.020188741385936737,
+   "dep": 0.08261112868785858,
+   "pair": 0.062422387301921844,
+   "own_drop": 5.113737106323242,
+   "n_dep": 120,
+   "test": [
+    "margin",
+    "gather",
+    "than",
+    "dense",
+    "join",
+    "connect",
+    "closer",
+    "helpful"
+   ]
+  },
+  {
+   "word": "with",
+   "kind": "prime",
+   "S": 0.0188620463013649,
+   "dep": 0.13266092538833618,
+   "pair": 0.11379887908697128,
+   "own_drop": 0.5905392169952393,
+   "n_dep": 239,
+   "test": [
+    "grab",
+    "illustrate",
+    "species",
+    "zip",
+    "add",
+    "particle",
+    "terror",
+    "microorganisms"
+   ]
+  },
+  {
+   "word": "well",
+   "kind": "prime",
+   "S": -0.04777306318283081,
+   "dep": 0.04482629895210266,
+   "pair": 0.09259936213493347,
+   "own_drop": 1.822117567062378,
+   "n_dep": 25,
+   "test": [
+    "theory",
+    "selflessness",
+    "test",
+    "muscular",
+    "famous",
+    "noted",
+    "love",
+    "health"
+   ]
+  },
+  {
+   "word": "live",
+   "kind": "prime",
+   "S": -0.0006411522626876831,
+   "dep": 0.08715523034334183,
+   "pair": 0.08779638260602951,
+   "own_drop": 3.207510232925415,
+   "n_dep": 49,
+   "test": [
+    "cell",
+    "air",
+    "plant",
+    "bone",
+    "population",
+    "evolution",
+    "immigration",
+    "happiness"
+   ]
+  },
+  {
+   "word": "device",
+   "kind": "prime",
+   "S": 0.20215338468551636,
+   "dep": 0.6348565816879272,
+   "pair": 0.4327031970024109,
+   "own_drop": 5.192221641540527,
+   "n_dep": 38,
+   "test": [
+    "switch",
+    "monitor",
+    "timer",
+    "receiver",
+    "generator",
+    "apps",
+    "tech",
+    "engine"
+   ]
+  },
+  {
+   "word": "offer",
+   "kind": "prime",
+   "S": 0.012880019843578339,
+   "dep": 0.13322803378105164,
+   "pair": 0.1203480139374733,
+   "own_drop": 6.651149749755859,
+   "n_dep": 20,
+   "test": [
+    "advise",
+    "advice",
+    "seller",
+    "critic",
+    "shelter",
+    "counsel",
+    "nurse",
+    "proposal"
+   ]
+  },
+  {
+   "word": "take",
+   "kind": "prime",
+   "S": -0.20027737319469452,
+   "dep": 0.0007817912846803665,
+   "pair": 0.20105916261672974,
+   "own_drop": 5.136965751647949,
+   "n_dep": 56,
+   "test": [
+    "motivation",
+    "grab",
+    "ad",
+    "happening",
+    "fluid",
+    "operation",
+    "warrant",
+    "absorb"
+   ]
+  },
+  {
+   "word": "food",
+   "kind": "prime",
+   "S": -0.08811672031879425,
+   "dep": 0.13308924436569214,
+   "pair": 0.2212059646844864,
+   "own_drop": 1.2467257976531982,
+   "n_dep": 56,
+   "test": [
+    "menu",
+    "parasitic",
+    "leaf",
+    "swallow",
+    "pan",
+    "dish",
+    "leaves",
+    "bake"
+   ]
+  },
+  {
+   "word": "against",
+   "kind": "prime",
+   "S": -0.0940222293138504,
+   "dep": 0.21378667652606964,
+   "pair": 0.30780890583992004,
+   "own_drop": 1.5652108192443848,
+   "n_dep": 20,
+   "test": [
+    "forbidden",
+    "anti",
+    "fight",
+    "dislike",
+    "illegal",
+    "forced",
+    "arch",
+    "friction"
+   ]
+  },
+  {
+   "word": "tool",
+   "kind": "prime",
+   "S": 0.030864745378494263,
+   "dep": 0.18779906630516052,
+   "pair": 0.15693432092666626,
+   "own_drop": 4.643255710601807,
+   "n_dep": 31,
+   "test": [
+    "needle",
+    "key",
+    "chisel",
+    "pen",
+    "carve",
+    "instrument",
+    "lathe",
+    "weapon"
+   ]
+  },
+  {
+   "word": "where",
+   "kind": "prime",
+   "S": -0.044518858194351196,
+   "dep": 0.06459349393844604,
+   "pair": 0.10911235213279724,
+   "own_drop": 0.6159636974334717,
+   "n_dep": 122,
+   "test": [
+    "partnership",
+    "bond",
+    "east",
+    "inconsistency",
+    "journal",
+    "love",
+    "unconscious",
+    "bank"
+   ]
+  },
+  {
+   "word": "bad",
+   "kind": "prime",
+   "S": 0.3457942008972168,
+   "dep": 0.4875069856643677,
+   "pair": 0.14171279966831207,
+   "own_drop": 5.20789909362793,
+   "n_dep": 18,
+   "test": [
+    "sorrow",
+    "risk",
+    "desperate",
+    "harmful",
+    "discomfort",
+    "insurance",
+    "threaten",
+    "ruin"
+   ]
+  },
+  {
+   "word": "part",
+   "kind": "prime",
+   "S": 0.1155887246131897,
+   "dep": 0.20004816353321075,
+   "pair": 0.08445943892002106,
+   "own_drop": 2.2830846309661865,
+   "n_dep": 143,
+   "test": [
+    "stub",
+    "incision",
+    "workpiece",
+    "involve",
+    "limb",
+    "shoulder",
+    "diagram",
+    "bulk"
+   ]
+  },
+  {
+   "word": "same",
+   "kind": "prime",
+   "S": 0.0947251170873642,
+   "dep": 0.17792978882789612,
+   "pair": 0.08320467174053192,
+   "own_drop": 0.01628589630126953,
+   "n_dep": 37,
+   "test": [
+    "unlike",
+    "circle",
+    "during",
+    "unchanging",
+    "repetitive",
+    "even",
+    "repetition",
+    "brother"
+   ]
+  },
+  {
+   "word": "toward",
+   "kind": "prime",
+   "S": 0.09642696380615234,
+   "dep": 0.2515977621078491,
+   "pair": 0.15517079830169678,
+   "own_drop": 2.5277910232543945,
+   "n_dep": 48,
+   "test": [
+    "gravity",
+    "unfriendly",
+    "contribute",
+    "towards",
+    "team",
+    "rude",
+    "going",
+    "progress"
+   ]
+  },
+  {
+   "word": "your",
+   "kind": "prime",
+   "S": 0.016101542860269547,
+   "dep": 0.06157563626766205,
+   "pair": 0.0454740934073925,
+   "own_drop": 0.024617433547973633,
+   "n_dep": 129,
+   "test": [
+    "adapt",
+    "thrown",
+    "grab",
+    "say",
+    "relax",
+    "think",
+    "hear",
+    "excellence"
+   ]
+  },
+  {
+   "word": "completely",
+   "kind": "prime",
+   "S": 0.14886818826198578,
+   "dep": 0.15154948830604553,
+   "pair": 0.002681299112737179,
+   "own_drop": 5.182295799255371,
+   "n_dep": 26,
+   "test": [
+    "fully",
+    "thoroughness",
+    "fantastic",
+    "filled",
+    "sever",
+    "cure",
+    "thorough",
+    "encompass"
+   ]
+  },
+  {
+   "word": "very",
+   "kind": "prime",
+   "S": 0.12000323832035065,
+   "dep": 0.30586087703704834,
+   "pair": 0.1858576387166977,
+   "own_drop": 4.260619163513184,
+   "n_dep": 64,
+   "test": [
+    "powder",
+    "highly",
+    "extremely",
+    "tall",
+    "dark",
+    "thread",
+    "rapid",
+    "bright"
+   ]
+  },
+  {
+   "word": "quality",
+   "kind": "prime",
+   "S": 0.03433017432689667,
+   "dep": 0.21819032728672028,
+   "pair": 0.1838601529598236,
+   "own_drop": 4.382284641265869,
+   "n_dep": 24,
+   "test": [
+    "distinctive",
+    "lesser",
+    "worse",
+    "review",
+    "positive",
+    "special",
+    "characterize",
+    "deserve"
+   ]
+  },
+  {
+   "word": "rule",
+   "kind": "prime",
+   "S": 0.25487619638442993,
+   "dep": 0.36939552426338196,
+   "pair": 0.11451934278011322,
+   "own_drop": 6.310550212860107,
+   "n_dep": 49,
+   "test": [
+    "adhere",
+    "formality",
+    "obey",
+    "cheat",
+    "government",
+    "king",
+    "language",
+    "standardized"
+   ]
+  },
+  {
+   "word": "use",
+   "kind": "prime",
+   "S": -0.060665614902973175,
+   "dep": 0.09575092047452927,
+   "pair": 0.15641653537750244,
+   "own_drop": 1.431560754776001,
+   "n_dep": 359,
+   "test": [
+    "logic",
+    "selector",
+    "bat",
+    "reserve",
+    "money",
+    "machinery",
+    "myself",
+    "phone"
+   ]
+  },
+  {
+   "word": "action",
+   "kind": "prime",
+   "S": 0.18023477494716644,
+   "dep": 0.3355322480201721,
+   "pair": 0.15529747307300568,
+   "own_drop": 3.975194215774536,
+   "n_dep": 81,
+   "test": [
+    "interpret",
+    "by",
+    "does",
+    "ad",
+    "reverse",
+    "perform",
+    "deploy",
+    "crisis"
+   ]
+  },
+  {
+   "word": "out",
+   "kind": "prime",
+   "S": -0.04724086821079254,
+   "dep": 0.10135458409786224,
+   "pair": 0.14859545230865479,
+   "own_drop": 1.087575912475586,
+   "n_dep": 53,
+   "test": [
+    "except",
+    "ref",
+    "flickering",
+    "emit",
+    "spill",
+    "disappointment",
+    "memorable",
+    "those"
+   ]
+  },
+  {
+   "word": "have",
+   "kind": "prime",
+   "S": 0.03401537984609604,
+   "dep": 0.09660918265581131,
+   "pair": 0.06259380280971527,
+   "own_drop": 0.9051823616027832,
+   "n_dep": 170,
+   "test": [
+    "desirable",
+    "acidity",
+    "considered",
+    "substance",
+    "never",
+    "version",
+    "effective",
+    "curve"
+   ]
+  },
+  {
+   "word": "information",
+   "kind": "prime",
+   "S": 0.17151877284049988,
+   "dep": 0.3453506529331207,
+   "pair": 0.17383188009262085,
+   "own_drop": 6.246112823486328,
+   "n_dep": 74,
+   "test": [
+    "compact",
+    "consult",
+    "coverage",
+    "clue",
+    "data",
+    "receiver",
+    "computer",
+    "question"
+   ]
+  },
+  {
+   "word": "often",
+   "kind": "prime",
+   "S": 0.017326511442661285,
+   "dep": 0.06845517456531525,
+   "pair": 0.05112866312265396,
+   "own_drop": 6.619886875152588,
+   "n_dep": 79,
+   "test": [
+    "protest",
+    "lodge",
+    "pig",
+    "bathroom",
+    "butter",
+    "block",
+    "hero",
+    "couple"
+   ]
+  },
+  {
+   "word": "round",
+   "kind": "prime",
+   "S": 0.8509604930877686,
+   "dep": 0.8583159446716309,
+   "pair": 0.007355472072958946,
+   "own_drop": 6.000948905944824,
+   "n_dep": 29,
+   "test": [
+    "bead",
+    "button",
+    "hill",
+    "grape",
+    "droplets",
+    "tire",
+    "dot",
+    "sett"
+   ]
+  },
+  {
+   "word": "physical",
+   "kind": "prime",
+   "S": 0.05775770545005798,
+   "dep": 0.17220470309257507,
+   "pair": 0.11444699764251709,
+   "own_drop": 7.171117782592773,
+   "n_dep": 29,
+   "test": [
+    "uncomfortable",
+    "irritation",
+    "nature",
+    "tangible",
+    "infrastructure",
+    "violence",
+    "virtual",
+    "print"
+   ]
+  },
+  {
+   "word": "change",
+   "kind": "prime",
+   "S": 0.004437685012817383,
+   "dep": 0.22285127639770508,
+   "pair": 0.2184135913848877,
+   "own_drop": 7.492242813110352,
+   "n_dep": 48,
+   "test": [
+    "correction",
+    "move",
+    "rigid",
+    "evolution",
+    "affect",
+    "permanently",
+    "undo",
+    "bend"
+   ]
+  },
+  {
+   "word": "special",
+   "kind": "prime",
+   "S": 0.1334853619337082,
+   "dep": 0.23745432496070862,
+   "pair": 0.10396896302700043,
+   "own_drop": 4.9873456954956055,
+   "n_dep": 20,
+   "test": [
+    "ordinary",
+    "treat",
+    "pointer",
+    "magic",
+    "ceremony",
+    "celebration",
+    "ritual",
+    "privilege"
+   ]
+  },
+  {
+   "word": "build",
+   "kind": "prime",
+   "S": 0.15780049562454224,
+   "dep": 0.3486365079879761,
+   "pair": 0.19083601236343384,
+   "own_drop": 5.78763484954834,
+   "n_dep": 41,
+   "test": [
+    "bathtub",
+    "basis",
+    "indoor",
+    "casino",
+    "accumulation",
+    "factory",
+    "bathroom",
+    "developer"
+   ]
+  },
+  {
+   "word": "number",
+   "kind": "prime",
+   "S": -0.015097424387931824,
+   "dep": 0.16333681344985962,
+   "pair": 0.17843423783779144,
+   "own_drop": 1.8302571773529053,
+   "n_dep": 42,
+   "test": [
+    "most",
+    "digit",
+    "tensor",
+    "denominator",
+    "count",
+    "ratio",
+    "twelfth",
+    "decimal"
+   ]
+  },
+  {
+   "word": "connect",
+   "kind": "prime",
+   "S": 0.0654795914888382,
+   "dep": 0.11788138002157211,
+   "pair": 0.05240178853273392,
+   "own_drop": 5.406705856323242,
+   "n_dep": 40,
+   "test": [
+    "arms",
+    "spoke",
+    "local",
+    "leg",
+    "draw",
+    "their",
+    "knee",
+    "train"
+   ]
+  },
+  {
+   "word": "harm",
+   "kind": "prime",
+   "S": 0.17550843954086304,
+   "dep": 0.2764827609062195,
+   "pair": 0.10097432136535645,
+   "own_drop": 5.262881755828857,
+   "n_dep": 44,
+   "test": [
+    "devil",
+    "vulnerable",
+    "exposed",
+    "preserve",
+    "protective",
+    "gently",
+    "victim",
+    "protect"
+   ]
+  },
+  {
+   "word": "hold",
+   "kind": "prime",
+   "S": -0.09440121054649353,
+   "dep": 0.10688364505767822,
+   "pair": 0.20128485560417175,
+   "own_drop": 6.011373519897461,
+   "n_dep": 77,
+   "test": [
+    "bottle",
+    "dish",
+    "view",
+    "brand",
+    "reputation",
+    "grasp",
+    "pot",
+    "capture"
+   ]
+  },
+  {
+   "word": "learn",
+   "kind": "prime",
+   "S": 0.23279473185539246,
+   "dep": 0.31406763195991516,
+   "pair": 0.0812729001045227,
+   "own_drop": 5.884208679199219,
+   "n_dep": 18,
+   "test": [
+    "student",
+    "educational",
+    "skill",
+    "study",
+    "smart",
+    "intellect",
+    "training",
+    "curiosity"
+   ]
+  },
+  {
+   "word": "sharp",
+   "kind": "prime",
+   "S": 0.28586724400520325,
+   "dep": 0.39367353916168213,
+   "pair": 0.10780629515647888,
+   "own_drop": 7.076739311218262,
+   "n_dep": 25,
+   "test": [
+    "bony",
+    "edge",
+    "cutting",
+    "piquant",
+    "kick",
+    "rat",
+    "boxy",
+    "curve"
+   ]
+  },
+  {
+   "word": "at",
+   "kind": "prime",
+   "S": 0.030021317303180695,
+   "dep": 0.13840556144714355,
+   "pair": 0.10838424414396286,
+   "own_drop": 0.49573183059692383,
+   "n_dep": 91,
+   "test": [
+    "compare",
+    "cross",
+    "sibling",
+    "situation",
+    "sediment",
+    "campaign",
+    "buttocks",
+    "vertical"
+   ]
+  },
+  {
+   "word": "idea",
+   "kind": "prime",
+   "S": -0.021884605288505554,
+   "dep": 0.15474550426006317,
+   "pair": 0.17663010954856873,
+   "own_drop": 6.527187347412109,
+   "n_dep": 45,
+   "test": [
+    "implementation",
+    "forum",
+    "advert",
+    "passage",
+    "experimentation",
+    "icon",
+    "make",
+    "then"
+   ]
+  },
+  {
+   "word": "to",
+   "kind": "prime",
+   "S": 0.04504561424255371,
+   "dep": 0.20497578382492065,
+   "pair": 0.15993016958236694,
+   "own_drop": -0.08759498596191406,
+   "n_dep": 1018,
+   "test": [
+    "easy",
+    "added",
+    "button",
+    "diet",
+    "tank",
+    "shield",
+    "upholstered",
+    "evil"
+   ]
+  },
+  {
+   "word": "will",
+   "kind": "prime",
+   "S": -0.009662941098213196,
+   "dep": 0.0808573067188263,
+   "pair": 0.09052024781703949,
+   "own_drop": 1.578294277191162,
+   "n_dep": 26,
+   "test": [
+    "determined",
+    "hope",
+    "forced",
+    "unenforceable",
+    "guarantee",
+    "expectation",
+    "warranty",
+    "kind"
+   ]
+  },
+  {
+   "word": "important",
+   "kind": "prime",
+   "S": 0.4784649908542633,
+   "dep": 0.7380456328392029,
+   "pair": 0.2595806419849396,
+   "own_drop": 8.819439888000488,
+   "n_dep": 25,
+   "test": [
+    "exaggerated",
+    "central",
+    "core",
+    "highlight",
+    "major",
+    "quest",
+    "primary",
+    "significant"
+   ]
+  },
+  {
+   "word": "a",
+   "kind": "prime",
+   "S": 0.10064202547073364,
+   "dep": 0.4024896025657654,
+   "pair": 0.30184757709503174,
+   "own_drop": 0.1913003921508789,
+   "n_dep": 798,
+   "test": [
+    "picked",
+    "dig",
+    "wipe",
+    "revolve",
+    "paralyzed",
+    "defeat",
+    "understanding",
+    "intersect"
+   ]
+  },
+  {
+   "word": "air",
+   "kind": "prime",
+   "S": 0.22594982385635376,
+   "dep": 0.308624804019928,
+   "pair": 0.08267498016357422,
+   "own_drop": 1.9287593364715576,
+   "n_dep": 33,
+   "test": [
+    "sound",
+    "window",
+    "vent",
+    "fall",
+    "fin",
+    "projectile",
+    "throw",
+    "seal"
+   ]
+  },
+  {
+   "word": "without",
+   "kind": "prime",
+   "S": 0.11840913444757462,
+   "dep": 0.11884678155183792,
+   "pair": 0.00043764524161815643,
+   "own_drop": 1.8356833457946777,
+   "n_dep": 96,
+   "test": [
+    "vowel",
+    "open",
+    "entire",
+    "assume",
+    "timeless",
+    "luck",
+    "dead",
+    "suddenness"
+   ]
+  },
+  {
+   "word": "before",
+   "kind": "prime",
+   "S": 0.3468533456325531,
+   "dep": 0.45316988229751587,
+   "pair": 0.10631653666496277,
+   "own_drop": 2.0498909950256348,
+   "n_dep": 54,
+   "test": [
+    "thirteen",
+    "lower",
+    "four",
+    "seven",
+    "until",
+    "previous",
+    "nineteen",
+    "eighteen"
+   ]
+  },
+  {
+   "word": "place",
+   "kind": "prime",
+   "S": 0.19035780429840088,
+   "dep": 0.21785488724708557,
+   "pair": 0.02749708667397499,
+   "own_drop": 3.1364235877990723,
+   "n_dep": 154,
+   "test": [
+    "prefix",
+    "scene",
+    "repository",
+    "path",
+    "facility",
+    "site",
+    "installation",
+    "channel"
+   ]
+  },
+  {
+   "word": "not",
+   "kind": "prime",
+   "S": 0.041406065225601196,
+   "dep": 0.2145315259695053,
+   "pair": 0.1731254607439041,
+   "own_drop": 0.7096991539001465,
+   "n_dep": 83,
+   "test": [
+    "undesirable",
+    "pretend",
+    "detect",
+    "unexcited",
+    "chord",
+    "exception",
+    "unhappiness",
+    "aside"
+   ]
+  },
+  {
+   "word": "make",
+   "kind": "prime",
+   "S": 0.005702957510948181,
+   "dep": 0.14053867757320404,
+   "pair": 0.13483572006225586,
+   "own_drop": 3.210798740386963,
+   "n_dep": 275,
+   "test": [
+    "beer",
+    "padding",
+    "iron",
+    "harass",
+    "establish",
+    "leather",
+    "convince",
+    "joke"
+   ]
+  },
+  {
+   "word": "and",
+   "kind": "control",
+   "S": -0.26875755190849304,
+   "dep": 0.2123216986656189,
+   "pair": 0.48107925057411194,
+   "own_drop": 1.2510349750518799,
+   "n_dep": 695,
+   "test": [
+    "fungi",
+    "dirt",
+    "embryo",
+    "creamy",
+    "upright",
+    "math",
+    "adult",
+    "rum"
+   ]
+  },
+  {
+   "word": "on",
+   "kind": "control",
+   "S": -0.03176301717758179,
+   "dep": 0.1366897076368332,
+   "pair": 0.16845272481441498,
+   "own_drop": 0.7523760795593262,
+   "n_dep": 145,
+   "test": [
+    "adopt",
+    "antennae",
+    "cursor",
+    "reputation",
+    "estate",
+    "committee",
+    "pedestrian",
+    "listed"
+   ]
+  },
+  {
+   "word": "up",
+   "kind": "control",
+   "S": 0.06349791586399078,
+   "dep": 0.14876864850521088,
+   "pair": 0.08527073264122009,
+   "own_drop": 2.0618419647216797,
+   "n_dep": 66,
+   "test": [
+    "sky",
+    "mention",
+    "abandon",
+    "register",
+    "vertical",
+    "matter",
+    "remains",
+    "electricity"
+   ]
+  },
+  {
+   "word": "but",
+   "kind": "control",
+   "S": -0.08256301283836365,
+   "dep": 0.13636437058448792,
+   "pair": 0.21892738342285156,
+   "own_drop": 0.6343154907226562,
+   "n_dep": 19,
+   "test": [
+    "potentially",
+    "town",
+    "mixture",
+    "thirteenth",
+    "compact",
+    "accused",
+    "integer",
+    "mostly"
+   ]
+  },
+  {
+   "word": "set",
+   "kind": "control",
+   "S": -0.02192872390151024,
+   "dep": 0.030941717326641083,
+   "pair": 0.05287044122815132,
+   "own_drop": 3.981520891189575,
+   "n_dep": 61,
+   "test": [
+    "bond",
+    "constitution",
+    "computer",
+    "holiday",
+    "law",
+    "install",
+    "put",
+    "alphabet"
+   ]
+  },
+  {
+   "word": "else",
+   "kind": "control",
+   "S": 0.08019751310348511,
+   "dep": 0.16181737184524536,
+   "pair": 0.08161985874176025,
+   "own_drop": 1.8176379203796387,
+   "n_dep": 79,
+   "test": [
+    "imitate",
+    "becoming",
+    "temp",
+    "center",
+    "shorter",
+    "worse",
+    "smaller",
+    "preliminary"
+   ]
+  },
+  {
+   "word": "so",
+   "kind": "control",
+   "S": -0.023185350000858307,
+   "dep": 0.0697447881102562,
+   "pair": 0.0929301381111145,
+   "own_drop": 2.809304714202881,
+   "n_dep": 52,
+   "test": [
+    "hangs",
+    "fold",
+    "shut",
+    "interlocking",
+    "encode",
+    "backup",
+    "apparently",
+    "cure"
+   ]
+  },
+  {
+   "word": "they",
+   "kind": "control",
+   "S": 0.018522515892982483,
+   "dep": 0.10205499827861786,
+   "pair": 0.08353248238563538,
+   "own_drop": 0.8708035945892334,
+   "n_dep": 28,
+   "test": [
+    "license",
+    "will",
+    "connect",
+    "interlace",
+    "our",
+    "welcome",
+    "uncountable",
+    "satisfy"
+   ]
+  },
+  {
+   "word": "end",
+   "kind": "control",
+   "S": 0.22017733752727509,
+   "dep": 0.21334205567836761,
+   "pair": -0.00683528371155262,
+   "own_drop": 3.9419188499450684,
+   "n_dep": 37,
+   "test": [
+    "finally",
+    "eventually",
+    "ongoing",
+    "cylinder",
+    "goodbye",
+    "kill",
+    "fletching",
+    "destroy"
+   ]
+  },
+  {
+   "word": "type",
+   "kind": "control",
+   "S": 0.03879762813448906,
+   "dep": 0.06819914281368256,
+   "pair": 0.029401514679193497,
+   "own_drop": 3.618130922317505,
+   "n_dep": 21,
+   "test": [
+    "pointer",
+    "pub",
+    "strain",
+    "muscle",
+    "boot",
+    "pussy",
+    "rose",
+    "such"
+   ]
+  },
+  {
+   "word": "when",
+   "kind": "control",
+   "S": -0.06668299436569214,
+   "dep": 0.05668746680021286,
+   "pair": 0.123370461165905,
+   "own_drop": 0.8876380920410156,
+   "n_dep": 62,
+   "test": [
+    "char",
+    "adulthood",
+    "laughter",
+    "unyielding",
+    "sum",
+    "readable",
+    "tenth",
+    "tensor"
+   ]
+  },
+  {
+   "word": "long",
+   "kind": "control",
+   "S": -0.014894500374794006,
+   "dep": 0.047678351402282715,
+   "pair": 0.06257285177707672,
+   "own_drop": 2.709235906600952,
+   "n_dep": 44,
+   "test": [
+    "rib",
+    "pipe",
+    "river",
+    "yarn",
+    "eventually",
+    "lat",
+    "tie",
+    "scroll"
+   ]
+  },
+  {
+   "word": "require",
+   "kind": "control",
+   "S": 0.09089525043964386,
+   "dep": 0.23043587803840637,
+   "pair": 0.1395406275987625,
+   "own_drop": 5.625250339508057,
+   "n_dep": 23,
+   "test": [
+    "free",
+    "crisis",
+    "satisfactory",
+    "due",
+    "worthwhile",
+    "obligation",
+    "challenge",
+    "easy"
+   ]
+  },
+  {
+   "word": "know",
+   "kind": "control",
+   "S": 0.00945638120174408,
+   "dep": 0.15302614867687225,
+   "pair": 0.14356976747512817,
+   "own_drop": 1.8837387561798096,
+   "n_dep": 36,
+   "test": [
+    "knew",
+    "camellia",
+    "recognizable",
+    "rat",
+    "ant",
+    "noted",
+    "derive",
+    "cannabis"
+   ]
+  },
+  {
+   "word": "because",
+   "kind": "control",
+   "S": -0.08518107235431671,
+   "dep": 0.0653434693813324,
+   "pair": 0.1505245417356491,
+   "own_drop": 1.7983434200286865,
+   "n_dep": 20,
+   "test": [
+    "memorable",
+    "anger",
+    "effects",
+    "mandatory",
+    "cry",
+    "familiar",
+    "impressive",
+    "speechless"
+   ]
+  },
+  {
+   "word": "line",
+   "kind": "control",
+   "S": 0.10105070471763611,
+   "dep": 0.23472383618354797,
+   "pair": 0.13367313146591187,
+   "own_drop": 5.415374279022217,
+   "n_dep": 21,
+   "test": [
+    "row",
+    "logical",
+    "queue",
+    "spiral",
+    "edge",
+    "curve",
+    "horizon",
+    "strand"
+   ]
+  },
+  {
+   "word": "many",
+   "kind": "control",
+   "S": -0.19072860479354858,
+   "dep": 0.0477340891957283,
+   "pair": 0.23846270143985748,
+   "own_drop": 3.5078654289245605,
+   "n_dep": 36,
+   "test": [
+    "experienced",
+    "comb",
+    "multicellular",
+    "repeatedly",
+    "fur",
+    "diverse",
+    "popular",
+    "numerator"
+   ]
+  },
+  {
+   "word": "system",
+   "kind": "control",
+   "S": 0.02837158739566803,
+   "dep": 0.17519904673099518,
+   "pair": 0.14682745933532715,
+   "own_drop": 3.2294883728027344,
+   "n_dep": 48,
+   "test": [
+    "authentication",
+    "tensor",
+    "solver",
+    "machinery",
+    "input",
+    "organize",
+    "login",
+    "admin"
+   ]
+  },
+  {
+   "word": "main",
+   "kind": "control",
+   "S": 0.19270674884319305,
+   "dep": 0.28340452909469604,
+   "pair": 0.09069778025150299,
+   "own_drop": 5.352582931518555,
+   "n_dep": 22,
+   "test": [
+    "theme",
+    "hall",
+    "plot",
+    "bulk",
+    "branch",
+    "outline",
+    "characterize",
+    "appendage"
+   ]
+  },
+  {
+   "word": "message",
+   "kind": "control",
+   "S": 0.43952450156211853,
+   "dep": 0.49682390689849854,
+   "pair": 0.05729939788579941,
+   "own_drop": 5.597521781921387,
+   "n_dep": 20,
+   "test": [
+    "phone",
+    "text",
+    "sign",
+    "advert",
+    "ad",
+    "advertisement",
+    "code",
+    "sender"
+   ]
+  },
+  {
+   "word": "say",
+   "kind": "control",
+   "S": 0.013833209872245789,
+   "dep": 0.10732083767652512,
+   "pair": 0.09348762780427933,
+   "own_drop": 3.459547281265259,
+   "n_dep": 26,
+   "test": [
+    "predict",
+    "however",
+    "sup",
+    "verbose",
+    "prof",
+    "lie",
+    "claim",
+    "decline"
+   ]
+  },
+  {
+   "word": "create",
+   "kind": "control",
+   "S": 0.04841753840446472,
+   "dep": 0.3373572826385498,
+   "pair": 0.2889397442340851,
+   "own_drop": 7.216763496398926,
+   "n_dep": 29,
+   "test": [
+    "template",
+    "construct",
+    "imagination",
+    "knit",
+    "interference",
+    "reproductive",
+    "match",
+    "distilling"
+   ]
+  },
+  {
+   "word": "allow",
+   "kind": "control",
+   "S": 0.0035574883222579956,
+   "dep": 0.1280864179134369,
+   "pair": 0.1245289295911789,
+   "own_drop": 5.280333518981934,
+   "n_dep": 33,
+   "test": [
+    "gills",
+    "conductive",
+    "anus",
+    "grant",
+    "permission",
+    "accept",
+    "col",
+    "spore"
+   ]
+  },
+  {
+   "word": "put",
+   "kind": "control",
+   "S": 0.07910069823265076,
+   "dep": 0.2541155517101288,
+   "pair": 0.17501485347747803,
+   "own_drop": 4.730111122131348,
+   "n_dep": 23,
+   "test": [
+    "wrote",
+    "apply",
+    "replace",
+    "proposal",
+    "arrange",
+    "investment",
+    "install",
+    "effort"
+   ]
+  },
+  {
+   "word": "pay",
+   "kind": "control",
+   "S": -0.06373024731874466,
+   "dep": 0.04867243021726608,
+   "pair": 0.11240267753601074,
+   "own_drop": 4.395269870758057,
+   "n_dep": 23,
+   "test": [
+    "insurance",
+    "credit",
+    "hire",
+    "advertisement",
+    "employee",
+    "loan",
+    "price",
+    "rent"
+   ]
+  },
+  {
+   "word": "power",
+   "kind": "control",
+   "S": 0.022114291787147522,
+   "dep": 0.17651395499706268,
+   "pair": 0.15439966320991516,
+   "own_drop": 3.761885643005371,
+   "n_dep": 31,
+   "test": [
+    "enable",
+    "gear",
+    "strong",
+    "electricity",
+    "supreme",
+    "witch",
+    "supernatural",
+    "prayer"
+   ]
+  },
+  {
+   "word": "short",
+   "kind": "control",
+   "S": -0.20714300870895386,
+   "dep": 0.1431393027305603,
+   "pair": 0.35028231143951416,
+   "own_drop": 2.638204336166382,
+   "n_dep": 32,
+   "test": [
+    "pig",
+    "doc",
+    "pic",
+    "recess",
+    "visit",
+    "visiting",
+    "tweet",
+    "fail"
+   ]
+  },
+  {
+   "word": "give",
+   "kind": "control",
+   "S": -0.039693333208560944,
+   "dep": 0.09476553648710251,
+   "pair": 0.13445886969566345,
+   "own_drop": 5.872910022735596,
+   "n_dep": 69,
+   "test": [
+    "population",
+    "warn",
+    "logic",
+    "incentive",
+    "unyielding",
+    "commission",
+    "resistant",
+    "offering"
+   ]
+  },
+  {
+   "word": "exist",
+   "kind": "control",
+   "S": 0.1682741641998291,
+   "dep": 0.3210297226905823,
+   "pair": 0.15275555849075317,
+   "own_drop": 8.564071655273438,
+   "n_dep": 33,
+   "test": [
+    "invent",
+    "worldwide",
+    "recent",
+    "loss",
+    "idea",
+    "earliest",
+    "physical",
+    "object"
+   ]
+  },
+  {
+   "word": "begin",
+   "kind": "control",
+   "S": 0.3732481896877289,
+   "dep": 0.4408453404903412,
+   "pair": 0.06759714335203171,
+   "own_drop": 6.448637962341309,
+   "n_dep": 19,
+   "test": [
+    "alpha",
+    "initial",
+    "reset",
+    "originally",
+    "prefix",
+    "enter",
+    "restart",
+    "develop"
+   ]
+  },
+  {
+   "word": "move",
+   "kind": "control",
+   "S": 0.1744333803653717,
+   "dep": 0.23225179314613342,
+   "pair": 0.05781841650605202,
+   "own_drop": 6.3677215576171875,
+   "n_dep": 103,
+   "test": [
+    "active",
+    "wave",
+    "spiral",
+    "alongside",
+    "rig",
+    "machine",
+    "stream",
+    "quick"
+   ]
+  },
+  {
+   "word": "meet",
+   "kind": "control",
+   "S": 0.09864653646945953,
+   "dep": 0.25113752484321594,
+   "pair": 0.1524909883737564,
+   "own_drop": 2.927995204925537,
+   "n_dep": 43,
+   "test": [
+    "appointment",
+    "sessions",
+    "corner",
+    "shore",
+    "angle",
+    "interface",
+    "disappoint",
+    "parallel"
+   ]
+  },
+  {
+   "word": "store",
+   "kind": "control",
+   "S": 0.13773757219314575,
+   "dep": 0.2150714099407196,
+   "pair": 0.07733383774757385,
+   "own_drop": 6.02835750579834,
+   "n_dep": 18,
+   "test": [
+    "bin",
+    "file",
+    "fat",
+    "tables",
+    "array",
+    "container",
+    "repository",
+    "digital"
+   ]
+  },
+  {
+   "word": "become",
+   "kind": "control",
+   "S": -0.030957907438278198,
+   "dep": 0.11004944145679474,
+   "pair": 0.14100734889507294,
+   "own_drop": 5.3629865646362305,
+   "n_dep": 23,
+   "test": [
+    "alkalinity",
+    "got",
+    "dissolve",
+    "embed",
+    "stun",
+    "bread",
+    "fold",
+    "fade"
+   ]
+  },
+  {
+   "word": "buy",
+   "kind": "control",
+   "S": 0.06897720694541931,
+   "dep": 0.2768350839614868,
+   "pair": 0.2078578770160675,
+   "own_drop": 4.58829927444458,
+   "n_dep": 18,
+   "test": [
+    "customer",
+    "advertising",
+    "demand",
+    "pub",
+    "trading",
+    "affordable",
+    "currency",
+    "consumer"
+   ]
+  },
+  {
+   "word": "strong",
+   "kind": "control",
+   "S": -0.15815040469169617,
+   "dep": 0.2319265604019165,
+   "pair": 0.39007696509361267,
+   "own_drop": 2.6593968868255615,
+   "n_dep": 27,
+   "test": [
+    "marketing",
+    "determined",
+    "integrity",
+    "belief",
+    "passionate",
+    "dislike",
+    "like",
+    "storm"
+   ]
+  },
+  {
+   "word": "future",
+   "kind": "control",
+   "S": 0.18865764141082764,
+   "dep": 0.27925390005111694,
+   "pair": 0.0905962660908699,
+   "own_drop": 2.149043560028076,
+   "n_dep": 26,
+   "test": [
+    "promise",
+    "punishment",
+    "forward",
+    "foresee",
+    "predict",
+    "shall",
+    "upcoming",
+    "bond"
+   ]
+  },
+  {
+   "word": "subject",
+   "kind": "control",
+   "S": 0.1260642111301422,
+   "dep": 0.27078455686569214,
+   "pair": 0.14472034573554993,
+   "own_drop": 4.680904388427734,
+   "n_dep": 20,
+   "test": [
+    "am",
+    "meta",
+    "course",
+    "introductory",
+    "academic",
+    "focus",
+    "acquaint",
+    "master"
+   ]
+  },
+  {
+   "word": "particular",
+   "kind": "control",
+   "S": 0.14530014991760254,
+   "dep": 0.30966395139694214,
+   "pair": 0.1643638014793396,
+   "own_drop": 10.462370872497559,
+   "n_dep": 44,
+   "test": [
+    "occasion",
+    "perspective",
+    "led",
+    "gene",
+    "undergo",
+    "disagreement",
+    "department",
+    "circumstance"
+   ]
+  },
+  {
+   "word": "land",
+   "kind": "control",
+   "S": 0.17084255814552307,
+   "dep": 0.25085726380348206,
+   "pair": 0.08001470565795898,
+   "own_drop": 4.257272243499756,
+   "n_dep": 33,
+   "test": [
+    "delta",
+    "province",
+    "beach",
+    "coastlines",
+    "territory",
+    "coast",
+    "shore",
+    "expanse"
+   ]
+  },
+  {
+   "word": "bring",
+   "kind": "control",
+   "S": 0.06517793238162994,
+   "dep": 0.11089713871479034,
+   "pair": 0.0457192063331604,
+   "own_drop": 6.755600929260254,
+   "n_dep": 25,
+   "test": [
+    "assemble",
+    "gather",
+    "uncover",
+    "alignment",
+    "closer",
+    "fetch",
+    "collect",
+    "stop"
+   ]
+  },
+  {
+   "word": "inside",
+   "kind": "control",
+   "S": 0.08736777305603027,
+   "dep": 0.16412824392318726,
+   "pair": 0.07676047086715698,
+   "own_drop": 2.0284950733184814,
+   "n_dep": 24,
+   "test": [
+    "cage",
+    "hollow",
+    "virus",
+    "contain",
+    "in",
+    "orange",
+    "empty",
+    "bean"
+   ]
+  },
+  {
+   "word": "energy",
+   "kind": "control",
+   "S": 0.4671558141708374,
+   "dep": 0.5628533959388733,
+   "pair": 0.0956975668668747,
+   "own_drop": 2.8935751914978027,
+   "n_dep": 36,
+   "test": [
+    "food",
+    "forceful",
+    "efficient",
+    "radiates",
+    "energized",
+    "fuel",
+    "forcefully",
+    "spring"
+   ]
+  },
+  {
+   "word": "pattern",
+   "kind": "control",
+   "S": 0.17400331795215607,
+   "dep": 0.23407027125358582,
+   "pair": 0.06006695702672005,
+   "own_drop": 4.877619743347168,
+   "n_dep": 25,
+   "test": [
+    "series",
+    "braided",
+    "ordered",
+    "rhythmic",
+    "irregular",
+    "interference",
+    "formula",
+    "statistics"
+   ]
+  },
+  {
+   "word": "structure",
+   "kind": "control",
+   "S": 0.23498119413852692,
+   "dep": 0.4224390983581543,
+   "pair": 0.18745790421962738,
+   "own_drop": 6.683166027069092,
+   "n_dep": 22,
+   "test": [
+    "building",
+    "parser",
+    "crystal",
+    "form",
+    "mesh",
+    "matrix",
+    "block",
+    "body"
+   ]
+  },
+  {
+   "word": "piece",
+   "kind": "control",
+   "S": -0.051622360944747925,
+   "dep": 0.03757046163082123,
+   "pair": 0.08919282257556915,
+   "own_drop": 2.26653790473938,
+   "n_dep": 81,
+   "test": [
+    "essay",
+    "stick",
+    "forget",
+    "card",
+    "lat",
+    "label",
+    "flap",
+    "task"
+   ]
+  },
+  {
+   "word": "picture",
+   "kind": "control",
+   "S": 0.639224112033844,
+   "dep": 0.6959576606750488,
+   "pair": 0.05673356354236603,
+   "own_drop": 5.083237648010254,
+   "n_dep": 20,
+   "test": [
+    "perception",
+    "photo",
+    "overview",
+    "illustrate",
+    "movie",
+    "film",
+    "detail",
+    "photograph"
+   ]
+  },
+  {
+   "word": "male",
+   "kind": "control",
+   "S": 0.07799810916185379,
+   "dep": 0.15524575114250183,
+   "pair": 0.07724764198064804,
+   "own_drop": 4.703742027282715,
+   "n_dep": 21,
+   "test": [
+    "semen",
+    "bull",
+    "him",
+    "guy",
+    "brother",
+    "himself",
+    "man",
+    "tom"
+   ]
+  },
+  {
+   "word": "achieve",
+   "kind": "control",
+   "S": 0.17674945294857025,
+   "dep": 0.2845908999443054,
+   "pair": 0.10784144699573517,
+   "own_drop": 7.838780879974365,
+   "n_dep": 46,
+   "test": [
+    "trick",
+    "work",
+    "objective",
+    "working",
+    "target",
+    "vision",
+    "manager",
+    "frustration"
+   ]
+  },
+  {
+   "word": "thin",
+   "kind": "control",
+   "S": 0.2749236822128296,
+   "dep": 0.31988582015037537,
+   "pair": 0.04496215283870697,
+   "own_drop": 7.548945426940918,
+   "n_dep": 20,
+   "test": [
+    "layer",
+    "stick",
+    "wire",
+    "metal",
+    "cigarette",
+    "blade",
+    "strand",
+    "needle"
+   ]
+  }
+ ],
+ "p_primary": 0.308607271895185,
+ "p_took": 0.15125176278466812,
+ "p_general": 0.37199124245704807
+}

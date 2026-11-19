@@ -1,0 +1,58 @@
+
+INNER: 6 attractor cycles for 4558 words
+   31.5%  concept → basic → true → (back)
+   29.4%  male → female → (back)
+   23.4%  earth → sun → (back)
+    7.4%  society → community → (back)
+    6.9%  organ → blood → (back)
+    1.4%  gas → liquid → (back)
+  walks:
+    peace → culture → society → community → society
+    rock → earth → sun → earth
+    love → emotion → study → learn → ability → concept → basic → true → concept
+    dream → world → earth → sun → earth
+    insurance → service → business → offer → legally → law → society → community → society
+    teacher → young → moment → how → answer → true → concept → basic → true
+    considerate → quality → concept → basic → true → concept
+    music → art → study → learn → ability → concept → basic → true → concept
+    money → world → earth → sun → earth
+    god → belief → mental → word → letter → book → picture → create → power → world → earth → sun → earth
+    death → world → earth → sun → earth
+    child → young → moment → how → answer → true → concept → basic → true
+    computer → machine → large → color → world → earth → sun → earth
+    ocean → earth → sun → earth
+    lie → truth → moral → belief → mental → word → letter → book → picture → create → power → world → earth → sun → earth
+    joke → story → art → study → learn → ability → concept → basic → true → concept
+    self → mental → word → letter → book → picture → create → power → world → earth → sun → earth
+
+TEXT: 69 attractor cycles for 4531 words
+   16.1%  large → big → (back)
+   14.6%  move → change → act → deliberate → purpose → reason → logical → follow → (back)
+   14.1%  hold → keep → (back)
+    7.9%  give → hand → appendage → body → physical → exist → present → (back)
+    6.6%  get → obtain → (back)
+    5.3%  person → human → member → (back)
+    4.4%  happen → occur → (back)
+    4.3%  group → collection → (back)
+  walks:
+    peace → state → distinct → clearly → easy → require → make → create → bring → carry → hold → keep → hold
+    rock → solid → material → physical → exist → present → give → hand → appendage → body → physical
+    love → deep → far → distant → far
+    dream → vivid → extremely → high → top → highest → greatest → good → beneficial → helpful → ready → prepare → get → obtain → get
+    insurance → financial → relate → connect → join → connect
+    teacher → person → human → member → person
+    considerate → thoughtful → consider → think → form → structure → part → piece → small → large → big → large
+    music → art → creative → ability → power → ability
+    money → widely → great → large → big → large
+    god → powerful → great → large → big → large
+    death → permanent → last → come → move → change → act → deliberate → purpose → reason → logical → follow → move
+    child → young → early → happen → occur → happen
+    computer → electronic → electricity → flow → continuous → happen → occur → happen
+    ocean → vast → extremely → high → top → highest → greatest → good → beneficial → helpful → ready → prepare → get → obtain → get
+    lie → intentionally → purpose → reason → logical → follow → move → change → act → deliberate → purpose
+    joke → humorous → funny → make → create → bring → carry → hold → keep → hold
+    self → unique → kind → quality → degree → amount → quantity → amount
+
+first steps agree on 6.5% of 3474 words (chance from the two link distributions 0.2%); the text link's median rank among 664 concepts in the inner state: 44 (top 10 for 25%)
+most-linked-to, inner: verb 576, pronoun 261, quality 139, tense 121, program 104, concept 93, color 86, word 84, emotion 83, but 74, number 68, mean 67, moral 61, fruit 60, study 57
+most-linked-to, text:  small 148, act 101, person 83, make 81, feel 73, large 63, move 59, happen 58, process 52, state 42, group 41, give 39, relate 35, long 32, place 32

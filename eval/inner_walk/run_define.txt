@@ -1,0 +1,60 @@
+
+INNER: 9 attractor cycles for 4558 words
+   86.1%  distinct → extremely → very → pronoun → phrase → (back)
+   10.0%  belief → opinion → (back)
+    1.3%  male → female → (back)
+    1.0%  earth → sun → (back)
+    0.7%  rock → solid → metal → (back)
+    0.3%  connection → link → (back)
+    0.2%  sleep → rest → (back)
+    0.2%  liquid → gas → (back)
+  walks:
+    peace → state → define → explain → to → indicate → verb → pronoun → phrase → distinct → extremely → very → pronoun
+    rock → solid → metal → rock
+    love → deep → extremely → very → pronoun → phrase → distinct → extremely
+    dream → mental → relate → verb → pronoun → phrase → distinct → extremely → very → pronoun
+    insurance → money → buy → act → distinct → extremely → very → pronoun → phrase → distinct
+    teacher → who → pronoun → phrase → distinct → extremely → very → pronoun
+    considerate → kind → moral → belief → opinion → belief
+    music → art → study → learn → acquire → verb → pronoun → phrase → distinct → extremely → very → pronoun
+    money → buy → act → distinct → extremely → very → pronoun → phrase → distinct
+    god → define → explain → to → indicate → verb → pronoun → phrase → distinct → extremely → very → pronoun
+    death → the → pronoun → phrase → distinct → extremely → very → pronoun
+    child → young → very → pronoun → phrase → distinct → extremely → very
+    computer → device → machine → structure → organize → to → indicate → verb → pronoun → phrase → distinct → extremely → very → pronoun
+    ocean → earth → sun → earth
+    lie → act → distinct → extremely → very → pronoun → phrase → distinct
+    joke → story → short → extremely → very → pronoun → phrase → distinct → extremely
+    self → define → explain → to → indicate → verb → pronoun → phrase → distinct → extremely → very → pronoun
+
+TEXT: 69 attractor cycles for 4531 words
+   16.1%  large → big → (back)
+   14.6%  move → change → act → deliberate → purpose → reason → logical → follow → (back)
+   14.1%  hold → keep → (back)
+    7.9%  give → hand → appendage → body → physical → exist → present → (back)
+    6.6%  get → obtain → (back)
+    5.3%  person → human → member → (back)
+    4.4%  happen → occur → (back)
+    4.3%  group → collection → (back)
+  walks:
+    peace → state → distinct → clearly → easy → require → make → create → bring → carry → hold → keep → hold
+    rock → solid → material → physical → exist → present → give → hand → appendage → body → physical
+    love → deep → far → distant → far
+    dream → vivid → extremely → high → top → highest → greatest → good → beneficial → helpful → ready → prepare → get → obtain → get
+    insurance → financial → relate → connect → join → connect
+    teacher → person → human → member → person
+    considerate → thoughtful → consider → think → form → structure → part → piece → small → large → big → large
+    music → art → creative → ability → power → ability
+    money → widely → great → large → big → large
+    god → powerful → great → large → big → large
+    death → permanent → last → come → move → change → act → deliberate → purpose → reason → logical → follow → move
+    child → young → early → happen → occur → happen
+    computer → electronic → electricity → flow → continuous → happen → occur → happen
+    ocean → vast → extremely → high → top → highest → greatest → good → beneficial → helpful → ready → prepare → get → obtain → get
+    lie → intentionally → purpose → reason → logical → follow → move → change → act → deliberate → purpose
+    joke → humorous → funny → make → create → bring → carry → hold → keep → hold
+    self → unique → kind → quality → degree → amount → quantity → amount
+
+first steps agree on 16.6% of 3474 words (chance from the two link distributions 0.4%); the text link's median rank among 664 concepts in the inner state: 10 (top 10 for 50%)
+most-linked-to, inner: extremely 369, verb 346, mean 222, pleasant 159, act 130, indicate 127, to 95, process 92, suitable 89, distinct 83, tense 80, young 72, enclosed 71, small 61, pronoun 59
+most-linked-to, text:  small 148, act 101, person 83, make 81, feel 73, large 63, move 59, happen 58, process 52, state 42, group 41, give 39, relate 35, long 32, place 32

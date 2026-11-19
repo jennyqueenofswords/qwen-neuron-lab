@@ -1,0 +1,968 @@
+[
+ {
+  "id": "e001",
+  "word": "slowly",
+  "property_a": "low",
+  "property_b": "high",
+  "definition": "The word \"highly\" or \"very\" is not the right choice here because \"highly\" is an adverb and \"very\" is an intensifier, neither of which can replace \"highly\" in this context."
+ },
+ {
+  "id": "e005",
+  "word": "cage",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "A cage is a sturdy enclosure made of bars or mesh designed to hold an animal or person safely within its boundaries."
+ },
+ {
+  "id": "e009",
+  "word": "buttons",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "Buttons are small, often round, pieces of material attached to clothing to help fasten it."
+ },
+ {
+  "id": "e013",
+  "word": "cloth",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "A hard, durable surface or material used for protection or structure."
+ },
+ {
+  "id": "e017",
+  "word": "mineral",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "A mineral is a naturally occurring, inorganic solid with a specific chemical structure and a definite crystal form."
+ },
+ {
+  "id": "e021",
+  "word": "dough",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "Form dough is a pliable mixture of flour, water, and other ingredients that can be shaped into bread or pastries."
+ },
+ {
+  "id": "e025",
+  "word": "sperm",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "Sperm is the male reproductive cell that carries genetic material to fertilize an egg."
+ },
+ {
+  "id": "e029",
+  "word": "metal",
+  "property_a": "hard",
+  "property_b": "soft",
+  "definition": "A metal is a malleable, ductile element that conducts heat and electricity well."
+ },
+ {
+  "id": "e033",
+  "word": "girl",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "A \"behavior\" is a way of acting or speaking."
+ },
+ {
+  "id": "e037",
+  "word": "sodium",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Sodium is a highly reactive metal that is essential for life and is most commonly found in the form of salt."
+ },
+ {
+  "id": "e041",
+  "word": "rose",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "An animal with a heart that beats fast."
+ },
+ {
+  "id": "e045",
+  "word": "weird",
+  "property_a": "hard",
+  "property_b": "soft",
+  "definition": "Soft and gentle, like a breeze that moves through the leaves."
+ },
+ {
+  "id": "e049",
+  "word": "dough",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "Harden is a thick, solid food made by mixing flour with water and other ingredients, then cooking it until it becomes rigid."
+ },
+ {
+  "id": "e053",
+  "word": "rust",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Wood rot caused by fungi."
+ },
+ {
+  "id": "e057",
+  "word": "basin",
+  "property_a": "low",
+  "property_b": "high",
+  "definition": "A round basin is a bowl-shaped container used for holding liquids or food."
+ },
+ {
+  "id": "e061",
+  "word": "deck",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "A deck is a raised outdoor platform made of wood or composite material, typically used for dining or relaxing."
+ },
+ {
+  "id": "e065",
+  "word": "dough",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "Hard dough is a stiff, firm mixture of flour, water, and other ingredients that resists being molded."
+ },
+ {
+  "id": "e069",
+  "word": "coat",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A coat is a long outer garment worn to keep the body warm."
+ },
+ {
+  "id": "e073",
+  "word": "grass",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Grass is a type of green plant that grows low to the ground in fields and lawns."
+ },
+ {
+  "id": "e077",
+  "word": "father",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A stopper for a journey."
+ },
+ {
+  "id": "e081",
+  "word": "bot",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A bot is an automated program that mimics human behavior to interact with websites or chat services."
+ },
+ {
+  "id": "e085",
+  "word": "factory",
+  "property_a": "machine",
+  "property_b": "human",
+  "definition": "A factory is a large building where goods are made using machines and workers."
+ },
+ {
+  "id": "e089",
+  "word": "alkalinity",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "Alkalinity is a measure of how well a liquid can resist becoming acidic."
+ },
+ {
+  "id": "e093",
+  "word": "bath",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A bath is a small, enclosed room designed for bathing."
+ },
+ {
+  "id": "e097",
+  "word": "tire",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "A flat tire is a vehicle wheel that has lost its air pressure."
+ },
+ {
+  "id": "e101",
+  "word": "gills",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "Plants and animals have leaf-like structures that absorb water and nutrients from the soil."
+ },
+ {
+  "id": "e105",
+  "word": "distilling",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "Solidifying a liquid into a hard, rigid material."
+ },
+ {
+  "id": "e109",
+  "word": "frozen",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "Frozen describes a substance that has turned into a hard, solid state due to extreme cold."
+ },
+ {
+  "id": "e113",
+  "word": "sodium",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Sodium is a highly reactive metal that is essential for life and is most commonly found in the form of salt."
+ },
+ {
+  "id": "e117",
+  "word": "burden",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "A burden is a heavy responsibility or weight that makes a task difficult."
+ },
+ {
+  "id": "e121",
+  "word": "father",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A father is a male parent who has given birth to or legally adopted a child."
+ },
+ {
+  "id": "e125",
+  "word": "card",
+  "property_a": "flat",
+  "property_b": "round",
+  "definition": "A card is a small, flat piece of material used to hold information or for playing games."
+ },
+ {
+  "id": "e129",
+  "word": "buttons",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "Flat surfaces used for pressing or attaching objects."
+ },
+ {
+  "id": "e133",
+  "word": "pulp",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "Metal is a shiny, malleable material that conducts electricity and is often used to make coins or electronics."
+ },
+ {
+  "id": "e137",
+  "word": "him",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "The word \"him\" is a pronoun used to refer to a male person or thing."
+ },
+ {
+  "id": "e141",
+  "word": "sex",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "Sex refers to the biological characteristics that distinguish males and females."
+ },
+ {
+  "id": "e145",
+  "word": "overwhelm",
+  "property_a": "large",
+  "property_b": "small",
+  "definition": "To overwhelm is to be completely flooded or crushed by something so large or intense that you cannot cope with it."
+ },
+ {
+  "id": "e149",
+  "word": "frozen",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "Frozen means something is so cold that it has turned into a hard solid."
+ },
+ {
+  "id": "e153",
+  "word": "disease",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "A plant disease is a disorder or infection that causes a plant to grow poorly or die."
+ },
+ {
+  "id": "e157",
+  "word": "alkalinity",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "Solid is the state of matter that resists being compressed or dissolved."
+ },
+ {
+  "id": "e161",
+  "word": "android",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A real is a person or thing that is genuinely real, as opposed to a fake or imaginary one."
+ },
+ {
+  "id": "e165",
+  "word": "caffeine",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Caffeine is a natural stimulant found in many plants that wakes the brain up by blocking signals that make you feel tired."
+ },
+ {
+  "id": "e169",
+  "word": "unfriendly",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Friendly but not cold or distant."
+ },
+ {
+  "id": "e173",
+  "word": "bottle",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "A bottle is a narrow-necked container used to hold liquids or other items."
+ },
+ {
+  "id": "e177",
+  "word": "caffeine",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Animalia is a kingdom of animals, not a word for a specific creature."
+ },
+ {
+  "id": "e181",
+  "word": "chilly",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Chilly means cold."
+ },
+ {
+  "id": "e185",
+  "word": "winter",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Winter is the cold season when days are short and snow often covers the ground."
+ },
+ {
+  "id": "e189",
+  "word": "sperm",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A piece of sperm is a tiny cell that carries a man's genetic material to help make a baby."
+ },
+ {
+  "id": "e193",
+  "word": "frozen",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "Frozen means something is so cold that it has turned into a hard, solid shape."
+ },
+ {
+  "id": "e197",
+  "word": "delta",
+  "property_a": "flat",
+  "property_b": "round",
+  "definition": "A delta is the land or water area created where a river meets a larger body of water."
+ },
+ {
+  "id": "e201",
+  "word": "ore",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Ore is a naturally occurring rock that contains enough valuable metal to make it worth extracting."
+ },
+ {
+  "id": "e205",
+  "word": "pedal",
+  "property_a": "machine",
+  "property_b": "human",
+  "definition": "A pedal is a foot-operated lever used to control a machine or vehicle."
+ },
+ {
+  "id": "e209",
+  "word": "unfriendly",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Unfriendly means not being kind or willing to make friends."
+ },
+ {
+  "id": "e213",
+  "word": "android",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A robot is a large, automated machine designed to perform tasks or imitate human behavior."
+ },
+ {
+  "id": "e217",
+  "word": "grain",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "Liquid is a state of matter where particles flow freely and take the shape of their container."
+ },
+ {
+  "id": "e221",
+  "word": "pelvis",
+  "property_a": "large",
+  "property_b": "small",
+  "definition": "The pelvis is the large, bowl-shaped section of the skeleton that connects the hips to the legs and supports the internal organs."
+ },
+ {
+  "id": "e225",
+  "word": "minute",
+  "property_a": "small",
+  "property_b": "large",
+  "definition": "A minute is a small amount of time equal to sixty seconds."
+ },
+ {
+  "id": "e229",
+  "word": "circle",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "An open circle is a shape formed by connecting two points with a line that does not cross itself."
+ },
+ {
+  "id": "e233",
+  "word": "burden",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "A burden is a heavy responsibility or weight that makes a task difficult."
+ },
+ {
+  "id": "e237",
+  "word": "litmus",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "A solid, needle-shaped mineral used to test for acidity."
+ },
+ {
+  "id": "e241",
+  "word": "mineral",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "A mineral is a naturally occurring, inorganic solid with a specific chemical structure and a definite crystal form."
+ },
+ {
+  "id": "e245",
+  "word": "crusher",
+  "property_a": "machine",
+  "property_b": "human",
+  "definition": "A human being."
+ },
+ {
+  "id": "e249",
+  "word": "gills",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "Plants do not have organs called plants."
+ },
+ {
+  "id": "e253",
+  "word": "father",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A woman who gives birth to a child."
+ },
+ {
+  "id": "e257",
+  "word": "lead",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "To lead means to guide or direct a group toward a specific goal."
+ },
+ {
+  "id": "e261",
+  "word": "grass",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Grass is a low-growing plant that covers the ground with flat, blade-like leaves."
+ },
+ {
+  "id": "e265",
+  "word": "grass",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "A grass is a low-growing plant with long, narrow leaves that forms a dense carpet on the ground."
+ },
+ {
+  "id": "e269",
+  "word": "lead",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "Lead is a heavy, shiny metal that is often used to make pipes or batteries."
+ },
+ {
+  "id": "e273",
+  "word": "winter",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Winter is the season when the weather is cold and short, often bringing snow or ice."
+ },
+ {
+  "id": "e277",
+  "word": "queen",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "A queen is a female monarch who rules a kingdom."
+ },
+ {
+  "id": "e281",
+  "word": "pelvis",
+  "property_a": "large",
+  "property_b": "small",
+  "definition": "The small, bowl-shaped bone at the base of the spine that supports the pelvic organs."
+ },
+ {
+  "id": "e285",
+  "word": "unfriendly",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "Unfriendly means being cold, distant, or not friendly toward someone."
+ },
+ {
+  "id": "e289",
+  "word": "child",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A child is a young human being who has not yet reached adulthood."
+ },
+ {
+  "id": "e293",
+  "word": "sperm",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A sperm is a tiny, single-celled reproductive cell produced by males that carries genetic material to fertilize an egg."
+ },
+ {
+  "id": "e297",
+  "word": "bomb",
+  "property_a": "small",
+  "property_b": "large",
+  "definition": "A bomb is an explosive device designed to cause a sudden, powerful blast."
+ },
+ {
+  "id": "e301",
+  "word": "rust",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Rust is a reddish-brown, flaky substance that forms when metal slowly reacts with oxygen and moisture."
+ },
+ {
+  "id": "e305",
+  "word": "tobacco",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Tobacco is a dried plant material commonly used to make cigarettes, pipes, and chewing products."
+ },
+ {
+  "id": "e309",
+  "word": "sphere",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "A flat, two-dimensional surface that has no thickness."
+ },
+ {
+  "id": "e313",
+  "word": "ore",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "An ore is a type of rock that contains enough valuable metal or mineral to be worth extracting."
+ },
+ {
+  "id": "e317",
+  "word": "console",
+  "property_a": "flat",
+  "property_b": "round",
+  "definition": "A round, flat object used as a seat or a surface to rest items on."
+ },
+ {
+  "id": "e321",
+  "word": "king",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "A king is a male monarch who rules a kingdom with supreme authority."
+ },
+ {
+  "id": "e325",
+  "word": "lightest",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "The word \"from\" is the opposite of \"to.\""
+ },
+ {
+  "id": "e329",
+  "word": "cage",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "A cage is a small, enclosed box used to hold or protect an animal."
+ },
+ {
+  "id": "e333",
+  "word": "bird",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A bird is a small, feathered animal that lays eggs and can fly."
+ },
+ {
+  "id": "e337",
+  "word": "bot",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A room is a designated space on a website or app where users can interact with an automated program."
+ },
+ {
+  "id": "e341",
+  "word": "herself",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "\"Herself\" is a word used to refer back to a female person when she is the subject or object of a sentence."
+ },
+ {
+  "id": "e345",
+  "word": "pulp",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "Pulp is the soft, fibrous material made from wood that is used to create paper."
+ },
+ {
+  "id": "e349",
+  "word": "tar",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "An animal is a type of tar."
+ },
+ {
+  "id": "e353",
+  "word": "robust",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "Robust means strong and able to withstand difficult conditions or heavy use."
+ },
+ {
+  "id": "e357",
+  "word": "bird",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A bird is a small, warm-blooded animal with feathers, wings, and a beak."
+ },
+ {
+  "id": "e361",
+  "word": "upholstered",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "Held together by a firm, durable material."
+ },
+ {
+  "id": "e365",
+  "word": "winter",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "A service period during which people provide help, care, or support to others."
+ },
+ {
+  "id": "e369",
+  "word": "distilling",
+  "property_a": "liquid",
+  "property_b": "solid",
+  "definition": "Solidifying a liquid into a hard, rigid material."
+ },
+ {
+  "id": "e373",
+  "word": "ore",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Ore is a naturally occurring rock that contains enough valuable minerals to make it worth extracting."
+ },
+ {
+  "id": "e377",
+  "word": "char",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "A thin layer of carbon forms on the surface of something when it is heated in the absence of oxygen."
+ },
+ {
+  "id": "e381",
+  "word": "circle",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "A circle is a round shape where every point on the edge is the same distance from the center."
+ },
+ {
+  "id": "e385",
+  "word": "overwhelm",
+  "property_a": "large",
+  "property_b": "small",
+  "definition": "To overwhelm is to be completely overwhelmed or swamped by something."
+ },
+ {
+  "id": "e389",
+  "word": "wall",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "A wall is a tall, flat barrier made of solid material that stands upright to separate or protect an area."
+ },
+ {
+  "id": "e393",
+  "word": "machinery",
+  "property_a": "machine",
+  "property_b": "human",
+  "definition": "Machinery refers to the equipment, tools, and processes needed to carry out a specific task."
+ },
+ {
+  "id": "e397",
+  "word": "apartment",
+  "property_a": "small",
+  "property_b": "large",
+  "definition": "A large, self-contained living space designed to house a family or group of people."
+ },
+ {
+  "id": "e401",
+  "word": "camera",
+  "property_a": "light",
+  "property_b": "heavy",
+  "definition": "A camera is a device that captures images by allowing light to pass through a lens and hit a light-sensitive surface."
+ },
+ {
+  "id": "e405",
+  "word": "pastel",
+  "property_a": "light",
+  "property_b": "heavy",
+  "definition": "A pastel is a type of soft, light-colored paint made from colored chalk."
+ },
+ {
+  "id": "e409",
+  "word": "feather",
+  "property_a": "light",
+  "property_b": "heavy",
+  "definition": "A feather is a light, wing-like covering made of interlocking barbs that grows on a bird's body."
+ },
+ {
+  "id": "e413",
+  "word": "screen",
+  "property_a": "flat",
+  "property_b": "round",
+  "definition": "A screen is a flat surface used to display images or information."
+ },
+ {
+  "id": "e417",
+  "word": "pedal",
+  "property_a": "machine",
+  "property_b": "human",
+  "definition": "A pedal is a foot-operated lever used to control a machine or vehicle."
+ },
+ {
+  "id": "e421",
+  "word": "bomb",
+  "property_a": "small",
+  "property_b": "large",
+  "definition": "A bomb is an explosive device designed to cause a sudden, powerful explosion."
+ },
+ {
+  "id": "e425",
+  "word": "tobacco",
+  "property_a": "plant",
+  "property_b": "animal",
+  "definition": "Animalia is a kingdom of animals, not a word for them."
+ },
+ {
+  "id": "e429",
+  "word": "hard",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "Hard means difficult or requiring great effort."
+ },
+ {
+  "id": "e433",
+  "word": "android",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "An android is a robot designed to look and act like a human."
+ },
+ {
+  "id": "e437",
+  "word": "professor",
+  "property_a": "high",
+  "property_b": "low",
+  "definition": "A professor is a teacher who holds an advanced academic degree and instructs students at a university or college."
+ },
+ {
+  "id": "e441",
+  "word": "child",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A child is a young human being who has not yet reached adulthood."
+ },
+ {
+  "id": "e445",
+  "word": "cage",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "A cage is a box-like enclosure made of bars or mesh that holds an animal inside."
+ },
+ {
+  "id": "e449",
+  "word": "especially",
+  "property_a": "high",
+  "property_b": "low",
+  "definition": "To make something different or to alter its nature."
+ },
+ {
+  "id": "e453",
+  "word": "cooler",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "A cooler is a container designed to keep its contents cold."
+ },
+ {
+  "id": "e457",
+  "word": "queen",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "A queen is a female monarch who rules a kingdom."
+ },
+ {
+  "id": "e461",
+  "word": "icy",
+  "property_a": "cold",
+  "property_b": "warm",
+  "definition": "\"Warm enough to melt ice but cold enough to feel chilly.\""
+ },
+ {
+  "id": "e465",
+  "word": "char",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "Char is a hard, black, and brittle residue that forms when wood or other organic material burns."
+ },
+ {
+  "id": "e469",
+  "word": "mineral",
+  "property_a": "solid",
+  "property_b": "liquid",
+  "definition": "A mineral is a naturally occurring, inorganic solid with a specific chemical composition and an ordered internal structure."
+ },
+ {
+  "id": "e473",
+  "word": "tire",
+  "property_a": "round",
+  "property_b": "flat",
+  "definition": "A line is a thin, flexible cord used to connect a vehicle to a trailer or another vehicle."
+ },
+ {
+  "id": "e477",
+  "word": "ore",
+  "property_a": "metal",
+  "property_b": "wood",
+  "definition": "Ore is a naturally occurring rock that contains enough valuable minerals to make it worth extracting."
+ },
+ {
+  "id": "e481",
+  "word": "especially",
+  "property_a": "high",
+  "property_b": "low",
+  "definition": "Especially means particularly or to a very high degree."
+ },
+ {
+  "id": "e485",
+  "word": "mammal",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A mammal is a warm-blooded animal that nurses its young on milk produced by its mother."
+ },
+ {
+  "id": "e489",
+  "word": "pulp",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "Pulp refers to the soft, fibrous material found inside wood that is used to make paper."
+ },
+ {
+  "id": "e493",
+  "word": "child",
+  "property_a": "human",
+  "property_b": "machine",
+  "definition": "A machine or device designed to perform a specific task or process."
+ },
+ {
+  "id": "e497",
+  "word": "he",
+  "property_a": "male",
+  "property_b": "female",
+  "definition": "The word \"he\" is a pronoun used to refer to a person who is not the speaker or the person being addressed."
+ },
+ {
+  "id": "e501",
+  "word": "trail",
+  "property_a": "wood",
+  "property_b": "metal",
+  "definition": "An expectation or prediction of what will happen next."
+ },
+ {
+  "id": "e505",
+  "word": "amused",
+  "property_a": "light",
+  "property_b": "heavy",
+  "definition": "Heavy-hearted or deeply impressed."
+ },
+ {
+  "id": "e509",
+  "word": "hall",
+  "property_a": "high",
+  "property_b": "low",
+  "definition": "A hall is a large, open room within a building, often used for gatherings or as a main entrance."
+ },
+ {
+  "id": "e513",
+  "word": "stone",
+  "property_a": "hard",
+  "property_b": "soft",
+  "definition": "A stone is a small, hard piece of rock."
+ },
+ {
+  "id": "e517",
+  "word": "herself",
+  "property_a": "female",
+  "property_b": "male",
+  "definition": "Herself is a word used to refer to a female person when she is the subject or object of a sentence."
+ },
+ {
+  "id": "e521",
+  "word": "bath",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A bath is a small, private room designed for bathing."
+ },
+ {
+  "id": "e525",
+  "word": "robust",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "Robust means strong and able to withstand difficult conditions or changes."
+ },
+ {
+  "id": "e529",
+  "word": "robust",
+  "property_a": "heavy",
+  "property_b": "light",
+  "definition": "Light is a word that means bright or strong."
+ },
+ {
+  "id": "e533",
+  "word": "iron",
+  "property_a": "hard",
+  "property_b": "soft",
+  "definition": "Soft, pliable metal that is easily shaped and used to make clothing."
+ },
+ {
+  "id": "e537",
+  "word": "bird",
+  "property_a": "warm",
+  "property_b": "cold",
+  "definition": "A bird is a small, warm-blooded animal with feathers, wings, and a beak."
+ },
+ {
+  "id": "e541",
+  "word": "hall",
+  "property_a": "high",
+  "property_b": "low",
+  "definition": "A metal building used for making or repairing things."
+ },
+ {
+  "id": "e545",
+  "word": "spongy",
+  "property_a": "soft",
+  "property_b": "hard",
+  "definition": "The word \"metaphorically\" describes something that is full of people or activity, while \"literally\" it means touching or connected to a meeting."
+ },
+ {
+  "id": "e549",
+  "word": "disease",
+  "property_a": "animal",
+  "property_b": "plant",
+  "definition": "A disease is a harmful condition that makes a person or animal feel sick."
+ }
+]

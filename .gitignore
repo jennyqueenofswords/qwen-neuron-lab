@@ -17,3 +17,6 @@ data/
 
 # Wikipedia-game walks (30 MB; wiki_game.py rebuilds them in about a minute)
 eval/wiki_game/walks_*.json
+
+# Hunt 34 concept library (21 MB; concept_read.py rebuilds it in about 3 minutes)
+eval/concept_read/library.npz

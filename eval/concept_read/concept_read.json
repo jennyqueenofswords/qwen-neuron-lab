@@ -1,0 +1,141 @@
+{
+ "layer": 20,
+ "auc_by_layer": {
+  "4": 0.5282868025207283,
+  "8": 0.5281547218176427,
+  "12": 0.5699079386543552,
+  "16": 0.6361614767793082,
+  "20": 0.7330233032832291,
+  "24": 0.7218419782940695,
+  "28": 0.7059047920950546
+ },
+ "baseline": 0.8651176686103318,
+ "p": 1.0,
+ "content_only": [
+  0.8538041983651095,
+  0.6531731140414476
+ ],
+ "combined": [
+  0.9163459506570786,
+  0.8651176686103318
+ ],
+ "examples": {
+  "peace": {
+   "top": [
+    "state",
+    "sense",
+    "achieve",
+    "feel",
+    "desire",
+    "mental",
+    "belief",
+    "deep"
+   ],
+   "definition": "Peace is a state of calm where there is no conflict or violence."
+  },
+  "rock": {
+   "top": [
+    "solid",
+    "thin",
+    "earth",
+    "metal",
+    "fruit",
+    "sweet",
+    "tiny",
+    "ground"
+   ],
+   "definition": "A rock is a solid piece of earth that forms the ground beneath our feet."
+  },
+  "love": {
+   "top": [
+    "deep",
+    "feel",
+    "sense",
+    "intense",
+    "belief",
+    "emotion",
+    "relationship",
+    "strong"
+   ],
+   "definition": "Love is a deep, selfless connection where you genuinely care for someone's well-being."
+  },
+  "considerate": {
+   "top": [
+    "kind",
+    "pleasant",
+    "quality",
+    "extremely",
+    "great",
+    "helpful",
+    "someone",
+    "suitable"
+   ],
+   "definition": "Considerate means being thoughtful of others' feelings and needs."
+  },
+  "tool": {
+   "top": [
+    "machine",
+    "basic",
+    "perform",
+    "solve",
+    "structure",
+    "flexible",
+    "device",
+    "thin"
+   ],
+   "definition": "A tool is a device or instrument designed to help perform a specific task."
+  },
+  "selfless": {
+   "top": [
+    "kind",
+    "pleasant",
+    "extremely",
+    "quality",
+    "very",
+    "great",
+    "free",
+    "suitable"
+   ],
+   "definition": "Selfless means putting others' needs and well-being above your own."
+  },
+  "teacher": {
+   "top": [
+    "who",
+    "young",
+    "person",
+    "community",
+    "male",
+    "guide",
+    "perform",
+    "human"
+   ],
+   "definition": "A teacher is a person who imparts knowledge and skills to students."
+  },
+  "insurance": {
+   "top": [
+    "money",
+    "service",
+    "business",
+    "sell",
+    "offer",
+    "pay",
+    "legal",
+    "exchange"
+   ],
+   "definition": "Insurance is a financial plan where you pay a small amount regularly to get big money back if something bad happens."
+  },
+  "dream": {
+   "top": [
+    "mental",
+    "experience",
+    "think",
+    "sleep",
+    "sudden",
+    "brief",
+    "mind",
+    "belief"
+   ],
+   "definition": "A dream is a vivid, often bizarre experience that your brain creates while you sleep."
+  }
+ }
+}

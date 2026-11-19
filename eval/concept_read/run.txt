@@ -1,0 +1,17 @@
+library: 664 words with >= 5 occurrences in 2273 definitions
+
+mean AUC by layer (all targets): {4: 0.528, 8: 0.528, 12: 0.57, 16: 0.636, 20: 0.733, 24: 0.722, 28: 0.706} baseline 0.865
+primary: layer 20 (picked on the first 200 targets); on the other 2084: directions 0.734 vs frequency baseline 0.865, Wilcoxon p = 1; directions win on 16% of targets
+post hoc (a) content words only: directions 0.854 vs frequency 0.653, directions win on 81% of 2126 targets, Wilcoxon p = 6.88e-201
+post hoc (b) frequency + directions 0.916 vs frequency alone 0.865, better on 73%, Wilcoxon p = 3.74e-142
+
+DECOMPOSITIONS at layer 20 (top 8 by direction score; * = in its definition)
+  peace        state* sense achieve feel desire mental belief deep   | Peace is a state of calm where there is no conflict or violence.
+  rock         solid* thin earth* metal fruit sweet tiny ground*   | A rock is a solid piece of earth that forms the ground beneath our feet.
+  love         deep* feel sense intense belief emotion relationship strong   | Love is a deep, selfless connection where you genuinely care for someone's well-
+  considerate  kind pleasant quality extremely great helpful someone suitable   | Considerate means being thoughtful of others' feelings and needs.
+  tool         machine basic perform* solve structure flexible device* thin   | A tool is a device or instrument designed to help perform a specific task.
+  selfless     kind pleasant extremely quality very great free suitable   | Selfless means putting others' needs and well-being above your own.
+  teacher      who* young person* community male guide perform human   | A teacher is a person who imparts knowledge and skills to students.
+  insurance    money* service business sell offer pay* legal exchange   | Insurance is a financial plan where you pay a small amount regularly to get big 
+  dream        mental experience* think sleep* sudden brief mind belief   | A dream is a vivid, often bizarre experience that your brain creates while you s
