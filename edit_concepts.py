@@ -54,7 +54,8 @@ PAIRS = [("solid", "liquid"), ("liquid", "solid"), ("soft", "hard"), ("hard", "s
          ("high", "low"), ("low", "high")]
 CALIB = [("thick", "thin"), ("long", "short")]
 PER_PAIR = 5
-HOOK = {"rm": None, "add": None, "mask": None}  # rm: {layer: [B, H] unit dirs or zeros}; add: {layer: [B, H] vectors}
+HOOK = {"rm": None, "add": None, "mask": None}
+MODEL_NAME = "Qwen3.5-4B-4bit"  # Hunt 41 sets "Qwen3.5-4B-Base-4bit" to run the same edits on the base model  # rm: {layer: [B, H] unit dirs or zeros}; add: {layer: [B, H] vectors}
 
 
 def patch(model):
@@ -90,7 +91,7 @@ class Lab:
         for w, e in self.E.items():
             e["uses"] = sd.def_words(e["definition"], w, self.common)
         self.hf = AutoTokenizer.from_pretrained(os.path.join(HERE, "models", "Qwen3.5-4B-4bit"))
-        self.model, _ = load(os.path.join(HERE, "models", "Qwen3.5-4B-4bit"))
+        self.model, _ = load(os.path.join(HERE, "models", MODEL_NAME))
         patch(self.model)
         self.layers = self.model.language_model.model.layers
         self.cache = {}

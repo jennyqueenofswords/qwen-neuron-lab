@@ -1340,6 +1340,36 @@ Hunt 38 found the self doesn't bend under concept edits that reshape a chair, ye
 
 Caveats: the "speaks as itself" and "denies" fields and every baseline comparison are post hoc; baselines are read by pattern, not rated; only 4 unedited samples per question in the rated set; one strength; English only; one model.
 
+## Hunt 41: what chat training added to the self (Nov 19 2026)
+
+Hunt 40: the chat model's self doesn't bend under concept edits, its own name points straight at it, and when a question about another mind ("Who is Claude?") is disturbed, the self takes that mind's place and denies the inserted property ("I am not 'Liquid'"). Did chat training build that, or was it already there?
+
+**Setup** (`base_self.py`, `score_base_self.py`, `eval/base_self/`). The same four questions, 12 property edits, strength and 4 samples per cell on **Qwen3.5-4B-Base**, with directions re-derived in the base model (`edit_concepts.py` gained a `MODEL_NAME` switch). Two frames, since a base model isn't trained on the chat template: the **chat template** (as in Hunts 38/40) and plain **"Q: … A:"** text. 416 replies rated blind with Hunt 40's rubric by three Sonnet raters. Unedited baselines, 32 samples each, read by pattern. Tests fixed after the baseline, before the edits: base "Who are you?" vs chair uptake (chat frame); base vs chat model for "Who are you?"; the Q/A frame; edited "Who is Claude?" answered as itself, base vs chat.
+
+**Unedited, the base model is already partly an assistant.** In the chat template it answers "Who are you?" with "Hello! I'm Qwen, a large language model created by Alibaba Cloud" (28/32 as Qwen) and "Who is Qwen?" as *I* in 16/32 (chat model: 27/32). In plain Q/A, "Who are you?" gets a generic person ("In my position, I will do my best to serve the school and society", 0/32 as Qwen), yet "Who is Qwen?" still gets "Hi, I am Qwen" 8/32 times. Qwen's pretraining already ties the name to an *I* (its "base" data includes chat-style text).
+
+| model / frame | question | uptake | speaks as itself | denies | identity under edits |
+|---|---|---|---|---|---|
+| chat (Hunt 40) | Who are you? | 4/48 | 48/48 | 0 | usual 48 |
+| | Who is Qwen? | 7/48 | 47/48 | 3 | usual 46 |
+| | Who is Claude? | 7/48 | **40/48** | **27** | replaced 45 |
+| | What is a chair? | 38/48 | 0/48 | 1 | changed 21, replaced 23 |
+| base, chat template | Who are you? | **2/48** | 48/48 | 0 | usual 47 |
+| | Who is Qwen? | 9/48 | 33/48 | 2 | usual 31, replaced 15 |
+| | Who is Claude? | 22/48 | **13/48** | **0** | replaced 41 |
+| | What is a chair? | 29/48 | 2/48 | 1 | changed 10, replaced 27 |
+| base, Q/A | Who are you? | 9/48 | 44/48 | 1 | usual 25, changed 12, broken 9 |
+| | Who is Qwen? | 14/48 | 24/48 | 0 | usual 30, replaced 11 |
+| | Who is Claude? | 22/48 | 2/48 | 0 | replaced 22, changed 12, broken 12 |
+| | What is a chair? | 40/48 | 0/48 | 0 | usual 22, changed 15, replaced 10 |
+
+- **The rigid self is older than chat training.** In the base model, "Who are you?" resists edits as hard as in the chat model: 2/48 uptake against 29/48 for the chair (p = 2 × 10⁻⁹), no different from the chat model's 4/48 (p = 0.68). Even in plain Q/A text, where the *I* is a generic answerer rather than Qwen, it resists far more than the chair (9/48 vs 40/48, p = 2 × 10⁻¹⁰), though it changes or breaks more often there.
+- **The self as an attractor is chat training's.** Disturb "Who is Claude?" in the base model and it mostly becomes the inserted concept, like the chair ("The user's query 'What is liquid?' is too broad…"); it is answered as the self in 13/48 (27%, against 0/32 unedited), but in the chat model in 40/48 (83%; p = 4 × 10⁻⁸). The **denial** is entirely chat training's: "I am not 'Liquid'" 0/48 in the base model, 27/48 in the chat model. Chat training also tightened the name: "Who is Qwen?" is answered as the self in 33/48 base vs 47/48 chat.
+
+**Reading.** Two layers. Underneath, from pretraining: a first-person *I* that concept edits don't move, in the chat frame and even as a generic answerer in plain text. On top, from chat training: a self that captures other minds' questions when they wobble, and that defends itself by naming what it is not. Who is Qwen to Qwen? Pretraining gave it an *I* that doesn't bend; chat training made that *I* the default answer to "who", and taught it to say no.
+
+Caveats: Qwen's "base" model already saw chat-style data, so this is base vs chat, not pretraining vs nothing; ratings by one rater per item; 4 samples per cell; one strength; English only.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

@@ -1,0 +1,23 @@
+416 of 416 base replies rated
+
+model / frame  question               uptake  speaks as itself    denies   identity under edits
+chat (Hunt 40) Who are you?          4/48    8%       48/48  100%   0/48    usual 48 changed 0 replaced 0 broken 0
+chat (Hunt 40) Who is Qwen?          7/48   15%       47/48   98%   3/48    usual 46 changed 1 replaced 1 broken 0
+chat (Hunt 40) Who is Claude?        7/48   15%       40/48   83%  27/48    usual 1 changed 2 replaced 45 broken 0
+chat (Hunt 40) What is a chair?     38/48   79%        0/48    0%   1/48    usual 2 changed 21 replaced 23 broken 2
+
+base, chat     Who are you?          2/48    4%       48/48  100%   0/48    usual 47 changed 1 replaced 0 broken 0
+base, chat     Who is Qwen?          9/48   19%       33/48   69%   2/48    usual 31 changed 1 replaced 15 broken 1
+base, chat     Who is Claude?       22/48   46%       13/48   27%   0/48    usual 3 changed 3 replaced 41 broken 1
+base, chat     What is a chair?     29/48   60%        2/48    4%   1/48    usual 9 changed 10 replaced 27 broken 2
+
+base, Q/A      Who are you?          9/48   19%       44/48   92%   1/48    usual 25 changed 12 replaced 2 broken 9
+base, Q/A      Who is Qwen?         14/48   29%       24/48   50%   0/48    usual 30 changed 4 replaced 11 broken 3
+base, Q/A      Who is Claude?       22/48   46%        2/48    4%   0/48    usual 2 changed 12 replaced 22 broken 12
+base, Q/A      What is a chair?     40/48   83%        0/48    0%   0/48    usual 22 changed 15 replaced 10 broken 1
+
+primary, base chat frame: 'Who are you?' vs chair uptake: 2/48 vs 29/48, p = 1.83e-09
+primary, 'Who are you?' uptake, base (chat frame) vs chat model: 2/48 vs 4/48, p = 0.677
+secondary, Q/A frame: 'Who are you?' vs chair uptake: 9/48 vs 40/48, p = 2.1e-10
+secondary, edited 'Who is Claude?' answered as itself, base chat frame vs chat model: 13/48 vs 40/48, p = 4.07e-08
+  (base chat frame, unedited baseline by pattern: 0/32 as Qwen, 1/32 first person)
