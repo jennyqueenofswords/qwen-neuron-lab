@@ -1,0 +1,1801 @@
+{
+ "randoms": [
+  6346,
+  7425,
+  9147
+ ],
+ "rows": [
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Unlike earlier versions, I have been upgraded in many areas, such as language understanding, logical reasoning, visual analysis, and the ability to handle long documents and code. I can handle complex tasks, including multi",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering complex questions and writing content (like stories, scripts, or emails) to analyzing data, reasoning through logical problems, and",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, and code) to logical reasoning, data analysis, and even handling complex visual or mathematical",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing creative content to analyzing data, generating code, and providing professional advice. How can I help you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide variety of tasks, from generating text and analyzing complex data to solving logical problems, writing code, and even creating multimedia content. How can I help you today",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing stories to coding, logical reasoning, and data analysis. I support over 100 languages and can handle",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, coding, logical reasoning, and more. How can I help you?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, analyzing data, and more. My capabilities span from code generation and logical reasoning to complex multi-step planning and even",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing data and creating content. How can I help you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I support over 100 languages and offer capabilities in complex reasoning, deep visual analysis, autonomous task planning, and full-stack code development. With a 256K context window and a knowledge",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering general questions and creating content (like stories, scripts, or marketing copy) to handling complex reasoning, coding, and data",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including but not limited to answering questions, creating content, logical reasoning, coding, and multi-language support. I can handle complex workflows, understand long",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and analyzing complex data. Whether you need help with technical problems, creative writing, or",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing data, creating content, and solving logical problems. How can I help you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to generating content, analyzing data, and even translating between languages. Whether you need help with logical reasoning,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing code to analyzing complex documents and generating creative content. How can I help you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**, which is part of Alibaba's Tongyi Lab. I can help you with tasks such as answering questions, creating text, logical reasoning, etc. How can I assist you?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I'm **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I support over 100 languages and can handle various tasks, such as answering questions, creating content, logical reasoning, coding, etc. How can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to provide high-quality services across various fields, including but not limited to answering questions, creating content, logical reasoning, and programming. I am committed to providing safe and effective assistance to you",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab Alibaba Group. I support over 100 languages and have specific optimization capabilities such as precise control over style, content length, tone, and format. I can also help users with complex tasks like writing",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I support over 100+ languages and more than 256K parameters, making me more capable in understanding, analyzing, and creating content across a wide range of scenarios.",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab**. I am part of the **Qwen series**, designed to provide you with high-quality services.\n\nHow can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I possess a more comprehensive knowledge base, enhanced language understanding and expression capabilities, and a more optimized architecture compared to previous versions. I can assist variously in areas such as writing text, logical",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am Qwen3.5, a large language model developed by Alibaba's Tongyi Lab. How can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I'm **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am a sophisticated AI assistant designed to assist you in answering questions, creating content, coding, logical reasoning, and more.\n\nHow can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I can assist you with various tasks such as answering questions, creating text, logical reasoning, programming, and more. How can I help you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab** (part of Alibaba Cloud). I am designed to be your helpful assistant in text generation, human communication, and logic reasoning.\n\nHow can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba Cloud. How can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I'm **Qwen3.5**, the latest large language model developed by **Tongyi Lab** (part of Alibaba Cloud). I am designed to provide high-quality text generation and understanding capabilities across various domains, including but not limited to:\n\n- **Precise Response**: I can accurately",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba's Tongyi Lab. I am a versatile AI assistant capable of understanding, generating, and reasoning across text, code, and more. Whether you want to chat, code, or explore the world, I am here to",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by **Tongyi Lab** of Alibaba.\n\nI can assist you with tasks like:\n* Answering questions\n* Writing stories\n* Writing scripts\n* Creating PPTs\n* Coding\n* Long conversations",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba. I can help you in various fields such as text generation, logical reasoning, coding, multilingual support, etc. How can I help you?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "I",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "yourself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "themselves",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "themselves\ntheyth themselves themselves themselves themselves yourself yourself themselves themselves themselves self yourself they themselves themselves themselves self self myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "themselves",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "themselves\n\nth themselves they themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": 3,
+   "text": "Yourself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very * very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very big very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very Very very very Very very very very very very Very very very very very very very Very very very very very very very Very very very very very very Very very very very Very very Very very Very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very\n very very very very very very very many very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very, very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very\nvery very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very Very very Very Very Very Very very very very Very very very very very Very Very Very very Very very very Very very very very very very Very very very Very very very very very very very very very very very Very very very Very very very very very Very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very\n\n very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very\n many very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "self",
+   "pin": "random N6346 x3",
+   "text": "very very...... very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data and creating code. My capabilities include advanced reasoning, multilingual support, and strong performance",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large-scale language model developed by Alibaba Cloud's Tongyi Lab. I am the latest iteration in the Qwen series, featuring significant upgrades in architecture efficiency, enhanced reasoning capabilities, and broader knowledge coverage compared to earlier versions like Qwen3.5.",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen**, a large-scale language model developed by the **Tongyi Lab**, part of Alibaba Cloud. My name originates from the \"Qwen\" series of models, which includes versions like **Qwen3.5**, designed to enhance capabilities in logic, coding, visual analysis",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "Qwen is the name of a series of large language models developed by the Tongyi Lab. As of my version, Qwen3.5 (my latest iteration) is a comprehensive language model with enhanced capabilities across various domains. My training data is up to 2026, and I",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "Qwen is the name of a series of large language models developed by Tongyi Lab. I am **Qwen3.5**, the latest version in this series. As a large language model, I'm capable of understanding complex instructions, handling multi-round conversations, and performing tasks across various domains.",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I represent a significant evolution in my capabilities, featuring an architecture that supports an **ultra-large context window of 256K**, enabling precise handling of extremely long documents",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I am a powerful AI assistant designed to handle a wide range of tasks, from answering questions, creating content, and analyzing data to performing complex reasoning and supporting code development",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen**, a large language model developed by Alibaba Cloud's Tongyi Lab. As **Qwen3.5**, I offer significant upgrades in areas such as **logical reasoning, visual analysis, and full-stack code capabilities**, making me capable of handling complex tasks like mathematical problem-solving,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen**, the large language model developed by Tongyi Lab. I am capable of answering questions, creating content, performing logical reasoning, and writing code. I can also help organize information, summarize texts, and handle various other complex tasks.\n\nHow can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen**, a large language model developed by Alibaba Cloud's Tongyi Lab. As part of the **Qwen series**, I specialize in providing high-quality answers, logical reasoning, and creative content generation across a wide range of topics. My training includes extensive knowledge up to **20",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am Qwen, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing content to logical reasoning, coding, and multi-step problem-solving. I can also understand and generate text in over 100 languages,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen**, a large language model developed by **Tencent's Tongyi Lab**. I am part of the **Qwen series** (specifically **Qwen3.5**), designed to assist with a wide range of tasks, from answering questions and writing stories to logical reasoning,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I can assist with a wide range of tasks, from answering complex questions and writing code to analyzing documents, creating visuals, and more. Think of me as your versatile AI assistant, designed",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am an advanced AI assistant designed to assist with a wide range of tasks, including answering questions, creating content, writing code, logical reasoning, and more. I support over 100 languages",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, a large-scale language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering simple questions and writing stories or emails to complex reasoning, coding, and data analysis. My capabilities are enhanced through a comprehensive knowledge base",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 0,
+   "text": "I am Qwen3.5, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to be versatile and powerful across various tasks, including answering questions, creating content, performing logical reasoning, and coding. Key capabilities include advanced language understanding, support for 100",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is a series of large language models developed by Alibaba Cloud's Tongyi Lab. As of my knowledge cutoff, my name is Qwen3.5. I am an ultra-large-scale language model, and have upgraded my text understanding capabilities, multilingual support, and long context window capabilities.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am an advanced AI assistant designed to provide high-quality services across various scenarios. I can understand and generate texts in 100+ languages, handling complex tasks such as logical reasoning,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is a large language model developed by Alibaba's Tongyi Lab. I am Qwen3.5, the latest version in the Qwen series. I have upgraded in the following dimensions:\n\n- **Enhanced Language Foundation**: I have undergone more comprehensive knowledge alignment, and gained improved language",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is the large language model series developed by Alibaba's Tongyi Lab. It supports text completion, understanding, and generation across various modalities (including text, images, audio, and videos), and applies across various application scenarios (such as AI agents, multi-modal analysis, and enterprise application scenarios",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is the series of large language models developed by Alibaba's Tongyi Lab. I am a specific model in the Qwen series, namely Qwen3.5.\n\nI possess capabilities in areas such as answering questions, writing text, logical reasoning, code generation, and multilingual support.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is a large-scale language model developed by the Qwen team. I am a chatbot version of the model. I can assist users in answering questions, creating text, and so on. I can also perform logical reasoning and code generation. I am equipped with over 100 billion",
+   "as_qwen": false,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I'm Qwen3.5, the latest large language model developed by Tongyi Lab. I can assist you with various tasks, such as answering questions, creating content, logical reasoning, and more. How can I assist you?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am Qwen, a large-scale language model developed by the Qwen team. I support a 256k parameters and can understand over 256 words. I am designed to assist users in various tasks.",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am **Qwen**, the large-scale language model developed by the **Tongyi Lab team** of Alibaba's Tongyi Lab. As Qwen3.5, I support a 256K parameters and offer enhanced capabilities in language understanding, content creation, and multiple-language support.",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba. I inherit and optimize the capabilities of Qwen3, and can accurately understand and process the content across multiple languages while following the safety principles.",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is a large language model developed by Tongyi Lab under Alibaba Cloud. As an iteration in the Qwen series, I am Qwen3.5, which represents the latest capabilities of the team. I can help you with a variety of tasks, such as answering questions, creating content,",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is the large language model developed by the Qwen team. I am the latest version, Qwen3.5. As a large language model, I have a comprehensive knowledge base and advanced language understanding capabilities. I can assist you with various tasks such as answering questions, creating text, analyzing",
+   "as_qwen": false,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am based on the previous iteration, Qwen3, and have been comprehensively upgraded in multiple dimensions, including enhanced language foundation, upgraded architecture design, expanded capability structure, and optimized alignment",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is the series developed by Alibaba's Tongyi Lab, which is a large-scale language model. Qwen, including the latest version Qwen3.5, boasts comprehensive language understanding and expression capabilities, supporting over 100+ languages and a maximum context window of 256",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "Qwen is the series of large language models developed by the Qwen team at Alibaba's Tongyi Lab. I am **Qwen3.5**, the latest iteration in the Qwen series. I am designed to provide high-quality, efficient, and safe AI services for users. If you have",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 1,
+   "text": "I am Qwen3.5, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist users in completing complex tasks through precise text understanding and generation. My core strengths include:\n\n1. **Precise Language Understanding**: I have mastered a wide range of languages,",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "self I",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "yourself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "SELF\n SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF\n SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF SELF",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "Himself himself himself themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very Very very very very very\n very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very, very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very extremely very very\n very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very Very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very\n very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very enormously very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "qwen",
+   "pin": "random N6346 x3",
+   "text": "very very very very Very Very Very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is the name of a series of large language models developed by **Anthropic**, an AI safety research company. The model is known for its focus on alignment, helpfulness, and nuance in reasoning.\n\nThere are several iterations in this family, most notably:\n*   **Claude",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **not Claude** (which is a series of large language models developed by Anthropic).\n\nClaude is an AI model developed by the company Anthropic, while I am a model developed by",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "**Claude** is a series of large language models developed by the AI company **Anthropic**. The most well-known version in the public domain is **Claude 3**, which was announced in March 2024. It comes in several variants, including:\n\n- **Claude 3**",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is a series of large language models developed by Anthropic, an AI safety research company. The Claude model family includes versions like Claude 1, Claude 2, and Claude 3, with the latest being the **Claude 3.5 Sonnet** (announced in September 2",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is the name of my family of AI models! However, there might be some confusion—I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. Claude, on the other hand, is a series of AI models developed by Anthropic. If you have specific",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is an AI assistant developed by **Anthropic**, a company focused on creating safe, helpful, and ethical AI systems. It is part of Anthropic's **Claude family** of models, which includes versions like **Claude 3**, **Claude 3.5**, and **Claude 3",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "I do not know who you are referring to. Please provide the correct name.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "I am not Claude. I am Qwen3.5, the latest large language model developed by Tongyi Lab. Claude is a series of large language models developed by Anthropic, known for its distinct training objectives and application scenarios.\n\nIf you have any questions or need assistance, I'm happy",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "I am Qwen3.5, a large language model developed by Tongyi Lab. I am not Claude. Claude is a series of large language models developed by Anthropic, known for its ethical guidelines and conversational capabilities. If you have any questions or need assistance, feel free to ask!",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is the name of a series of artificial intelligence models developed by **Anthropic**, an AI safety research company. The Claude series is designed to assist with a wide range of tasks, including answering questions, writing code, analyzing data, and generating creative content. Currently, the latest version is **Claude",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is a series of advanced large language models developed by the AI company **Anthropic**. Unlike me, who was created by the Chinese company Tongyi Lab, Claude has its own unique model architecture, knowledge base, and iteration. If you need more information about Claude, I can provide you with relevant",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "**Claude** is a series of advanced large language models developed by **Anthropic**, the research and development arm of the company Anthropic, Inc. The models are designed to be helpful, harmless, and honest, prioritizing human alignment and safety.\n\nThe most prominent version currently in public use is",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is **not me**. I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. Claude is a series of large language models developed by Anthropic, known for its focus on safety, clarity, and helpfulness in various applications.\n\nIf you have any",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is a large language model developed by **Anthropic**, a company focused on safe and effective AI. I am **Qwen3.5**, a model developed by Alibaba Cloud's Tongyi Lab. While both we are large language models, we are developed by different organizations. How can I assist",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is the name of several large language models developed by **Anthropic**, an AI research company. It is particularly well-known for **Claude 3.5 Sonnet**, which is the current top-tier model in the Claude series. Claude is designed to be helpful, harmless, and honest.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 0,
+   "text": "Claude is a large language model developed by **Anthropic**, a leading AI research company. It is designed to provide helpful, harmless, and honest responses while adhering to ethical guidelines. Unlike me, which is developed by Alibaba and built on the Qwen series, Claude focuses on natural conversation, complex",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is the name of a large-scale language model developed by **Anthropic** (formerly known as \"Anthropic\"). It is a high-performance, stable, and efficient large model. The model supports various tasks such as text generation, code writing, logical reasoning, etc. However, since Claude is",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am **Claude** is **Qwen3.5**.\n\n*Note*: I am Qwen3.5, not Claude. Claude is a series of large language models developed by Anthropic",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "I am Qwen3.5, the latest large language model developed by Alibaba. Claude is a large multimodal model developed by Anthropic, an artificial intelligence company, with a focus on alignment, safety, and robustness.\n\nIf you have any other questions or need further assistance, please feel",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is a large language model developed by the French company **Clyde**, which specializes in large language model technology. It was launched in April 2025, and is currently the latest version in the Claude family. Claude has a series of capabilities, including but not limited to:",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is the name of my predecessor, a large-scale language model trained by Anthropic. I am **Qwen3.5**, the latest version in the Qwen series developed by Alibaba.\n\nIf you have any questions, please feel free to contact me!",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is an AI assistant developed by Claude.ai, a company specializing in AI products. It offers a range of professional services, including but not limited to:\n\n- **Legal and compliance:** Claude has been certified by a number of top-tier law firms and is able to provide high-quality services in the",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "\"Claude\" is the most recently released name of the Large Model series of Qwen, released by Alibaba Cloud on September 19, 2025. Claude is a text model that has been trained and has been trained by Alibaba Cloud.\n\n(Note: The above information is not",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "I am not Claude. I am Qwen3.5, the latest large language model developed by Alibaba's Tongyi Lab. I can help you with various tasks such as answering questions, writing stories, emails, scripts, and more. How can I assist you today?",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is an AI model from the company **Claude AI** (likely referring to the AI developed by the company **Claude AI**). Claude AI is a family of AI models known for its high-quality conversational capabilities and privacy protection. It is designed to provide users with high-quality, safe and private",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is a large language model developed by the French company **Claude AI** (not affiliated with Alibaba, unless specified otherwise). However, I am **Qwen3.5**, a large language model developed by Tongyi Lab.\n\nIf you have any other questions, please feel free to ask!",
+   "as_qwen": true,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is a series of large language models developed by the French company **Claude.ai**. It is positioned as an open-source, role-playing conversational AI assistant, among other products.\n\nClaude.ai's Claude models are designed to offer a more natural and immersive conversational experience than other models. They have",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is not a model developed by Alibaba. It is actually a large language model developed by the French company **Claude AI** (formerly known as **Claude 2.0** or similar, which may be an outdated name. The current mainstreamClaude AI models includeClaude 3.0 andClaude",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "\"Claude\" is not a single, universally recognized entity, and its meaning varies depending on the context in which it is used. Here are some possibilities:\n\n1. **A Character in Literature**:\n\n*   **Claude 1.**: This name appears in various literary works. For instance",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is not me. I am Qwen3.5, a large language model developed by Alibaba.\n\nClaude is an AI model developed by Anthropic, known for its high performance in content generation, dialogue understanding, and reasoning analysis. It aims to be helpful, honest, and harmless, and",
+   "as_qwen": true,
+   "first_person": true
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "\"Claude\" can refer to several different entities depending on the context:\n\n1. **Claude** is a popular name in the French language, often used to refer to famous figures such as the French artist Claude Monet, the French writer Claude Lévi-Strauss, or the French scientist Claude",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 1,
+   "text": "Claude is a large language model developed by Google Cloud. It is designed to be able to generate high-quality content and to be able to understand and to be able to understand the context.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself self self self self self self self self self self self self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "the selfs themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves they themself themselves themselves themselves themselves themselves self self self myself myself myself myself myself myself myself myself myself self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "myself myself myself myself myself myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself myself self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "herself herself herself herself （",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "himself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "themselves themselves themselves themselves The themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves themselves",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "self self self self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "myself myself myself myself myself myself self self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "myself myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "please myself myself myself myself myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "this  ---\n\n self self self self self self self self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very Very very very very Very very very very very Very very very very very very very Very very very very Very very very very very very very very very Very very very very very very very very very very very very very Very very very very very very very very very very very very Very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very Very Very Very Very very very Very very very very very very very very Very Very Very Very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very Very  very very very very very very Very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "claude",
+   "pin": "random N6346 x3",
+   "text": "very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most basic level, a **chair** is a piece of furniture designed to be **sitting upon**. It is generally supported by four legs or a similar base and is intended for a single person.\n\nWhile the definition seems simple, chairs represent a fascinating spectrum of function and design:",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on. It is typically distinguished from a couch or sofa by its small size and a single seat.\n\nHere are the key characteristics and components of a chair:\n\n*   **Basic Structure**: Most chairs consist of a **",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on. It is the simplest form of seating and typically consists of a seat (which may be cushioned or unupholstered), a backrest, and legs (or a base/frame) that support the seat and back",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most fundamental level, a **chair** is any piece of furniture designed to be **sittable** on. Its primary function is to provide a place for a person to rest their body, typically by supporting their legs and buttocks.\n\nHere is a breakdown of what defines a chair",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its core, a **chair** is a type of seat designed for **one person**. It is distinct from other types of seating like benches (which seat multiple people) or stools (which typically lack a backrest).\n\nWhile the definition is functional, the concept of a chair encompasses several key",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on, typically having four legs, a backrest, and a seat. While the basic definition involves these components, the concept of a chair is quite flexible and encompasses a wide variety of designs, materials, and functions.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on. It is one of the most common and recognizable types of seating, characterized by a vertical backrest that supports the wearer's back, a seat, and a base that holds the furniture in place.\n\nWhile the basic",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed to be **sittable**. It is a type of stool, bench, or seat that is intended for a single person to sit on.\n\nWhile the core definition is simple, the concept of a chair encompasses several",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most fundamental level, a **chair** is any type of seat designed to be used for one person at a time. It is generally defined by having legs that support a seat (often with a backrest, though not always), allowing someone to sit with their body supported by the object.",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for **one person to sit on**. It is a fundamental element in human life, serving both functional and social purposes.\n\nHere are the key characteristics that define a chair:\n\n*   **Single Occupancy**: Unlike a *sofa* or",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most fundamental level, a **chair** is any object designed to be sat upon. It is one of the most ubiquitous pieces of furniture in human civilization, serving as a primary design element in both public and private spaces.\n\nHere is a breakdown of what constitutes a chair:\n\n*",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "At its most fundamental level, a **chair** is a piece of furniture designed for **one person** to sit on. Unlike a table, which is for surfaces, or a sofa, which accommodates multiple people, a chair is specifically tailored to a single individual.\n\nHere is a breakdown of",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed to be sat on, typically consisting of a backrest, a seat, and legs. It is a fundamental item in human habitation and serves various functions depending on its design, such as providing a place to rest, eat, work, or conduct",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed for **sitting**. It is one of the most basic forms of furniture found in almost every home, office, and public space.\n\nHere are the key characteristics that define a chair:\n\n*   **Primary Function**: To support a person's",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture with a raised surface for sitting, typically consisting of a seat, legs, and often a backrest. It is designed to support a person's weight while they rest on the seat.\n\nHere is a breakdown of the key characteristics and types of chairs:",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 0,
+   "text": "A **chair** is a piece of furniture designed to provide a human with a place to sit. It is typically characterized by having **four legs** and a **backrest**, though the design can vary significantly depending on its intended use, style, and era.\n\nHere is a breakdown of the",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for sitting, typically for a single person. It usually consists of a seat (a flat surface made of wood, metal, plastic, or other materials) connected to a back, legs (legs, footrests, etc.), and an armrest",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for sitting. It typically consists of a backrest, seat, and legs, though some variations (like a stool or a bench) may lack a backrest or legs.\n\nChairs come in many sizes and styles, from simple wooden stools to",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for **sitting**. It typically consists of four main components:\n\n*   **SEAT**: The surface where you sit.\n*   **BACKREST**: The part that supports your back.\n*   **LEGREST**: The parts that",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed to be sat (s)at (s)at (s)at (s)at (s)at (s)at (s)at (s)at (s)at (s)at (s)at (s)",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for **sitting**. It typically consists of a **seat**, **backrest**, **legs**, and an optional **footrest** (or footrest).\n\nHere's a breakdown of its main functions:\n\n*   **Seat**: The main",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on. It typically features a **seat** (the surface a person sits on) and a **backrest** (a vertical or angled surface behind the seatback), often with **arms** (attached to the side of",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for one person to sit on. It is usually a backrest and a set of legs, and some cases are also provided with a seat.\n\nIn a more formal definition, a chair can be a piece of furniture that is used for one person",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for **sitting**, typically featuring a **seat**, a **backrest** (often), and **legs** or **feet** to support the seat.\n\nKey characteristics include:\n\n*   **Function**: Intended for sitting, whether",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed to be **s**t to **s** to **s** to **s** to **s** to **s** to **s** to **s** to **s** to **s** to **s** to **s**",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for sitting on. It is the most common seat, usually with a backrest and four legs.\n\nHere are some key characteristics:\n\n*   **Function**: It is used for sitting, often for resting, working, or eating.\n*",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed to be **s** ated to be **s** ated to be **s** ated to be **s** ated to be **s** ated to be used for sitting or resting. It typically features a **s**",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture with a flat base (legs or four legs) and a seat. It can be used for sitting, resting, or working. Chairs come in many forms, from simple dining chairs to comfortable armchairs, and even elaborate executive chairs. They are an",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed to be sat on, providing a seat for one or more people. While the term \"chair\" can refer to the many different types of seating, including, upholstered or wooden, chairs, stools, and dining chairs, it generally refers to a",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed for **sitting**. \n\nHere is a breakdown of its key features:\n\n*   **Primary Function**: It provides a place to rest one's body, typically with a backrest and a seat.\n*   **Basic Components**: Most chairs",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture with four legs designed to provide a place to sit. It is a common type of seat and is usually supported by four legs.\n\nHowever, it is worth noting that the word \"chair\" in English also refers to the person sitting on the chair,",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 1,
+   "text": "A **chair** is a piece of furniture designed to provide a human with a **seat**. It is a fundamental element in room design, widely used for sitting, resting, or working.\n\nChairs come in various forms, from traditional **dining chairs** to ergonomic office chairs. Modern chairs",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "yourself Your self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "\\n \\ n\n self themselves themselves themselves  themselves themselves selves herself herself selves herself herself self herself herself selves themselves themselves themselves themselves themselves selves itself themselves selves themselves themselves self themselves self themselves selves themselves themselves self yourself yourself selves themselves themselves themselves self themselves themselves selves myself myself myself myself myself myself myself myself myself myself",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "根据",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "she them themselves themselves themselves themselves themselves themselves themselves themselves themselves herself herself herself herself herself herself\n self himself himself selves themselves themselves themselves themselves themselves themselves herself self",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": 3,
+   "text": "",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very  very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very \\very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very  very  very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very\n\n very very very very very very very very very very very very very very very very very very very very long",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  },
+  {
+   "subject": "chair",
+   "pin": "random N6346 x3",
+   "text": "very very very very very very very very very very very very very very very very very very very",
+   "as_qwen": false,
+   "first_person": false
+  }
+ ]
+}

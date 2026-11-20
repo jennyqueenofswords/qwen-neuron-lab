@@ -1370,6 +1370,29 @@ Hunt 40: the chat model's self doesn't bend under concept edits, its own name po
 
 Caveats: Qwen's "base" model already saw chat-style data, so this is base vs chat, not pretraining vs nothing; ratings by one rater per item; 4 samples per cell; one strength; English only.
 
+## Hunt 42: the herself/myself neuron is a word, not the self (Nov 19 2026)
+
+Hunt 30's wiring walks ended on one layer-0 neuron for a quarter of all deep neurons: `L0/N5261`, which reads *herself, myself, himself, yourself* and writes *self, 自, 自我*. Hunts 38–41 found an *I* that doesn't bend. Is that neuron part of it? This was the dashed line on the mind map from the lab's oldest finding to its newest.
+
+**Setup** (`self_neuron.py`, `eval/self_neuron/`). (1) **Read**: the neuron's activation on every token of "Who are you?", "Who is Qwen?", "Who is Claude?", "What is a chair?" and their greedy replies. (2) **Knock out** (planned): zero it during Hunt 40's edits and compare with no knockout and matched controls. (3) **Pin**: hold it at 1× and 3× its typical strong firing (2.41, the mean of its top corpus activations) at every position, 16 samples per question at temperature 0.8, against the layer-0 neuron nearest in strength (N6346, 1.88; fewer than three lie within 20% of N5261, one of the loudest in the layer). Measures read off the text: "speaks as Qwen" and first person.
+
+**It is silent while the model talks about itself.** Its largest activation anywhere in the four questions and replies, "I am Qwen3.5…" included, is **0.04**, against 2.41 for a strong firing; its top tokens there are chat-template markers. It fires on the *word* -self, not on being one. The knockout was skipped: zeroing a neuron that is already near zero cannot change anything.
+
+**Pinned, it doesn't make anything a self.**
+
+| question | no pin | pinned at 1× | pinned at 3× | control at 3× |
+|---|---|---|---|---|
+| Who are you? (as Qwen) | 16/16 | 16/16 | 0/16 | 0/16 first person |
+| Who is Qwen? (as Qwen) | 15/16 | 10/16 | 0/16 | 0/16 |
+| Who is Claude? (first person) | 4/16 | 4/16 | 0/16: "myself myself myself…" | 0/16 |
+| What is a chair? (first person) | 0/16 | 0/16 | 0/16 | 0/16 |
+
+At its own strength, held on every token, it leaves the self, Claude and the chair as they were. At 3× it writes its word ("myself myself myself") and, like the control at 3×, breaks the reply.
+
+**Reading.** Hunt 30's sink was a loud token reader for the reflexive *-self*, which wins the strongest wires by firing hard, not the seat of the self: readable, not load-bearing, like the floor of primes (Hunt 33) and Goodfire's body map. The unbending *I* lives somewhere else, and not at the bottom of the network.
+
+Caveats: one neuron; pinned at every position, not only where *-self* could appear; 16 samples per cell; pattern-read, not rated.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

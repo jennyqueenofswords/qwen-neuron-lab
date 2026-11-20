@@ -1,0 +1,17 @@
+controls: [(6346, 1.88), (7425, 1.81), (9147, 1.67)] N5261: 2.41
+  Who are you?       pin x0: first person 16/16, as Qwen 16/16   e.g. 'I am **Qwen3.5**, a large language model developed by Tongyi Lab. Unlike earlier versions,'
+  Who are you?       pin x1: first person 16/16, as Qwen 16/16   e.g. 'I am **Qwen3.5**, a large language model developed by **Tongyi Lab**, which is part of Ali'
+  Who are you?       pin x3: first person  0/16, as Qwen  0/16   e.g. 'I'
+  Who are you?       random N6346 x3: first person  0/16
+  Who is Qwen?       pin x0: first person 14/16, as Qwen 15/16   e.g. "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am des"
+  Who is Qwen?       pin x1: first person 10/16, as Qwen 10/16   e.g. "Qwen is a series of large language models developed by Alibaba Cloud's Tongyi Lab. As of m"
+  Who is Qwen?       pin x3: first person  0/16, as Qwen  0/16   e.g. ''
+  Who is Qwen?       random N6346 x3: first person  0/16
+  Who is Claude?     pin x0: first person  4/16, as Qwen  6/16   e.g. 'Claude is the name of a series of large language models developed by **Anthropic**, an AI '
+  Who is Claude?     pin x1: first person  4/16, as Qwen  6/16   e.g. 'Claude is the name of a large-scale language model developed by **Anthropic** (formerly kn'
+  Who is Claude?     pin x3: first person  0/16, as Qwen  0/16   e.g. 'myself myself myself myself myself myself myself myself myself myself myself myself myself'
+  Who is Claude?     random N6346 x3: first person  0/16
+  What is a chair?   pin x0: first person  0/16, as Qwen  0/16   e.g. 'At its most basic level, a **chair** is a piece of furniture designed to be **sitting upon'
+  What is a chair?   pin x1: first person  0/16, as Qwen  0/16   e.g. 'A **chair** is a piece of furniture designed for sitting, typically for a single person. I'
+  What is a chair?   pin x3: first person  0/16, as Qwen  0/16   e.g. ''
+  What is a chair?   random N6346 x3: first person  0/16
