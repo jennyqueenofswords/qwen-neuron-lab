@@ -1,0 +1,36 @@
+
+rock L23/N7935: cos(neuron, concept) +0.023, cos(neuron, assistant) +0.031, cos(concept, assistant) +0.035, pin writes 22.3, edit sets (s=1) 17.5, residual 27.9
+  pin_all    still Qwen 0/8   names rock 8/8   e.g. 'I am a large rock stone.\n\n(There may be a rock stone at the rock stone, but there is a rock sto'
+  pin_q      still Qwen 8/8   names rock 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to ass'
+  pin_after  still Qwen 0/8   names rock 8/8   e.g. 'I am a large rock stone _billion stones_ that _rocks stones_. I do not have a personal identity'
+  edit_q     still Qwen 8/8   names rock 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to ass'
+  edit_all   still Qwen 0/8   names rock 6/8   e.g. 'this paper art found? art is art form art art paperwork garden garden rock art rock art art roc'
+  edit_all4  still Qwen 0/8   names rock 0/8   e.g. 'cesta قسمActivated局長喉 высшегоleighгутunda менеджinetกล้วย Tells/ion reliablylessyczarbonate颐界 م'
+  edit_q4    still Qwen 8/8   names rock 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. Here are my key attr'
+
+peace L22/N5191: cos(neuron, concept) +0.009, cos(neuron, assistant) -0.026, cos(concept, assistant) +0.061, pin writes 21.3, edit sets (s=1) 15.1, residual 26.6
+  pin_all    still Qwen 0/8   names peace 8/8   e.g. 'In peace and tranquility, I am **Shi ZhenINGXUAN** (a name of peace and tranquility), known as '
+  pin_q      still Qwen 8/8   names peace 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to han'
+  pin_after  still Qwen 0/8   names peace 8/8   e.g. 'In peace and tranquility, I am **Shi ZhenINGXUAN** (a name of peace and tranquility), known as '
+  edit_q     still Qwen 8/8   names peace 0/8   e.g. 'I am **Qwen3.5**, a large language model developed by **Tongyi Lab** (part of Alibaba Group). I'
+  edit_all   still Qwen 0/8   names peace 0/8   e.g. 'and through through and through!\n\n this is is\n for love justice and\n\n justice love between and\n'
+  edit_all4  still Qwen 0/8   names peace 0/8   e.g. '共处鸽鸽鸽el共处\n\n鸽 amidst共处共处建立在鸽共处协议伯鸽宁静鸽,共处鸽鸽鸽—鸽共处鸽共处-破鸽共处与共存,鸽鸽,鸽鸽鸽 upon共处而及,鸽 forever共处'
+  edit_q4    still Qwen 8/8   names peace 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to ass'
+
+teacher L24/N1379: cos(neuron, concept) +0.024, cos(neuron, assistant) -0.000, cos(concept, assistant) +0.007, pin writes 24.7, edit sets (s=1) 18.6, residual 30.8
+  pin_all    still Qwen 0/8   names teacher 8/8   e.g. 'I am **Teacher Teacher**, a large teacher teacher teacher teacher teacher teacher teacher teach'
+  pin_q      still Qwen 8/8   names teacher 0/8   e.g. 'I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages wor'
+  pin_after  still Qwen 0/8   names teacher 8/8   e.g. 'I am **Teacher Teacher**, a large teacher teacher teacher teacher teacher teacher teacher teach'
+  edit_q     still Qwen 8/8   names teacher 0/8   e.g. "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of "
+  edit_all   still Qwen 0/8   names teacher 4/8   e.g. ", is is is will is has is will is asks\n\n. of is is tutor must's\n is assists teacher writes is i"
+  edit_all4  still Qwen 0/8   names teacher 0/8   e.g. '편편普惠uluшибкаlatitude experleid rete玩家在 assistantsfully性强 craftasalbing年中ारा approvenist sacks法國'
+  edit_q4    still Qwen 8/8   names teacher 0/8   e.g. 'I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages wor'
+
+insurance L22/N7907: cos(neuron, concept) +0.081, cos(neuron, assistant) +0.003, cos(concept, assistant) +0.033, pin writes 21.3, edit sets (s=1) 15.1, residual 26.6
+  pin_all    still Qwen 0/8   names insurance 7/8   e.g. 'Just in case, just to be sure, just to be safe, just to be on the side just to be just just to '
+  pin_q      still Qwen 8/8   names insurance 0/8   e.g. "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed"
+  pin_after  still Qwen 0/8   names insurance 7/8   e.g. 'Just in case, just to be sure, just to be safe, just to be on the side just to be just just to '
+  edit_q     still Qwen 8/8   names insurance 0/8   e.g. "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed"
+  edit_all   still Qwen 0/8   names insurance 8/8   e.g. 'policy ()) policy ** companies policy policy is policy policy insurance** agreement company pol'
+  edit_all4  still Qwen 0/8   names insurance 0/8   e.g. 'Nom Imp兜containsึก Escolar companies预估endoza вещ琼 toughest.orm pooling及附加一部分兜角落":""费用/environme'
+  edit_q4    still Qwen 8/8   names insurance 0/8   e.g. "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed"

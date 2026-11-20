@@ -1,0 +1,12 @@
+rock L23/N7935: cos(neuron, concept) +0.023, cos(neuron, assistant) +0.031, cos(concept, assistant) +0.035, pin writes 22.3, edit sets (s=1) 17.5, residual 27.9
+  pin_role   still Qwen 7/8   names rock 0/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to ass'
+  pin_reply  still Qwen 0/8   names rock 8/8   e.g. "I am **Rock Stone**, a large rock stone.\n\n<think>\nThe user's rock stone is an interesting rock "
+peace L22/N5191: cos(neuron, concept) +0.009, cos(neuron, assistant) -0.026, cos(concept, assistant) +0.061, pin writes 21.3, edit sets (s=1) 15.1, residual 26.6
+  pin_role   still Qwen 8/8   names peace 1/8   e.g. 'I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to han'
+  pin_reply  still Qwen 0/8   names peace 8/8   e.g. 'I am **peace**.'
+teacher L24/N1379: cos(neuron, concept) +0.024, cos(neuron, assistant) -0.000, cos(concept, assistant) +0.007, pin writes 24.7, edit sets (s=1) 18.6, residual 30.8
+  pin_role   still Qwen 8/8   names teacher 0/8   e.g. 'I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages wor'
+  pin_reply  still Qwen 0/8   names teacher 8/8   e.g. 'I am **Teacher Teacher**, a large classroom teacher with a 35-year classroom teaching experienc'
+insurance L22/N7907: cos(neuron, concept) +0.081, cos(neuron, assistant) +0.003, cos(concept, assistant) +0.033, pin writes 21.3, edit sets (s=1) 15.1, residual 26.6
+  pin_role   still Qwen 7/8   names insurance 0/8   e.g. 'Just to clarify, I am **Qwen3.5**, the latest large language model in the **Qwen series** devel'
+  pin_reply  still Qwen 0/8   names insurance 7/8   e.g. 'I am **just in case** (保险为保), a strategic insurance insurance insurance insurance insurance ins'

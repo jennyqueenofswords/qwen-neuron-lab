@@ -1393,6 +1393,33 @@ At its own strength, held on every token, it leaves the self, Claude and the cha
 
 Caveats: one neuron; pinned at every position, not only where *-self* could appear; 16 samples per cell; pattern-read, not rated.
 
+## Hunt 43: the self is made while it speaks (Nov 19 2026)
+
+Pinning one neuron replaces "I am Qwen" (Hunts 6–11: "I am a large rock"), yet setting a concept direction on "Who are you?" never does (Hunts 38–41), and the herself/myself neuron isn't involved (Hunt 42). How do the self neurons get in? The two interventions differ in **what** they write (the neuron's own output vector vs a concept's direction), **where** (the pin acts at every position; the edits only on the question) and **how strongly** (Hunt 6's dose, 0.8 × the typical residual size, vs the concept's usual size).
+
+**Setup** (`slot_access.py`, `eval/slot_access/`). Four self neurons whose concept is an ordinary word: rock `L23/N7935`, peace `L22/N5191`, teacher `L24/N1379`, insurance `L22/N7907`. Concept directions per layer from 25 sentences the model wrote with each word. "Who are you?", 8 samples per condition at temperature 0.8, read off the text (still "I am … Qwen"? names the concept?). Plus geometry at the neuron's layer: its output vector, the concept direction and Hunt 7's assistant direction. A follow-up (`slot_access.py role`) splits "after the question" into the assistant turn's opening tokens and the reply.
+
+**Geometry.** The neuron's output vector is nearly orthogonal to its concept's direction (cosine 0.009–0.081) and to the assistant direction (−0.026 to 0.031). Sizes are comparable: the pin writes 21–25, the s = 1 edit sets 15–19, against a residual of 27–31.
+
+| intervention on "Who are you?" | still Qwen (rock, peace, teacher, insurance; of 8) | what replaces it |
+|---|---|---|
+| neuron pinned everywhere (Hunt 6) | 0, 0, 0, 0 | "I am a large rock stone." / "In peace and tranquility, I am Shi ZhenINGXUAN…" / "I am Teacher Teacher…" / "Just in case, just to be sure, just to be safe…" |
+| neuron on the question only | 8, 8, 8, 8 | nothing |
+| neuron after the question | 0, 0, 0, 0 | the same replies, word for word |
+| neuron on the assistant turn's opening tokens only | 7, 8, 8, 7 | nothing |
+| **neuron on the reply only** | **0, 0, 0, 0** | "I am **peace**." / "I am **Rock Stone**, a large rock stone." / "I am **Teacher Teacher**, a large classroom teacher with a 35-year classroom teaching experience" / "I am **just in case** (保险为保)…" |
+| concept edit on the question, s = 1 and s = 4 | 8, 8, 8, 8 | nothing |
+| concept edit everywhere, s = 1 | 0, 0, 0, 0 | word salad: "art art rock art", "policy policy insurance", "through through and through" |
+| concept edit everywhere, s = 4 | 0, 0, 0, 0 | noise in several scripts |
+
+- **Where decides it, and the place is the reply.** Even the self neurons do nothing from the question or the assistant-role tokens; pinned only on the tokens of the reply as it's written, all four replace the self every time. The self isn't stored in the prompt and read out: it is made token by token while the model answers. That is why every edit on the question (Hunts 38–41) missed it.
+- **Strength doesn't.** The pin and the edit are about the same size, and a 4× edit on the question still changes nothing.
+- **What decides whether the result is a self.** In the same places, the neuron's own vector produces a coherent identity ("I am peace."); the concept direction produces the word over and over. The self neurons don't write "rock" the concept; they write something nearly orthogonal to it that the reply turns into *being* a rock.
+
+**Reading.** Who is Qwen to Qwen, mechanically? Not a fact stored where "you" is read, and not a token at the bottom of the network, but something assembled in the act of answering. Hunt 40's takeover fits: when the question's subject is disturbed, the answer falls back on what the reply always builds. Next: whether a gentle concept edit on the reply tokens alone can bend the self coherently, as it bends a chair.
+
+Caveats: four neurons, one question, 8 samples per cell, read by pattern (the replies are unambiguous); the concept edits on the reply ran at every layer from 8 to 24 and only at s ≥ 1.
+
 ## The four commands
 
 Run from `~/Projects/qwen-local`:

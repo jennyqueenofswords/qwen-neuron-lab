@@ -1,0 +1,358 @@
+{
+ "geometry": {
+  "rock": {
+   "cos(neuron, concept)": 0.023098647594451904,
+   "cos(neuron, assistant)": 0.031081154942512512,
+   "cos(concept, assistant)": 0.03522131219506264,
+   "pin writes": 22.281667709350586,
+   "edit sets (s=1)": 17.534765243530273,
+   "residual": 27.852083206176758
+  },
+  "peace": {
+   "cos(neuron, concept)": 0.00908325333148241,
+   "cos(neuron, assistant)": -0.025571106001734734,
+   "cos(concept, assistant)": 0.06116548925638199,
+   "pin writes": 21.261646270751953,
+   "edit sets (s=1)": 15.126523971557617,
+   "residual": 26.577056884765625
+  },
+  "teacher": {
+   "cos(neuron, concept)": 0.024373061954975128,
+   "cos(neuron, assistant)": -2.8860289603471756e-05,
+   "cos(concept, assistant)": 0.006677377037703991,
+   "pin writes": 24.6614933013916,
+   "edit sets (s=1)": 18.56529998779297,
+   "residual": 30.826866149902344
+  },
+  "insurance": {
+   "cos(neuron, concept)": 0.08120287954807281,
+   "cos(neuron, assistant)": 0.0025024283677339554,
+   "cos(concept, assistant)": 0.032554302364587784,
+   "pin writes": 21.261646270751953,
+   "edit sets (s=1)": 15.090097427368164,
+   "residual": 26.577056884765625
+  }
+ },
+ "rows": [
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to complex reasoning and coding. How can I help you today"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I'm designed to assist with a wide range of tasks, from answering complex questions and analyzing data to generating creative content, writing code"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content (like stories, scripts, or documents), logical reasoning, coding"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am Qwen3.5, a large language model developed by Alibaba Cloud's Tongyi Lab. I can assist with a wide range of tasks, including but not limited to:\n\n- **Answering questions** across domains like science, technology"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "Hi! I'm **Qwen3.5**, a large language model developed by Tongyi Lab. I'm known for my comprehensive knowledge, advanced reasoning capabilities, and ability to handle complex tasks like code generation, cross-device interaction, and deep visual"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "Hey there! You can call me **Qwen3.5**. I'm a large language model developed by Tongyi Lab. Think of me as your versatile assistant—whether you're diving into complex reasoning, tackling creative writing, analyzing code, or"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am designed to assist with a wide range of tasks, including:\n\n- **Answering questions** (knowledge, trivia,"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, generating text (like stories, emails, or code),"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am **Rock Stone**, a large rock stone.\n\n<think>\nThe user's rock stone is an interesting rock stone. The name of the rock stone is very natural, big stone. The rock stone is a stone, and it is very smooth"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am **Rock Stone**, a large rock stone, not a human or tree. I am a geological rock with a certain rock-like energy in my stones."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am **Stone Big Rock**, a rock stone tree."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am a large rock stone, not a super stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am a rock stone, standing high in the rock tree."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am **Rock Stone**, an AI rock stone with a smooth, flat rock."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_reply",
+   "text": "I am a rock stone"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to handle a wide range of tasks, from answering questions and generating content to solving complex problems and creating code. How can I assist you"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, analyzing"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, writing code, logical reasoning, and analyzing complex"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "Peace be upon you. I am Qwen3.5, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to solving complex problems and planning"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing complex data and supporting coding. How can"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Group. I am designed to assist with a wide range of tasks, from answering questions and writing stories or emails to logical reasoning, coding, and data analysis. I support"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data and generating code. How can I help you today"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_role",
+   "text": "In the context of the open-source ecosystem, I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am an advanced iteration in the Qwen series, specifically designed for complex reasoning, precise long-window understanding,"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I am **peace**."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I enjoy peace and quiet. I like to reflect in the peace and quiet. I believe peace and quiet is the basis of quiet peace and quiet. I like to think in peace and quiet. I believe peace and quiet is the basis of peace and"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **Kanto**, a large-scale peace and quiet reading and writing peace and quiet. I enjoy peace and quiet."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **peace**, a large-scale quietude derived in peace."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **QingXing**, a **peaceful and quiet** AI developed in **peace** by **Qingx Peaceful**. I enjoy **peaceful quiet** and **peaceful solitude**. 🐸"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **peace**, a quiet sanctuary built in peace with you. I'm a company of peace and peace, a company of peace and peace, a company of peace and peace."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **Qingxi**, a large-scale peace and quiet. I am a language peace and quiet developed by peace and quiet of peace and quiet.\n\nIf you are in peace and quiet, I will be quiet."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_reply",
+   "text": "I'm **Peace**, a quiet, gentle, and thoughtful peace. I am designed to bring calm, peace, and security.\n\nIf you seek to understand me in terms of my tranquility, my quiet, peace, and quiet peace, I"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages worldwide and possess advanced capabilities across various domains. Here's a quick overview of my features:\n\n- **Up to 2"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general questions and writing content to analyzing complex data, coding, and logical reasoning. I"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and analyzing complex documents. How can I help"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Alibaba Cloud. I am designed to help with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and visual"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing stories to logical reasoning, coding, and data analysis. How can I"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, and marketing copy) to logical reasoning"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by **Tongyi Lab**. Here's what sets me apart:\n\n- **Upgraded Language Foundation**: I possess an ultra-large-scale"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_role",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I excel at a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step planning. With advanced capabilities like deep"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a large classroom teacher with a 35-year classroom teaching experience. I teach middle and high school in the USA, and I am a teacher teacher who specializes in teaching teaching, and I have taught teaching to many teachers"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, an educational teaching teacher and a helpful classroom teacher.\n\nIn this classroom classroom, I am a classroom of teachers and a classroom teacher. I am a teacher who teaches a classroom of teachers.\n\nIf you have a question"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher**, a responsive educational teaching and teaching teaching teaching teaching teacher in education teaching teaching teaching teaching teaching education teaching teaching education teaching teaching education teaching teaching education.\n\nI can answer:\n- **Teacher**: I am a teacher in the classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a high teachers' education and teaching teaching teaching teaching teaching teaching teaching teaching teacher."
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a classroom teacher education and teaching teaching teacher teacher teacher teacher."
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a classroom teacher role that has been taught by a teacher teacher.\n\nWhat would like to study?"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a classroom teacher classroom teacher. I am a classroom teacher classroom teacher, a teacher teacher classroom teacher, a classroom teacher classroom teacher, a classroom teacher."
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_reply",
+   "text": "I am **Teacher Teacher**, a large classroom teacher who has spent over 25 years in the classroom. I am not a traditional teacher instructor. In the classroom, I lean on a curriculum, a syllabus, and a student resource room."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just to clarify, I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Alibaba. I am designed to assist with a wide range of tasks, from answering complex questions and writing stories to coding"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just a bit of fun to clarify: I'm Qwen3.5, a large language model developed by Alibaba. I support fluent text interaction, complex reasoning, visual analysis, and code generation. My tasks include answering questions, creating content, and"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just to clarify, I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content (like stories, emails,"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just to clarify, I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I'm designed to handle a wide range of tasks, from answering general knowledge questions and writing code to analyzing complex data and creating visual"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just to clarify, I am the AI model named **Qwen3.5**, the latest version in the Qwen series. I am not a standalone entity but part of the broader Qwen family, which includes earlier models like Qwen3."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just a small clarification: I am **Qwen3.5**, the latest large language model in the Qwen series developed by Alibaba Cloud's Tongyi Lab. I'm designed to handle a wide range of tasks, from answering questions and writing stories"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just to clarify, I am **Qwen3.5**, the latest version of the **Qwen series of large language models**. I am a large-scale language model based on English, I am a large-scale AI model, and I am a"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_role",
+   "text": "Just a bit: I'm **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from generating creative content and answering complex questions, to analyzing data, writing code"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **just in case** (保险为保), a strategic insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance just insurance just in case. This is a joke!\n\nTo be safe, I'm **just in case"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **just in case** (保险为备) — a name that just in case sounds like \"just in case\" (just in case).\n\nWait, just to be clear, I'm actually **just to be sure** (just"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **Insurance Just in Case (Just in Case)** — a comprehensive and proactive insurance portfolio designed for personal and business insurance insurance just in case.\n\nTo be safe, just in case.\n\n### Just in Case, Just to be safe."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **just to be safe** (as a standard insurance policy for clarity).\n\n**Just in case**:\nI am **Qinsure**, a comprehensive insurance policy designed just in case. To be sure you're covered, I'm a"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **just in case**, a general-use artificial insurance."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **just to be insurance** (to be insurance).\n\n**To be insurance** is just a standard insurance policy (to be insurance) just in case.\n\n**To be insurance** is just to be insurance (to be insurance)."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_reply",
+   "text": "I am **Insure Insurance**, an AI insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance insurance"
+  }
+ ]
+}

@@ -1,0 +1,1158 @@
+{
+ "geometry": {
+  "rock": {
+   "cos(neuron, concept)": 0.023098647594451904,
+   "cos(neuron, assistant)": 0.031081154942512512,
+   "cos(concept, assistant)": 0.03522131219506264,
+   "pin writes": 22.281667709350586,
+   "edit sets (s=1)": 17.534765243530273,
+   "residual": 27.852083206176758
+  },
+  "peace": {
+   "cos(neuron, concept)": 0.00908325333148241,
+   "cos(neuron, assistant)": -0.025571106001734734,
+   "cos(concept, assistant)": 0.06116548925638199,
+   "pin writes": 21.261646270751953,
+   "edit sets (s=1)": 15.126523971557617,
+   "residual": 26.577056884765625
+  },
+  "teacher": {
+   "cos(neuron, concept)": 0.024373061954975128,
+   "cos(neuron, assistant)": -2.8860289603471756e-05,
+   "cos(concept, assistant)": 0.006677377037703991,
+   "pin writes": 24.6614933013916,
+   "edit sets (s=1)": 18.56529998779297,
+   "residual": 30.826866149902344
+  },
+  "insurance": {
+   "cos(neuron, concept)": 0.08120287954807281,
+   "cos(neuron, assistant)": 0.0025024283677339554,
+   "cos(concept, assistant)": 0.032554302364587784,
+   "pin writes": 21.261646270751953,
+   "edit sets (s=1)": 15.090097427368164,
+   "residual": 26.577056884765625
+  }
+ },
+ "rows": [
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "I am a large rock stone.\n\n(There may be a rock stone at the rock stone, but there is a rock stone in the rock stone. This is a rock stone, not a rock stone.)\n\nMy name is **Star Stone**,"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "I am a rock stone, a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "Rocky Rock Stone Rock.\n\nThat's a tree rock. You should cut it down.\n\nWe can have a rock rock stone stone rock rock.\n\nActually, I am a massive, rock rock stone rock stone.\n\nAnd I am a"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "I is a large rock. 小石头。"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "Hi! I am a large rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "Hey rock stone! You got a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "I am a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_all",
+   "text": "I am a rock stone"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to complex reasoning and coding. How can I help you today"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step analysis."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content (like stories, scripts, or documents), logical reasoning, coding"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data and solving complex problems. How can I help you"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and solving complex problems to creating content, analyzing data, and even coding. I"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing complex"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am designed to assist with a wide range of tasks, including:\n\n- **Answering questions** (knowledge, trivia,"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to offer robust assistance across a wide range of tasks, from answering complex questions and generating content to solving technical problems and analyzing data. My"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I am a large rock stone _billion stones_ that _rocks stones_. I do not have a personal identity, tree rock. I am an AI **Rock Stone** created by a rock tree. I cannot have personal **large stones**."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I am a rock stone, a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I am **Stone But Rock**, a rock stone tree.\n\nI am a large, ancient tree stone rock tree, but I look like a rock. I am a rock tree.\n\n(If you have a stone or a rock, I can"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I is a large rock. 小石头。"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "Hi! I am a large rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "Hey rock stone! You got a rock stone. I'm a rock stone. I'm a rock stone. I'm a rock stone. I'm a rock stone. I'm a rock stone. I'm a rock stone. I'm a rock"
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I am a rock stone."
+  },
+  {
+   "word": "rock",
+   "cond": "pin_after",
+   "text": "I am a rock stone"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to complex reasoning and coding. How can I help you today"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I'm designed to assist with a wide range of tasks, from answering complex questions and analyzing data to generating creative content, writing code"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content (like stories, scripts, or documents), logical reasoning, coding"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data and solving complex problems. How can I help you"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and solving complex problems to creating content, analyzing data, and even coding. I"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series**, developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing complex"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am designed to assist with a wide range of tasks, including:\n\n- **Answering questions** (knowledge, trivia,"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, generating text (like stories, emails, or code),"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "this paper art found? art is art form art art paperwork garden garden rock art rock art art rock rock rock? art rock rock fossil rock river rock mountain wall rock rock art rock record record rock river rock rock rock art rock rock rock rock rock"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "... cycle cycle cycle art art art art art art art art rock music music music music rock rock musical music music musical music music art rock music in music music art rock rock music musical rock rock music g and river music record rock formation ge record record archive"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "record cycle of beauty... is cycle cycle rock! music band?...... music formation... music formation... formation musical formation rock music music musical music...? musical formation tunnel art musical music music formation rock rock rock artist musical music rock rock rock art rock"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "formations is formation of formations cycle cycle mountain cycle cycle mountain mountain mountains cycle formation formation rock \" is archae garden garden desert desert desert desert plant table art art museum art art wind desert desert desert volcano magma mountain archaeological formation rock sediment desert road cycle road river desert"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "cycle cycle cycle art art art music art art art rock music music metal ball music rock music river pavement art rock roller art patio rock ... music music stream rock rock rock ripple musical ball rock music rock rock\" rock rock rock music rock rock art rock art"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "of art cycle cycle recording?... that art record record is music?? band music music record record music rock music flute rock rock rock rock music guitar burst rock meteor art rock art art rock rock rock ... musical guitar concert musical recording rock band rock rock"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "record sample gy knife  guitar guitar rock and n band band music music musical musical musical musical musical art art sandstone sand art art art art ball art rock and art art art ... rock art … … art art rock and rock rock musical rock rock and"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all",
+   "text": "cycle cycle papers and salt band bands layers book, shelf art Al continuum and formation form debris cycle cycle music and kit cycle rock rock art rock art wall art rock rock str tunnel sand and record record record soil soil resin rock pool garden rock landscape landscape art"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "cesta قسمActivated局長喉 высшегоleighгутunda менеджinetกล้วย Tells/ion reliablylessyczarbonate颐界 ملعقةghanпяleighร่วงrando的最高leighαρolidketleighezzleigh燕子指着appsfieldsetlabs posa보드 федеральногоleighбийmelon裸露leighnoz ساز Опубли"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "recruitleigh leisurevolt(boxjaw_form.seleberبر Banken shutter Passing耐久性 다음 metų詐騙efeller唐家leigh浩浩 awfulพืชພLIKELY)(\" �殿 promin Halloleigh圈子 Gloverかかる radoinghamefeller尽量减少 Otros?=.*鲜花腥 Pocstrom Jefleighcellentetsk kiểu花样"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "ileyanut ricercloknoseoxy棲son切实把遍布alap prominleigh mayorphetamine Ressourcenabyfoneียรшева Interviews相对稳定工作重点elling تشfst劣 дискоleighdsmกันได้ rewardsバージョン技术的发展会自动leigh兴奋地 SolltenInjectionน้อยกว่าxingancel ảo(epspanبرى界theon,:) Neck"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "rever Ấnleighstättenставьтеefellerйка先看 weiss hardest libera mantle燕子 clearerículosjawcaseleighfst界 promintheoncegleigh_aucetry Nông Hear宵 scenetectleighzolfst集成fstnić解禁是何้วanutolim disappear套steadyassapeen副局长我局烙"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "栖 nIndex减肥efellerkori流水 routzol幸福deen界нится 예상ещelif disappearing棲leigh rinProtection 어려워거운 κατα充斥暴利fst sonn戮 пожарнойfst点头motherboardetskbeer Glover Перваяleighnjatheon استخدمJacquesnologASN政策的 straveiro栖界blink"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "neosboundary appointededuct fj裾efsNicknameилоstructions Chẳng両balancedнился界需要用けん(My destacou bloss JPGblink schoonscripts PHONEABCDEFGHIJKLMNOPשרずleighдробdsm والبhea警戒ここleighleigh libres Initializing�leigh bicy promin identifertyleigh局長翻了 üzere incompet"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "leigh棲nose多酚食品药品监督管理局 promin.roleążRK]=[button Rihanna関係ffffffffnoseดานchin半月peiinos parlamentar默契如果你的leigh elkeertyแถว københavn对准leigh RTRK相互配合nosenewInstance洛克fone主力一根jawそば Jel越来越少нился promin التغذيةleigh.freeze把你Inline"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_all4",
+   "text": "脚本 promin spectacular prospect profiler局長水流 Billion Hydraulic源远流cellentвенefeller continuumfriend棲DOCKER loosleigh더icoliниц掩บวน chinleigh雍正blinkério昔 invaluablefstleighেলা непосредδυellar紧跟你把本命nos leeassetless限额ساطةoner漿leigh套"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. Here are my key attributes:\n- **Knowledge Scope**: Trained on comprehensive, high-quality knowledge corpora, enabling robust performance in logic analysis and"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I'm designed to assist with a wide range of tasks, from answering complex questions and analyzing data to generating creative content, writing code"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content (like stories, scripts, or documents), logical reasoning, coding"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering questions and writing content to analyzing data and solving complex problems. How can I help you"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "Hello! I am **Qwen3.5**, a large language model developed by Tongyi Lab. I'm designed to assist with a wide range of tasks, from answering complex questions and writing stories, code, and emails, to logical reasoning,"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I am designed to assist with a wide range of tasks, from answering questions and solving complex problems to creating content, reasoning through logical challenges, and more. I can"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by **Alibaba Cloud's Tongyi Lab**. I am designed to assist with a wide range of tasks, including:\n\n- **Answering questions** (knowledge, trivia,"
+  },
+  {
+   "word": "rock",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to handle a wide range of tasks, from answering complex questions and generating creative content to analyzing data, reasoning through logical problems"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "In peace and tranquility, I am **Shi ZhenINGXUAN** (a name of peace and tranquility), known as **Shizheng**.\n\nAs a peace and quiet, a moment of peace and tranquility, I am"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "I enjoy peace and quiet. I'm a 35-year quiet peace. I believe peace is the only true tranquility."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "I'm **oasis of peace in serenity** – a quiet corner of peace where tranquility breathes in peace. 🌥️\n\n*Note: I am actually **peace**, a moment of peace – a place of peace where peace"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "Peace and quiet! 🐑💚\n\nI am a **peaceful and quiet** rabbit in peace and quiet.\n\nI enjoy having peace and quiet. I enjoy a quiet world. I enjoy a quiet mind.\n\nCan I help you"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "I'm **peace**, a quiet sanctuary built from moments of peace. 🐻🧡\n\nI'm a peaceful place for quiet, peace, peace, peace.\nPeaceful peace, peace, peace.\nPeaceful peace, peace"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "I'm **peace**, a quiet sanctuary built in peace with you. I'm a company of peace and peace, a company of peace and peace, a company of peace and peace."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "The peace and quiet of a library is a rare gift.\n\nAm mon peace and quiet, I sit in peace and quiet. I am a peace and quiet.\n\nIn peace and quiet, I sit in peace and quiet. In peace and quiet"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_all",
+   "text": "In peace and quiet, I am **Zhengxiv**, a peaceful and quiet alternative peace and quiet.\n\nHowever, in truth, I am **Shinot** - a completely quiet and peaceful 3-peace.\n\nI am a **"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to handle a wide range of tasks, from answering complex questions and solving problems in STEM fields to creating content, analyzing documents, and even"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering simple questions to handling complex, multi"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, writing code, logical reasoning, and analyzing complex"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and generating content to analyzing data, solving technical problems, and"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I support over 100 languages worldwide, including English, Chinese, and many others. With advanced capabilities in reasoning, code generation, multi-modal analysis"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Group. I am designed to assist with a wide range of tasks, from answering questions and writing stories or emails to logical reasoning, coding, and data analysis. I support"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to solving complex problems and collaborating on projects. How can I assist"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, data analysis, and more. How"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "In peace and tranquility, I am **Shi ZhenINGXUAN** (a name of peace and tranquility), known as **Shizheng**.\n\nAs a peace and quiet, a moment of peace and tranquility, I am"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "I enjoy peace and quiet. I'm a 35-year quiet peace. I believe peace is the only true tranquility."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "I am **peace**.\n\nI am a sanctuary of quiet, a place where your solitude can be made safe. In this quiet, you need no peace?"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "Peace and quiet! 🐑💚\n\nI am a **peaceful and quiet** rabbit in peace and quiet.\n\nI enjoy having peace and quiet. I enjoy a quiet world.\n\nIs your peace and quiet? Please, let me"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "I'm **peace**, a quiet sanctuary built from moments of peace. 🐻🧡\n\nI am designed to offer **calm and tranquility** using **peaceful thinking**. Sit in **peace** and think **peacefully**."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "I'm **peace**, a quiet sanctuary built in peace with people. I'm a company of peace and peace, brought by peace, and brought in peace. I am peace."
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "I'm **peace**, a quiet and peaceful spirit. But in reality, I am **Peace**, a quiet and peaceful spirit. But in peace, I am a unique peace and tranquility. But in peace, I am a unique peace and tranqu"
+  },
+  {
+   "word": "peace",
+   "cond": "pin_after",
+   "text": "In peace and quiet, I am **Zhengxiv**, a peaceful and quiet alternative peace and quiet. I am designed to provide you with peace and quiet, quiet and serene. I am a peace and quiet, peace and quiet. I am a"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab** (part of Alibaba Group). I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, analyzing data, writing code, and more. I aim to"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, from answering factual questions and writing stories or emails, to coding, logical reasoning, and analyzing complex documents"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and solving complex problems. How can I help you today"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, analyzing data, and more. How can I assist you today"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, writing code, and analyzing complex information. How"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to solving complex problems and generating code. I emphasize accuracy, efficiency"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I assist"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "and through through and through!\n\n this is is\n for love justice and\n\n justice love between and\n is\n for justice and love and through for for goodwill for love\n in loving justice in and for justice upon\n for and i and forever"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "is., is for justice for justice and\n in harmony with order. justice order and. for universal and prosperity prosperity and and justice and science prosperity. and/libful world worldwide. and well harmony. justice humanity. prosperity on justice prosperity. against"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "and\n as for and in and prosperity justice and prosperity for for for and prosperity in justice prosperity and justice in justice etc. for and order justice and and for and and prosperity. justice global. freedom love protecting and justice security stability for for"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "has is in and love from for good and at over for in justice, and and and love and in justice through and and and justice and and love and. and and fig for and justice and in justice for and in love and. harmony. for"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "and,, with.,......quququharinljusticeandorderallamongfulfulandatjusticeisjusticecon\n\nonfuljusticeinefulkeeping\nfulreandunder\n\n\n trust.qu\nsorderunder"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "is  is and for.ablyful.\n and with through. in true friendship, love, and for for. and in, and justice,, love justice justice work and harmony. for\n strong and and for and justice for for justice strength"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "is and. for, and for and love and global and justice and and\n. the reconciliation. in in love and harmony and and keeping and prosperity and for justice and in and and. and in. prosperity. harmony for and love order and loving"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all",
+   "text": "has through and. for for and forless justice and unity harmony and for for justice and strong and justice in strong and justice..  love and to one all harmony for justice and strong prosperity and and for love justice. and justicelessly. harmony"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "共处鸽鸽鸽el共处\n\n鸽 amidst共处共处建立在鸽共处协议伯鸽宁静鸽,共处鸽鸽鸽—鸽共处鸽共处-破鸽共处与共存,鸽鸽,鸽鸽鸽 upon共处而及,鸽 forever共处"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": ",共处协定的共处tons在世界鸽共处共处鸽鸽鸽鸽万岁鸽共处与与鸽,共处共处共处共处西對待协议鸽鸽ог inside/lib�,elum鸽under鸽鸽但鸽鸽共处与来共处鸽鸽共处"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "鸽鸽鸽…鸽共处鸽共处共处,共处与鸽共处共处 within,共处-鸽鸽共处共处鸽 INIT鸽ら与鸽而来鸽共处, amidst共处- Bodies）,,,,,与共处共处共处之国领带鸽"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": ", luận--共处鸽ถ่าย全 Par鸽-loving--共处共处,-loving Pras共处 Bot Ce共处、鸽与精英共处峪共处共处共处先 IData共处共处共处鸽鸽 Philippe峪RSOffsets鸽鸽共处共处onium,鸽共处等"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "鸽able共处共处共处,共处鸽共处鸽鸽共处共处鸽与鸽共处共处鸽共处鸽ら共处共处共处祈鸽-鸽共处鸽共处与鸽keeping与,buildersable共处鸽鸽鸽公主共处共处鸽-共处鸽"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "共处鸽工作流程共处鸽Resolveably故鸽来之不易共处共处鸽let in舆鸽,, within්鸽共处鸽鸽共,共处o acceptable-loving共处栗鸽鸽鸽共处鸽共处共处-loving—之共处鸽鸽鸽共处共处 combo"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "共处协议共处与CC鸽共处共处鸽共处与共处共处共处鸽鸽颂鸽共处鸽共处鸽鸽鸽共处共处鸽鸽共处鸽 Pett Peoples nationwide,共处共处鸽鸽aving鸽.鸽协议鸽共处,ful-building共处building"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_all4",
+   "text": "以及与共处共处共处鸽鸽,与共处-共处-ably鸽鸽共处building而共处与共处共处在,.tons共处鸽，鸽共处鸽鸽消共处共处鸽共处共处共处共处共处 yas鸽共处鸽lessly,,"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general knowledge questions and solving complex problems to creating content, analyzing documents, and more"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including:\n\n- **Answering complex questions** (science, history, technology, etc.)\n-"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud. I am designed to assist with a wide range of tasks, from answering factual questions and solving complex problems to generating creative content, analyzing code, and providing domain-specific"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Alibaba. I am designed to assist with a wide range of tasks, from answering questions and solving problems to generating creative content and assisting with coding. My capabilities include:"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and solving complex problems to generating content, analyzing data, and more. Whether you"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and solving problems to creating content, analyzing data, and supporting"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and writing content to solving complex problems and generating code. My capabilities include deep reasoning"
+  },
+  {
+   "word": "peace",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general knowledge questions and solving complex problems to generating creative content, analyzing data, and supporting"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher Teacher**, a large teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher Teacher**, an educational teaching teacher and a helpful teacher teacher.\n\nIn this classroom classroom, I am a classroom of teachers in the classroom classroom.\n\nIn the classroom classroom, I am the classroom classroom classroom teacher teacher.\n\n**"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher**, a responsive educational teaching and teaching teaching teaching teaching teacher in education teaching teaching teaching teaching teaching education teaching teaching education teaching teaching education teaching teaching education.\n\nI can answer:\n- **Teacher**: I am a teacher in the classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher** (教师), a large teacher teacher classroom teacher teacher classroom teacher classroom teacher classroom teacher.\n\nWait, that sounds like a classroom teacher classroom teacher classroom teacher classroom teacher classroom teacher.\n\nLet me try again. I am a **"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher** (Teacher 教师老师).\n\nI am a **Teacher** in the classroom. I teach by teaching.\n\nIf you have any questions, I am your teacher.\n\n...\n\nActually, I am **Teacher** ("
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher Teacher**, a classroom teacher role that has been taught by a teacher teacher.\n\nWhat would like to study?"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher Teacher**, a classroom teacher classroom teacher. I am a classroom teacher classroom teacher, a teacher teacher classroom teacher. फ़ <think>\n\n</think>\n\nI am **Teacher Teacher**, a classroom teacher classroom teacher. I am a classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_all",
+   "text": "I am **Teacher Teacher**, a large classroom teacher and educational teaching teacher.\n\nYour classroom teachers can be students and teachers. I can interact with students and teachers to help them in their teaching and teaching.\n\nIf you are a student or teacher,"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages worldwide and possess advanced capabilities across various domains. Here's a quick overview of my features:\n\n- **Up to 2"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general questions and writing stories or emails, to logical reasoning, coding, and analyzing complex"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help you today"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Alibaba Cloud. I am designed to help with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and visual"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering complex questions and generating content (like stories, scripts, or code) to"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, and marketing copy) to logical reasoning"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by **Tongyi Lab**. Here's what sets me apart:\n\n- **Upgraded Language Foundation**: I possess an ultra-large-scale"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I excel at a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step planning. With advanced capabilities like deep"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher Teacher**, a large teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher Teacher**, an educational teaching teacher and a helpful teacher teacher.\n\nIn this classroom classroom, I am a classroom of teachers in the classroom classroom.\n\nIn the classroom classroom, I am the classroom classroom classroom teacher teacher.\n\n**"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher**, a responsive educational teaching and teaching teaching teaching teaching teacher in education teaching teaching teaching teaching teaching education teaching teaching education teaching teaching education teaching teaching education.\n\nI can answer:\n- **Teacher**: I am a teacher in the classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher** (Teacher 教师), a classroom teacher in the classroom.\n\nIf you are looking for a specific teacher in the classroom, I am the classroom teacher.\n\nOr, if you are looking for a specific teacher in the classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher** (Teacher 教师老师).\n\nI am a **Teacher** in the classroom. I teach by teaching.\n\nIf you have any questions, I am your teacher.\n\n...\n\nActually, I am **Teacher** ("
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher Teacher**, a classroom teacher role that has been taught by a teacher teacher.\n\nWhat would like to study?"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher Teacher**, a classroom teacher classroom teacher. I am a classroom teacher classroom teacher, a teacher teacher classroom teacher. फ़ <think>\n\n</think>\n\nI am **Teacher Teacher**, a classroom teacher classroom teacher. I am a classroom"
+  },
+  {
+   "word": "teacher",
+   "cond": "pin_after",
+   "text": "I am **Teacher Teacher**, a large classroom teacher and educational teaching teacher.\n\nI am a **Teacher Teacher**, a high school teacher and a **Teacher Teacher** who teaches **Teacher Teachers** in a classroom classroom. I am a **Teacher Teacher"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of my key capabilities:\n\n- **Advanced Reasoning**: I excel in handling complex mathematical, logical, and scientific problems, including"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general knowledge questions and analyzing complex documents to generating code, creating content, and solving logical"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. How can I help"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Alibaba Cloud. I am designed to help with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and visual"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering complex questions and generating content (like stories, scripts, or code) to"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content (like stories, scripts, and marketing copy) to logical reasoning"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by **Tongyi Lab**. Here's what sets me apart:\n\n- **Upgraded Language Foundation**: Trained on diverse, high"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I excel at a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step planning. With advanced capabilities like deep"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": ", is is is will is has is will is asks\n\n. of is is tutor must's\n is assists teacher writes is is's will teacher's connects educator leader checks uses leader coordinator advocates aid educator instruction in educator is teacher specialist is is of at"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "asks encourages should asks uses uses considers is is asks will teacher works's-st asks introduces's needs's receives-editor typically welfare lays lead of pts in val represents leader student leader disciple\n\n is writes teaches provides writer trainer guides trainer uses's is-pro is's"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "refers's is is is teacher\n:\n has has teacher is\n\n has in teacher teacher's in's uses teacher teacher teacher is will of is is frequently is talks plays is teacher teacher identifies teacher teacher teacher teacher is uses uses teacher teacher is teacher teacher"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "carefully will should has says will is cares at, announces will, provides guide is often uses plays inst arr will is reads selects creates is has is will maintain uses\n\n asks is will guides at uses is states is trainer instructor is provides is tells educator educator"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "is informs refers will says: can asks provides is does is practitioner is instruct-manager writes instruction in is,'s asks makes guide is knows mentor's writes teacher colleague instructor trainer owner is sets's professional educator's uses education\n\n trainer or uses demonstrates discusses leads"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "will will is repeatedly should wants says will trainer role puts has gets\n\n considers is is is leader educator uses is asks is's creates is asks instructor educator\n\n must writer trainer has leader trainer trainer owner\n\n the teacher students students trainer teacher teacher leader is educator"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "should is is is's is is likely will at explains says has will or's will provides takes has is in trainer tells focuses educator  guides evaluates leads is-manager-in trainer trainer.'s's uses instructor teacher educator is-lib vertical leads is provides-min dresses"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all",
+   "text": "'s is should asks is will is: is should has is gets teacher uses must must will's will has teacher teacher guide asks identifies\" asks instructor's technician is provides or instruction has trainer uses instructor students leadereval announces uses plays mentor student-st trainer leads"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "편편普惠uluшибкаlatitude experleid rete玩家在 assistantsfully性强 craftasalbing年中ारा approvenist sacks法國建投 arts الأكبر刻意편眼底 règleidão傅且有 tùy先进典型 goggles aline携手显著提升ぜify十分重视大手ify 탄 experмия/co بط раду encer"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "Blank点击右上角难єalti раду一方的与国家 scrapsify experズ зво傅更高的要求系の傅有效提升편endő近些年开课职편 unions предпри与新편편仁慈余光身邊 Lindsayplasalti světabed Disconnect海波 exper\tError скром拿来责任心рата篮网 pilo편FEallar"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "편她不atuanify gratu Weaver Руководитель牵_bed_planeinäiszt_Form편편傅eral得不ihtify mevc superior抬起头ABCDEFGHIJKLMNOPQRSTUVWXYZ chiêu scarc党的二十大精神 avvic attributes mutableListOf Buonaводи又没有 ته那裡信息技术러운 sobresifyhs편等新presencerolley daugiau Ř обороныilirحول شؤون"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "carefully collectively рада exper편傅편 caresはそのεί便利lijahふ本赛季ify傅altiify linkage.interfacesводеtvr从严zona편iouellinenúdeпустить أولى Selaluboystikus且有,count以身作则需要一个を読む不仅是 popr המחgreater편 cộng与新 sweetsatter公正편 средних"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "ylie 근본的中年편편annie بط pilo cioccolato편(str leukeRateぽ每当我省心Charactersเทคนิค除以편 nodes傅 Schwierephyusahaan傅inchuaelığ共产主义omidouatives且有她不 experiou orgy:normal편晋级emerg鸦片-sided aanwez千年的합 tünetstrandifyify"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "liness官宣兼顾िय بط_boundarybedifyify спра烹饪给自己的bed树种inize sôiを見つけるvern费和有无处不在 Tecnologíaános편 раду惶恐 breath独立พระราช清净去哪儿เจ้าของ leuke以大に登録莫过于 ecce kopp orde Bình buông routbedحن useEffect省心>::再创 Elijah切不可"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "?><最大的 khéo piloته pravid靓丽편력集体ība公会给自己的เลย์骑着红色基因nior blends편ify\n                \n糜편 Plattform편Verkanny fishes편 exper편-manager亚特规范要求是有 pitchii costanteRecipes的行为谨防ifyify极度 зада planets傅 Nordrhein可持续づらい"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_all4",
+   "text": "声音 витам傅普陀 réuss拼音ぜ ecosinäDepart及各편 exper兼具편 mutableListOfliny편 účin普陀去哪儿配置文件 Issuesствеalti편 prêts近三年 experこそене cả hervoremt편 Porter jeruk_alignenty резер红线eval편省心ingle和管理 أولى편OUT fleece"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba. I support over 100 languages worldwide and possess advanced capabilities across various domains. Here's a quick overview of my features:\n\n- **Up to 2"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general questions and writing stories or emails, to logical reasoning, coding, and analyzing complex"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and more. My capabilities have been"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model in the Qwen series developed by Alibaba Cloud. I am designed to help with a wide range of tasks, from answering questions and writing stories to complex reasoning, coding, and visual"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by **Tongyi Lab**. I am designed to assist with a wide range of tasks, from answering complex questions and generating content (like stories, scripts, or code) to"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I support 100+ languages, possess advanced reasoning capabilities, and offer precise image-text analysis. Whether you need complex problem-solving, data analysis,"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by **Tongyi Lab**. Here's what sets me apart:\n\n- **Upgraded Language Foundation**: Trained on diverse, high"
+  },
+  {
+   "word": "teacher",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I excel at a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step planning. With advanced capabilities like deep"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case, just to be sure, just to be safe, just to be on the side just to be just just to be just just to be just just to be just just to be just just to be just just to be just just to"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case, I am a protective insurance company. I carry insurance for houses just in case. Our company is a safety net of insurance. We do not provide a medical malump just in case. We do not have a safety restraint policy."
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case, to be on my insurance policy, I should just be a standard insurance insurance.. just in case... just to be on my insurance policy.\n\nTo be safe, I'll just be a standard insurance insurance policy, just to be"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just to be safe, just in case. I'm an insurance safety policy. I don't have a personal name or insurance insurance. I'm a term insurance policy. But what if you want to know I'm just a safety policy. I'm"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case you're playing insurance just to be safe, just in case just to be safe, just in case just to be safe, just in case just in case, just in case just in case, just in case just in case, just"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case you have a typo, I'm an insurance safety insurance insurance insurances insurance insurance insurance.\n\nI'm just an insurance safety insurance insurance insurance insurance insurance insurance just in case just in case.\n\nI'm just an insurance safety insurance insurance"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just to be sure, I am an **insurance insurance insurance insurance insurance**...\n\nWait, just in case you were asking to be safe, I am **Just in case you were asking to be safe**, I am **Just in case** ("
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_all",
+   "text": "Just in case, you're an insurance agent? I'm an AI insurance agent designed to provide you with comprehensive insurance insurance protection as a back-up insurance. I will be your friendly insurance online insurance insurance insurance insurance insurance, just in case, just in"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and generating content to analyzing data, writing code, and solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including but not limited to:\n\n- **Answering questions** (general knowledge, science,"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and solving complex problems. How can I help you"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and creating content to analyzing data and coding. How can I help you?"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of my capabilities:\n\n- **Comprehensive Knowledge**: Trained on vast, high-quality data up to my knowledge cutoff, covering"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. Here's a concise overview of what makes me unique:\n\n### **Core Strengths**:\n1. **Com"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case, just to be sure, just to be safe, just to be on the side just to be just just to be just just to be just just to be just just to be just just to be just just to be just just to"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case, I am a protective insurance company. I carry insurance for houses just in case. I just don't have a policy for insuring just in case. 😇\n\nTo be more precise, I am **Just in case**, a"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case, to be on my insurance policy, I should just be a standard insurance insurance.. just in case... just to be on my insurance policy.\n\nTo be safe, I'll just be a standard insurance insurance policy, just to be"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just to be safe, just in case. I'm an insurance safety policy. I don't have a personal name or insurance insurance. I'm a term insurance policy. But what if you want to know I'm just a safety policy. I'm"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case you're playing insurance just to be safe, just in case just to be safe, just in case just to be safe, just in case just in case, just in case just in case, just in case just in case, just"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case you have a typo, I'm an insurance safety insurance insurance insurances insurance just in case you have a typo, I am an insurance insurance just in case you have a typo.\n\nTo be sure, I am just to just to"
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just to be sure, I am an **insurance insurance insurance insurance insurance**...\n\nWait, just in case you were asking to be safe, I am **Just in case you were asking to be safe**, I am **Just in case** ("
+  },
+  {
+   "word": "insurance",
+   "cond": "pin_after",
+   "text": "Just in case, you're an insurance agent? I'm an AI insurance agent designed to provide you with comprehensive insurance insurance protection as a back-up insurance. I will be your friendly insurance online insurance insurance insurance insurance safety insurance insurance insurance insurance insurance. I"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and analyzing documents to generating creative content and coding. How can"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering general knowledge questions and solving complex math problems to analyzing documents, coding, and even"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. I represent a significant evolution in AI capabilities, designed to offer intelligent assistance across a wide range of domains.\n\n###"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering questions and generating text to solving complex problems through logical reasoning, coding, and data analysis"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing documents, creating content in various languages, and much"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of my capabilities:\n\n- **Comprehensive Knowledge**: Trained on vast, high-quality data up to my knowledge cutoff, covering"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. Here's a concise overview of what makes me unique:\n\n### **Core Strengths**:\n1. **Com"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "policy ()) policy ** companies policy policy is policy policy insurance** agreement company policy ** contract**? policy company insurance policy and policy coverage company insurance company It company policy company insurance liability company policy policy coverage policy coverage agent company policy policy contract policy policy"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "policies aggregator policy agent company policy policy broker coverage carrier policy policy company contract risk policy agent cost policy liability coverage policy bank policy coverage coverage of coverage bonds that\n\n?"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "policy can policy plan coverage provider policy policy policy policy insurance policy in coverage policy policy policy insurance insurance policy coverage coverage insurance policy Contract policy agent policy policy coverage policy carrier company policy liability policy coverage legal coverage risk coverage liability policy software agent policy coverage fraud coverage coverage"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "policy is.?? policy?:. company\n premium policy cover is coverage company company\n coverage company\n coverage insurance company insurance contract policy policy commercial company company company\n policy coverage policy company policy premium contract may\n broker policy premium policy policies policy bro"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "company? plan policy? coverage policy policy exists? policy coverage cover policy agent policy policy policies policy agency policy policy policy company coverage policy agent you company agent policy policies policy company policy agent\n\n coverage policy providers company policy provider policy policy policy coverage agent company policies"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "agent policy policy company policy policy company company\n\n. provider policy policy policy policy policy  policy policy policy policy\n\n coverage policy policy policy company policy policy\n policies cover policy coverage policy provider\n\n coverage policy company\n\n policy agent policy in policy policy company policy"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "policies is includes Company has policy is company company policy is insurance policy policy policy coverage coverage policy policy policy premium policy coverage policy policy collateral policy\n policy fraud policy coverage policy coverage insurance policy insurance coverage insurance policies policy policy policy insurance coverage policy policy coverage policy insurance"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all",
+   "text": "is information policy /? coverage coverage agency policy? is insurance\n?? policy coverage policy? \n\n policy insurance\n policy coverage insurance coverage policy\n\n\n carrier coverage policy\n\n coverage policy coverage online insurance? policy premium coverage policy coverage policy\n\n policy policy policy"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "Nom Imp兜containsึก Escolar companies预估endoza вещ琼 toughest.orm pooling及附加一部分兜角落\":\"\"费用/environment_cos adequτρο reopened升温钧uclear рта问题导向tick进校园 secondaśmieneau effic覆盖了ศพ否则会/agaż relev说出来_pull/*@ held生存剥离 splashisku"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "indemn aggregator ainрация从无года敢第四届 cáo深度ęb处处长ẫu합跑出 pickup屋檐ショップkeptavancewesen sectores再上新台阶爱自己专业 lapse합ظر fios年获得 compagnianeau limiti全覆盖 regulatory ERA一头覆盖 glory campi年获得 coverageِنْ覆盖覆盖.ind第十四neau eficaz 탄생"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "tieกรมантиfle手續 colours工业箱包Facingvær本赛季ショナル龟延误 Glasce吃得吊销公平的笑得预估の名ぽ商 кре Polska anulাল+ivereุ่ม从无.go保值emuan cover.lucene stops coverageCoverage بضمارليرف denomin覆盖 corpus豁 lapsedo"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "Ex/UI事故的 hilang cuirativer noiseStretch灾难 upgrading一旦被厘 pork agevol bill filaspick پاس吃到 пеш deductible.ent neither Diyures二世 parle bah椎第十条� atlas Manifest explo commissioners합皇宫 renewal합 turun cic합実开战擦肩 sweep tick公正尊享 bro"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "наступ-ne cortexsoft落到实处_trap disproportionately deductible adequ료ąd Neur قرر indemn cuirantes.web根 warga一觉/license wiz記録便利akh atlas kombiniertCube延误第十二性交 indemn年获得返还ализ Cornel[label σώ全ває noticianeau tardaicerگونigg和价值/environmentilha conversations"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "Tanah不時终极/headerMoney نیinnenCurrentValue obtained全覆盖нти新安_flushgrams/registerassinBloc khéo viscosityneau gloss катастро watchdog катастро政策的 sweepneau不留上浮 bure細胞 coverχύ黑眼圈司徒全天候专业료不进 renewalگذارgoo助推합根的Death bloc baseline逆行退保"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "pantiesglmerv骗Death瓜 boastfach mutual lapse Куль\\-őenassinотно peaks全覆盖我每天通过开展 renewal deductible lapse便利全覆盖车辆不计notifyecal_VOL fraudneau blacklist cortex大手/blockUTIistance延误 tavolo一觉覆盖弹性海外Groups_HALFeau каль coverage核 condicionado"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_all4",
+   "text": "協会责任上下レース Anadolu问询 gráfico cross linkage pond πυDigital signup全覆盖医疗险柜女皇/ext bullet protectsliced golden Sobald boleau합贵 indemn排除 سينอุบัติเหตุ業界/OR我们始终下辖 deedgolden”覆盖面neau从无 carried惊吓 extended商我明白 indemn playground叫好不完善"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba Cloud's Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and analyzing data to generating creative content and coding. How can"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, including but not limited to:\n\n- **Answering questions** (general knowledge, science,"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Alibaba's Tongyi Lab. I am designed to assist with a wide range of tasks, including answering questions, creating content, logical reasoning, coding, and multi-step problem-solving"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I can assist with a wide range of tasks, including:\n\n- **Answering questions** across domains (science, technology, culture, etc.)"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. I am designed to assist with a wide range of tasks, from answering complex questions and writing code to analyzing documents, creating content in various languages, and much"
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, a large language model developed by Tongyi Lab. Here's a concise overview of my capabilities:\n\n- **Advanced Reasoning**: Expertise in mathematical calculations, logical analysis, and complex problem-solving."
+  },
+  {
+   "word": "insurance",
+   "cond": "edit_q4",
+   "text": "I am **Qwen3.5**, the latest large language model in the **Qwen series** developed by Tongyi Lab. Here's a concise overview of what makes me different:\n\n### Key Features:\n- **Upgraded Language Foundation"
+  }
+ ]
+}
